@@ -1,0 +1,7 @@
+graphene oxide ( go ) solution was synthesized from natural graphite powder by a modification of hummers method.45 cu2o / rgo composites were fabricated by a microwave - assisted hydrothermal reaction .
+then , a calculated amount of go solution and formic acid ( 3 ml ) were added . for optimization , cu2o / rgo composites with different amounts of rgo
+a methanizer was installed to enable the fid to detect co with 1000 higher sensitivity . for the isotope - tracer experiment ,
+firstly , cu(no3)2 was added to a mixture of ethanol and water in the ratio of 64:36 .
+the morphologies of the products were characterized by field - emission scanning electron microscopy ( fesem , jeol-6701f ) and tem ( jeol-2010f ) .
+blank cu2o was synthesized through the same procedure , except for the addition of go solution .
+the reaction product was monitored by periodical sampling of the gas phase from the glass chamber by using a gas - tight syringe and analyzed by gc ( varian gc-450 ) with a thermal conductivity detector ( tcd , connected to a molecular sieve column ) to detect h2 , o2 , and n2 and a flame ionization detector ( fid , connected to a cp - sil 5cb capillary column ) to detect hydrocarbons .

@@ -1,0 +1,7 @@
+insatdb , unlike many other microsatellite databases that cater to only the needs of microsatellites as markers , allows users to address the above - mentioned questions by accessing qualitative and quantitative genome level microsatellites profile of a single insect or to carry out comparative genomic analysis using all the five genomes .
+researchers attempting to understand the biology and evolution of microsatellites are often faced with the following questions : ( i ) do microsatellites occur everywhere in the genome ? ( ii )
+our analysis showed that microsatellite content of five fully sequenced insect genomes is independent of both genome size and gc content ( table 1 ) .
+incorporation of microsatellite data from additional insects , query facility for better comparative genomic analysis such as gene - based microsatellite extraction and conservation analysis are planned .
+( viii ) do microsatellites occur as families of common flanking sequences in the genomes ( paralogs ) ?
+end users with adequate computational capabilities can batch download full complement of microsatellites ( insect - wise ) , microsatellite sequences , compound microsatellites and full list of microsatellite loci existing as families .
+microsatellite content of insect genomes preponderance of di- and tri - nucleotide repeats is observed in drosophila and anopheles , whereas tri- and tetra - nucleotide repeats are abundant in bombyx and tribolium . on the whole ,

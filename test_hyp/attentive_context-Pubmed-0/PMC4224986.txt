@@ -1,0 +1,15 @@
+additionally , 
+ glycosylation is known to be important in pd , and glycoproteins , which are prevalent in extracellular surface 
+ proteins and secreted proteins , are ideal sources of biomarkers . therefore , to test our hypothesis in this study , n - glycoproteins were captured from plasma of a larger cohort of pd 
+ patients , along with healthy and diseased controls , by a hydrazide - based 
+ solid - phase capturing approach , followed 
+ by quantification of peptides that are uniquely associated with pd 
+ diagnosis or severity based on our previous experimentations .
+several objectives are achieved in this study , including ( 1 ) detection 
+ of 11 cns - related glycoproteins ( related to pd diagnosis or severity 
+ in previous proteomics profiling ) in plasma , a much less invasive 
+ sample source ( than brain , csf , or skin biopsy ) , ( 2 ) a combination 
+ of several peptides , that is , prnp , hspg2 , megf8 , and ncam1 , provided 
+ good diagnostic sensitivity ( 90.4% ) and specificity ( 50.0% ) between 
+ pd and controls , and ( 3 ) a combination of two peptides , megf8 and 
+ icam1 , significantly correlated with pd severity , as measured by updrs .

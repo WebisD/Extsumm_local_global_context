@@ -1,0 +1,6 @@
+we have reported the results of a study looking at source memory retrieval in scz using a virtual reality environment on a group of patients relatively early into treatment .
+this study examined differences in the neural correlates of source memory in patients with schizophrenia and controls .
+while controls activated a large , extensive network for source relative to object retrieval , scz showed a marked reduction in activity .
+we expected to observe relationships between hallucinations and the neural activity of source memory retrieval .
+that is , patients may generally fail to engage extended cortical networks which facilitate task performance and facilitate overall cognitive functioning .
+this reduction was borne out in the group comparison , and appears to be related to the fact that patients with scz are failing to activate these regions or differentiate between object and source retrieval . despite the large - scale group differences , patients were still able to perform the source retrieval tasks , suggesting that at least some of the  core system involved in source retrieval is intact . instead , we propose that the observed differences are related to  supporting regions which are not critical to task performance but instead facilitate source retrieval .

@@ -1,0 +1,7 @@
+the overall message is that gene expression can greatly assist the discovery of disease variants , as well as the interpretation of the biological effects of causal variants .
+further exploration of gene expression variation in more samples and more cell types will greatly enhance both our understanding of phenotypic variation in humans and also the nature of regulatory variation and its impact on complex disease .
+in this paper , some issues have been discussed that arise from the incorporation of gene expression variation data in disease studies .
+genome - wide linkage studies and association analyses serve as alternative approaches to surveying the contribution to disease of genetic variants located anywhere in the genome .
+identifying the factors contributing to these differences , and elucidating their interactions as they contribute to aspects of disease phenotype , is a precursor to improved prevention , detection and treatment of disease .
+understanding the causes of human disease is one of the most fundamental goals of modern medicine .
+understanding of these ' complex ' diseases is improving , although still limited , but it is clear that genetic variation plays an important role in susceptibility to disease , for example in autoimmune and infectious diseases .

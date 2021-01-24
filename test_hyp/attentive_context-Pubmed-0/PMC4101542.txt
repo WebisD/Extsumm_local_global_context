@@ -1,0 +1,8 @@
+we constructed linear regression models to evaluate the effect of dose and time on gene expression ( fig . 
+in addition to the linear model , we performed a regression spline analysis with moderated f - test to detect the probes differentially expressed over time with increasing dose , with the assumption that expression changes smoothly along with the increasing of the dose rather than making discrete jumps from one dose to another .  limma
+treatment time shows quite consistent grouping irrespective of doses , but doses in combination of treatment time show high degree of variations in gene expression .
+filtering out this group of genes would potentially be beneficial to deg ( differentially expressed gene ) detection .
+we constructed linear regression models to evaluate the effect of dose and time on gene expression ( fig . 
+we fit a separate model in terms of dose , time , and the dose by time interaction effect . in these models
+a set of significant probes with cut - off of p <  0.05 for interaction effects was selected from each model for further functional analysis .
+filtering out this group of genes would potentially be beneficial to deg ( differentially expressed gene ) detection .

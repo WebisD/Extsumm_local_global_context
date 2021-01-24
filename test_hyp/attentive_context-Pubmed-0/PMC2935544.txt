@@ -1,0 +1,6 @@
+however , intracellular carotenoids as part of the photosystem are known to mainly quench fluorescence emitted by other cell components ( lichtenthaler 1987 ; chappelle et al . 1991 ) . in this paper , we show that the carotenoid - containing globules produced by d. salina emit green fluorescence that can be detected with confocal laser scanning microscopy ( clsm ) .
+fluorescence microscopy is a noninvasive imaging technique and can be used to study cellular processes in vivo .
+absorbance and fluorescence measurements show that the fluorescence most likely originates from the -carotene in these globules .
+this autofluorescence of the cells is emitted by chlorophyll in the red part of the spectrum and by the carotenoid globules in the green part of the spectrum . when comparing the relative quantum yields obtained from the absorbance and fluorescence emission spectra with data from literature
+d. salina stores secondary carotenoids in lipid globules when cultivated under stress conditions . to visualise these carotenoid - containing globules , cslm can be used in combination with the autofluorescence of cell components .
+we determined the relation between the carotenoid - containing globules and the green fluorescence and studied the possibility to visualise and localise these lipid globules inside the cells in vivo using this autofluorescence .

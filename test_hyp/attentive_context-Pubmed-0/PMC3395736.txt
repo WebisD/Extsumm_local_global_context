@@ -1,0 +1,8 @@
+elucidation of various mechanisms underlying radiosensitization and chemosensitization by 2-dg using established tumor cell lines will be very useful in designing effective protocols using 2-dg in cancer therapy .
+the precise molecular mechanisms underlying the cellular responses to metabolic stress induced by 2-dg alone and in combination with other cytotoxic agents such as ionizing radiation and chemotherapeutic agents appear to be complex and remain to be completely elucidated .
+breast cancer , as the most common malignancy , is the major cause of cancer - related deaths of women worldwide [ 1 - 3 ] .
+epidemiological data have shown that the incidence of breast cancer in women is closely related to a high fatty diet .
+the role of hormonal therapy drugs is to slow down the growth rate of cancer cells , which are growing in response to the presence of estrogen and its receptor .
+therapeutic resistance associated with hypoxia is a significant problem in the clinical treatment of cancer , and inhibition of glycolysis may provide a novel approach to overcoming such a resistance .
+this therapy is designed to help prevent the recurrence of the disease by blocking the effects of estrogen .
+unfortunately , the efficacy of conventional radiotherapy is limited by 1 ) the presence of hypoxic , intrinsically radio - resistant , and repair - proficient tumor cells ; 2 ) genetic , metabolic , and microenvironmental heterogeneity of tumors ; and 3 ) undesirable damage to the normal healthy tissues .

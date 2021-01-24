@@ -1,0 +1,5 @@
+in addition , these data represent the first report , to our knowledge , of a functional link between hsp74 and keratin 1 in bladder cancer cells .
+the cellular membrane and cytoplasm show all red , and the cellular nucleus shows some red and some blue . among the 35 bladder cancer cases , the positive expression rate of hsp74 in bladder cancer tissues was 74.2% , which was similar to that in adjacent normal tissues ( x = 0.063 , 0.75
+one of the protein spots was detected by lc - ms / ms with an apparent mass of 94299.96  da , score 70.4 , accession 6226869 , peptides ( hits)7(70000 ) , and pi of 5.18 , which was identified as hsp74 ( figure 2 ) .
+but there was a significant difference in the expression intensity distribution between the two groups ( x = 21.86 , p < 0.005 ) . in most cases , the expression intensity of hsp74 in bladder cancer tissues was higher than in normal bladder tissue ( table 1 , figure 6 ) .
+specifically , in tumor formation the interaction mechanism of keratin 1 and hsp74 need to be clarified further .

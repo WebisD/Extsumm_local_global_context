@@ -1,0 +1,8 @@
+cg methylation was calculated as the average of methylation for each cpg position , and non - cpg methylation was extracted from the bismark reports .
+the 2i escs had been maintained in this medium for 24 days and matched serum escs were cultured in parallel .
+single escs were collected by facs in 12l of esc lysis buffer ( 10 mm tris - cl ph7.4 , 0.6% sds , 0.5l proteinase k ) using a bd influx instrument in single cell 1 drop mode .
+12 and supplementary table 2 ) were extracted from previously published datasets . statistical analysis for estimating sample - specific methylation rates , estimating mean methylation rates and for clustering
+mii oocytes were collected from superovulated 45-week - old c57bl/6babr mice , under a stereomicroscope , by mouth pipetting , and stored at 80c .
+percentage of concordance was calculated as the percentage of cpgs presenting the same methylation call at the same genomic position across two cells . for correlation analysis ( pearson s ) ,
+e14 escs were cultured in serum plus lif or 2i plus lif conditions as described previously .
+prior to scbs - seq , 2 oocyte lysis buffer ( 10 mm tris - cl ph7.4 , 2% sds ) and 0.5l proteinase k were added ( final volume 12l ) followed by incubation at 37c for 1h .

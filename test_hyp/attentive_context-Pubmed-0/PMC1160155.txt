@@ -1,0 +1,6 @@
+we have implemented a web server called orfpredictor for the prediction of protein - coding regions within est - derived sequences .
+for example , using a full - length cdna sequence encoding glucoamylase , a well - characterized enzyme in a.niger , we found that estscan could not identify its correct coding region and had the undesired side effect of inserting nucleotides even when the test sequence was correct .
+the estscan server is designed for processing a batch of est sequences for identifying the protein - coding regions with a function for correcting insertions or deletions , but it is only trained for mammals and yeast .
+the algorithm uses the translation reading frames predicted by using blastx ( 2 ) as a guide for the identification of the coding region in sequences that have a hit ( 3 ) and predicts a coding region ab initio for sequences without a hit .
+the generation of expressed sequence tags ( ests ) was originally proposed as a strategy for cdna characterization over a decade ago ( 1 ) .
+two tools that have been designed for locating protein - coding regions in cdna and est sequences are orffinder ( ) and estscan ( ) , respectively .

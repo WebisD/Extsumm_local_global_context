@@ -1,0 +1,5 @@
+eq . 2 can be generalized to the case where the charge moves continuously , corresponding to an infinite number of steps . if we makezi = qmax / n ,  i=1  n ,  vi = vo ,  i=1  n , then all i =  , and we can write eq .
+4 can also be written as(5)qnor(v)=12[1+coth[qmax(vvo)2kt]2ktqmax(vv0)],which is of the same form of the classical equation of paramagnetism ( see kittel , 2005 ) .
+1 shows qnor computed using eq . 2 for one , two , three , four , and six transitions and for the continuous case using eq .
+we have included as insets the fitted value of qmax for the cases presented in fig .
+the reaction coordinate is the charge moving in the general case where it evolves from q = 0 to q = qmax by means of steps , loops , or branches . in that case , the partition function is given by(6)z=iexp(qi(vvi)kt).we can compute the mean gating charge , also called the q - v curve , as(7)q(v)=q=ktzz = ktdlnzdv=iqiexp(qi(vvi)kt)iexp(qi(vvi)kt).the slope of the q - v is obtained by taking the derivative of q with respect to v:(8)dq(v)dv=(kt)2d2lnzdv2 .

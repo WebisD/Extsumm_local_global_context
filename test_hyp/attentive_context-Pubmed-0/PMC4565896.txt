@@ -1,0 +1,7 @@
+the estimated optimal cutoff value of psa density was 0.13 ng / ml , as obtained by roc analysis ( area under the curve=0.66 ; p=0.020 ; 95% confidence interval , 0.53 - 0.78 ) , as shown in fig 1 .
+accordingly , we conducted a prospective data analysis in patients with low - grade prostate cancer and evaluated the potential of several clinical and pathological variables to predict upgrading of the cancer .
+psa density was an independent predictor of gs upgrading and may be included as a criterion for patients eligible for as .
+no statistical correlation with postoperative gs upgrading was found for age , bmi , preoperative psa level , prostate volume , number of biopsy cores , number of positive biopsy cores , the institute where the biopsy was done , or the operation method . in the analysis of pathological outcomes after radical prostatectomy , tumor upgrading
+with the commonly used criteria for as , gs upgrading in a radical prostatectomy specimen is a challenging problem .
+a statistically significant correlation between preoperative psa density and postoperative gs upgrading was noted ( p=0.030 ) .
+after we obtained approval from the ethics committee at institutional review board of daegu catholic university hospital , we conducted a prospective analysis of 60 patients with low - risk prostate cancer who were recruited from 4 university hospitals ( gs6 , psa<10 ng / ml , t1/t2 , 2 positive biopsy cores ) .

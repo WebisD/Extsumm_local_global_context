@@ -1,0 +1,7 @@
+, we investigated the association of serum rdw levels and fqrs in patients with nst - acs .
+age , lvef , number of fqrs leads , and ldl were found to be independent predictors of rdw in multivariate analyses [  : 0.15 , 95% ci : 0.010.03 , p=0.036 ;  : 0.27 , 95% ci : (0.050.01 ) , p<0.001 ;  : 0.17 , 95% ci : 0.020.29 , p=0.018 ; and  : 0.17 , 95% ci : 0.0010.009 , p=0.018 , respectively ] .
+the patients with fqrs group were older than in the group without fqrs ( 65   vs. 59.5   , p=0.018 ) .
+baseline rdw and troponin levels were significantly higher in the fqrs group ( p=0.019 and p=0.02 , respectively ) .
+age , lvef , number of fqrs leads , and ldl were found to be associated with rdw in nstemi patients .
+age and lvef were found to be independent predictors of rdw in multivariate analyses [  : 0.22 , 95% ci : 0.010.03 , p<0.001 and  : 0.04 , 95% ci : (0.040.016 ) , p<0.001 , respectively ] .
+there were positive correlations between number of fqrs leads , age , and rdw ( r=0.239 , p=0.002 and r=0.238 , p=0.003 , respectively ) , and negative correlations between triglyceride , lvef , and rdw ( r=0.201 , p=0.011 and r=0.251 , p=0.001 , respectively ) in nstemi patients .

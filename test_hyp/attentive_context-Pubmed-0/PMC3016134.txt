@@ -1,0 +1,7 @@
+median ebl and length of hospital stay for rm were significantly lower compared with that for om ( p=0.0002 and p=0.044 , respectively ) .
+this study includes a cohort of 37 consecutive patients undergoing rc by om or rm over the same time period by a single surgeon , thereby minimizing the influence of selection bias and multiple surgeons on perioperative outcome .
+operating time for rc and urinary diversion ( ud ) was significantly longer in the rm group ( p=0.0002 ) .
+, we compared the early perioperative outcomes of patients undergoing rc by either om or the robotic method ( rm ) .
+the incidence of organ - confined ( t2n0mx ) and nonorgan - confined disease ( t3 ) was 9 ( 37.5% ) and 15 ( 62.5% ) in the om group compared with 7 ( 53.8% ) and 6 ( 46.2% ) in the rm group ( p=0.49 ) .
+there were 3 ( 12.5% ) positive margins in the om group and none in the rm group ( p=0.54 ) .
+all 3 cases of positive margins occurred with om , 1 in a patient with locally advanced prostatic adenocarcinoma and the other 2 in patients with locally advanced pt3b and pt4a transitional cell carcinoma of the bladder . although not statistically significant , almost two thirds of patients undergoing rc by om had nonorgan - confined disease compared with about half in the rm group ( p=0.49 ) , which could possibly account for the increased positive margin rate in those undergoing om .

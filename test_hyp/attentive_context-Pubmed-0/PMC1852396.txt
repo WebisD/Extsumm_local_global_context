@@ -1,0 +1,6 @@
+we tested our apparatus by measuring absorption spectra on the eyespot and chloroplast of the unicellular alga dunaliella and emission spectra on the photoreceptor and chloroplast of the unicellular alga euglena gracilis .
+the photosynthetic and the photoreceptive compartments are the main location of chromophores inside algal cells . absorption and emission spectra measured in vivo on these compartments can provide very precise and accurate information about the spectral range in which chromophore molecules capture photons in their natural environment and their de - excitation pathways 4 .
+a high quality microscope is equipped with a polychromator , i.e. a flat field concave grating , which is connected to the slit - shaped exit pupil of a 19 light - guides probe .
+a microspectrophotometer is a simple apparatus consisting of a modified microscope that can measure absorption or emission spectra of very small areas inside a cell 1 .
+the main feature of this instrumentation is the possibility to measure in vivo absorption or emission spectra at the same time on different sub - cellular compartments using extremely low light intensities .
+the presence in the photoreceptor of euglena of a photochromic chromophore , which undergoes light - driven reversible photochromism has been well established by means of digital and fluorescence microscopy 16 .

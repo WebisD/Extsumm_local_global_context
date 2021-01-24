@@ -1,0 +1,8 @@
+the aim of this study was to assess the possibility of the clinical application of the diagnosis of occlusal caries using digital imaging by examining the sensitivity , the specificity , and the accuracy in comparison with the diagnodent values and the dentists ' diagnoses .
+based on the discriminant formula of each explanatory variable , the thresholds of fd , pa , and dd between preventive and operative treatments were 1.20 , 0.012 , and 28.8 , respectively .
+the sensitivity of fd was greater than that of pa , dd , and the combination of fd and pa .
+the accuracy of the combination of fd and pa was greater than that of fd , pa , and dd .
+the fractal dimensions for c0 , c1 and c2 in the former study were 0.97 , 1.30 , and 1.52 , respectively .
+the specificity of pa was greater than that of fd , dd , and the combination of fd and pa .
+spearman 's correlation coefficients between the clinical diagnosis and each fd , pa , and dd were 0.743 , 0.700 , and 0.652 , respectively ( p < .01 ) .
+previously , it was reported that the fractal dimension and the proportion of the area of pit - and - fissure discoloration to the area of occlusal surface were significantly correlated with the depth of the caries and the diagnodent values in extracted teeth . in this study ,

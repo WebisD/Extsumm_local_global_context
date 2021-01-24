@@ -1,0 +1,7 @@
+formins are a family of large multi - domain proteins that nucleate and polymerize actin to form linear actin filaments like those found within filopodia . in this review
+when cells migrate , they extend dynamic membrane - bound actin - rich tubular protrusions known as filopodia .
+interaction of the adjacent formin homology 1 ( fh1 ) domain with profilin effectively recruits actin monomers to the formin dimer , facilitating the polymerization process . a subset of formins , known as diaphanous - related formins ( drfs ) , bind to and
+mdia2 appears to be specific for the rif - mediated pathway whereas mdia1 is required for the pathways controlled by cdc42 and rif .
+formins function as dimers and nucleate actin by means of a formin homology 2 ( fh2 ) domain that binds globular actin monomers .
+the binding of a rhogtpase to the n - terminal gtpase binding domain ( gbd ) contributes to disruption of this autoinhibitory interaction , which results in the activation of the drf . in the case of the drf fhod1 , phosphorylation of c - terminal serine and threonine residues by rock
+this might explain why only mdia1 and mdia2 have been implicated in the formation of membrane - bound cell surface protrusions like filopodia and lamellipodia , while mdia3lacking this bd  has only been reported to generate cytoplasmic actin structures . several rhogtpases and other proteins have been reported to bind to mdia1 - 3 . these are summarized in figure  1 .

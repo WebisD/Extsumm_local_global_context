@@ -1,0 +1,9 @@
+, the goal of this study is to determine the relationship between bmi and intrahospital mortality in patients admitted consecutively for acs .
+bmi along with other clinical variables ( age , diabetes mellitus , grace score , and cardiogenic shock ) were the independent predictors of death in our sample . 
+
+bmi had an inverse relation to mortality , that is , to say , higher bmis were associated with a reduced mortality rate . in the multivariate logistic regression analysis ( table 1 ) ,
+the patients were divided into three groups : normal ( bmi < 25  kg / m ) , overweight ( bmi = 2530  kg / m ) , and obese ( bmi > 30 
+all patients admitted consecutively between 2009 and 2010 for acs were included in the renaci database of the working group on ischemic heart disease and coronary care units of the spanish cardiology society .
+the incidence of risk factors is high in this population ( 95.8% ) . in the obese group ,
+our study confirms that bmi is an independent predictor of hospital mortality ; a higher bmi is associated with a lower mortality rate .
+the prevalence of complications such as angina pectoris , reinfarction , hemorrhage , and mechanical complications was similar across groups with the exception of stroke , which was lower in obese patients .

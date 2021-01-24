@@ -1,0 +1,6 @@
+, we used a previously constructed combinatorial fab phage display library produced with antibody repertoires from osteosarcoma patients , relying on the fact that these antibody repertoires could be enriched with antibodies against the patients ' own tumors . here , we report the utilization of this library for panning fabs against the surface of osteosarcoma cells .
+after three rounds of selection against the cell surface of an osteosarcoma cell line , we were able to identify many reactive fabs , most of them sharing similar v genes .
+our data revealed that these fabs recognize a membrane antigen that is more widely expressed in the osteosarcoma cells compared to normal osteoblast and fibroblast cells .
+our data suggest that this protein epitope is found in lower amounts in normal cell lines than in osteosarcoma cell lines and is an immunodominant antigen .
+focusing on this challenge , different selection procedures have been developed . among these procedures , a method called brasil ( biopanning and rapid analysis of selective interacting ligands ) was specifically designed to isolate phages able to bind to the cell surface .   in order to isolate anti - osteosarcoma fully human fabs
+this antigen is a potential marker for osteosarcoma , and investigation into the identity of this antigen should be completed .   in conclusion

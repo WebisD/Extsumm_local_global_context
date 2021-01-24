@@ -1,0 +1,24 @@
+scanning electron microscopy ( sem ) was used 
+ to investigate the microstructure as a function of the al : ga ratio . 
+
+the success 
+ in making a dense llzo sample with a li - ion conductivity 
+ above 10 s cm and an asr of 
+ about 20  cm described in this work bodes 
+ well for the fabrication of devices with lithium anodes and llzo solid 
+ electrolytes .
+this , combined with the changes in microstructure , seems 
+ to be the explanation for the almost linear increase in li - ion conduction . 
+
+the change in 
+ structure coincides with an increase in the bulk li - ion conductivity 
+ from 3.0  10 s cm for 
+ 0 ga pfu to 10 s cm for 0.20 
+ ga pfu , with two significant drops in the activation energy at x = 0.05 and 0.15 .
+finally , we used 
+ density functional theory ( dft ) calculations to explain the decrease 
+ in activation energy observed with ga substitution by carefully examining 
+ changes in the energy landscape .
+in summary , a phase transition from ia3d to i43d occurs 
+ with a critical amount of 0.15 ga pfu in ga and al cosubstituted samples 
+ with general composition li6.4al0.2xgaxla3zr2o12 ( 0  x  0.2 ) . 

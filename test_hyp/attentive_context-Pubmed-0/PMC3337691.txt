@@ -1,0 +1,24 @@
+our study also indicates a perfect match 
+ between proteins and phosphate in terms of structure and interaction 
+ energy , which are superior to those between proteins and arsenate .
+the possible existence of 
+ arsenate dna and rna in the gfaj-1 cell has attracted considerable scientific debate 
+ as to whether and how arsenate analogues of phosphate can exist . because of problems associated with chemical stability , current 
+ experimental approaches encounter difficulties in fully assessing 
+ the characteristics of arsenate dna and rna .
+apparently , 
+ evolution has optimized the inter - relationship between proteins and 
+ dna / rna , which requires overall changes at the molecular and systems 
+ biology levels when replacing phosphate by arsenate .
+overall , the interaction 
+ energy differences between phosphate and arsenate dna are about one 
+ to two times the standard deviations , indicating that the differences 
+ between the phosphate and arsenate cases are significant . the smaller 
+ protein  nucleotide interaction energy for arsenate dna / rna 
+ could be explained by the larger volume of the arsenate nucleotide , 
+ which weakens electrostatic interactions .
+instead , we test computationally 
+ possible arsenate  phosphate replacement by examining key molecular 
+ systems ; however , because of the large size of the molecules our theoretical 
+ protocols are also limited . for the atp and adenosine triarsenate 
+ ( atas ) hydrolysis

@@ -1,0 +1,5 @@
+thus , we performed an exploratory study to examine the associations between phosphorylated ( p)akt , phosphorylated 4e - bp1 ( p4e - bp1 ) , and cellular proliferation rates ( indicated by the cell marker antigen ki67 ) , in women with and without disease , seeking to determine whether there were differences between obese and nonobese women .
+in addition , we used data available from the cancer genome atlas ( tcga ) to test whether there were differences in the gene expression of akt and 4e - bp1 , between obese and nonobese women .
+our findings confirm that activation of 4e - bp1 is higher in preneoplastic and neoplastic lesions , and suggest that an elevated activation of 4e - bp1 is more characteristic of obese versus nonobese women with these lesions .
+ki67 , and nuclear and cytoplasmic p4e - bp1 were significantly higher in postmenopausal and in nondiabetic women with atypia / carcinoma than in the women with benign / hyperplasia .
+as shown in table 4 , ki67 and the nuclear and cytoplasmic p4e - bp1 were significantly higher in the atypia / carcinoma cases compared with the benign / hyperplasia cases .

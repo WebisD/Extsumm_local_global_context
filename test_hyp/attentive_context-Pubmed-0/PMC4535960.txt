@@ -1,0 +1,7 @@
+sequencing and annotation of additional st ( st1 , st2 , st3 and st8 ) genomes are under progress and should be helpful for a better understanding of the genetic diversity , pathogenesis , metabolic potential and genome evolution of this highly prevalent human parasite .
+blastocystis exhibits an extensive genetic diversity and seventeen subtypes ( st1st17 ) have been identified based on the gene coding for the small - subunit ribosomal rna   among which the first nine are found in humans .
+we report the sequencing of the blastocystis st4-wr1 genome from an isolate of a laboratory rodent and cultured axenically .
+this whole genome shotgun project has been deposited at ddbj / embl / genbank under the accession jpul02000000 ( http://www.ncbi.nlm.nih.gov/nuccore/jpul00000000.2 ) .
+although the role of blastocystis as a human pathogen remains unclear , it has been associated with acute or chronic digestive disorders and some epidemiological surveys have suggested an association with irritable bowel syndrome ( ibs ) , . in patients with ibs , blastocystis seems to be associated with a decrease of the fecal microbiota protective bacteria , bifidobacterium sp . and faecalibacterium prausnitzii 
+
+the stramenopile blastocystis is a common anaerobic protist living in the digestive tract of several animal groups .

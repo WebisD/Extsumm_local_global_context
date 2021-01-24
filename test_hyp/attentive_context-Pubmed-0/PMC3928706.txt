@@ -1,0 +1,6 @@
+ t cells are involved in combating infectious diseases and have non - redundant capacities in the inhibition of tumour development and progression56 .
+the immune system has evolved to protect the host from infections and cancer . typically , the immune system is divided into two categories- innate immunity and adaptive immunity .
+in addition to these defense mechanisms , there are unconventional t cells like the gamma delta (  ) t lymphocytes and natural killer t ( nkt ) cells that functionally and phenotypically belong to both the innate and the adaptive immune system and are able to bridge the two123 . in the peripheral circulation of humans ,
+the innate immune system comes into play immediately after the appearance of antigen whereas the adaptive immune system provides antigen - specific response .
+the unique features of human  t cells related to antigen recognition , tissue tropism , lack of antigen processing requirement and cytotoxic function make these ideal candidates for cancer immunotherapy .
+the influx of tils ( tumour infiltrating lymphocytes ) to the tumour site enhances the potential for anti - tumour immune responses . the numbers and types of lymphocytes present in the infiltrate are related to the chemokines produced by both the tumour cells and tissue stromal cells located at the tumour site .

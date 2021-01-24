@@ -1,0 +1,22 @@
+we also show that 
+ the lateral radial distribution function between all molecular pair 
+ types ( chol  chol , chol - dppc , dppc 
+finally , we use 
+ rest to obtain the gibbs free energy profiles between different molecular 
+ pair types from the corresponding lateral radial distribution functions .
+also , combined with umbrella sampling , 
+ rest can be used to accelerate relaxation on degrees of freedom orthogonal 
+ to the reaction coordinate , which is reported as a hurdle in free 
+ energy calculations for lipid membranes .
+molecular dynamics simulations 
+ have been used as a powerful tool 
+ to study lipid membranes but are limited by the length and time scales 
+ of the probing systems . in particular , the lateral diffusion rate 
+ of a lipid in a membrane , although varying among different experimental 
+ techniques , is in the range 1010 cm s. this means that it will take a lipid about 
+ hundreds of nanoseconds to microseconds time scale to cover a 1 nm area .
+we show that rest can be used as an efficient way 
+ to accelerate lateral equilibration in a mixed lipid bilayer .
+temperature replica exchange molecular dynamics ( t - remd ) is one 
+ of the methods that has been widely used to accelerate equilibration 
+ in simulations and achieved numerous success in protein folding .

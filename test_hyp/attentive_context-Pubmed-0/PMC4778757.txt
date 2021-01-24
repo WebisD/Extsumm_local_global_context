@@ -1,0 +1,7 @@
+we report the establishment of the 1st web - based rcc db system in korea ( korean renal cell carcinoma , korcc ) and summarize the basic characteristics of korean patients with rcc who underwent surgical management .
+radical nephrectomy accounted for 62.7% of the total cases , and an open approach was used in 50.7% and 52.2% of radical and partial nephrectomies , respectively ( table 3 ) .
+the 5-year overall , cancer - specific and recurrence - free survival rates were 88.1% , 92.2% , and 88.0% , respectively ( table 6 ) .
+we analyzed data of 5,281 patients with surgical management ( mean follow - up [ fu ] , 32 months ) ( tables 1 , 2 , 3 , 4 , 5 ) .
+the new web - based db system was established to collect basic demographic and clinicopathological characteristics of a large cohort of patients with rcc in korea .
+data from a total of 6,849 patients were collected from 8 tertiary care hospitals that agreed to participate in organizing korcc study group as of 1 july 2015 .
+intraoperative and postoperative transfusions were done in 7.2% and 3.6% of the patients , respectively ( table 4 ) .

@@ -1,0 +1,7 @@
+therefore , in this study , by establishing a mouse model , we directly explored this issue . with specific knockout of carnitine palmitoyl transferase-1b ( cpt1b ) in skeletal muscles of mice ,
+it suggested that with specific knockout of cpt1b in skeletal muscles , although there were lipids accumulations in skeletal muscles , the insulin sensitivity still remains .
+as shown in figure 1(a ) , the mrna expression of cpt1b decreased specifically in skeletal muscles ( rt - pcr ) but not in the heart muscle in cpt1b m/ mice .
+as shown in figure 2(a ) , fao was decreased in isolated mitochondria ( radiolabeled palmitate ) in skeletal muscles of cpt1b m/ mice .
+both dags and tags are dramatically elevated in cpt1b m/ mice .   as shown in figure 3(a ) , cpt1b m/ mice maintain insulin sensitivity ( insulin tolerance test ) . compared with wild type , glucose tolerance test of cpt1b m/ mice had improved significantly ( as shown in figure 3(b ) ) .
+our study demonstrated that in mice with conditional knockout cpt1b in skeletal muscles , mitochondrial fatty acid oxidation was depressed dramatically .
+pyruvate oxidation went up ( figure 3(c ) ) and so did insulin - stimulated pakt and glut4 ( figure 4 ) .

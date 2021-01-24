@@ -1,0 +1,5 @@
+since pc61 mab injection could also eliminate other cell subtypes expressing cd25 , mainly activated t cells ( tact ) , we also studied the cd4 t cell subsets affected by injection of the pc61 mab .
+the aim of this paper is to study the role of tregs during the acute infection of t. gondii in the resistant balb / c strain of mice .
+we carried out depletion experiments by injection of the pc61 mab in mice followed by infection with the type ii strain me49 , and analyzed mortality .  
+our results show that tregs play an important role in the modulation of the protective immune response against t. gondii .  
+we carried out depletion studies by injection of the pc61 mab to analyze the role of tregs in the resistant balb / c strain of mice during the infection with the type ii strain me49 of t. gondii .   in the literature we found many protocols for tregs depletion using the pc61 mab in different models , using a wide range of mab concentrations , from 100  g to 1  mg   , or even several injections of the pc61 mab before and during infection   . to reduce the possibility of tact elimination due to high antibody concentrations

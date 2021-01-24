@@ -1,0 +1,6 @@
+for example , a recent study examined how evolution shapes variation in transcript abundance in male and female drosophila , and sex - specific differences in the mode of transcriptome inheritance were identified . in males ,
+sex - specific differences in genetic architecture could contribute to the observed differences in life span and the effects of inbreeding .
+taken together , all these data suggest that the genetic differences between males and females have a significant effect upon aging and life span .
+can be found to correlate with a reduction in specific costly aspects of metabolism , or behaviors such as locomotion and aggression .
+for example , quantitative trait loci ( qtls ) that affect life span are often sex - specific or sex - biased in drosophila , mice and humans , and studies over the past few years show strikingly different effects of inbreeding in male versus female insects .
+variation in gene expression was found to be due mostly to additive interactions of alleles , whereas in females , gene expression variation was found to be due mostly to non - additive ( epistatic ) interactions between alleles ; a substantial x - chromosome effect was shown to underlie these differences .

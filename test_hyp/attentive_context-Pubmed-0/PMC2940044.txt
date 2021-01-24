@@ -1,0 +1,6 @@
+results of this study show that readers are able to improve detection performance when they use cad for interpretation of mass lesions in an interactive way .
+cad marks on regions not reported by the reader were not used , which is similar to the approach investigated here . as independent combination of reader results with cad would not be easily accepted in clinical practice , we designed a screening workstation in which readers themselves can combine their interpretation with cad in an interactive way . to investigate the proposed cad concept
+we found that in addition to using cad in the traditional way to avoid perception errors , there is a large potential for using cad as a decision aid to reduce interpretation failures .
+results suggest that interactive cad may be more effective than traditional cad for improving mass detection without affecting reading time .
+the beneficial effect of cad can be attributed fully to improvement of interpretation , because traditional cad prompts to avoid perceptual oversights were not shown .
+our study was motivated by previous research , which demonstrated a significant improvement in detection performance when cad mass marks were independently combined with reader scores . in that study ,

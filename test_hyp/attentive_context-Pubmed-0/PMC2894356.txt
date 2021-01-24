@@ -1,0 +1,7 @@
+the results of the fluorescence characterization show that the composite has a highly selective and sensitive ( 0.2 m ) detection for zn(ii ) , and reveal that ratiometric zn(ii ) sensing is possible with fluorophore chemically modified carbon nanotubes .
+we have prepared a new organic  inorganic hybrid sensing material based on cnts as support and glycine - n-8-quinolylamide as fluorescent center .
+this novel fluorescent material may be used as a fluorescent device in intracellular environment for the detection of zn(ii ) .
+bio - application has become a hot subject in the research field currently [ 28 - 31 ] , mwnts - gnq may be used to build nanosensor devices to sense directly in intracellular environment , because carbon nanotubes ( cnts ) can penetrate into cells and almost have no toxicity to organism .
+the fluorescence enhancement of mwnts - gnq is only for zn(ii ) . as the use of organic  inorganic hybrid materials for
+the fluorophore in this study is glycine - n-8-quinolylamide ( gnq ) molecule , in light of the fact that the 8-aminoquinoline derivatives could effectively coordinate with specific metal ions .
+we find that this new material ( mwnts - gnq ) has high selectivity and sensitivity to detect zn(ii ) , and the sensitivity is down to 0.2 m . , which is about the same as the silica nanoparticles - supported fluorescence sensors .

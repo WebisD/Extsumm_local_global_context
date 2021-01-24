@@ -1,0 +1,25 @@
+overall , our results 
+ provide insight into the nature of peptide confinement and hydration 
+ in a rm environment and the importance of considering shape fluctuations 
+ in characterizing the rm ensemble .
+this study explores the effects of capped versus zwitterionic 
+ n- 
+ and c - termini on the helix stability of these same peptides in rms 
+ using two force fields .
+we have studied the effects of capped versus 
+ zwitterionic termini 
+ on the secondary structure of aka2 peptides encapsulated 
+ in spherically restrained and unrestrained rms .
+the ir spectra of the amide 
+ i bond of the peptides were computed and directly compared with experiment . the computed peptide amide i ir spectra and water 
+ rotational anisotropy decay were found to be largely insensitive to 
+ the treatment of the peptide termini , while showing a distinct dependence 
+ on shape fluctuations in the rm environment .
+, measurement of these experimental 
+ observables provides one way to critically assess the structure of 
+ rms , in both the absence and presence of solvated peptide .
+the observed rotational 
+ anisotropy decay shows distinct differences in water dynamics induced 
+ by the presence of the aka2
+we found that the cap employed on the peptide termini did not significantly 
+ alter the interactions between the peptides and their environment . 

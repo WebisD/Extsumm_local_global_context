@@ -1,0 +1,14 @@
+in conclusion , an algorithm has been designed and developed that can automatically evaluate patient adherence in a common dry powder inhaler .
+the primary objective of this study was to design and develop an algorithm that could automatically analyze patient inhaler use , in order to evaluate adherence .
+this algorithm creates the opportunity for clinicians to monitor inhaler users in order to understand if they are consistently using their inhaler device with the correct user adherence technique and at the correct time .
+the algorithm was designed to identify the critical steps associated with diskus inhaler use and the operations that lead to critical errors in user technique . for the patients that the two human raters had almost perfect agreement upon \documentclass[12pt]{minimal } 
+ \usepackage{amsmath } 
+ \usepackage{wasysym } 
+ \usepackage{amsfonts } 
+ \usepackage{amssymb } 
+ \usepackage{amsbsy } 
+ \usepackage{upgreek } 
+ \usepackage{mathrsfs } 
+ \setlength{\oddsidemargin}{-69pt } 
+ \begin{document } 
+ } { } $ ( { \rm kappa}{>}{0.81})$\end{document } the algorithms accuracy was 83% in deciding the correct user technique score . when the algorithm was taken as one rater and the human raters as another rater , the kappa agreement statistic was found to be 0.49 , indicating moderate agreement between the two classification techniques .

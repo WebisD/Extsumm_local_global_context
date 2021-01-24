@@ -1,0 +1,18 @@
+in comparison with nmr structures refined by traditional methods , restrained rosetta refined 
+ structures fit the experimental nmr data equally well and are of significantly better 
+ stereochemical and geometric quality .
+the rosetta refined structures were further assessed based on their structural 
+ similarity with corresponding x - ray crystal structures and by analysis of how useful they are as 
+ molecular replacement ( mr ) templates for solving the corresponding x - ray crystal structure .
+although most nesg structures have been solved by either 
+ nmr or x - ray crystallography , as of december , 2011 the nesg consortium had solved 41 pairs of 
+ protein structures for identical construct sequences using both x - ray crystallography and nmr 
+ methods . these 3d structures of proteins with identical sequences , together with the raw nmr and 
+ crystallography data available in the biomagresbank ( bmrb ) and protein data 
+ bank ( pdb ) , are an extremely valuable composite data set available for 
+ studies directed at understanding structural variations between solution and crystal states and 
+ for new methods development . in this study
+this 
+ comprehensive study demonstrates the significant value of restrained rosetta refinement of 
+ protein nmr structures , and provides efficient standard protocols for restrained rosetta 
+ refinement that will be broadly useful to the protein nmr community .

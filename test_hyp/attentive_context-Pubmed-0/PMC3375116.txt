@@ -1,0 +1,5 @@
+we conducted a population - based review of primary admissions to hospital ( > 12 h ) or deaths as a result of a primary diagnosis of head injury identified from the fish dataset during a 12-month period from october 1 , 2005 , to september 30 , 2006 .
+the fiji injury surveillance in hospitals ( fish ) system was established as part of this project to capture all fatal and serious non - fatal ( hospitalised ) injuries in viti levu , the main island of fiji , during a 12-month period . using this database , we describe the incidence and characteristics of head injuries resulting in hospital admission or death .
+the in - hospital case fatality rate was much higher among patients with a principal diagnosis of head injury compared to those without ( 8 vs. 3% ) .
+the traffic - related injury in the pacific project was developed to understand the burden of injury in three pacific nations 
+the age - standardised rate for males for all head injuries ( 60.5/100,000 ( 95% ci 52.1 , 68.8 ) ) was more than three times the female rate ( 18.4/100,000 ( 95% ci 13.7 , 23.1 ) ; p < 0.001 ) .

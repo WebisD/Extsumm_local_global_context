@@ -1,0 +1,9 @@
+quantitative changes in longitudinal ( t1 ) and transverse ( t2 ) relaxation times in discrete brain regions have been described in a host of different pathologies 1 .
+we have extended the mrf approach by including a parameter for b1 in the signal evolution dictionary .
+the 3d acquisition has the advantage of broader coverage ( particularly important for whole brain imaging ) and the considerable reduction of slice profile effects . as well as b1 estimation
+we have demonstrated a method for incorporating b1 estimation into mrf and extended the protocol to 3d imaging .
+current mrf methods , both in the clinical and preclinical environment , have been demonstrated assuming a perfectly rectangular slice profile and homogeneous excitation .
+previous work in the context of radial kspace acquisition found that 3d scans offer more possibility of undersampling the kspace with respect to 2d slices 17 .
+in addition , inhomogeneous radiofrequency excitation profiles are a common problem in both preclinical and clinical highfield scanners .
+our methods greatly reduced problems seen with particular pulse shapes and b1 inhomogeneity , improving the accuracy of parameters estimated from mrf .
+we have shown that b1 estimation can be used in an mrf framework and that this acquisition can be extended to 3d .

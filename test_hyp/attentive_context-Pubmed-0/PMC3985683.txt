@@ -1,0 +1,20 @@
+in particular , we have shown that the mixed ni(0 ) 
+ species ( binap)ni(-nc - ph ) containing one bisphosphine 
+ and one side - bound nitrile is a particularly active catalyst for the 
+ coupling of chloroarenes with primary amines and is more active than 
+ the related ( binap)2ni catalyst . a range of electronically 
+ varied aryl halides and nitrogen - containing heteroaryl chlorides , 
+ including pyridine , quinoline , and isoquinoline derivatives , couple 
+ with a variety of aliphatic primary amines in high isolated yields . 
+ several aspects of the current system lead to the ability of this 
+ first - row metal system to catalyze this class of amination reaction . 
+ in general , we attribute the high yields for these amination reactions 
+ to the facile oxidative addition of aryl chlorides and heteroaryl 
+ chlorides to the ( binap)ni(-nc - ph ) precatalyst 
+ at ambient temperatures . detailed studies on the mechanism of 
+ the amination reaction
+the following conclusions about the mechanism of this 
+ coupling process have been drawn from these studies : ( 1 ) the 
+ oxidative addition of aryl chlorides to ( binap)ni(-nc - ph ) , together with the stoichiometric reactions of ( binap)niar(cl ) 
+ with primary aliphatic amines in the presence of base , support a reaction 
+ pathway involving a ni(0)/ni(ii ) couple in the catalytic cycle .

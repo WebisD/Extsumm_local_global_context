@@ -1,0 +1,6 @@
+the extracellular signal - regulated kinase ( erk)-1/2 pathways are involved in the induction and regulation of c - fos . in this study , we performed a brain mapping of the neuronal expression of c - fos after intravenous ( iv ) or intracerebroventricular ( icv ) injection of mif-1 .
+in this study , we showed that mif-1 induces c - fos activation in different regions of the brain and in cultured neurons .
+thus , the results indicate the cellular mechanisms of actions of mif-1 that may underlie the therapeutic effects of mif-1 in the treatment of parkinson 's disease and depression .
+this led us to study alternative cellular signaling pathways . a number of exogenous stimuli , including an increase in neuronal activity , trigger the transcription of c - fos , which is an immediate early gene that in combination with the specific jun proteins forms the heterodimeric transcription regulator , ap-1 .
+the results show that mif-1 increased c - fos expression in brain regions involved in the regulation of mood , anxiety , depression , and memory .
+however , mif-1 does not change camp in the brain in contrast to the increase induced by -msh , and its induction of cgmp is not robust in rat brain .

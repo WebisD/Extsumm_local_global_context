@@ -1,0 +1,6 @@
+by combining experimental data and force - field calculations , we propose a model to explain the nanoneedle formation of rodlike molecules on sheet silicate substrates .
+we demonstrate by comparing experimental results and simulations that electrically charged and neutral substrate surfaces cause an analogous molecular adsorption geometry .
+comprising x - ray diffraction ( xrd ) measurements , atomic - force microscopy ( afm ) , fluorescence microscopy , and force - field simulations , we demonstrate that the presented model is able to explain our and also previously obtained experimental results .
+it therefore represents a powerful tool to understand or even predict the growth morphology of fluorescent nanofibers , being the key to selecting proper rodlike molecules for the formation of parallel aligned waveguides and laser structures .
+in particular , the model reveals that perfect parallel alignment of organic molecules and hence anisotropic optical properties can only be achieved when the molecules align parallel or normal to the mirror axis of muscovite mica .
+exactly this situation is fulfilled for para - phenylenes,(7 ) functionalized quater - phenylenes , and selected thiophenephenylene co - oligomers.(37 ) in all other cases at least two different molecular adsorption geometries are present due to mirror symmetry of the substrate surface .

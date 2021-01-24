@@ -1,0 +1,6 @@
+we have validated an advanced portable xrf system for in vivo bone pb measurement and demonstrated the validity of using such a system to accurately quantify pb in bone with soft tissue thickness up to 4 - 5  mm .
+the detection limit of the device with 4  mm of soft tissue is approximately the same as the detection limit of kxrf systems , and the novel analysis methods provide a better correlation for pb quantification in bone samples .
+tests with phantom , goat bone , and cadaver bone samples were used to determine the accuracy of the device in determining bone pb concentrations .
+pb l x - rays , which have relatively low energies , have greater soft tissue attenuation for the signals and hence the correction for this is a significant issue . to this end , new calibration methods are being explored in this study to establish a more accurate approach to quantify the pb in bone in vivo .
+, we demonstrated the validity of a portable xrf system that made use of pb l x - rays to quantify pb in bone .
+cd-109 induced k x - ray fluorescence ( kxrf ) technology has been used to measure pb in bone for over two decades and has made significant contributions to the study of associations between long - term cumulative pb exposure and adverse health outcomes   .

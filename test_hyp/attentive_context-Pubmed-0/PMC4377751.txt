@@ -1,0 +1,6 @@
+previously proposed discriminating features such as urine calcium excretion , hypomagnesemia and age of presentation have all been shown to be variable in gs and may evolve with time as illustrated by our cases . despite this , we would suggest that the identification of slc12a3 mutations should not preclude pediatric patients with a more severe salt - wasting phenotype from a trial of indomethacin .
+gitelman syndrome ( gs ) is an autosomal recessive salt - losing tubulopathy ( omim 263800 ) characterized by hypokalemic metabolic alkalosis , hypomagnesemia and hypocalciuria .
+bartter syndrome ( bs ) is a heterogeneous autosomal recessive salt - wasting condition that tends to present earlier in childhood with a more severe phenotype including significant salt wasting , polyuria and failure to thrive .
+. however , genetic studies later confirmed a diagnosis of gs with the identification of compound heterozygous mutations in slc12a3 .
+the classic description of gs is of a benign salt - wasting condition most often diagnosed in adulthood   .
+gs is caused by mutations in the slc12a3 gene encoding the na  cl co - transporter ( ncct ) of the distal convoluted tubule ( dct ) . to date , > 240 slc12a3 mutations have been identified in gs   .

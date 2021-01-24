@@ -1,0 +1,5 @@
+the findings indicate that a reliance upon dysglycemia as a demarcation of risk in autoantibody - positive populations could result in a less - than - optimal classification of risk for prevention trials
+participants were autoantibody - positive relatives of t1d patients from the dpt-1 ( n = 670 ) and tnnhs ( n = 991 ) cohorts .
+the presence of multiple autoantibodies has been used as an indicator of higher risk for t1d . however , those with dptrs values < 7.00 were at much lower risk than those with dptrs values > 7.00 . a recent article ( 12 ) examined prediction by an autoantibody risk score in tnnhs participants that takes both positivity and level into account . in that article ,
+tnnhs participants with normoglycemia and dptrs values > 7.00 were much younger than those with dysglycemia ( 8.1  4.9 years for dptrs > 7.00 vs. 19.6  14.3 years for dysglycemia ; p < 0.001 ) . shown are cumulative incidence curves for t1d of tnnhs participants with normoglycemia ( ngt ) and
+also , when the autoantibody risk score and the dptrs were both included in a regression model , the dptrs was still highly predictive .

@@ -1,0 +1,25 @@
+useful correlations are obtained between the wavelength 
+ shifts that catalysts cause to the pyrazinone sensor and the rate - determining 
+ steps in diels  alder and friedel  crafts reactions . as 
+ a result
+herein , we assess the general utility of this colorimetric 
+ sensor as a predictive gauge for the relative reactivity of a broad 
+ range of organocatalysts , including several widely used motifs , with 
+ the goal of encompassing many different hydrogen - bonding arrays .
+, we described 
+ preliminary results showing the utility of small organic chromophore s for the detection of hydrogen - bonding interactions by uv 
+consequently , the sensor may also find use as a rapid means 
+ for measuring pka values in series of 
+ related compounds .
+our findings establish 
+ the sensor as a useful substrate  surrogate  for probing 
+ and gauging catalyst performance .
+investigation of additional 
+ catalyzed reactions with the sensor , 
+ empirically or computationally , has the potential to expand eq 3 to achieve quantitative predictive power across 
+ a large range of reaction platforms and catalysts ( hydrogen bonding , 
+ brnsted acid , and lewis acid ) .
+in contrast to established acidity ( pka ) values , the sensor wavelength shift is a 
+ highly predictive metric 
+ for the relative reactivity of catalysts encompassing a broad range 
+ of structures and strengths .

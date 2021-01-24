@@ -1,0 +1,6 @@
+, our data demonstrated a strong association between regulatory gip variants , and gip response and glucose metabolism , reinforcing the indication of an important role of gip signaling in diabetes - related traits from earlier gwa studies of gipr .
+recent studies have shown that variants in cdkal1 , pparg , and more than two dozen genes are associated with glycemic traits in diabetic patients ( 10 ) . surprisingly
+human capn10 and house - mouse insulin genes have been shown to exhibit characteristics of adaptive evolution after the emergence of agricultural societies ( 41,42 ) .
+on the basis of the presence of highly divergent allele frequencies between eurasians and africans , the presence of ld and extended haplotypes in eurasians , and a > 30% minor allele frequency in the overall eurasian population , we identified seven snps in the 5 gene region of cdkal1 , cyb5r4 , gad2 , gip , and pparg as potential common metabolic modifiers ( table 1 ) . in earlier gwa studies ,
+specifically , we demonstrated that gip variants at the 5 gene region represent metabolic modifiers that contribute to phenotypic variation in gip response and glucose metabolism .
+importantly , our study also provided a novel approach to reveal metabolic modifiers by studying consequences of previous mismatches of physiologic capabilities and environments .

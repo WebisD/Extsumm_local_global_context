@@ -1,0 +1,8 @@
+men with at least 1 copy of stin2.10 allele were at lower risk of pe than men with other variant at this locus .
+the allelic frequency of the stin2.12 was 0.825 in patients and 0.752 in controls , which showed no significant difference ( p=0.067 ) .
+the results showed significant difference in patients with stin2.12/12 when compared to stin2.12/10 and stin2.10/10 genotypes ( stin2.12/12 vs. stin2.12/10 ; p=0.001 ; stin2.12/12 vs. stin2.10/10 ; p=0.024 ) .
+our present results indicate that stin2 vntr polymorphism is related to lpe . in summary ,
+12 model ( stin2.12/12+stin2.12/10 vs. stin2.10/10 ) , ( ii ) dominant stin2.10 model ( stin2.10/10+stin2.12/10 vs. stin2.12/12 ) , and ( iii ) codominant model ( stin2.12/12 vs. stin2.12/10 vs. stin2.10/10 ) . to investigate the association between the 3 models and the risk of pe
+our data demonstrate that stin2.12/10 and stin2.10/10 genotypes , which carry the lower transcriptional activity stin2.10 allele , were protective genotypes when compared with the stin2.12/12 genotype .
+our study evaluated 114 patients and 101 controls for the relationship between stin2 vntr and lpe .
+, binary logistic regression models were fitted . in the codominant model , we found a significantly lower frequency of stin2.12/10 in the lpe patients ( 23.0% vs. 35.7% , or=0.52 , 95% ci=0.280.96 ) , although the difference was not statistically significant ( p=0.108 ) .

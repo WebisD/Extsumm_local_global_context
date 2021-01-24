@@ -1,0 +1,6 @@
+mn conceived the study , developed the algorithm for the detection of overexposed areas and plateau regions .
+in order to collect a set of images useful to test the algorithm , we run 10 plasma samples using 2d - ge . 2d - ge was performed according to maresca et al .
+we evaluated the performance of filter size on a set of test images from 3    3 to 7    7 and observed remarkable deterioration for larger filter size , due to the decreased the contrast of the image .
+one possibility is to perform an exhaustive search on all the values of a pre - defined parameters space .
+saturation effects in 2d gel images could occur for several reasons : ( i ) intense staining , causing complete absorption of light passing through the spot , ( ii ) long exposure time during the acquisition step , ( iii ) too high protein concentration , or ( iv ) accumulation of pigment on top of high intensity spots , leading to the loss of dynamic linear range .
+the aim of reducing speckles in a 2d - ge image ( despeckling ) is to remove the noise without introducing any significant distortion in quantitative spot volume data .

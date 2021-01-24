@@ -1,0 +1,6 @@
+the nucleic acid  protein interaction database ( npidb ) provides an access to information about all available structures of dna  protein and rna  protein complexes .
+inter - molecular interactions in the 3d - footprint are visualized as a number of schematic pictures , while the npidb provides visualization of interactions with jmol .
+the baint allows finding information on interaction of amino acids of a certain type ( e.g. lysine ) with dna nucleotides of a certain type .
+web server of protein - dna complex structure analyzer [ webpda ( 11 ) ] , http://bioinfozen.uncc.edu/webpda/ , contains data on contacts between dna and protein molecules in dna  protein complexes .
+the protein - dna recognition database ( http://gibk26.bio.kyutech.ac.jp/jouhou/3dinsight/recognition.html ) consists of three main parts : the protein - nucleic acid complex database ( pronuc ) , the database of base - amino acid interactions ( baint ) and the thermodynamic database for protein - nucleic acid interactions [ pronit , ( 12 ) ] .
+the 3d - footprint contains comparative information on dna  protein interfaces , providing , for example , a dendrogram of similar interfaces , position weight matrices illustrating the binding specificities and other tools .

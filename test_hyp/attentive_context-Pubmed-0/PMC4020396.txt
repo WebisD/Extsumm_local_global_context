@@ -1,0 +1,6 @@
+hyaluronate targeted slns containing etoposide increase the cytotoxicity of etoposide in sk - ov-3 cells and could be a valuable method for reducing the prescribed dose and also systemic side effects .
+this study was performed in order to evaluate cytotoxicity of ha targeted slns containing etoposide , prepared and optimized in our previous study   in sk - ov-3 cells .
+therefore , it could be concluded that increased cytotoxicity in results obtained from mtt assay has resulted from special uptake of targeted nanoparticles due to presence of ha as targeting agent .
+for example , the observed cell survival after treatment with targeted nanoparticles was 36.08  0.88% , while it was 42.73  1.49% and 48.57  1.61% for nontargeted slns and free drug solution , respectively , at the concentration of 1.9 m ( p < 0.05 ) .
+drug loading efficiency was about 64.92  3.76% and release efficiency percent in 24  h was 65.47    4.68% which is an acceptable value .
+. the observed release rate ( 64.1% in the first 6 hours and 73.1% in 24 hours ) could provide appropriate serum concentrations for routine chemotherapy schedules in which the drug ( with an iv half - life of 612 hours ) is administered once daily .

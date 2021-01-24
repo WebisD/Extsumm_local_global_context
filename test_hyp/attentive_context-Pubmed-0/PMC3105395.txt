@@ -1,0 +1,7 @@
+the ability to screen a large library of compounds against an important protein target such as nf-b using aluminescence assay amenable to high - throughput screening would be invaluable in developing new treatments and diagnostic tools for inflammation and autoimmune diseases .
+we have also demonstrated that in the presence of a known nf-b inhibitor oridonin , the luminescence response of the ruthenium complex was decreased .
+furthermore , this technique is readily amenable to high - throughput screening , allowing rapid and economical identification of the target compounds .
+in conclusion , we have described the first label - free luminescence detection method for transcription factor activity .
+our method is based on the principle that the binding of the transcription factor prevents the exoiii catalyzed digestion of a double - stranded substrate .
+the complex [ ru(phen)2(dppz ) ] has also been employed for the detection of aptamer / protein binding using unlabeled oligonucleotides ( 52 ) . based on our past experience in the design of label - free oligonucleotide - based luminescent assays for metal ions ( 34,35 ) ,
+we were interested to see if we could develop a label - free detection method for the p50 subunit of the transcription factor nf-b .

@@ -1,0 +1,5 @@
+secondary end points were to evaluate the impact of anemia on noninvasive ventilation ( niv ) failure and long - term survival .
+hemoglobin levels were negatively correlated with age ( r=0.293 , p=0.002 ) and positively correlated with fev1 % predicted ( r=0.388 , p=0.011 ) ( figure 2a and b ) .
+this study highlights two important results : first , anemia is related with increased risk of death in acute respiratory failure due to severe copd exacerbations .
+anemia is a well - known comorbidity of copd with a prevalence ranging from 12.3 to 23%.35 previous studies also showed that the prevalence is much higher during exacerbations.68 anemia in copd is directly associated with adverse clinical outcomes , including death .
+logistic regression analysis for hospital mortality ( table 6 ) , showed presence of anemia and niv failure were independent predictors of hospital death with ors ( 95% ci ) of 3.99 (   ; p=0.010 ) and 2.56 (   ; p<0.001 ) , respectively . when hemoglobin levels ( continuous variable ) were used instead of anemia ( categorical variable ) in the regression model , or for hospital mortality was 0.74 ( 0.590.94 ; p=0.014 ) .

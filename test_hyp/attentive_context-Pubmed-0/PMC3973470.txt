@@ -1,0 +1,16 @@
+the internal connection type of implant provides greater rigidity to the set 
+ ( abutment / implant ) mechanically presenting lower stress levels .
+according to the quantitative and qualitative analysis of the present study , it may be 
+ concluded that : tooth - implant - supported prostheses must be limited with regard to the edentulous 
+ space and it is a feasible and biomechanically predictable treatment option ; the placement of additional teeth decrease the resultant stress values ; the type of alloy used in the metallic infrastructure plays a key role in denture 
+ displacement , and preference should be given to those with the highest modulus of 
+ elasticity .
+the aim of this study was to use finite element method ( fem ) to evaluate the generation 
+ of stresses in a fixed tooth - implant - supported denture with a rigid connection , when 
+ varying the number of teeth used as abutments .
+is an approximate 
+ representation of an in vivo geometry , with the physical 
+ characteristics of a real model . in this study ,
+over the last few years , fem applied to biomechanics has become an extremely useful tool 
+ for numerically assessing stresses and deformations associated with the mechanical 
+ behavior of biomaterials and human tissues . in this study , the 3-d model of the fem

@@ -1,0 +1,8 @@
+all strains were derived from haploid cells by4741 ( mating type a , euroscarf ) .
+all strains were derived from haploid cells by4741 ( mating type a , euroscarf ) .
+serial dilutions were performed daily ( 23 hours of growth ) such that the starting optical density was 0.0025 , corresponding to ~150,000 cells .
+equilibrium data in figures 1c and 3b , c were recorded after five days of competition between the two strains .
+co - culture experiments were performed in 5ml batch culture at 30c using synthetic media ( minus histidine ) supplemented with 5% sucrose and variable concentrations of glucose and histidine .
+cooperator strain has an intact suc2 gene , defective his3 gene ( his31 ) , and yfp expressed constitutively by the adh1 promoter ( inserted using plasmid prs401 containing met15 ) .
+the mutant cheater strain lacks the suc2 gene ( euroscarf y02321 , yil162w::kanmx4 ) , has an intact his3 gene , and has tdtomato expressed constitutively by the pgk1 promoter ( inserted using plasmid prs301 containing his3 ) .
+2 and 5a were done using a strain containing yfp driven by the suc2 promoter ( inserted using plasmid prs306 containing ura3 ) .

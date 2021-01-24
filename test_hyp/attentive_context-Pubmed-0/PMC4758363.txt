@@ -1,0 +1,7 @@
+the lack of effective treatment is partly attributable to a poor understanding of the mechanisms that underlie it .
+as reported in this issue of jid , the study by carstens and colleagues ( 2015 ) provides further insight into the molecular players involved in serotonin - evoked itch by defining a trpv4-dependent pathway that is likely to be downstream of 5-ht2-mediated itch .
+human psychophysical studies have shown that application of serotonin into the skin causes itch ( weisshaar et al . , 2004 ) .
+this study demonstrates that trpv4 is a key downstream component of serotonin - evoked itch ( figure 1 ) . in order to link serotonin to trpv4 and the activation of sensory neurons
+importantly , the authors showed that the change in response to serotonin in the trpv4 knockout mice was specifically a decrease in serotonin - evoked itch behaviors , and not a change in serotonin - evoked pain behaviors .
+this finding raises the possibility that 5-ht2 , acting via trpv4 , is key mediator of serotonin - evoked itch .
+in rodents , serotonin is a key component of mast cells , and it is a potent mediator of itch .

@@ -1,0 +1,23 @@
+encouraged by these results , we extracted ffpe mouse liver tissues 
+ with heat augmented by elevated hydrostatic pressure , with the goal 
+ of reducing extraction bias , improving the recovery of intact proteins , 
+ and obtaining tryptic digests that more closely resemble those from 
+ matched fresh - frozen tissue .
+initial physical studies on tissue surrogates supported this hypothesis and suggested that the effect of pressure was 
+ to reduce the size of protein aggregates through increased water penetration , 
+ rather than to increase the rate of reversal of protein  formaldehyde 
+ adducts and cross - links directly .
+virtually all protocols reported in the 
+ literature for the extraction 
+ of proteins from ffpe tissue use a variation of the heat - induced antigen 
+ retrieval technique developed by shi and taylor for the recovery of antigenicity in immunohistochemical 
+ studies .
+the ability of elevated pressure to significantly 
+ improve the recovery of intact proteins from ffpe tissues over the 
+ use of heat alone has great potential for broad application to top - down 
+ proteomic studies for the identification of disease biomarkers .
+further , the tryptic digests of these pressure - extracted 
+ tissues resulted in protein profiles that more closely resembled those 
+ from matched fresh - frozen tissue when analyzed by lc / ms than did those 
+ extracted with heat alone , while maintaining a false - identification 
+ rate of < 2% .

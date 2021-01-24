@@ -1,0 +1,7 @@
+together our data provide relevant insights into t  cell differentiation mechanisms in secondary heterosubtypic infections and for the design of vaccines that are given multiple times .
+we report that only the highest - affinity ligands induce t  cell expansion in heterosubtypic re - infections , whereas minor reductions in the levels of tcr stimulation fail to induce t  cell expansion .
+what supports the notion of a qualitative difference is that the transfer of a large number of memory p14 t  cells , which already diminished a high - affinity response , did not resemble the effect seen with endogenous memory t  cells .
+our observations help to understand t  cell responses in heterosubtypic re - infections caused for instance by different influenza strains or dengue virus serotypes .
+we noted that this elevated threshold is mediated by a non - transferrable endogenous memory t  cell population .
+, we utilize well - controlled experimental systems to dissect and characterize how different levels of pre - existing immunity influence t  cell responses . we observed that t  cell activation thresholds differ substantially between primary and secondary infections .
+all of these points strongly underline the need to investigate immune responses in immune or partially immune individuals . here

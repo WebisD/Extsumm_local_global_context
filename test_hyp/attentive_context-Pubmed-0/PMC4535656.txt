@@ -1,0 +1,7 @@
+we describe a unique dataset of mouse embryonic cartilage with or without the ewing 's sarcoma fusion oncogene , ews  fli1 .
+the dataset was used in the study published recently   and was informative to understand the tumorigenic mechanisms of ewing 's sarcoma .
+femoral and humeral bones of balb / c mouse embryos were removed aseptically on 18.5  dpc , and they were microdissected into esz and growth plate ( egp ) under a stereomicroscope ( zeiss stemi 2000-c , carl zeiss microimaging ) .
+response linearity of the five gsc spikes and the location of spike probe sets in the histogram of all probe sets ( fig . 
+a 10  l aliquot of each lysate was treated with dnase - free rnase a ( nippon gene inc . ,
+the expression data for esz and egp cells were converted to percellome data , i.e. , absolute copy numbers of mrna per one cell , by the homemade software scal4 ( spike calculation version 4 ) .
+the genechip mouse genome 430 2.0 array ( affymetrix ) was hybridized with the crna generated from esz and egp cells , and murine ewing 's sarcoma tissue ( table  1 ) . after staining with streptavidin 

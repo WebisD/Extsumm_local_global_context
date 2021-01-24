@@ -1,0 +1,5 @@
+here , we test the gain change of ra projection neurons after exogenous nmda was applied to selectively activate nmda receptors , using whole - cell current clamp recording in adult male zebra finch slices .
+visual cortex , nmda increased the gain of the contrast - response ( c - r ) curve of the neuron in layers ii / iii and v / vi . in mouse , the thalamocortical neurons in the dorsal lateral geniculate nucleus play a key role in the generation of firing patterns through nmda receptors .
+nmda - induced gain increase was limited to firing frequencies less than 40  hz . the effect of nmda on gain was mediated through nmda receptors and might involve synaptic activities . in songbirds , we found that nmda increased the slope of f - i relationship in ra projection neurons , which was completely blocked by dl - apv , a nmda receptor selective antagonist , suggesting that nmda increased the sensitivity of ra projection neurons .
+our results showed that nmda application increased the gain of ra projection neurons , in which ampa receptor was necessary .
+in this study , we showed that nmda increased the gain of ra projection neurons in adult zebra finch .

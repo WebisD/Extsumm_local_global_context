@@ -1,0 +1,23 @@
+this reaffirms that , currently , qspr methodologies 
+ are the most - accurate and time - efficient methods for accurate solution 
+ free energy predictions . in addition , we show that state - of - the - art 
+ machine learning methods , with a modest number of cheminformatics 
+ descriptors , are capable of making solution free - energy predictions 
+ that are consistent with those of commercially available programs 
+ and newer deep - learning approaches . here
+since both sets of descriptors ( theoretical 
+ energies and cheminformatics descriptors ) produce a similar level 
+ of accuracy when used alone in the machine learning methods , and little 
+ improvement is seen when they are combined , we can conclude that the 
+ information conveyed is of a similar nature and that the theoretical 
+ energies are , for this reason , a more efficient form of information 
+ storage , as 10 descriptors contain equivalent information to 123 molecular 
+ descriptors .
+the closest thing to an exception among contemporary 
+ theoretical models may be 1d rism , which requires only a few minutes 
+ of calculation time per compound and has been previously combined 
+ with cheminformatics to build the 1d - rism / sdc method . by combining lower levels of theoretical chemistry 
+ with cheminformatics , 
+ we hope to produce results in good agreement with experiment , but 
+ at a lower cost than higher - level theoretical methods , and with higher 
+ accuracy than using cheminformatics descriptors alone .

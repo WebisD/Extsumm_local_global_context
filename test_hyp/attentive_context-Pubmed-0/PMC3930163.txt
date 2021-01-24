@@ -1,0 +1,6 @@
+the synthesis of 6-(2-methoxynaphthyl)-2,3-dihydro-1,2,4-triazine-3-thione has been synthesized as a chromogenic reagent for the determination of cu(ii ) and validation of the developed method is reported .
+a simple , rapid , sensitive , and accurate method for determination of cu(ii ) using the newly synthesized reagent , 6-(2-methoxynaphthyl)-2,3-dihydro-1,2,4-triazine-3-thion , was developed .
+comparison of characteristic features of some spectrophotometric methods reported earlier for the determination of copper reveals the suitability of the present work in terms of molar absorptivity , linear range , interferences , lod , and so forth ( table 5 ) .
+the use of mndtt as a complexing reagent was utilized for nonextractive determination of cu(ii ) in dental amalgam .
+the results and recoveries presented in table 4 indicate the percentage of recovery 97.5 and 96.5 for spectrophotometry and atomic absorption method , respectively . using the two - tailed t - test and f - test methods
+the influence of ph on the complex formation using britton - robinson buffer ( ph = 512 ) and 1  m  naoh was studied by measuring the real absorbance of the solution containing cu(ii ) ( 20  g / ml ) in the presence of the reagent mndtt against the reagent blank .

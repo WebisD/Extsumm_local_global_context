@@ -1,0 +1,9 @@
+four - dimensional imaging using computed tomography ( 4d - ct ) is under development for optimization of radiotherapy by integration of motion   .
+motion of pulmonary tumours can be measured in two or three dimensions , effects of respiration on volume and shape can be calculated .
+additional split lung analysis is feasible revealing important insights into differences between right and left lungs undetectable by global pulmonary function tests .
+these developments also include online imaging with a linac - integrated cone beam ct . the particular advantages of magnetic resonance imaging ( mri ) are the high soft - tissue contrast , differentiation of tumour and atelectasis , the possibility to choose the optimal plane for motion quantification and the possibility to integrate further dynamic parameters , e.g. lung perfusion or o 2 
+ quantification , into one imaging session .
+the temporal resolution is already reasonably high for monitoring lung tumour motion in real - time . 
+
+respiratory tumour motion is a big challenge for radiotherapy , especially for high precision techniques .
+an additional target dose escalation which is deemed necessary for a curative approach of lung cancer is limited as so far as tumour motion is not sufficiently quantified and integrated into modern treatment planning .

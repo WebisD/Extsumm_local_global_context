@@ -1,0 +1,6 @@
+these results suggest that increased membrane cholesterol levels , and fad - linked ps mutations may share the same molecular mechanism , that is , the downregulation of pip2 , which may serve as the molecule linking cholesterol metabolism to the pathogenesis of ad .
+in addition , up , or downregulation of pip2 levels by pharmacological means decreases or increases the production of a42 , respectively . in this study , we showed that cholesterol enrichment increases the secreted a42 levels by down - regulating pip2 levels .
+, we showed that membrane cholesterol levels may share the same molecular mechanism with fad ps mutations , that is , downregulation of pip2 , for the increased generation of a42 .
+consistent with this conclusion , inhibiting transcription prevented the effects of cholesterol not only on pip2 levels but also on the production of a42 . also , the inhibition of plc1 expression , but not that of plc3 , prevented the effects of cholesterol , indicating a close link between plc1 and regulation of pip2 levels .  
+recently , we demonstrated that enrichment of cholesterol decreases the levels of pip2 via the activation plc .
+we have previously reported that fad - linked ps mutants down - regulate pip2 levels , which are closely related to increased a42 level .

@@ -1,0 +1,8 @@
+we have shown that the pn junction formed by combining p - type and n - type gels together in much closer contact rectifies the current .
+in this study , we have shown that p- and n - type doped hydrogels can be synthesized and be used to built pn junction .
+these semiconductor polymeric gels can be doped with both negative ( n - type ) and positive ( p - type ) counter ions as charge carriers .
+the synthesis of these gels and making junctions are more simple , inexpensive , and scalable than traditional pn junctions .
+the current  voltage characteristic of the polymeric pn junction can be changed by changing doping concentration , swelling ratio etc that will be discussed in our feature works .
+therefore , the stability and reversibility problems need detailed experiments and probably more controllable polymer synthesis .
+we considered that the principle of the electrical conductivity in polymeric gels can be changed by doping static ( inactive ) ions having counter ions as charge carriers and these gels can be used to form pn junctions that work similar to inorganic semiconductors .
+this strict volume dependence and the randomness of the internal distributions of the heterogeneous regions   set a barrier for comparison of the samples from the point of the current amplitudes due to the difficulties to bring the gels to exactly the same swelling ratios and to repeat the synthesis with exactly the same internal morphology .

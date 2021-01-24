@@ -1,0 +1,25 @@
+comparing the five antigen preparations , the antigen obtained from the 
+ epm83 isolate had a reactivity profile similar to the profile observed for the 
+ standard antigen ( agb-339 ) against the serum samples from botucatu .
+the reaction of agepm83 , associated with high gp43 secretion , with sera 
+ non - reactive to the standard antigen in the botucatu and jundia regions suggests 
+ that this specific antigen may serve as an alternative when the standard antigen 
+ ( agb-339 ) is not capable of detecting circulating anti- p. 
+ brasiliensis antibodies in the residents of regions in which the 
+ particular species s1 and ps2 occur .
+0.91   mean   4.19   15.09   96.80   326.20   0.04   0.05   0.05   0.05   1.13 dn : jukes - cantor correction for multiple values of proportion of 
+ observed nonsynonymous mutations ( pn ) ; ds : jukes - cantor correction 
+ for multiple values of proportion of observed synonymous mutations 
+ ( ps ) ; ds / dn : rate of synonymous mutations over nonsynonymous 
+ mutations ; n : number of potential nonsynonymous substitutions ; nd : 
+ number of observed nonsynonymous mutations ; s : number of potential 
+ synonymous substitutions ; sd : number of observed synonymous 
+ mutations .
+dn : jukes - cantor correction for multiple values of proportion of 
+ observed nonsynonymous mutations ( pn ) ; ds : jukes - cantor correction 
+ for multiple values of proportion of observed synonymous mutations 
+ ( ps ) ; ds / dn : rate of synonymous mutations over nonsynonymous 
+ mutations ; n : number of potential nonsynonymous substitutions ; nd : 
+ number of observed nonsynonymous mutations ; s : number of potential 
+ synonymous substitutions ; sd : number of observed synonymous 
+ mutations .

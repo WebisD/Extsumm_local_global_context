@@ -1,0 +1,6 @@
+to demonstrate isic , we applied it to proteomics data sets of bronchoalveolar lavage fluid ( balf ) and plasma from a mouse model of copd , the ada - deficient mouse model   , to identify marker candidates of copd .
+, we describe a semiautomated framework , identification of signatures from integrated clustering ( isic ) , for merging data - driven and knowledge - driven approaches into a biomarker selection scheme in an iterative manner , with a defined metric provided for performance evaluation .
+an in - depth understanding of the biological relevance of ada in lung will benefit our general understanding of copd . in this paper
+we believe that isic is a novel and powerful tool for integrating data types in the context of biosignature discovery and show that it produces robust results between a model system and human disease .
+this was in contrast to standard approaches to identify biomarkers in the mouse model , which were not robust in the human cohort .
+the resulting candidates were subsequently validated in a human plasma data set from a cohort of low body mass index ( bmi ) smokers with copd and healthy controls .

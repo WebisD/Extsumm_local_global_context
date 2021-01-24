@@ -1,0 +1,27 @@
+using detailed nmr 
+ and computational approaches with the natural product and three diastereomeric 
+ analogues , it was found that the c-5c-7 anti / c-7c14 syn arrangement of stereocenters 
+ produces a unique combination of three - dimensional shape and electrostatic 
+ potential that is responsible for the potent biological activity of 
+ the natural product . in an effort to understand
+these 
+ findings suggest that both synthetic ( )-palmyrolide 
+ a and its enantiomer function with equal potency as vgsc antagonists 
+ to block veratridine - induced sodium influx . with regard to identification 
+ of the pharmacophore of this natural product
+the similar biological 
+ activity found for the natural stereoisomer and its enantiomer , continued 
+ investigations in this area will focus on uncovering the specific 
+ molecular target and associated binding site , which may also assist 
+ in future analogue development of novel sodium channel blocking analgesics 
+ derived from palmyrolide a.
+moreover , analogues lacking the enamide double 
+ bond were of high potency in this assay , and thus this functionality 
+ appears unnecessary for blocking vgscs . finally ,
+, it appears that the 
+ intact macrolide is required since acyclic versions were inactive 
+ as inhibitors of vgscs .
+nonlinear regression analysis of concentration  response 
+ data for active analogues of ( )-palmyrolide a. a three - parameter 
+ logistic fit of the palmyrolide a analogue inhibition of the response 
+ to veratridine is shown for each active compound .

@@ -1,0 +1,5 @@
+the two doses altered two quite distinct patterns of genes which were associated with different effects on placental morphology and development , as supported by histological , histomorphometrical and immunohistochemical analyses as reported in detail in .
+cd1 female mice ( 3035  g bw ) were purchased from harlan ( italy ) and kept under standard laboratory conditions ( 22    0.5  c , 5060% relative humidity , 12  h dark  light alternation with 1214 air changes / h ) with water and food ( 4rf25 glp  top certificate  diet purchased from mucedola , milan ,
+we describe here a data set relative to gene expression profiles of mice placenta samples upon exposure to two different doses of bpa , namely 0.5 or 50  mg / kg bw day , during early gestation ( gd1gd11 ) .
+a sperm - positive vaginal plug served to define the gestational day ( gd ) 0 .
+arrays quality was also evaluated   and obtained array weights were applied to the statistical model , a simple linear model fit and moderated t - statistic , thus obtaining two lists of significant differentially expressed genes in the bpa - treated placentas at the two doses in comparison to controls .

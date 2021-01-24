@@ -1,0 +1,6 @@
+overall , this is a convenient and powerful methodology that does not employ a costly metal catalyst .
+crafts alkylation of benzylic alcohols in the presence of an excess of hbf4oet2 solution at 78 c has been reported.14 even though high diastereoselectivities could be achieved with this methodology , the excess of acid and low reaction temperatures represent important drawbacks . herein , we report the use of hbf4 as a highly efficient catalyst for sn1 reactions of propargylic alcohols with different nucleophiles under mild , simple reaction conditions .
+in a first step , the effect of different solvents was tested on the reaction of propargylic alcohol 1a with meoh to give 2a with 1 mol-% of hbf4 ( table1 ) .
+the scope and limitations of hbf4 as a practical catalyst for propargylation reactions have been explored . in general ,
+all reactions were carried out in air and in technical solvents , and the acid used was a commercially available aqueous solution .
+furthermore , many of the reactions were extremely clean , and the desired products could be isolated analytically pure without the need for further purification after a simple aqueous workup ( i.e. , 2a , 2j , 2l  o , 5b  c ) .

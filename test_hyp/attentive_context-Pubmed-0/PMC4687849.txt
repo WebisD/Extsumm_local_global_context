@@ -1,0 +1,26 @@
+the bidentate 
+ coordination available to the organometallic / lewis acid is not sufficient 
+ to explain the results , as evidenced by the poor reactivity of the 
+ methoxyethyl peroxide .
+however , whereas the transfer of lio from lithiated hydroperoxides 
+ to organolithium reagents has been calculated to involve in - line arrangement 
+ of the carbanion , the lithiated oxygen , and the departing oxygen , our calculations suggest side - on insertion 
+ of the rli into the lewis acid activated o  o bond .
+, we discovered that tetrahydropyranyl 
+ ( thp ) monoperoxyacetals selectively transfer the attached or to lithiated 
+ 1,3-dithianes .
+calculations predict , and experiments confirm , that 
+ the presence of the acetal group significantly lowers the energy for 
+ insertion of unstabilized organometallics and directs the reaction 
+ toward exclusive transfer of the nonanomeric oxygen .
+we now describe investigations 
+ of reactions between carbanions and several classes of organic peroxides , 
+ with an emphasis on monoperoxyacetals .
+however , the interaction of lewis acids with 
+ peroxyacetals and ozonides ( 1,2,4-trioxolanes ) has been previously 
+ demonstrated to activate both c  o and o  o bonds . in conclusion , we have shown that monoperoxyacetals , 
+ readily prepared 
+ and easily handled derivatives of hydroperoxides , enable highly efficient 
+ intermolecular transfer of alkoxide to unstabilized organolithium 
+ and organomagnesium reagents along with some inductively stabilized 
+ organolithium species .

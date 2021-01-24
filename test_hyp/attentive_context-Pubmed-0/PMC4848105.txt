@@ -1,0 +1,7 @@
+the specific goals for the system were to collect data from the subject in real - time using simple and portable sensors , to create a customized exercise task for the subject by adapting a standard exercise task , and to build a simple and non - rigid wearable robot that will provide subject - specific resistance training .
+the overall objective of this research was to create an adaptive home - use robotic rehabilitation system for the upper body .
+this paper presents results from comparison testing between the customized exercise tasks and the standard exercise tasks , as well as preliminary testing of a pneumatically actuated prototype for the wearable robot .
+a neural network was created using the subject 's training exercise data and was then used to modify a standard exercise task into a custom exercise task . for both sets of exercises ,
+the overall objective of this research was to create an adaptive home - use robotic rehabilitation system for the upper body .
+the averaged 3d position and 3d velocity ( 6 variables ) of the sphere during the training exercise task were used as targets to train the neural network .
+this paper presented results from comparison testing between different exercise tasks and from preliminary testing of a pneumatically actuated prototype for the wearable robot , all of which demonstrate that this robotic rehabilitation system achieved the stated objective .

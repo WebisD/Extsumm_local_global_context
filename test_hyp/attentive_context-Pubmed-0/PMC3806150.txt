@@ -1,0 +1,23 @@
+melting point determinations 
+ were performed by the open capillary method and are reported uncorrected .
+low- and high - resolution 
+ mass spectra were recorded on a time - of - fight mass spectrometer using 
+ electron impact ( ei ) .
+authentic 
+ samples of products were used to determine response factors relative 
+ to tetradecane , a known amount of which was added to reaction mixtures 
+ to allow quantification of product yields .
+h and c nmr chemical shifts (  ) are reported 
+ in parts per million ( ppm ) relative to tms , and coupling constants j are reported to the nearest 0.1 hz .
+c , ch , ch2 , or ch3c signals are assigned from dept-90 
+ and 135 spectra . in a number of cases ,
+characterization 
+ details of the other boronate esters 13 can be found 
+ in our previous publication .
+carbon atoms attached to boron 
+ gave very broad peaks in c nmr spectra , and these could 
+ not always be distinguished .
+boronate 
+ esters 3 where r = bu , i - pr , and cyclohexyl 
+ were prepared from the reaction of their corresponding boronic acids 
+ with pinacol in pentane in 73 , 36 , and 32% yields , respectively .

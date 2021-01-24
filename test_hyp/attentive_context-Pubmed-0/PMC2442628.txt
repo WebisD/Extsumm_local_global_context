@@ -1,0 +1,6 @@
+the breadth of prrs expressed in different cells and tissues and their distinct intracellular distribution provide the means for pamp detection and immune activation against a variety of microbial pathogens at the local site of infection or in the  microbial niche . 
+the recent identification of the dai ( dlm-1/zbp1 ) protein as a cytoplasmic sensor of microbial dna ( 48 ) suggests the existence of other prrs that detect cytosolic pamp dna .
+these include the membrane - associated cytosolic replication sites of rna viruses , extracellular sites of microbe interaction , and endosomal sites of microbial trafficking and metabolism ( fig .
+thus , depending on the nature of virus infection , tlrs and rlrs may work together or independently to mount an efficient immune response .
+the subsequent modulation of the adaptive immune response by prr signaling has been studied using cells and mice deficient in specific tlrs , rlrs , or their associated signaling adaptor proteins .
+it is reasonable to speculate that , similar to tlrs and rlrs , the cytoplasmic dna sensor molecules also exhibit ligand specificity to cover a variety of dna pamps in association with their specific microbial niche , thus providing a further basis for self- versus nonself discrimination .

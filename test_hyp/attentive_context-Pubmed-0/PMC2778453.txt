@@ -1,0 +1,16 @@
+the aim of the present cross - sectional study was to analyse antibody 
+ levels among hospital workers with known exposure to legionella and to determine the correlation between antibodies to legionella and self - reported symptoms 
+ compatible with legionella infection . 
+
+we found a higher prevalence of legionella antibodies ( 1 : 128 ) in the hospital staff with continuous exposure from 
+ the water system than in blood donors being representative of the general 
+ health population .
+there were no consistent association between legionella antibodies and a symptom complex of at least three ( or 
+ 1.95 ; 95% ci 1.003.78 ) , four ( or 1.08 ; 95% ci 0.901.29 ) , or five ( or 0.99 ; 95% 
+ ci 0.841.17 ) symptoms of the complex of influenza - like illness with adjustment 
+ for age , gender , and current smoking .
+the multiple regression model ( seropositives with titre   1 : 128 ) of 
+ risk variables with p < .2 and gender , age , current smoking showed 
+ significant increase in antibodies with showering elsewhere than home ( or 1.89 ; 
+ 95% ci 1.083.31 ) , air - conditioning in car ( or 1.99 ; 95% ci 1.153.35 ) , and decreasing 
+ age ( or 0.97 ; 95% ci ( 0.940.99 ) .

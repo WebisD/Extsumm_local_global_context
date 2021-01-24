@@ -1,0 +1,7 @@
+the aim of the present study was to evaluate quantitatively the skin absorption of radon that takes place during taking a bath using published data from human subjects .
+the changes in radon concentration in exhaled air during and after bathing , as an index of its dynamics after intake into the body , were compared .
+in this study , a biokinetic model of radon is introduced in which the exchange of radon between skin and the environment was incorporated into the latest sophisticated model .
+the estimated values of k were validated for the skin - to - water exchange of radon , and based on their temperature - dependent behavior , were inferred also to be applicable to skin - to - air exchange .
+the need to consider the dose contribution of radon absorbed via the skin was also discussed by comparison with the contribution made by radon and its progeny following inhalation .
+the intake of not only radon progeny , but also radon , through the skin is negligible in comparison with the intake via inhalation . in situations involving immersion in radon - rich thermal water
+the skin permeability , k , which is necessarily implemented in the presented model , was determined , and found to have a log - normal distribution among individuals .

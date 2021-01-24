@@ -1,0 +1,5 @@
+thus , in this study we compared clinical eeg recordings with cornea confocal microscope results , and explored the use of eeg in retinoblastoma patients .
+there were 0 patients with extreme low risk ( group a ) , 1 patient with low risk ( group b ) , 1 patient with intermediate risk ( group c ) , 16 patients with high risk ( group d ) , and 2 patients with extreme high risk ( group e ) .
+we found that the sensitivity and specificity of the increased delta power and decreased theta power in the diagnosis of retinoblastoma patients were different . in increased delta power ( delta > 3.8 ) , sensitivity and specificity were 75% and 85% , and in decreased theta power ( theta < 4.3 ) sensitivity and specificity were 80% and 80% , respectively ( table 1 ) .
+useful information can be provided for evaluating corneal nerve damage of retinoblastoma patients through analyzing eeg power bands .
+the results indicated that corneal nerve injury was positively correlated with the delta eeg spectra power ( figure 3a , p<0.05 ) and the corneal nerve injury was negatively correlated with the theta eeg spectra power ( figure 3b , p<0.05 ) .

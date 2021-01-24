@@ -1,0 +1,6 @@
+we demonstrated in vitro that both recurrent inhibition and its ltp can be selectively inhibited by low doses of nmda antagonists .
+consistent with schizophrenia , we also demonstrated that the vulnerability of nmda - mediated recurrent inhibition may be most pronounced in adolescent animals and male animals , whereas female sex steroids mayhave a protective effect . in conclusion , this model supplies a glutamatergic basis of schizophrenia .
+selective impairment of local inhibition may lead to increased excitability- of the cortical network , causing intrinsic excitotoxic damage with greatest vulnerability of pv[+ ] interneurons , and to functional impairment , which may also include higher cognitive functions as learning and recall , as demonstrated in the computer model .
+the next step is now to examine its modulation by other neurotransmitters implicated in schizophrenia , such as serotonin and dopamine .
+the cellular model of glutamatergic dysfunction presented here is based on the smallest cortical network loop , the local inhibitory feedback circuit .
+the nature of this differential sensitivity of nmda receptors is still unclear , but may be related to the different subunit assembly of nmda receptors on interneurons compared with pyramidal cells , which also has consequences on the expression of nmda - gated currents .

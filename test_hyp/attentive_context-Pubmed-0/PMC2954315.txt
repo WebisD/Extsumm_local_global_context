@@ -1,0 +1,6 @@
+the aim of the study was to study the effects of external low current stimulation on a cortical model neuron with respect to changing microelectrode position and configuration . in order to enlighten the neural elements which are activated ,
+more details on the influence of 3d structures and ion channel distributions will be reported in a forthcoming paper .
+, we avoided to include the anatomical diversity of pyramidal cells concerning their diverging pattern of dendrites and axons .
+( 2008 ) with a simple model of reduced geometrical complexity and an even distribution of only traditional hodgkin huxley style na and k currents which is able to explain properties like rapid spike onset and its high threshold variability .
+lower resistances caused by branching or suddenly increased diameters , for example at the border to the soma , not only reduce the possibility of spike development but are also capable of preventing the conduction into the axon .
+mainen and sejnowski ( 1996 ) suggest to include these complex ion channels to expand from single spikes to spike trains , that is repitative firing , which is beyond the purpose of this article . in order to concentrate the analysis on phenomena already observed in a non - branching rectified neuron

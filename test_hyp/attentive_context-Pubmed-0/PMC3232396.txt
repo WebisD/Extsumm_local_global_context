@@ -1,0 +1,6 @@
+the general objective of this study was to determine the nucleotide sequences of genes encoding vp1 and 3d proteins of a type a fmdv ( a / iran87 ) highly adapted to cell culturing , and to compare them to other corresponding sequences available in the genbank database .
+the findings of the current study demonstrated that the cell - adapted vaccine strain a / iran87 containing 13-amino acid deletions in the vp1 protein can be considered as a novel variant of fmdv type - a .
+space - filling and worm styles of the three - dimensional structures of the 3d and vp1 proteins from the a / iran87 isolate were observed .
+the vp1 and 3d nucleotide sequences of the selected fmdv - a subtypes isolated from outbreaks in iran and other countries were used to construct a fmdv - a vp1 and 3d - based sequence similarity tree .
+sequences of the protein coding regions ( vp1 and 3d ) from the high - passage cell - adapted vaccine strain were determined by pcr amplification and sequencing .
+above mechanisms , there is continuous co - circulation of multiple genotypes of fmdv type a which may lead to recombination ; this progresses gradually between closely related isolates when multiple viral genotypes

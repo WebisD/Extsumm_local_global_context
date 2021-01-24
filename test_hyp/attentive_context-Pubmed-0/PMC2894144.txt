@@ -1,0 +1,7 @@
+we demonstrated the functioning of the nanocapsule of complex structural shape for methane storage using the method of molecular dynamics .
+an obvious advantage of the nanocapsule is its operation cycle : methane is adsorbed under the elevated pressure ( 40 mpa ) and at normal temperature with further blocking of methane molecules by the k@c60 endohedral complex in the nanocapsule with the external electric field , the storage is performed in normal external conditions , and methane desorption is performed at temperature elevation up to 350 k , at which methane molecules push out the k@c60 and are desorbed from the nanocapsule .
+methane content in the nanocapsule at the storage stage is ~11.09 mass% . at the storage and desorption stages ,
+, the processes of methane molecule adsorption , storage and desorption by the nanocapsule are investigated with molecular - dynamic modeling method .
+the engineering of nanostructured carbon opens the ways for the production of nanocapsules of complex structural shapes [ 14 - 16 ] . in this work
+the electric field is not used , this significantly simplifies the use of nanocapsules in automobile applications .
+the multiple techniques of nanostructural engineering developed are the prerequisites for the creation of similar nanocapsules .

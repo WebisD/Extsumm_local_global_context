@@ -1,0 +1,7 @@
+stimulation of jurkat cells with anti - cd95 resulted   in the rapid formation of hypodiploid dna , which was   comparable in atp - depleted cells and cells kept under   normal growth conditions ( fig .
+therefore , we investigated the effects of   atp depletion on apoptotic dna fragmentation and cell   death .
+however ,   anti - cd95 and staurosporine themselves only slightly affected intracellular atp levels in early stages of apoptosis .   in summary , manipulation of intracellular atp levels is a   useful means by which to discriminate between the involvement of distinct apoptotic pathways .
+4 c demonstrates that treatment of cells with oligomycin   resulted in a strong decrease in atp production .
+1 ) . because apoptosis   mediated by anticancer drugs has been proposed to induce   the expression of cd95l and elicit cell death by subsequent cd95 interaction ( 20 , 21 )
+our findings   convincingly demonstrate that the cytochrome c / apaf-1   pathway and receptor - triggered signaling events are not   necessarily linked to each other .
+however , atp   depletion did not prevent final cell death , as assessed by   membrane uptake of propidium iodide into cells . instead ,   in the presence of oligomycin , cell death occurred by necrosis .

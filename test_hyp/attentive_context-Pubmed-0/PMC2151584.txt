@@ -1,0 +1,5 @@
+, we found that gem and rem2 drive a dose - dependent inhibition of ca currents .
+rem2 , but not gem , also modulated both the kinetics of channel activation and inactivation in a manner that was dependent on  subunit interaction with the 1 interaction domain ( aid ) .
+it is difficult to understand how rgk expression could result in a finely graded response . in this study , we provide new insights into how gem and rem2 regulate ca channels . exploiting the xenopus oocyte system to control levels of expression ( canti et al . , 2001 )
+, 2001 ; finlin et al . , 2005 ) after glucose stimulation might protect islet cells from excessive ca influx during chronic hyperglycemia , but how would cells retain their ability to secrete insulin with the almost complete loss of ca currents observed in previous overexpression experiments ? in this study we describe two unexpected means by which rgks regulate ca channels , providing a framework for understanding how a wide array of ca signaling events can be precisely regulated .
+exploiting the xenopus oocyte system to control protein expression levels , we found that rgk inhibition of ca channel current was dose dependent .

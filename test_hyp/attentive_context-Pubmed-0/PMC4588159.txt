@@ -1,0 +1,9 @@
+a genome - wide approach opens up the possibility of obtaining new information in the field of genome instability .
+the mobility of transposable elements ( tes ) is one of the factors that induce spontaneous genetic instability .
+nevertheless , every method has its own restrictions . in our comments , we compare cytological , genetic and genome - wide molecular analyses of mobile element transposition rates in hybrid genomes .
+the genome instability in intraspecies crosses is at least one order of magnitude higher than in interspecies hybrids if take into account genome - wide approaches .
+the transposition rate of tes is difficult to study due to the rarity of events and polymorphic tes locations , even in inbred strains .
+this is because genome - wide methods can recognize not only movable te , but also short defective derivatives , which have lost the potential to change positions .
+the difference in the tes copy number found in hybrid genomes by fish and aflp approach can be explained by different sensitivities of these methods .
+authors directly mapped new transposon insertions by paired - end deep sequencing of ovarian dna .
+instability which is recognized by aflp technique can reflect changes of tes position that happens mainly without transposase participation .

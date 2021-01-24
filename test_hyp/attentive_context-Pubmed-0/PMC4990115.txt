@@ -1,0 +1,8 @@
+the genetic study of yeast , but not mammalian cells , allows for examining the structure of various hr intermediates .
+the genetic study of yeast species provides a framework for examining molecular mechanisms underlying hr in mammalian cells .
+dna double - strand breaks ( dsbs ) are the most dangerous type of dna damage , as a single unrepaired dsb can trigger apoptosis .
+it has been widely believed that the alternative choice model is also relevant to mammalian cells , though the relevance has not yet been demonstrated .
+there are two major dsb repair pathways in eukaryotic cells : homologous recombination ( hr ) and non - homologous end joining ( nhej ) .
+the method of examining the precise structure of resected dsb sites is currently available only for meiotic hr in s. cerevisiae , but not for mammalian cells   .
+the choice of the two pathways in saccharomyces cerevisiae is alternative so that dsb resection can inhibit nhej , because dsbs containing 3 single - strand dna can not be repaired by canonical nhej ( fig . 
+in addition , since hr is the most complex dna repair reaction , involving more than 100 molecules ( including histone - modifying enzymes ) , neither the biochemical study nor genetic study of mammalian cells allows for dissecting the role of individual factors in various hr reactions .

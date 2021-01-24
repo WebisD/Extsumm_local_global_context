@@ -1,0 +1,7 @@
+, i will provide a brief overview of strand annealing activity found in various proteins across species and then focus on annealing helicases in humans and their potential mechanisms and functions .
+these discoveries not only enrich the definition of helicases but also establish the presence of a new type of protein : annealing helicase .
+finally , a better understanding of the biological function of annealing helicases is likely to provide the basis for treating a variety of human disorders , such as siod of harp , premature aging of recq helicases , and cancers .
+the mechanism of this novel strand annealing activity and its biological consequences remain largely unknown . in this paper
+dna helicases have been reported to function in a variety of dna metabolic processes , including unwinding duplex or alternative dna structures ( triplex , g - quadruplex ) , stripping protein bound to dna , and chromatin remodeling   .
+the discovery of annealing helicases establishes the presence of a class of enzymes that possess only rewinding activity and opens a new area of research . the range of proteins that function as annealing helicases remains to be determined .
+helicases are molecular motors that couple the energy of nucleoside triphosphate hydrolysis to the unwinding and remodeling of structured dna or rna   .

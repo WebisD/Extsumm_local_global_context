@@ -1,0 +1,6 @@
+in conclusion , a capillary microreactor was used for the continuous synthesis of cds ncs , and the influences of reaction temperature and residence time were investigated systematically to obtain the optimal synthesis parameters .
+the combined effect of rtd and ostwald ripening resulted in the optimal residence time as 68 s. the continuous operation and low sample consumption involved in microreaction allowed an accelerated study of the kinetics involved .
+variations of oa concentration and residence time were demonstrated as an effective way to control the size of cds ncs produced . with an increase in residence time from 17 to 136 s and an increase in the volume percentage of oa from 10.5 to 51.2% , cds ncs in the size range from 3.0 to 5.4 nm
+the enhanced mass and heat transfer involved in microchannels facilitated the rapid synthesis of high - quality cds ncs at the low reaction temperature of 220c .
+in addition , the high quality of the resulting cds ncs was confirmed by the pl spectra , powder x - ray diffraction ( xrd ) , and high - resolution transmission electron microscopy ( hrtem ) .
+furthermore , excellent size distributions were obtained over a wide range of oa concentrations , and narrow hwhm absorption peaks ( from 11.6 to 14.0 nm ) were maintained during the entire process .

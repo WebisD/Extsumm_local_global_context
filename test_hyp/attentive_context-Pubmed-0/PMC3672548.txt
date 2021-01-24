@@ -1,0 +1,7 @@
+however , validation in critically ill patients is lacking . as part of the internal evaluation of a bioreactance device before its implementation in the unit ( evaluation of new non - invasive monitoring systems before introduction in the unit
+most validation studies in critically ill patients have shown good correlation and/or agreement of bioreactance values compared with co values obtained using other devices in patients admitted after cardiac surgery [ 2 - 4 ] .
+measurement of cardiac output ( co ) requires use of invasive or minimally invasive devices ; the use of noninvasive and minimally invasive devices has gained popularity in recent years .
+the bioreactance technique is dependent on diffusion of electrical current , so interstitial edema may interfere with measurements ; we believe this is the most probable explanation for the poor correlation .
+we recorded bioreactance co ( average of five values over a 5-minute period ) just after obtaining the pulmonary artery catheter cco ( average of five cco values over a 5-minute period ) .
+the bioreactance technique is a relatively new , continuous , totally non - invasive technique for measuring co that is easily implemented .
+correlation between pulmonary artery catheter semi - continuous cardiac output by thermodilution and bioreactance cardiac output .

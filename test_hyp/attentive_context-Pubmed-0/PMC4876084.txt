@@ -1,0 +1,7 @@
+although hira - nps data was not available for a sufficient number of esd patients ( 509 esds in 490 patients ) to allow for an accurate assessment , and only limited clinicopathological information was available , the problems associated with the relatively few number of patients can be overcome through further research using the raw hira data .
+histologic mapping of esd specimens is recommended by the gastrointestinal pathology study group of the korean society of pathologists . however , 30.2% ( 143/472 ) of esd specimens were not claimed as  c5508 
+because precise histologic diagnosis of the esd specimen is essential to treat patients , we suggest that nationwide surveys be conducted in order to assure quality of pathologic examination of esd specimens .
+the hira data tables were composed of five main tables ( general specification , healthcare services , diagnosis information , prescriptions , and general information about the medical institutions ) .
+our hira - nps data revealed that only 10.9% of nation - wide cases experienced a change of diagnosis after esd .
+the disease codes were based on the korean standard classification of disease ( kcd ) .
+43.5% of the tertiary hospitals ( 10/23 ) , 15.6% of the general hospitals ( 48/307 ) , and 23.8% of the other institutions ( 12,090/50,868 ) were located in seoul .

@@ -1,0 +1,7 @@
+the clinical application of cancer genomics should be considered in the context of unmet clinical needs to maximize the value of this novel paradigm . here , we dealt with the potential clinical application of cancer genomics in the aspect of practical management of cancer patients , along with a clinical scenario covering the whole course of cancer management .
+despite the explosive increase in cancer genomics data , the actual application of genomics data and approach to clinics offers big challenges   .
+we overviewed the potential of cancer genomics in the context of real cancer practice through this approach .
+cancer clinicians expect novel diagnostic , prognostic , and therapeutic values of this new technology .
+the main reason for the delay in the application to clinics is non - connectivity between bioinformaticians , non - clinical scientists , and clinicians .
+it would speed up and optimize the application of genomics to cancer clinics if cancer biologists , bioinformaticians , and cancer clinicians cooperate towards one goal of achieving it .
+early detection , non - invasive molecular diagnosis , risk prediction of relapse and tumor - related events , monitoring of disease status , matching good drugs , and finding out personal grade resistance mechanisms are good examples of unmet clinical needs that should be solved with cancer genomics .

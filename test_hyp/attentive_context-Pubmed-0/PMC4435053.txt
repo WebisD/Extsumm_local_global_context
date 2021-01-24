@@ -1,0 +1,6 @@
+we used algorithm - defined effectiveness to calculate the cost per effectively treated patient and conducted analyses by biologic and method of administration ( subcutaneous and iv ) .
+patients taking etanercept and adalimumab experienced similar algorithm - defined effectiveness rates , while the rates were higher with etanercept compared to infliximab and abatacept .
+in an analysis of pbm claims data , we found that patients with ra who took subcutaneous biologics experienced a higher rate of effectiveness according to a validated algorithm and lower cost per algorithm - defined effectively treated patient .
+the overall rate of effectiveness according to the validated algorithm was 32% and was significantly higher among patients taking subcutaneous ( 36% ) compared to iv biologics ( 23% ; p<0.001 ) ( table 5 and figure 1 ) .
+the results of our study suggest that patients and pbms may benefit from a formulary - driven strategy to encourage subcutaneous over iv biologic use in treating ra .
+there was a significantly higher proportion of patients meeting the increased biologic dose criterion in iv compared to subcutaneous biologics ( p<0.001 ) , and in adalimumab , infliximab , and abatacept compared to etanercept ( p<0.001 for all ) ( table 5 ) .

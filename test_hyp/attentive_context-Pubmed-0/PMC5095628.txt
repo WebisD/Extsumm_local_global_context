@@ -1,0 +1,13 @@
+in the present study , we determined the nt sequences of n , p , m , hn and l genes , le , tr and igs of apmv / shimane67 . together with our previous study of the f gene 
+ sequencing , whole genome sequencing of apmv / shimane67 was completed .
+extraction of viral rna , rt - pcr and nucleotide sequencing : the isolation and characterization of apmv / shimane/67 have been previously described 
+ .
+the genome of apmv / shimane67 basically had following common features with other apmvs : agreement with the  rule of six  ; gene order ( 3-n - p - m - f - hn - l-5 ) and 
+ existence of gs and ge signal , and igs ; complementation of 3- and 5-terminus sequence ; existence of three times repeated motif ; existence of the putative rna 
+ editing site of p gene .
+although there is no serological evidence for 
+ the close relationship between apmv / shimane67 and kazakhstan apmv , the genomic similarities of apmv / shimane67 and kazakhstan apmv suggest that these two strains 
+ would be classified as the same serotype , apmv-13 .
+by contrast , the genome of apmv / shimane67 had differences with other apmvs in terms of some details , such as the nt length of whole genome , six genes ( n , p , m , 
+ f , hn and l ) and igs , and predicted aa length of six genes , which were almost unique in apmv / shimane67 ( table 1 ) . the 
+ genome size of apmv / shimane67 was 16,146 nt long .

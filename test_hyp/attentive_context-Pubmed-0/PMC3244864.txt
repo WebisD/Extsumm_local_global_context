@@ -1,0 +1,6 @@
+stable -fe3n - based magnetic fluid was prepared by controlling the ratio of carrier liquid and the optimized volume ratio for synthetic oil ( pao4 ) and surfactant was 4:1 . both the measured and calculated magnetizations increase with increasing particle fraction in the fluid . with the increasing concentration of the -fe3n particles , the measured
+thus , fine particles of ferromagnetic iron - nitrides have a potential application to magnetic fluids that need a high magnetization and stability against oxidation . in this article , single - phase -fe3n - based magnetic fluid and nanometer powders were analyzed . in the magnetic fluids ,
+in this work , the size of -fe3n nanoparticles was tested by tem and xrd . compared with the results , both of the methods are suitable to particle size testing within the experimental error .
+the assays performed for the preparation , stability , and evaluation of the magnetic fluids are discussed in the following sections .
+magnetic dipolar interactions between magnetic particles are neglected and the magnetic particles in the fluid feel only the external magnetic field fitting the hypothesis of eq .
+in magnetic fluid , in addition to the hydrodynamic interaction , there exists the dipolar 

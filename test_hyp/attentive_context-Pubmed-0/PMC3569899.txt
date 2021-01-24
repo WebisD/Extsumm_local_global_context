@@ -1,0 +1,6 @@
+glucocorticoids ( gcs ) are among the most effective drugs used in the treatment of hematopoietic malignancies of the lymphoid lineage in virtue of their ability to induce apoptosis of these cancerous cells   .
+a great challenge today is to develop strategies that can overcome the drug resistant phenotype . for this purpose
+in order to develop strategies to overcome gc resistance , it is essential to understand the signaling network regulating gc - induced apoptosis .
+a major drawback of gc therapy is the gradual development of resistance to gc during treatment that limits the clinical utility of this drug .
+it is important to understand the underlying mechanisms of gc resistance and the signaling pathways regulating apoptosis induced by gcs . besides inducing apoptosis of lymphoid cells , gcs
+main factors affecting the response to gc include the basal and inducible gr expression levels , the induction of and basal expression of genes involved in the intrinsic apoptotic pathway , the ability of gr to translocate to the mitochondria , the activity of gsk3 ( glycogen synthase kinase 3 ) , the general protein kinase activation profile of the cell prior to and following gc therapy , the expression profile of anti - apoptotic proteins , and the activities of pro - survival signaling pathways .

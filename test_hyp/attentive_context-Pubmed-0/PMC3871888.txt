@@ -1,0 +1,25 @@
+, we report the 
+ use of 2d gamma - imaging to quantify tc transport parameters 
+ in a simple granular porous media 
+ model .
+the technique represents 
+ a base for development of model systems for noninvasive study of radionuclide 
+ migration in complex physicochemical environments , critical to establishing 
+ the design specifications and safety case for future gdfs , and also 
+ for application to other contaminant transport in the subsurface .
+furthermore , we apply this methodology , for the first time , to investigate 
+ the feasibility of direct noninvasive quantification of radionuclide 
+ migration within opaque cementitious gdf candidate material ( crushed 
+ nirex reference vault backfill ( nrvb ) ) under circum - neutral and alkaline ph .
+uniform , saturated one - dimensional flow through ottawa quartz 
+ sand , as a model test material , is used to demonstrate the ability 
+ of gamma imaging to obtain reproducible data sets at the mesoscale 
+ ( millimeters to decimeters ) , which can be used to yield transport 
+ parameters by fitting standard convection  dispersion models . 
+
+these 
+ studies utilized ultratrace concentrations of a gamma - emitting technetium 
+ isotope , technetium-99 m ( commonly used in medical and industrial imaging 
+ applications ) , to demonstrate qualitatively the immobilization of 
+ technetium on fe(ii)-bearing sediments and minerals , via an fe(ii)-mediated 
+ reduction of tc(vii ) to tc(iv ) . in this study

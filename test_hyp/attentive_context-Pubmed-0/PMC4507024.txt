@@ -1,0 +1,6 @@
+here , i focus on recent advances and current knowledge on the protein turnover regulation of acs in ethylene biosynthesis . new insights into the role of phosphorylation , ubiquitination and recently identified novel components governing the stability of acs proteins are discussed . finally , i conclude with the prospects regarding the cross - talk between ethylene and other cellular biosynthetic / signaling pathways .
+transcriptional regulation in ethylene biosynthesis has been well documented , therefore not discussed in this review .
+together , these studies indicate that there are molecular components that act as the points of cross - talk between ethylene biosynthesis and other hormonal signaling pathways .
+identification of these elements will bring new insights into understanding the mechanism by which protein turnover of acs is regulated to coordinate and merge different hormonal inputs to regulate ethylene production which effects on many diverse ranges of plant growth and development .
+due to its role in the rate - limiting step of the ethylene biosynthesis pathway , acs has been considered as a major point of the regulation in the pathway .
+several studies indicate that there are molecular components acing on the non - c - terminal domain of acs proteins to regulate their stability .

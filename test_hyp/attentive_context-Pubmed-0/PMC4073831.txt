@@ -1,0 +1,22 @@
+we found that reaction of the e. coli class iii rnr with ctp in the absence of 
+ formate resulted in stoichiometric accumulation of a thiosulfuranyl 
+ radical , comprising a cysteine thiyl radical stabilized by a three - electron 
+ bond to a methionine residue . this new sulfur - based radical joins 
+ other sulfur - based radicals observed in the other two classes of rnrs : 
+ the class ia disulfide anion radical proposed 
+ to be involved directly in nucleotide reduction and the class ii exchange 
+ coupled
+our results suggest that detecting thiyl radicals and controlling 
+ their reactivity may require an orchestrated constellation of residues 
+ adjacent to the thiyl radical that protects it from alternative chemistry 
+ while allowing the reaction to proceed rapidly when the substrate 
+ ( effectors ) is in the appropriate conformation .
+ribonucleotide reductases 
+ ( rnrs ) perform an essential function 
+ in all organisms , catalyzing the conversion of ribonucleotides into 
+ deoxynucleotides and providing the monomeric precursors required for 
+ dna synthesis and repair ( chart 1 ) .
+our isotopic labeling studies with nrdd / ctp / atp provide strong 
+ evidence for localization of the radical on cysteine and methionine 
+ as hyperfine interactions associated with both cysteine -protons 
+ and the methionine - and -protons are observed .

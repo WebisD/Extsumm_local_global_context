@@ -1,0 +1,6 @@
+it features high flexibility and the possibility to analyze protein networks with various ( downloadable ) plug - in software extensions allowing us to analyze and interpret the collected pml network .
+based on this model we offer a system - wide perspective on the pathways and proteins that gather at the nuclear bodies .
+an integrated view of all the existing information is indispensable to gain true understanding of the functionality of large protein complexes such as pml - nbs .
+, several techniques such as affinity capture , yeast two hybrid , co - localization and mass spectrometry have been employed to identify proteins of the pml complex which could lead to a better understanding of the pml - nb function .
+we present a curated network model of pml - nbs based on information extracted from protein interaction databases ( mint , intact , biogrid , hprd and npd ) and fragmented information obtained through extensive literature search . for the compilation of the network we used the open source network analysis software cytoscape .
+the network is publicly available ( proteomics division at http://www.ua.ac.be/ppse ) to make it a central information resource for  pml - omics  researchers .

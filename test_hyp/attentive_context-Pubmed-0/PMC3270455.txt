@@ -1,0 +1,7 @@
+, we focus on cnvs observed at relatively low frequency ( < 5.0% of the individuals ) in a population residing in hiroshima and nagasaki , japan , using cgh with bac clones as targets .
+the newly identified cnvs extend the coverage of cnvs in the human genome ( also the general japanese population ) .
+in this study , 34 cnvs were new , indicating that cnv coverage of the human genome is still incomplete and that there is diversity between the japanese and other ethnic populations .
+we summarized the available data by focusing on highly polymorphic cnvs ( in 5.0% of the individuals ) in a previous paper .
+however , rare variations have recently received attention from scientists who espouse a hypothesis called  common disease and rare variants ,  in contrast to the  common disease - common variants  hypothesis that underpins most genome - wide association studies . in this paper
+we examined 213 unrelated japanese individuals using bac - acgh and found a total of 126 cnvs on 52 different bac regions in the genomes .
+we summarized some of the genes and disease - related genes that overlap with the bac - clone region for our cnvs ( table 3 ) .

@@ -1,0 +1,7 @@
+injury - induced changes in  subunit expression and the altered functional regulation of the na channels expressed in sensory neurons contribute to the hyperexcitability and ectopic firing of sensory neurons .
+all four isoforms ( 14 ) and both splice variants ( 1a , 1b ) of  subunits are broadly expressed in the pns . these subunits interact with many of the na channel isoforms in sensory neurons and alter the expression , voltage - dependence , and gating properties of these channels .
+this pattern of  subunit expression suggests that these auxiliary subunits may differentially regulate voltage - gated na currents and the excitability of these neuronal populations .
+the evidence supporting a role for resurgent currents in the development of neuropathic pain is compelling and warrants further investigation .
+current evidence suggests that  subunits are important contributors to sensory physiology , nociception , and neuropathic pain .
+voltage - gated na channels are important determinants of sensory neuron excitability , and changes in the expression and gating properties of these channels have been implicated in the development of neuropathic pain ( cummins et al . , 2007 ;
+ten isoforms of voltage - gated na channels have been identified that vary in tissue distribution , structure , biophysical properties , and sensitivity to neurotoxins ( table 1 ; chahine et al . , 2005 ) .

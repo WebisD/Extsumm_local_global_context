@@ -1,0 +1,8 @@
+normal c57bl/6 mice and mice containing foxo1 knock - in ( foxo1tag ) , foxp3-ires - rfp and bira alleles or foxp3-ires - rfp and bira alleles were previously described .
+the bedtools suite of utilities   was used for post - processing tasks such as finding overlapping antibody and biotin immunoprecipitated peaks .
+, we developed a novel peak - calling algorithm bcp   ( http://rulai.cshl.ed/bcp/ ) , which employs a bayesian hidden markov model , to perform segmentation of the genome and identify enrichment .
+treg cells in mice carrying the foxp3-ires - rfp allele were marked by red fluorescence protein ( rfp ) .
+, we developed a novel peak - calling algorithm bcp   ( http://rulai.cshl.ed/bcp/ ) , which employs a bayesian hidden markov model , to perform segmentation of the genome and identify enrichment .
+macs makes use of the inherent tendency of clusters of sense and antisense reads flanking protein - dna interaction sites to model fragment length .
+this method expands peak - calling capabilities to more diffuse , less punctate enrichment , as seen in many histone modification chip - seq and dnase i hypersensitivity sequencing assays .
+macs makes use of the inherent tendency of clusters of sense and antisense reads flanking protein - dna interaction sites to model fragment length .

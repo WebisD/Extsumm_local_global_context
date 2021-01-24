@@ -1,0 +1,7 @@
+genome - wide association studies ( gwass ) have emerged as a powerful non - biased technique for identifying pathways related to human diseases with complex genetic architecture .
+human genetics provides a powerful tool to identify and understand physiologically relevant host responses to pathogens given that host - pathogen interactions are known to have a role in many complex diseases .
+understanding such complex diseases requires a broad understanding of the relevant functional nodes regulating disease - relevant pathways .
+this study highlights how perturbational profiling can be used to study pathways underlying immunity and pathogen defense and illustrates the potential of combining whole - genome experimental data sets to understand functional gene interactions within a relevant pathway .
+, we perform stimulus - specific perturbational profiling in pbmcs , quantitative mass - spectrometry - based ( ms ) proteomics , and genome - wide rna expression analysis to identify antibacterial genes that are functionally related to atg16l1 .
+using these approaches , we demonstrate a role for clec12a in antibacterial autophagy and pinpoint a functionally relevant interaction node of clec12a with an e3 ligase complex that is important for this function .
+using this strategy , we uncovered bacteria- and bacterial - ligand - specific programs affected in healthy individuals homozygous for the t300a polymorphism in the autophagy gene atg16l1 .

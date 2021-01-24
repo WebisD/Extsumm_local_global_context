@@ -1,0 +1,6 @@
+the aim of this study was to determine the braf v600e mutation frequency in a large cohort of sgcs of the main histopathological types and to design an allele - specific pcr as an effective screening method .
+recently , it was demonstrated that wildtype braf is required for the response of patients with metastatic colorectal cancer to cetuximab and panitumumab .
+braf ( v - raf murine sarcoma viral oncogene homolog b1 ) , a serine / threonine kinase , is the downstream effector of kras in the ras - raf - mapk signaling pathway . a somatic mutation ( v600e ) in exon 15 of braf has been identified in multiple human cancers with a mutation rate of 66% in malignant melanomas   and at lower frequency in other human carcinomas .
+, we made a serial dilution of ht 29 dna ( which contains the heterozygous braf v600e mutation ) , in control dna with wildtype braf .
+progress in understanding the cell biology of salivary gland carcinomas ( sgcs ) and detecting vulnerable molecular pathways may lead to the development of new targeted therapy options in these rare cancers with   poor prognosis .
+the 273 bp pcr fragment was always amplified confirming the integrity of the isolated dna from clinical tissue samples ( figure 1(a ) ) . to test the sensitivity of the mutation - specific pcr

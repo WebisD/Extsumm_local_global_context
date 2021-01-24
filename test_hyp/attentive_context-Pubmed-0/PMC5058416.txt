@@ -1,0 +1,6 @@
+drug product information ( pi ) provides details on the approved clinical use of drugs listed by the therapeutic goods administration ( tga ) in australia .
+information included in pis is derived from clinical trials that support the use of a drug in each of these areas .
+nevertheless , off - label prescribing may be justified by good quality evidence from clinical trials or systematic reviews of the literature , and a number of examples have been accepted in general and specialist clinical practice .
+it is commonly used off - label in obstetrics for treatment of post - partum haemorrhage as part of a management algorithm since it has demonstrated effective haemorrhage prevention and control in combination with oxytocin ( tuncalp et al . , 2012 ) .
+off - label prescribing occurs when a drug is prescribed for one or more criteria that are not included in the pi and , as such , information regarding appropriate dose for the condition or population group , pharmacokinetics / pharmacodynamics , and potential adverse effects may not be available in the pi or consumer medicines information ( cmi ) .
+based on the pharmacology of a drug in relation to its approved indication , however , treatment of other medical conditions not listed on the pi may also be rationalised .

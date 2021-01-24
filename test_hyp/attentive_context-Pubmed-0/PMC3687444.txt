@@ -1,0 +1,8 @@
+one of the new molecular targets for non - small cell lung cancer ( nsclc ) therapy is the epidermal growth factor receptor ( egfr ) .
+lung cancer is the main cause of cancer deaths both in poland and in the world .
+this is due to the fact that most patients at the time of diagnosis are in an advanced stage of the disease , usually accompanied with tumour metastases . in about 25% of such patients extension of life by a few month
+the results of clinical trials of new generation drugs are promising and their usefulness in molecularly targeted therapies will probably be proven in the near future   .
+such disappointing results force us to search for new therapeutic options   .
+therefore , there is more and more interest in treatment associated with inhibition of egfr   .
+non - small cell lung cancer accounts for about 85% of all lung cancers , and the progress in its treatment is still not very satisfactory . the therapeutic procedure of choice is surgery , but only every fifth patient qualifies for it .
+therefore , the expansion of molecular tests with studies concerning mechanisms of resistance to reversible egfr tki is necessary .

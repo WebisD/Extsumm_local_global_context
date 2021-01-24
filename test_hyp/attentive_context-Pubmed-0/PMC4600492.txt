@@ -1,0 +1,7 @@
+icf and si response amplitude and area size , mt and the erd of the hemisphere harboring the stroke lesion , and sici and ers of the nonlesioned hemisphere are correlated in stroke patients .
+numerous correlations of the excitability parameters between the lh and nh emphasize the importance of the hemispheric balance of the excitatory - inhibitory properties of the sensorimotor system in analyzing the stroke - related dysfunction during stroke recovery .
+we hypothesized to see correlations between erd and mt related to the early cortical excitability and between ers and sici , both attributed to gaba - a - related processes .
+moreover , we expected that icf , reflecting glutamatergic activity , would correlate with the somatosensory modifications in meg , as glutamate is associated with late somatosensory plasticity .
+our study is the first to compare meg and ntms excitability parameters during stroke recovery .
+the sici and beta ers , both attributed to gabaergic mechanisms , were correlated in one of their four possible intrahemispheric conditions ( in the nh at t2 ) .
+in addition to hypothesized correlations , sici of the nh and erd of the lh at t2 were correlated ( r = .82 , p < .001 ) , indicating that strong erd in the lh was associated with a strong sici in the nh .

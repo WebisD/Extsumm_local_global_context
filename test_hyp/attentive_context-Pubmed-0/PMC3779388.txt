@@ -1,0 +1,8 @@
+we present a case where hybrid imaging of pet / mri was used to diagnose a patient with semantic dementia ( sd ) , which is one of the lesser known subtypes of frontotemporal lobe dementia ( ftd ) .
+functional metabolic imaging of the brain using fluorine-18 fluorodeoxyglucose ( fdg ) positron emission tomography ( pet ) is one of the most useful tools in distinguishing the patient 's symptoms from the various types of dementia by elucidating global and regional deficits in cerebral glucose metabolism .
+this case demonstrates an example of the value of combined pet - mri in clinical practice .
+co - registration of images provides essential information that is needed to make a diagnosis in challenging cases .
+magnetic resonance imaging ( mri ) often plays a role as well , as it is more widely available , and is used to evaluate structural abnormalities within the brain parenchyma .
+thus , clinical symptoms can be related to lesions in specific parts of the brain .
+it is associated with predominantly temporal lobe atrophy ( left greater than right ) and is often referred to as temporal variant ftd .
+sd is characterized by a loss of language and verbal skills with late stage behavioral changes .

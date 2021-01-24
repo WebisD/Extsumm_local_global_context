@@ -1,0 +1,6 @@
+, our results revealed that pkc has both kinase - dependent and kinase - independent functions to regulate rhoa ; pkc directly phosphorylates rhoa and , moreover , serves as a chaperone to translocate rhoa to the cell membrane .
+the pkc-rhoa signaling module was shown to modulate cancer cell invasion and motility . however , the molecular mechanism of pkc regulation of rhoa remains to be elucidated . in this study
+work from our laboratory provided the initial evidence linking two proteins , pkc and rhoa , intimately involved in metastasis .
+pkc was shown to signal through rhoa to modulate cell invasion and motility in hnscc . in this study
+taken together , these findings support a kinase independent role of pkc as a chaperone to traffic rhoa to the cell membrane .
+interestingly , an active atp - docked pkc conformation is not required for pkc to bind to rhoa indicating that the pkc-rhoa complex is assembled independently of the transient substrate - kinase interaction at the catalytic site of pkc. stoichiometric fret analysis with hek293 cells overexpressing mcherry - pkc and egfp - rhoa revealed that the pkc-rhoa complex is assembled in the cytoplasm and subsequently translocates to the cell membrane .

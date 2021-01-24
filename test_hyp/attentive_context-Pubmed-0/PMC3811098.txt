@@ -1,0 +1,8 @@
+how these modern network approaches have enriched our understanding of brain function is the main topic of this article .
+the first section will provide an overview of major quantitative methods for analyzing brain network data .
+this review is intended as a primer on current research efforts to map and model the networks of the human brain , with the long - term aim of understanding how the functioning of the brain depends on its network architecture .
+finally , the article examines the state of the art in using network approaches directed at uncovering the role of connectivity in brain and mental disorders .
+the following section will focus on current efforts directed at mapping networks of the human brain , with a focus on structural networks delivered by diffusion imaging and tractography .
+the article concludes with a brief reflection on the future promise of network approaches for understanding the function of the healthy and diseased brain .
+technological developments in noninvasive neuroimaging have opened up new avenues towards studying the structure and function of the human brain .
+this recent confluence of neuroscience and network science opens up a number of new opportunities for approaching brain function from a complex systems perspective .

@@ -1,0 +1,4 @@
+pcr detection of the virulence genes showed that cyle , lmb , scpb , bca , and rib genes were positive in 99% , 96.1% , 94.7% , 56.6% , and 33% of the gbs isolates respectively .
+genotyping of all the isolates detected seven gbs clusters i , ii , iii , iv , v , vi , and vii with the following prevalence percentages : 18.4% , 13.2% , 19.4% , 7.9% , 11.8% , 11.8% , and 17.1% , respectively . a dendrogram of the seven clusters of genotypes
+there was a wide prevalence of the cyle , lmb , and scpb genes among the total isolates , and hence all 3 genes were evenly distributed among the genotype clusters .
+six antimicrobial resistance ( ar ) profiles of isolates were detected : a ( resistant to cli , ery , chl , and tet ; 4.0% ) , b ( resistant to cli , ery , and tet ; 6.6% ) , c ( resistant to cli and tet ; 1.3% ) , d ( resistant to ery and tet ; 5.3% ) , e ( resistant to only tet ; 69.7% ) , and f ( susceptible to all ; 13.2% ) .

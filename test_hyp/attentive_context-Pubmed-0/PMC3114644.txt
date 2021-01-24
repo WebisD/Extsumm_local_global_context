@@ -1,0 +1,6 @@
+our present study focuses on v1rs because they have only one coding exon , making dna amplification and sequencing much easier . here ,
+in this study , we characterized the intra- and interspecific sequence variations of 44 v1r genes and 25 noncoding regions in two closely related mus species . both intraspecific polymorphisms and interspecific divergences
+it remains to be seen whether this disparity is due to the difference between the genes we sampled and the rest of v1rs , sequencing errors in draft genome sequences , or the differences between the wild mice and inbred laboratory mice .
+a substantial amount of genetic , neurological , and behavioral data related to vomeronasal sensitivity is available for the laboratory mouse , allowing a more accurate interpretation of the evolutionary and population genetic data that we collect .
+we report the microevolution of 44 v1rs and 25 presumably neutral noncoding regions in these 14 mice .
+although some authors regard mm and md as two subspecies of the species m. musculus ( tucker 2007 ) , for simplicity , we treat them as two species that are in an early stage of divergence with a low degree of gene flow .

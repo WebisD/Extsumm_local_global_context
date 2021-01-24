@@ -1,0 +1,6 @@
+this paper gives an update on the recent efforts made in establishing alternative means of eradication and also prevention of candida spp .
+biofilms , by developing new models of biofilm formation in flow conditions , as well as high - throughput rapid screening analyses in vitro . newly developed in vivo models anticipate a shift of interest towards mixed fungal - bacterial biofilms and their role in pathogenesis in mucosal infections in particular .
+the large panel of biofilm models suitable for candida research highlights the diversity of niches in which the fungus can develop ranging from biotic to abiotic surfaces .
+biofilms , adherent microbial communities embedded in a polymer matrix ,   are common in nature . however , they are also a persistent cause of hygiene problems in the food industry and in the medical field .
+the search for an antibiofilm treatment is a complex subject which requires improved knowledge of the pathogen itself , and also of the host response to adhesion and biofilm formation , the properties of the substrates onto which biofilm develop , and the interactions within microbial communities .
+in addition , the ability to adhere , as a unique prerequisite to form a biofilm , is a fast process , which makes the prevention of biofilm development difficult with the current antimicrobial tools and strategies .  

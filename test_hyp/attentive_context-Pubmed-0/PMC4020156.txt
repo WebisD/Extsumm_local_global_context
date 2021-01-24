@@ -1,0 +1,5 @@
+the purpose of this study was to evaluate a balancing measure of a quality improvement initiative to standardize the dosing of oxytocin ; namely , whether there was an unanticipated consequence of an increase in postpartum hemorrhage .
+there were 1003/3114 ( 32.2% ) women in the pregroup with a hemoglobin decrease of at least 2  g / dl , compared to 918/2895 ( 31.7% ) in the postgroup , p = 0.7 .
+there were 261/3114 ( 8.4% ) women in the pregroup with a hemoglobin decrease of 3  g / dl or greater , compared to 252/2895 ( 8.7% ) , p = 0.7 .  
+in this study we evaluated a standard postpartum 30-unit oxytocin dose versus a 40-unit dose and found there was no difference in the need for blood transfusion , mean hemoglobin change , and hemoglobin changes of 2 or 3  g / dl , demonstrating that the new medication protocol did not increase the incidence of postpartum blood loss nor number of blood transfusions despite administering a lower total dose of oxytocin .
+the series were modeled by a third - degree polynomial , and there was not a significant difference between pre and post for a hemoglobin change of 2  g / dl ( p = 0.44 ) nor 3  g / dl ( p = 0.21 ) .

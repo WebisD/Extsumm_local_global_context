@@ -1,0 +1,5 @@
+the aim of this study was to assess the effect of dynamic loading and screw retightening on rtv in external and internal connection type implants .
+the implant / abutment assemblies were divided into 4 groups ( 10 assemblies per group ) in order to evaluate the effect of intermittent retightening : 1 ) ext - n , external type implant with no retightening ; 2 ) ext - rt , external type implant with retightening ; 3 ) int - n , internal type implant with no retightening ; 4 ) int - rt , internal type implant with retightening .
+the rtvs of the groups without retightening were 25.4  1.2 ncm in the ext - n group and 15.8  1.8 ncm in the int - n group .
+retightening did not produce a significant difference in rtv when compared with the non - retightening group after 100,000 rounds of cyclic loading . in internal type implants ,
+the testing device delivered sine curved cyclic loading between 20 and 250 n at 14 hz for 100,000 cycles . in the groups with no retightening ( ext - n and int - n ) , the rtv was measured after 100,000 cycles of loading , while rtv was measured after 3 , 10 , and 100 cycles as well as every 20,000 cycles in the retightening groups ( fig .

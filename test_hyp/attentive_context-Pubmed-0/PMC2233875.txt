@@ -1,0 +1,40 @@
+this review summarizes recent data of effects by nano- and 
+ microstructured biomaterials and particles in vitro designed for 
+ orthopaedic application to get a solid 
+ framework outlining the critical interactions that govern the 
+ cytocompatibility . 
+ because biomaterials in orthopaedics are predominantly 
+ applied on bone , this review is focussed on 
+ the interactions of osteoblasts 
+  and bone - marrow - derived 
+ cells with structured biomaterials .
+micro- and nanoparticles released by friction of 
+ articulating partners from artificial joints are a major 
+ reason for aseptic 
+ implant loosening in orthopaedic surgery and may lead to severe 
+ peri - implant 
+ osteolysis ( particle disease ) 
+ .
+nanotechnology is also applied to modify and improve the surface 
+ structure in orthopaedic implants to promote their 
+ osseous integration . however , there are also side effects of nano- and 
+ microparticles in vivo . 
+
+especially , the 
+ superordinate principles of cellular responses to 
+ surfaces with a defined 
+ topography are not well known and poorly understood . 
+ because many variables 
+ influence cellular interactions to surface structures , 
+ it is difficult to draw 
+ conclusions and formulate general principles for 
+ nano- and microstructured 
+ surfaces .
+nanolayers are used to enhance the 
+ surface biocompatibility of polymeric drug delivery systems , 
+ control the release of substances such as antibiotics or growth factors 
+ , act as gene - delivery 
+ vehicles , or serve as robust light emitters for 
+ cellular labeling and tracking 
+ [ semiconductor nanocrystals , quantum dots ( qds ) ] 
+ . 

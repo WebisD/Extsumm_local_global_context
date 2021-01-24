@@ -1,0 +1,22 @@
+first , the model 
+ has allowed for the rational design of a ligand that , when incubated 
+ with the thousands of proteins expressed in a cancer cell , affinity 
+ purified one , hsp70 .
+in addition to 
+ providing both a novel pharmacophore and medicinal 
+ chemistry for its assembly , we describe in our papers a testing battery 
+ for assessing hsp70-mediated mechanisms in cancer cells and for evaluating 
+ specific ligand action in cancer cells through hsp70 inhibition .
+third , the concordance in the observed biochemical and phenotypic 
+ effects observed with these agents in cancer cells , such as exemplified 
+ for 27c , suggests that , in the tested concentration range , 
+ the biological activity of these agents is majorly and selectively 
+ channeled through an hsp70-binding mechanism .
+because of the appropriate fit , 
+ and thus good enthalpy of binding of the irreversible inhibitors , 
+ simple modifications such as replacement of the covalent linkage with 
+ an ionic bridge ( yellow , figure 2b ) and filling 
+ of the hydrophobic pocket occupied by methoxy in 1e with 
+ a benzyloxy ( red , figure 2b ) have led to ligands 
+ of reversible mode of binding that not only mimic the phenotype observed 
+ with 1e , but do so with similar potency ( figure 4 ) .

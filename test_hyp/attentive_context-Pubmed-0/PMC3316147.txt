@@ -1,0 +1,7 @@
+the question , therefore , arises , whether fragmentation can be understood as a critical breakdown in the ability of the brain to establish and maintain a modular small - world functional architecture .
+here we show by numerical simulations that in neural activity networks , with loss of connectivity a self - organizing small - world neural network can not sustain its local clustering , well before global connectivity breaks down .
+we will propose as an alternative theoretical possibility that , instead , brain pathologies are associated with a breakdown in the local organization . in schizophrenia patients ,
+functional connectivity in scalp eeg channels appears to reflect a loss of clustering after correcting for differences in the density of functional connections ( micheloyannis et al .
+along the lines set out here , a shift in the balance from local to global connectivity is perfectly consistent with an overall loss of connectivity in early schizophrenia .
+in our model , network connections evolve in accordance with the principle that the structure rewires in adaptation to spontaneous , on - going activity .
+graph theory enables us to model the loss of connectivity in simulated neuronal networks and predict the time course of fragmentation . on the face of it ,

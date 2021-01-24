@@ -1,0 +1,6 @@
+we found that milk intake and lct c > t-13910 polymorphism , known to modulate milk consumption , were significant contributors to the observed variance of body height in the studied population .
+we conclude that actual milk intake and the genetic lp trait is positively associated with body height in preadolescents and adolescents .
+nevertheless , higher milk consumption in childhood might exert both negative and positive effects , since greater height has been associated with higher risk of some cancers ( 29 , 3841 ) .
+in addition , the lct c > t-13910 polymorphism ( lp vs. lnp ) , remained significant in the final model ( =2.05 ; 95% ci : 0.18 , 3.92 and p=0.032 ) , showing a positive association of lp with height .
+the random sample comprises 267 caucasian preadolescents ( 121 girls , 146 boys ) and 330 caucasian adolescents ( 164 girls , 166 boys ) of a population belonging to the swedish part of the european youth heart study ( eyhs ) .
+main effect by quintiles of milk intake and lct-13910 c > t ( exposure variables ) on body height in swedish preadolescents and adolescents ( n=542 ) ; stepwise backward multiple linear regression models were used included variables in model 1 : birth weight , sex , mother 's and father 's height .

@@ -1,0 +1,25 @@
+we report a gaussian - based approach to deliver 
+ a 
+ smooth dielectric function for the entire space domain ( the macromolecule(s ) 
+ and the water phase ) . to assess the effects of this development on 
+ various biophysical quantities which can be computationally modeled
+the correctness of 
+ the approach in reflecting the expected physical properties of macromolecules 
+ is demonstrated on a large set of protein structures by showing that 
+ the generated smooth dielectric function results in values of about 
+ 67 in the protein interior and values of 2030 at the 
+ protein  water interface , which is consistent with previous 
+ md - based work .
+one of the most common tasks 
+ in computational research is to calculate the electrostatic component 
+ of the solvation energy of a protein or a small molecule .
+calculating the pka shift requires one to find the energy difference ( most 
+ electrostatic component of the energy ) between the corresponding protein 
+ with ionized and neutral groups of interest .
+the possibility that the local dielectric constant associated 
+ with the space taken by titratable groups ( especially in case of non - naturally 
+ occurring groups ) may have to be not only a function of atomic packing 
+ but to be further increased , we repeated the pka calculations with a modified gaussian - based approach : the 
+ radii of titratable atoms of asp , glu , arg , and lys were artificially 
+ lowered by a factor of 2 , which resulted in reduced packing and a 
+ higher local dielectric constant .

@@ -1,0 +1,22 @@
+the cacr group showed before and after test changes ( p<0.05 ) in the 
+ frontal lobe ( fp1 , fp2 and f4 ) and the parietal lobe ( p3 and p4 ) , but no notable changes 
+ were observed in control group .
+however , only a limited number of studies have 
+ investigated the effectiveness of brain wave changes and cognitive improvements using this 
+ training method to treat stroke patients . this study aimed to determine the most effective 
+ treatment method for clinicians in the cognitive rehabilitation field by investigating the 
+ changes in stroke patients brain waves , memory and attention elicited by cacr , and the 
+ manner in which these changes affect daily life .
+the study participants were chosen from among thirty stroke patients who were hospitalized 
+ and receiving occupational therapy and physical therapy at a general hospital in kyeongki 
+ province between december 2013 and january 2014 .
+change of brain waves at the eight channels and cnt with respect to cacr training are shown 
+ in tables 2table 2.comparison of relative beta waveseegchannelcacrconprepostprepostrelative beta wave ( hz)fp10.090.050.150.080.090.060.100.06fp20.080.040.130.080.080.060.090.06f30.100.040.150.070.090.020.090.03f40.100.030.160.080.100.050.100.05t30.160.070.180.080.140.050.160.05t40.140.050.180.070.140.050.140.05p30.100.020.140.070.090.01470.090.01p40.090.020.130.070.090.010.090.02all variables are the meanstandard deviation ( sd ) ; p<0.05 ; 
+ p<0.01 ; cacr : computer assisted cognitive rehabilitation training 
+ group ; con : control group ; fp1 : left frontopolar ; fp2 : right frontopolar ; f3 : left 
+ frontal ; f4 : right frontal ; t3 : left temporal ; t4 : right temporal ; p3 : left parietal ; 
+ p4 : right parietal and   3table 3.comparison of memory and attentioncntsubtestcacrconprepostprepostmemory ( digit)dstforward test3.430.534.590.774.091.204.101.22backward test2.270.683.281.042.551.182.791.44vstforward test3.980.925.171.443.960.754.070.96backward test2.931.093.721.603.211.153.301.13attention ( digit)vcptcorrect response119.834.26123.001.70121.071.49122.003.48reaction time ( sec)0.780.070.610.150.680.130.590.09accptcorrect response57.411.8856.911.1657.841.5757.762.31reaction time ( sec)0.650.140.620.140.620.170.610.18all variables are the meanstandard deviation ( sd ) ; p<0.05 ; 
+ p<0.01 ; cnt : computerized neurocognitive function test ; cacr : 
+ computer assisted cognitive rehabilitation training group ; con : control group ; dst : 
+ digit span test ; vst : visual span test ; vcpt : visual continuous performance test ; 
+ accpt : auditory controlled continuous performance test .

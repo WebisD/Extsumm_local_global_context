@@ -1,0 +1,5 @@
+, we generated a single - stranded rnai that can be delivered in a lipid nanoparticle for use as a topical anti - angptl2 agent in the treatment of ocular diseases . in this study , we have examined its efficacy in terms of drug delivery and inhibition of cnv in a mouse alkali - burn model .
+there was no significant difference in posttreatment viability among five groups ( control group , negative proline - modified short hairpin rna ( pshrna ) group , angptl2 pshrna group , negative pshrna wrapped with liposome ( li - pshrna ) , and angptl2 li - pshrna group ) , and cell viability in all five groups was greater than that of cells treated with amphotericin b ( p < 0.01 for comparison , figure 1 ) .
+we have successfully generated a topical rnai agent ( li - pshrna ) that inhibits corneal inflammation and cnv by inhibiting expression of angptl2 .
+we found that the marked reduction in the level of angptl2 mrna was not sustained beyond 48 hours after alkali injury . even in the control group ,
+angptl2 expression dropped to the same level as that of gapdh , suggesting that angptl2 is produced in the very early stage of inflammation .

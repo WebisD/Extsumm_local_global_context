@@ -1,0 +1,7 @@
+the aim of the study was to assess the levels of anxiety and salivary cortisol levels in patients with ras and also to determine the association and relationship of salivary cortisol levels to variations of stress .
+student 's t - test was used to compare the anxiety and salivary cortisol levels between both groups .
+a total of 30 patients suffering with ras , along with the same number of age and sex matched healthy controls were included in the study .
+comparison of salivary cortisol levels and anxiety scores ( meansd ) of patients we found that salivary cortisol and anxiety levels were significantly higher in ras group as compared to control group .
+the mean anxiety levels in ras group were 27  4.76 and 10.2  3.27 in the control group ( p = 0.000 ) as indicated in table 1 .
+there was a highly significant positive correlation ( p = 0.000 ) between salivary cortisol levels and anxiety . a logistic regression model in which the ras was taken as dependent variable and salivary cortisol and anxiety levels were taken as independent variables were performed .
+therefore , measurement of the salivary cortisol and anxiety which reflect response to stress seems a promising parameter in the investigation of ras . in conclusion

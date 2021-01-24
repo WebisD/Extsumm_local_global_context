@@ -1,0 +1,6 @@
+we screened small interfering rnas ( sirnas ) corresponding to the tyrosinase sequence using the mouse melanoma cell line b16 and then delivered the most effective sequence into c57bl/6 mice to study its effect in vivo .
+the suppressive effects on melanogenesis in b16 cell line peaked at 24 hours , suggesting that sirna was active for 24 hours after transfection and then was gradually degraded . however , we used modified sirna , which can enhance stability and reduce the potential for off - target effects .
+because of its central role in melanogenesis , tyrosinase is a key target for the development of new inhibitors   . in the present study , we aimed to directly regulate tyrosinase expression using rna interference ( rnai ) .
+because sinm_011661_001 most effectively reduced mrna expression of tyrosinase in b16 cells , we evaluated its effect in c57bl/6 mice . to determine the change in tyrosinase mrna levels ,
+in contrast , our results showed that sirna administered locally had significant inhibitory effects on the retina .
+it strongly suggests that sinm_011661_001 can be delivered effectively in vivo and may also be delivered to other tissues such as skin and hair . in summary , we have shown that sinm_011661_001-targeting tyrosinase is the most potent sequence in vitro and in vivo .

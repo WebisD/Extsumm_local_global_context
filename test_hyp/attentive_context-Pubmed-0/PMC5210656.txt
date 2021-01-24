@@ -1,0 +1,6 @@
+all data in exposome - explorer was acquired from a careful review and analysis of nearly 500 peer - reviewed publications , with a particular focus on dietary and pollution exposures .
+overall , we believe exposome - explorer will help in the generation of hypotheses for discovery of new biomarkers to be tested in the laboratory . it should also help in evaluating the performance of existing biomarkers and integrating exposure data based on biomarkers with data collected with other technologies .
+it contains comprehensive information on almost 500 biomarkers of exposure with concentrations , correlations with exposure estimates and temporal reproducibility , as well as other details on study population and analytical methods .
+the comparative toxicogenomics database ( ctd ) is the only online database containing a large number of concentration values in blood , urine and other biospecimens extracted from the scientific literature ( 9 ) .
+exposome - explorer should contribute to the translation of the exposome into practice in epidemiological research .
+biomarker concentrations can be compared in different cohorts or population groups at different levels of exposure ( e.g. consumers and non - consumers of a particular food ) , or between different geographical areas .

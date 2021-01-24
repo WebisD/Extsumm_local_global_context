@@ -1,0 +1,6 @@
+we performed mutation analysis of dcx in two korean patients with sbh and report a novel mutation of dcx that is responsible for sbh .
+the neuronal migration disorders , x - linked lissencephaly syndrome ( xlis ) and subcortical band heterotopia ( sbh ) , also called " double cortex " , have been linked to missense , nonsense , aberrant splicing , deletion , and insertion mutations in doublecortin ( dcx ) in families and sporadic cases ( 1 - 8 ) .
+the discovery of the new mutation reported here supports existing evidence that mutation in the first conserved domain of the dcx protein is important in the pathogenesis of sbh .
+the sequence variation results in a serine to leucine amino acid change at position 129 ( s129l ) , which has not been found in other family members of patient 1 , including maternal grandmother , parents , or siblings .
+rflp analysis was conducted to confirm the sequencing result and to exclude the possibility that the genetic variation is a polymorphism .
+this suggests that the non - coding region of dcx , including the promoter region and introns , or other genes implicated in neuronal migration disorders may be responsible for this patient 's condition .

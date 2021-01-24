@@ -1,0 +1,5 @@
+this led us to conduct the study with the aim of assessing the effect of clonidine on the intraoperative analgesia , sedation , and intraocular pressure in patients subjected to cataract extraction under topical anesthesia .
+the secondary outcomes were better sedation and a reduction of the intraocular pressure ( iop ) and arrhythmia .
+the iop of the nonmydriatic eye exhibited a significant difference between the groups 15 minutes after injection of the solution ( clonidine = 12.9  3.1 and placebo = 15.5  3.2 ; p = 0.0135 ; mann - whitney test ) and at the end of surgery ( clonidine = 12.5  3.4 and placebo = 15.3  2.7 ; p = 0.0065 ; mann - whitney test ) .
+sedation increased in g1 between the onset ( 2.0  0.0 ) and end ( 2.5  0.6 ) of the surgery , which did not occur in g2 ( 2.0  0.0 and 2.0  0.0 , respectively ; kruskal - wallis analysis of variance ( anova test ) ) .
+the physical status was class asa i for six patients in clonidine and eight patients in placebo group , and it was asa ii for eight patients in clonidine and 12 patients in placebo , without a significant difference between the groups ( p = 0.7411 ; mann - whitney test ) .

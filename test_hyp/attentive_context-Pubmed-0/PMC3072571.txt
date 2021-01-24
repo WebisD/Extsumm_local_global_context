@@ -1,0 +1,8 @@
+understanding how oncogenic transformation influences the on and off rates of bax translocation could open new perspectives to apoptosis in cancer cells . from a teleological perspective
+the retrotranslocation model not only provides a paradigm for understanding how apoptosis is regulated , but also provides a platform for integrating the diverse functions of bax and other bcl-2 family members .
+( 2011 ) now uncover how regulated trafficking of the proapoptotic protein bax off mitochondria and into the cytosol prevents mitochondrial permeabilization , reconciling discordant models for how antiapoptotic proteins on the mitochondrial surface inhibit proapoptotic proteins in the cytosol .
+resistance to apoptosis is a hallmark of cancer , whereas excessive programmed cell death is associated with degenerative diseases .
+they monitor the localization of gfp - bax in cells and find that bax cycles on and off the mitochondria in healthy cells .
+apoptosis is controlled and amplified through a variety of mechanisms , many of which converge on release of proapoptotic factors from mitochondria ( danial and korsmeyer , 2004 ) .
+the apoptotic cell death pathway , in its basic tenents , is conserved among metazoans . during development ,
+this highlights an unappreciated conformational change that facilitates the removal of an antiapoptotic protein from the mitochondrial om .

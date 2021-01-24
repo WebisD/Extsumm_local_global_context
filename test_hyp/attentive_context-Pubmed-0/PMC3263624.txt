@@ -1,0 +1,6 @@
+fifth , we should implement , for the surgery cases involving large deformations of the brain , a nonlinear formulation of fem   , and , particularly , a nonlinear formulation of xfem , which is the subject of recent research   .
+we present the state - of - the - art of resection modeling for preoperative image update . in section 3
+while some 3d results have already been presented for brain shift , and initial 3d results for resection   modelings , this paper is the first complete and detailed account of the generalization to 3d of our 2d previous work .
+the nonrigid registration technique used an homogeneous linear elastic biomechanical model , driven by the deformations of whole - brain and internal tumor region boundaries for brain shift modeling , and healthy - brain region boundary for resection modelings , tracked between successive imr images .
+this allowed us to use simpler linear models and focus on the added value of xfem to simultaneously account for surgical deformations , namely , shift and resection . using a linear formulation
+we developed a complete 3d framework for serial preoperative image update in the presence of brain shift followed by successive resections .

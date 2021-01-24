@@ -1,0 +1,7 @@
+on the other hand , known polymorphisms may prove useful to investigators in reconstructing the evolutionary relationships among clinical isolates and in providing markers for understanding the genetic basis of complex phenotypic traits .
+we applied the blastp program ( 5 ) to identify , for each predicted protein sequence in the h37rv genome ( genbank accession no .
+examination of the dna sequences of the corresponding genes showed that these regions of low identity were typically caused by a frameshift in one of the two genomes relative to the other .
+we used a strict search criterion ( e = 10 - 50 ) to identify truly orthologous gene pairs .
+in addition , we compared ps and pn in sliding windows of 30 codons along the length of these genes .
+a number of additional possibilities may explain the occurrence of gene pairs with higher than expected ps values : 1 ) balanced polymorphism .
+thus , the comparison of protein - coding genes between the two m. tuberculosis genomes suggested the existence of two distinct groups of gene pairs : a large group having few or no synonymous differences and a much smaller group with a substantial degree of synonymous divergence .

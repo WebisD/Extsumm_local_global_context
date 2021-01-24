@@ -1,0 +1,7 @@
+2008 ) , we investigated here whether this interaction also affected each partner 's ability to regulate neurite outgrowth using pc12 cells treated with ngf as well as primary hippocampal neuronal cultures .
+our results suggest that lrrk2 is a more critical factor than rab5 in regulating neurite outgrowth although both proteins functionally coordinate regulation of neurite outgrowth .
+this finding suggests that these two proteins functionally interact and co - regulate neurite outgrowth , which is further supported by co - localization of these over - expressed proteins in both cell body and neurites [ fig .
+taken together , our results suggest that regulation of neurite outgrowth via lrrk2 and rab5 is not effected independently , but possibly through a shared mechanism .
+based on our previously finding that lrrk2 interacts with rab5b and that this interaction regulates endocytosis of synaptic vesicles ( shin et al . ,
+to address whether lrrk2 and rab5 coordinately regulate neurite outgrowth , we cultured ngf - treated pc12 cells with a combination consisting of over- or down - expression of lrrk2 and/or rab5 .
+, we provide several lines of evidence suggesting that rab5 and lrrk2 co - regulate neurite outgrowth and that lrrk2 is a more critical factor than rab5 .

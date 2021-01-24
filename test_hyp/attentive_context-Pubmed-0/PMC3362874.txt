@@ -1,0 +1,6 @@
+pedf has a range of functions in different tissues and cells ; however , the impact of this interesting protein on stem cells is not yet clear .
+pedf affects nscs via the notch transcriptional pathway , promoting self - renewing divisions , maintaining a multipotent state of these cells and supporting expansion of the stem cell niche .
+pigment - epithelium - derived factor ( pedf ) is a glycoprotein that belongs to the superfamily of serpin protease inhibitor proteins without inhibitory function , encoded by the gene serpinf1 located on chromosome 17p13 which is well conserved in evolution .
+pedf expressed in feeder cells appears to have a supportive effect on stem cells such as hescs and rpcs .
+to conclude , the role of pedf in stem cells in various pathologies does differ , and while counterproductive in some cases such as myocardial infarction , it may have a positive role to play in some instances .
+stem cells transduced with adenoviral vectors carrying pedf exhibit potential for enhanced stem cell therapy in diseases such as macular degeneration . however , the effects of pedf on stem cells in other disease states are clear . whilst pedf generally causes regression of cnv established by vegf , the effects may be concentration dependent  both on the concentration of vegf and pedf . as for myocardial infarction ,

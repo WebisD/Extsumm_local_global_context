@@ -1,0 +1,19 @@
+we speculated that iber is an rpos - like regulator in sp gene expression in e44 . in order to dissect the 
+ regulation of sp gene expression in e44 that is associated with the 
+ pathogenesis of e. coli meningitis , a comparative proteomic analysis of 
+ an iber deletion mutant ( br2 ) and its parent strain e44
+our studies suggested that the iber gene was involved in 
+ regulating sp gene expression related to stress resistance and pathogenesis .
+we classified the proteins into two main categories on the 
+ basis of their roles in the sp growth of e. coli cells : ( a ) response to 
+ environmental modifications ( including tnaa , 
+ tufb , ompc , ompa , and ahpc ) 
+ and ( b ) central metabolism ( including lpda 
+ and gapa ) . since iber was hypothesized as an 
+ sp - regulator contributing to the growth regulation and virulence of e44 , its 
+ role in the invasion process and resistance to stress conditions should be 
+ further characterized .
+the gene iber in e. coli k1 e44 is predicted as 
+ the only regulatory protein present in the iberat operon in gima by 
+ bioinformatics approaches . to determine the role of iber gene in 
+ the growth - phase - dependent invasion of bmec by meningitic e. coli k1 ,

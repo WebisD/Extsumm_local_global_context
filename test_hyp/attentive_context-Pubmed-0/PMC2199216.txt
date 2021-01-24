@@ -1,0 +1,6 @@
+moreover , we also found that the signaling pathways used by oncogenic ras to stimulate proliferation and repress differentiation in myogenic cells are distinct and mediated independently .
+added fgf-2 suggests a more complicated role for hspgs in addition to their known requirement for signaling . taken together , our data demonstrate that rasg12v induces proliferation of skeletal muscle cells and that induction of proliferation requires an autocrine fgf-2 response .
+we report that constitutively active ras stimulates mm14 myoblast proliferation via a novel mechanism that is dependent on export of endogenously produced fgf-2 and subsequent release or activation of the exported fgf-2 .
+together with the prevalence of oncogenic ras mutants in rhabdomyosarcomas and the involvement of fgfs in regulation of myogenesis , our data suggest that fgf-2 may be a critical factor for supporting ras - dependent growth of rhabdomyosarcomas .
+the ras - dependent proliferation factor we identified is released by a heparin wash and its activity is abrogated by treatment with either chlorate , heparitinase , suramin , or a monoclonal anti  fgf-2 antibody , implying that the proliferation factor is fgf-2 .
+in addition , we have established that distinct fgfr-1 signaling pathways mediate the proliferative and differentiation inhibitory responses in mm14 cells ( kudla et al .

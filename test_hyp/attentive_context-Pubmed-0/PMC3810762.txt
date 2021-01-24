@@ -1,0 +1,7 @@
+here we provide an alternative approach for quantifying antibody responses to the new avian influenza a(h7n9 ) virus .
+using a previously reported method ( 4 ) , we assembled the pseudovirus with membrane proteins of hemagglutinin ( ha ) and neuraminidase ( na ) from influenza a / shanghai/4664t/2013(h7n9 ) and capsid protein from hiv .
+therefore , this assay will provide a new contribution to the understanding of how the immune system responds to infection with influenza viruses .
+large amounts of pseudoviruses take only 23 days to produce , and using rla as the readout of pseudovirus - based neutralization assay provides an objective means of interpreting the endpoints .  
+therefore , this pseudovirus - based neutralization assay could be used as an alternative for safely conducting serologic studies in a rapid response in assessing the threat posed by subtype h7n9 virus . of note ,
+the genomic rna of the pseudovirus also carries a luciferase reporter gene ; thus its infectivity can be quantified by luciferase activity in virus - infected cells ( 57 ) . to produce the pseudovirus
+hi only measures the proportion of antibodies directed to the receptor - binding site of hemagglutinin , whereas the neutralization assay detects a broader range of neutralizing antibodies .

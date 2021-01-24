@@ -1,0 +1,7 @@
+the inhibitory effect of hsya on xo activity contributes to the ros scavenging and nlrp3 inflammation suppression triggered by lps , leading to decreased il-1 and il-18 secretion in raw264.7 macrophages ( figure 9 ) .
+taken together , we found that xo is a potential target of hsya using pharmmapper inverse docking and computer simulation .
+via pharmacophore mapping approach , 300 potential candidates out of 7302 were listed and sorted according to the fit score ( submission i d 151015052728 ) . based on the disease information and potential roles in inflammation and redox related signaling pathways , endothelial nitric oxide synthase ( pdb i
+, we tried to find the potential target of hsya via inverse prediction method and computation docking and further assessed the role of hsya in regulating nlrp3/caspase-1/il-1 pathway in macrophages .
+however , results demonstrated that xo treatment had no noticeable action on the protein and mrna expression of xo in macrophages ( p > 0.05 ) ( figure 4 ) .
+hence , we measured the protein expression of pro - il-1 and il-1 in macrophages and the secretion of il-1 and il-18 in the supernatant .
+in addition , as shown in figure 3(b ) , 50100  m hsya treatment started to exhibit suppression on the activity of xo in lps - stimulated macrophages ( p < 0.05 ) .

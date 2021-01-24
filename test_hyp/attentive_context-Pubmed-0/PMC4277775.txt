@@ -1,0 +1,26 @@
+we have shown that an edta titration can be used to test for the presence 
+ of co(ii ) and a p nmr experiment can be used for the 
+ co(ii ) quantification ; these experiments are more definitive than h nmr spectroscopy for identifying paramagnetic co(ii ) impurities . 
+ beyond co(ii ) as an impurity , the use of any co(ii ) complex should 
+ be assessed as an authentic woc versus precursors for heterogeneous 
+ catalysts such as co - oec owing to the proclivity of co(ii ) complexes 
+ to undergo rapid ligand substitution .
+we further emphasize the utility 
+ of differential electrochemical mass spectrometry ( dems ) for clarifying 
+ how anodic potentials affect the decomposition of glassy carbon electrodes , 
+ which are commonly used in the study of wocs .
+without purification 
+ by silica chromatography , the co(iii ) oxo 
+ cubanes can be contaminated with co(ii ) impurities , which are responsible 
+ for the observed water oxidation activity reported for these molecules . 
+
+we note that 
+ water oxidation activity of a catalyst should not depend on whether 
+ an anodic potential is supplied electrochemically or ( photo)chemically 
+ for mechanisms involving outer sphere electron transfers . in instances 
+ where homogeneous and heterogeneous o2 evolution experiments 
+ do not concur , it is appropriate to consider whether other species 
+ are responsible for catalytic activity . finally , when inspecting carbon - based 
+ electrode surfaces for the deposition of heterogeneous catalysts , 
+ care must be exercised in the choice of oxidizing potentials , as extreme 
+ values can give rise to spurious current that is associated with co2 evolution and electrode degradation as established by dems .

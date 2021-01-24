@@ -1,0 +1,5 @@
+the purpose of this study was to examine the association between serum 25[oh]d levels and arterial stiffness in youth and to determine if the relationship between 25[oh]d levels and arterial stiffness differs by group .
+our study found that low serum 25[oh]d levels in youth with t2 dm were negatively associated with arterial stiffness , measured by aix , even after adjustment for demographic and traditional cvd risk factors .
+the gray , dashed black , and solid black lines are the regression lines for the lean group ( r = 0.24 , p < 0.01 ) , obese group ( r = 0.27 , p < 0.01 ) , and group with t2 dm ( r = 0.36 , p < 0.01 ) , respectively .
+there was a negative correlation between serum 25[oh]d and aix in lean and t2 dm only ( both r = 0.24 , p < 0.01 ) and between 25[oh]d and pwv in lean ( r = 0.26 ) , obese ( r = 0.27 ) , and t2 dm ( r = 0.36 ) , all p < 0.01 .
+furthermore , we show that in youth with t2 dm , a higher 25[oh]d level of 3 ng / ml is associated with a decrease in aix of 1% . considering that aix in the group with t2 dm was 5.7  12.0%

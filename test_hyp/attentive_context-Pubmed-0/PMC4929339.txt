@@ -1,0 +1,7 @@
+in this paper , a generalized spatio - temporal regularization technique for time - lapse tomographic reconstruction is introduced .
+the proposed method has been successfully applied to modelled and real dynamic data resulting in noiseless images with enhanced structures ( edges are sharpened while uniform areas are smoothed ) .
+the significant benefits of the method are the substantial decrease in reconstruction time ( becomes feasible for large xmt dynamic datasets ) and the possibility of adding more ( potentially all the available ) temporal information into the regularization process .
+the future work includes generalization to 4d regularization and application to other important time - lapse experiments .
+a speed - up of an order of magnitude is achieved which makes our method more feasible for reconstruction of large datasets .
+the novelty of our method consists in the generalized form of the spatio - temporal penalty and the special data reduction technique to significantly accelerate calculations .
+the modelled numerical experiment is presented to demonstrate that the proposed method is able to provide better contrast and resolution than the classical nonlocal approach while performing ten times faster . to further demonstrate the applicability of our method it is applied to reconstruction of big 4d datasets characteristic of xmt .

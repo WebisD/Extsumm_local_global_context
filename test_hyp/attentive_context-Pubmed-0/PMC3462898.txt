@@ -1,0 +1,7 @@
+the purpose of this review is to discuss different tools and methods that have recently been developed for saxs analysis of flexible multidomain assemblies.fig . 
+we have seen that integrative methods that utilize nmr and mx with saxs are proving to be essential for providing a larger description of the macromolecular ensemble .
+using saxs data as a source of experimental restraints for modeling macromolecular flexibility is an exciting and relatively underdeveloped discipline .
+previously , i authored a review providing a general framework for experimental design , data processing , and data interpretation that combined saxs with atomic - resolution structures from crystallography ( putnam et al .
+thus , saxs is well positioned to become an important technique , with new weak - field aligned nmr and fluorescence experiments that can probe samples in the biologically interesting millisecond time frame . with appropriate resources for directed efforts , saxs can provide complementary experimental data on flexibility in macromolecular interactions with widespread effects .
+saxs data can provide important experimental feedback , and can be extended to include dynamic conformational changes characterized by time - resolved experiments .
+the development of the approaches for characterizing highly fluctuating conformational equilibria on the basis of traditional static experiments are becoming essential in the description of intrinsic dynamic biomolecular systems ( bernado and blackledge 2010 ) .

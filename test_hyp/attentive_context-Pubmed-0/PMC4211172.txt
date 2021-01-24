@@ -1,0 +1,6 @@
+therefore , we investigated the role of imaging - cytology correlation to reduce the false negative rates of cytology at thyroid nodules as compared with the use of initial us features .
+repeat fna can be effectively limited to patients with cytologically benign thyroid nodules showing discordance in imaging - cytology correlation , which reduces unnecessary repeat aspirations as well as decreasing false negative results .
+the mean age of patients with included nodules was statistically different from the other patients ( 49.1  12.0 versus 50.7  13.1 years ; p = 0.033 ) .
+fine - needle aspiration ( fna ) is the standard method used to determine treatment plans for thyroid nodules .
+the risk of malignancy was higher in nodules with initial suspicious us features ( 11.4% , 8 of 70 ) than in nodules without initial suspicious us features ( 0.5% , 3 of 597 ; p < 0.001 , table 1 )
+also , when comparing the risk of malignancy between discordant lesions and lesions with suspicious features on initial us , the former ( 23.3% , 7 of 30 ) was significantly higher than the latter ( 11.4% , 8 of 70 ) . however , there was no significant difference in the risk of malignancy between concordant lesions ( 0.6% , 4 of 637 ) and lesions without suspicious features on initial us ( 0.5% , 3 of 597 ; p = 0.438 ) ( figure 4 ) .

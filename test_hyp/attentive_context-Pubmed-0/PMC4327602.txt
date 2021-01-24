@@ -1,0 +1,8 @@
+this ex vivo study evaluated the quality of digital radiographic images obtained with the digora system according to the processing delay and maintenance of optical plates in either opaque ( supplied with the system ) or transparent protective plastic cases during this period .
+the findings of the present study revealed that the processing delay of 120 min for the digora system caused a reduction in image quality , yet without interfering with the quality of diagnosis .
+the study was conducted on a dry human mandible fixed on an acrylic resin base .
+there was statistically significant difference ( p<0.05 ) regarding the processing delays , namely immediate , 5 and 60 min with utilization of opaque case ( table 2 ) .
+no statistically significant difference ( p>0.05 ) was observed among processing delays with utilization of transparent case ( table 4 ) .
+
+ table 1 presents the scores assigned by examiners to the images , according to processing delays and utilization of opaque or transparent plastic cases .
+10.05882 ; chi - square with 3 degrees of freedom ; probability = 0.018072 ( significant ) u=5.00000000;exact probability = 0.150794 ; normal approximation : z=1.96396101 ; probability = 0.04953461 hc= 5.164999 ; chi - square with 3 degrees of freedom ; probability = 0 .

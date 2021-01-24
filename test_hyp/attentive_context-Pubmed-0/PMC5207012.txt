@@ -1,0 +1,7 @@
+the baicalin adjunctive therapy was tested in pediatric sepsis patients , after which the effect was compared based on the renal function assessment from bun and serum creatinine ( cr ) .
+we also performed experiments in the cecal ligation and puncture ( clp)-induced mouse sepsis model to investigate the effects and potential mechanisms of baicalin in septic aki .
+the investigations of baicalin in pediatric sepsis patients and the clp - induced mouse sepsis model reveal the protective role of baicalin against aki in pediatric sepsis .
+mice in the clp group showed significantly elevated bun and cr levels ( p=0.0001 and 0.0013 , figure 2a , 2b ) , suggesting that the kidney injury occurred after clp . both bun and cr levels
+baicalin adjunctive therapy in the patients and treatment in the mouse model decreased bun and cr levels .
+were significantly decreased in the clp + baicalin group ( p=0.0181 and 0.0225 ) , indicating that baicalin treatment effectively alleviated kidney injury in the clp - induced mouse sepsis model .
+previous studies using mouse sepsis models used various baicalin treatment methods , including topical application on the mouse skin to analyze the effect of baicalin on epidermis , intraperitoneal injection to investigate the role of baicalin in mammary glands , and baicalin - containing diets to study liver injury , inflammation in the kidney , and lung carcinoma   . in these studies ,

@@ -1,0 +1,21 @@
+in proof - of - concept studies for 
+ species - specific killing , these conjugates selectively kill e. coli in the presence of staphylococcus aureus , a gram - positive organism that is more susceptible to the parent 
+ -lactams .
+these studies support the notion that native siderophore 
+ platforms provide an effective means to target molecular cargo to 
+ siderophore - utilizing organisms and to hijack siderophore 
+ uptake machinery to deliver cargos , including antibiotics , across 
+ the outer membrane permeability barrier of gram - negative microbes .
+our investigations of ent - amp / amx establish the following : 
+ ( i ) ent - amp / amx provide up to 1000-fold enhanced antibacterial activity 
+ against e. coli strains ; ( ii ) ent - amp / amx are transported 
+ into e. coli by fepa and potentially other catecholate 
+ siderophore receptors ( iron , iha ) employed by pathogenic ctf073 
+ and uti98 ; ( iii ) ent - amp / amx are captured by pbps in the periplasm , 
+ which results in pbp inhibition and cell death ; ( iv ) selective killing 
+ of e. coli in the presence of less susceptible organisms 
+ such as s. aureus is achieved because of the enterobactin 
+ scaffold ; ( v ) ent - amp / amx exhibit negligible cytotoxicity to human 
+ t84 intestinal epithelial cells ; and ( vi ) although lcn2 has the ability 
+ to bind ent - amp / amx , this siderophore - scavenging protein prefers 
+ to capture native ent . in total

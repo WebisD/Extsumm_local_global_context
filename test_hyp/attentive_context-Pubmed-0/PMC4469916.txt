@@ -1,0 +1,7 @@
+here , we examined the function of smyd3 and setd7 in heart development in zebrafish . collectively , our results demonstrate that smyd3 and setd7 function synergistically for skeletal muscle development and non - redundantly for heart morphogenesis .
+, we have shown the knock - down and overexpression phenotypes of smyd3 and setd7 in zebrafish development .
+, we examined whether co - injection of smyd3 and setd7 mos at a suboptimal concentration can give rise a synergistic effect for induction of developmental defects ( fig .
+however , we did not find any discernible change in the expression of cmlc2 , vmhc , and amhc in our smyd3 and setd7 double - deficient or overexpressed embryos , suggesting the presence of distinct mechanisms underlying setd7-mediated differentiation of the cardiac muscle and skeletal muscle cells .
+first , to determine the functional requirement of smyd3 during zebrafish heart development , we knocked smyd3 down with a morpholino ( mo)-based gene targeting system . for this purpose ,
+mos targeting setd7 was designed in a way to target the junction of exon 1 and intron 1 of setd7 pre - mature mrna ( fig .
+collectively , our results show that smyd3 and setd7 likely function synergistically in zebrafish development . moreover , our data suggest that heart development is more sensitive than somitogenesis to the decrease of smyd3 and setd7 levels . to test whether the developing heart defects in the smyd3-and setd7-deficient embryos are caused by the expressional changes of early cardiac muscle genes

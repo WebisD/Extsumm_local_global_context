@@ -1,0 +1,5 @@
+the adjusted odds ratios for both factors were 1.49 ( 95% ci : 1.06 , 2.09 ) and 1.67 ( 95% ci : 1.11 , 2.51 ) , respectively . by the roc curve analyses ,
+the osa - induced hypertension patients were significantly older ( 59.5 vs 21.0 years ) , with higher proportion of males ( 64.3 vs 59.8% ) , more obese ( 78.6 vs 6.1% ) , higher incidence of mallampati class 3 or more ( 54.8 vs 24.4% ) , larger neck circumference ( 41.3 vs 32.0 cm ) , higher incidence of torus palatinus ( 26.6 vs 0% ) and of torus mandibularis ( 9.5 vs 0% ) . by multiple logistic regression analysis , only two factors bmi and neck circumference ,
+we compared the clinical features in the stop - bang questionnaire between osa - induced hypertension patients and healthy control subjects .
+osa induced - hypertension patients were diagnosed by : i ) met the criteria of hypertension ; ii ) having average apnea - hypopnea index ( ahi ) by polysomnography more than or equal 5 times / hours and iii ) no evidence of other secondary hypertension .
+the best cut - off points for the bmi and the neck circumference were 24.5 kg / m ( figure 1a ) and 36 cm ( figure 1b ) .

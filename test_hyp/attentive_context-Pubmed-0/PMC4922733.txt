@@ -1,0 +1,23 @@
+in this study we have 
+ used nus nmr methods to study the relationship 
+ between protein folding and aggregation of a globular protein that 
+ forms amyloid fibrils from a structured precursor state , using 2 m as the test protein .
+the findings presented also suggest that targeting a defined 
+ non - native species should be a successful means of controlling the 
+ fate of assembly of 2 m and , in principle , that of 
+ other amyloidogenic proteins which aggregate via a specific , non - native 
+ precursor .
+analysis of the folding energy landscape 
+ of the protein using real - time nmr revealed that the decreased stability 
+ and decreased lifetime of a precise and well - defined native - like amyloidogenic 
+ precursor ( it ) are sufficient to tip the balance from aggregation 
+ to folding .
+the power of the real - time nmr experiments allowed 
+ us to identify conditions that stabilize the i1 state ( ph 
+ 3.6 or addition of 1 m urea at ph 6.2 ) and to perform more detailed 
+ nmr experiments on the trapped intermediate state that led to a complete 
+ description of the folding mechanism of the murine protein .
+moreover , the 
+ results highlight the importance of defining the energy landscape 
+ of amyloidogenic proteins in detail to allow prediction of their amyloid 
+ propensity .

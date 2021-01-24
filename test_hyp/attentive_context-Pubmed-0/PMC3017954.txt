@@ -1,0 +1,7 @@
+furthermore , our data show that a ba - induced septation defect , just like other septation defects , triggers cell wall integrity signaling through the pkc1-slt2 pathway and results in increased chitin synthase 3 activity .
+based on the observation that ba causes such clumping and chain formation in s. cerevisiae , the present study was initiated to assess the influence of ba on the function of the septation apparatus .
+the present study was undertaken to assess the effect of ba on morphogenesis and cell wall synthesis in yeast , using the well - established model organism saccharomyces cerevisiae as a study subject .  
+to complete abscission , the last phase of cytokinesis , the cells first separate mother and daughter cells with a chitin primary septum .
+in s. cerevisiae , morphogenesis and cell wall synthesis depend on the correct assembly of cytoskeletal proteins . to guide cell wall synthesis during cytokinesis , a ring of septin filaments forms during the g1 phase of the cell cycle and
+the aberrant localization and irregular appearance of the septin cdc3gfp in ba - treated cells is an important key to understanding the septation defect .
+staining of chitin and glucan in walls of cells grown with 0.4% ba revealed a buildup of cell wall material at bud necks , particularly in cell chains ( figure 2 ) . in order to characterize the cytokinesis defect in ba - treated cells ,

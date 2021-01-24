@@ -1,0 +1,7 @@
+, we investigated the expression of mpg in 128 cases of human glioma and compared the expression with tumor grade and survival rates of patients .
+our data showed the over - expression of mpg gene and protein in human gliomas and also suggested for the first time that mpg be an unfavorable independent prognostic indicator for glioma patients .
+because of the dismal survival in the patients with glioma , especially in gbm patients , there is an urgent need to find novel specific and effective prognostic markers in order to apply individualized treatments to specifically target the pathophysiologic and molecular properties of glioma patients . in the current study
+, we used quantitative real - time pcr , immunohistochemistry assay , and western blot analysis to investigate the expression pattern of mpg gene and protein in glioma specimens and normal control brain tissues .
+next , we analyzed the relationship between mpg expression and the glioma stage as well as the survival of patients .
+our data demonstrated that mpg gene and protein were both increased in glioma compared to nonneoplastic brain tissue .
+we found an increased trend of both mpg protein level and gene level from who grade i to who grade iv glioma .

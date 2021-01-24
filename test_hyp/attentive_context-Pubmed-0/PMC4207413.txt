@@ -1,0 +1,9 @@
+, we tried here to generate new benzofuryl 2-pyrazolin-1-ylthiazoles as antimicrobial agents using simple methods .
+it was demonstrated that the combination of pyrazole with azole ring , linked to each by one sigma bond , led to more biologically active targets ; for example , pyrazolylthiazoles showed excellent antimicrobial activities . continuing our work in this research field   and in an attempt to identify new and potent antimicrobial agents
+this precursor reacted with thiosemicarbazide in strong basic medium to afford the n - pyrazoline thioamide 5 .
+pyrazolines are nitrogen - containing heterocyclic compounds , well known for their pronounced biological activity .
+the new compounds were tested for their antimicrobial activities and significant activities due to presence of three nucleuses : benzofuran , pyrazole , and thiazole .
+also , some substituent increases the antimicrobial activities such as chloro substituent in compounds 8c and 13a .
+most of the newly synthesized compounds showed good antimicrobial activities with respect to the control drugs .
+the minimum inhibitory concentration ( mic ) of the synthesized compounds against highly inhibited organisms is reported in table 3 .
+the resulting pyrazoline-1-carbothioamide 5 was cyclized to the corresponding 2-(3-(benzofuran-2-yl)-5-(4-fluorophenyl)-4,5-dihydro-1h - pyrazol-1-yl)-4-methyl-5-(p - subs.phenyldiazenyl)thiazole derivatives 8a  d by reaction with hydrazonoyl halides 6a  d in anhydrous ethanol and in the presence of an equivalent of triethylamine ( scheme 1 ) .

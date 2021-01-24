@@ -1,0 +1,7 @@
+a branch and bound algorithm is proposed to find the native conformation for the two - dimensional ( 2d ) hp model .
+the branch and bound algorithm proposed in this paper is a novel and effective tool for the conformational search in the low - energy regions of the protein folding problem in the 2d hp model .
+the experimental results on 10 benchmark sequences demonstrate that our algorithm outperforms other three methods in terms of speed and efficiency .
+the experimental results have shown that our algorithm is very efficient , which can find optimal or near - optimal conformations in a very short time for a number of sequences with lengths ranging from 20 to 100 monomers .
+the protein folding problem , or the protein structure prediction problem , is one of the most interesting problems in biological science .
+these algorithms can find optimal or near - optimal energy structures for most benchmark sequences , however , their computation time is rather long . in this paper ,
+studies have indicated that proteins biological functions are determined by their dimensional folding structures . because the structure of a protein is strongly correlated with the sequence of amino acid residues , predicting the native conformation of a protein from its given sequence

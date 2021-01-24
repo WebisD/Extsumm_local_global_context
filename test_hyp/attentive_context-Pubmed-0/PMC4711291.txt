@@ -1,0 +1,7 @@
+the dislocations create an extra barrier in front of the crack tip , making it more difficult for the crack to propagate , which increase the fracture toughness at the bdt .
+the measured strain field around the crack tip was compressive owing to the dislocation shielding effect .
+once the displacement of atoms is known , the elastic strain field due to the displacement of atoms can be calculated . in this study , the local strain in front of a crack tip with dislocations in single crystal silicon was measured using gpa software ( hrem research ) , which is a plug - in for digitalmicrograph ( gatan ) , to clarify the existence of the shielding effect of dislocations at the atomic scale .
+it is possible to measure the elastic displacement of atoms from a non - deformed area by calculating the change in phase of the lattice image .
+gpa utilizes the crystal periodicity information that is extracted by performing fourier transformations of hrtem images .
+the burgers vectors , including their signs , were determined in this study using high - voltage electron microscopy   .
+they pointed out that the local stress intensity factor due to dislocations calculated from the dislocation configuration is negative , which indicated that the dislocations observed were of the shielding type . a recent development in high - resolution transmission electron microscopy ( hrtem ) makes it possible to measure strain at the atomic scale .

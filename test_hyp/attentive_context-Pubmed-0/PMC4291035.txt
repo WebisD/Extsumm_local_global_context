@@ -1,0 +1,26 @@
+we further investigate the pmfs and interfacial fluctuations 
+ as single gdm / urea approach this aqueous protein hydrophobic 
+ interface , demonstrating the resemblance between liquid 
+we begin with discussion of potentials 
+ of mean force ( pmfs ) and interfacial fluctuations as single gdm / urea cross the aqueous liquid  vapor interface .
+the context in which we consider the present work is relevant 
+ for discussion of the nature of direct chemical interactions between 
+ typical chemical denaturants of proteins , gdm and urea , 
+ specifically at hydrophobic regions of a model protein , hfbii .
+our results for both the protein  water 
+ interface and the pure liquid  vapor interface are in agreement 
+ with previous studies .
+ii we discuss 
+ the simulation protocols and computational details 
+ of the liquid  vapor interface and aqueous protein interfaces . 
+
+in this article , we continue to explore and 
+ demonstrate a connection 
+ between interfacial stability and induced interfacial fluctuations 
+ as interfacially stable solutes approach ostensibly hydrophobic aqueous 
+our analysis of simulation data from 1 m gdm solutions 
+ with no restraints demonstrates a propensity for the gdm to the hydrophobic region .
+we 
+ consider gdm / urea density distributions around the aqueous 
+ hfbii hydrophobic interface in 1.0 m solutions in 
+ the second part .

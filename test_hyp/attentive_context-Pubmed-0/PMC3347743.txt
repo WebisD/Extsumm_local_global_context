@@ -1,0 +1,6 @@
+second , urine and calf lung surfactant extract ( clse ) were analyzed to test the ps source for analysis of complex mixtures not suitable for direct infusion .
+we show the suitability of a 12  tesla ft - icr ms to obtain high - resolution broadband mass spectra utilizing a coffee filter paper spray medium .
+high - resolution mass spectra were first obtained for polypropylene glycol ( ppg ) and polyethylene glycol ( peg ) standards to test the source .
+fourier transform ion cyclotron resonance ( ft - icr ) mass spectrometers are powerful tools for analysis of complex mixtures due to their unsurpassed capability to obtain broadband high - resolution mass spectra with high mass accuracy . utilizing ps with a fourier transform ion cyclotron resonance ( ft - icr ) mass spectrometer as a detector allows for rapid analysis of both unknowns and/or complex mixtures . in this present work ,
+we developed a ps source for bruker ft - icr instrumentation that can be utilized for a broad range of chemical species .
+the ps source was tested on a range of samples and determined the source was suitable for both polymer and biological samples .

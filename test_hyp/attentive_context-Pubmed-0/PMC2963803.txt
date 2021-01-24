@@ -1,0 +1,7 @@
+the goal of this study is to carefully determine whether vpa induces ne differentiation in the pca cell lines , in vivo and in   vitro , by studying a variety of markers associated with ne differentiation in numerous pca cell and tumor models .
+markers including cga , synaptophysin ,   and ncam were quantified by ihc in a tissue microarray ( tma ) format from several vpa - treated human pca cells grown in vitro and in vivo as tumor xenografts in nude mice .
+0.4% vpa in mouse drinking water can achieve plasma vpa levels similar to the therapeutic levels obtained in human patients .
+vpa treatment at these levels was shown to induce acetyl h3k9 , p21 , and reduce tumor volume , thus confirming the pharmacologic activity of vpa     .
+synaptophysin and ncam showed some inconsistent induction following vpa treatment in some cell lines but , in vivo , vpa treatment did not induce any significant expression of any ne markers .
+thus , our data clearly demonstrates that vpa does not induce ne differentiation of pca cells in the physiologically relevant in vivo setting .
+animals were sacrificed , and tumors were harvested on day 35 . to investigate the effects of vpa on ne markers of pca tumors in vivo , we evaluated expression of ne markers by ihc on the excised tumors .

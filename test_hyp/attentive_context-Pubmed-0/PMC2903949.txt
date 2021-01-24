@@ -1,0 +1,8 @@
+one is the production of interferons ( ifns ) resulting in an antiviral state as part of the innate immune response , and the second is maturation of dendritic cells ( dcs ) to establish acquired immunity .   in order to establish an infection within a host
+viruses modulate both the innate and acquired immune systems using a number of clever strategies .  
+in addition , dna - dependent activator of interferon regulatory factors ( dai ) has been identified as a dna sensor .  
+the molecular mechanisms involved in modulation of host immune systems , including tlr signaling , give us important hints on how to overcome infectious diseases caused by viruses .
+the host immune system recognizes and eliminates invading pathogenic microorganisms such as viruses , bacteria , and fungi .  
+recently , the mechanisms by which the innate immune system recognizes pathogen have been extensively studied .  
+excessive replication would lead to detection and elimination by the host innate and acquired immune systems , thus bringing about the death of the virus .  
+early responses against virus infection are initiated on recognition of pathogen - associated molecular patterns ( pamps ) by pattern recognition molecules , triggering two responses .  

@@ -1,0 +1,5 @@
+the peruvian diabetes risk score , built using age , self - reported diabetes in first - degree relatives , and waist circumference , proves to be a simple pragmatic screening tool for undiagnosed and incident cases of diabetes in peru .
+the score gave an auc of 0.73 ( 95% ci : 0.650.78 ) , and the optimal cut - point for undiagnosed diabetes using the youden index was 2 ( figure 1 ) .
+this experience in generating such simple , easy - to - use approaches for the identification of t2 dm can serve to inform other similar lmic efforts who are on early stages of diabetes prevention .
+using a national population - based survey , a simple nonblood based risk score based on age , history of diabetes in first - degree relatives , and waist circumference was built and shown to perform moderately in detecting undiagnosed diabetes when externally validated .
+in addition , when the risk score was evaluated by applying the score to the cronicas cohort study 's population , the auc for undiagnosed diabetes was 0.68 ( 95% ci : 0.620.73 ) . at the suggested cut - point of 2 ,

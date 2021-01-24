@@ -1,0 +1,6 @@
+we have applied a previously developed method for quantitative determination of the absolute levels of psh , psox , and pssg on all cellular proteins ( including membrane proteins ) in cultured mammalian cells , and combined these data with quantifications of gsh and gssg in the same cells . in this way
+we set out to investigate how this enormous load on the secretory machinery affects the global thiol - disulfide environment of the b cell .
+, we have for the first time characterized the changes in thiol - disulfide state during differentiation of b cells .
+, we have obtained a picture of the global changes in cellular thiol - disulfide redox status during differentiation of the resting b cell into an antibody - secreting plasma cell .
+the transformation of resting b cells into antibody - secreting plasma cells involves an extensive expansion of the er   and both er resident proteins and proteins involved in redox balance are up - regulated linearly during differentiation . how cells cope with this sudden increase in secretory activity has been the subject of numerous studies   .
+this may be explained by the activation of oxidative stress during the early stage of b cell differentiation and followed by a strong antioxidant response   .

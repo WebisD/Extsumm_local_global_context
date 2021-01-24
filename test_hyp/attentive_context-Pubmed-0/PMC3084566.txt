@@ -1,0 +1,7 @@
+clinical data of the subjects clinical information of sampling sites bacterial phyla and genera detected in this study when the diversity and richness of the resident bacterial species were compared between pi and periodontitis , higher values for the shannon index and richness were observed at pi sites ( table 4 ) , thus suggesting that the bacterial community at pi sites were more diverse when compared to periodontitis .
+phylogenetic tree of bacterial species and phylotypes detected in peri - implantitis ( pi ) , periodontitis ( p ) , and healthy implants ( h ) .
+, pi biofilms showed a more complex microbiota when compared to periodontitis and periodontally healthy implants , and were mainly composed of gram - negative anaerobic bacteria .
+comparison of diversity and richness of sequenced clones between peri - implantitis and periodontitis 
+					  shannon index and richness are estimated based on 2% differences in nucleic acid sequence alignments .
+previously established periodontopathic bacteria showed low prevalence and several bacteria were identified as candidate of pathogens in pi , although it is unclear whether the importance of these species is higher when compared to established periodontopathic bacteria .
+in the present study , we identified the bacteria that compose biofilm at sites with pi .

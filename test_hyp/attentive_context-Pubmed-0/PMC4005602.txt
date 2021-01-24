@@ -1,0 +1,6 @@
+in this study we have evaluated the potential correlations between the histopathological features of three different skin lesions ( dysplastic nevi , thin and thick cutaneous melanomas ) and the detected number of hev blood vessels ( assessed by the expression levels of the meca-79 ) .
+dysplastic nevus , meca-79 positive vessels , x20 thin cutaneous melanoma(<1 mm ) , meca-79 positive vessels , x20 thick melanomas ( > 1 mm ) , meca-79  positive vessels , x20 using kruskal wallis non - parametric test we found a positive association between high endothelial vessels and anatomic sites ( p<0,01 ) .
+  a better understanding of tumor microenvironment and mechanisms involved in anti - tumor response can play an important role in development of future melanoma therapeutic strategies .
+we noticed using mann - whitney test a significant correlation between meca-79+vessels and the presence of regression in melanoma samples ( p<0,05 ) .
+we have included formalin - fixed and paraffin - embedded tissue samples from a retrospective cohort of patients with dysplastic nevus and primary melanoma collected from 2002 to 2011 ( at the department of pathology of the hospital clinico universitario , valencia ) .
+distribution of melanoma samples by clark index ulceration was present in 25% of melanoma samples .

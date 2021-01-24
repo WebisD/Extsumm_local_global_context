@@ -1,0 +1,7 @@
+from previously synthesized and biologically tested arginine analogues , three of them cav , ncav , and sarg could act as its antimetabolites .
+they could be recognized by arginylate - trna synthetase as substrates and could be included in numerous biologically important peptides and proteins .
+this enzyme catalyzes the reversible reaction 
+ ( 1)2  adp 
+ atp+amp 
+ and may process metabolic signals associated with atp use   . in this case , adk has been implicated in the regulation of the metabolically sensitive ion channels and transporters   . in addition , disruption of the adk gene impedes the export of atp from the mitochondria . what will happen if a gene is working but some mutation of adk appears , such as arginine analogues ( cav , ncav , ncan , nsarg , and sarg ) being incorporated instead of arg in the active site of the enzyme ? in order to study this issue , docking of analogues with arginyl - trna synthetase was our choice for the first step .
+aminoacyl - trna constitutes a family of rna - binding proteins , that is , responsible for the correct translation of the genetic code by covalently linking the appropriate amino acid to the 3 end of the correct trna . in most organisms ,

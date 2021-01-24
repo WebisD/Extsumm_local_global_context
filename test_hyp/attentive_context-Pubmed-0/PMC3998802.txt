@@ -1,0 +1,7 @@
+although the central role of erad in sterol homeostasis is unequivocal , it will be important to clarify whether erad has a more general role in the regulated degradation of folded er proteins and in that way modulates other er - related functions .
+the earliest evidence for protein quality control at the er came from observations that unassembled subunits of the t cell receptor were rapidly degraded in the cells ( lippincott - schwartz et al . ,
+uncovering the intersections of erad with other cellular pathways will provide important insights into the mechanisms of er and cellular homeostasis .
+subsequent genetic and biochemical studies , primarily in budding yeast but also in mammalian cells , identified many erad components and led to a general understanding of the organization of the pathway .
+in early days , erad was perceived as a process mainly dedicated to er protein quality control .
+, these papers demonstrated that aberrant proteins in the lumen and membrane of the er are degraded in the cytoplasm where the components of the ubiquitin  proteasome system reside .
+however , progress on these topics might require the development of new approaches , such as in vitro systems with purified components recapitulating individual erad steps .

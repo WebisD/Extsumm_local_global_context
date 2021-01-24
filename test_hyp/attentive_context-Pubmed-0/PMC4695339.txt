@@ -1,0 +1,5 @@
+further , we show that , across the genome , chronic exposure to hu results in an altered pattern of gene expression similar to that seen in cells lacking the g4-unwinding helicases fancj , wrn , and blm , and that affected genes are enriched in g4 motifs .
+this is consistent with the g4 acting to focus dna damage induced by the global replication stress imposed by hu , with the damage leading to repression of the locus .
+together , these observations indicate that nucleotide depletion can combine with naturally occurring dna secondary structures to promote epigenetic instability .
+here we test this hypothesis by examining the effect of hydroxyurea ( hu)-induced nucleotide pool depletion on the epigenetic stability of a sensitive reporter locus , bu-1 , in chicken dt40 cells ( sarkies et  al .
+although the cell line we used in this study , dt40 , is itself transformed , we found no evidence of significant stress to the dna replication program under normal growth conditions . however , growth of the cells in  low - dose hu recapitulated the key features of the acutely stressed replication observed in oncogene - expressing primary cells ( bester et  al .

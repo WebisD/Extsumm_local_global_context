@@ -1,0 +1,6 @@
+calcium channels have not been identified previously in c. albicans , but high - affinity and low - affinity calcium - uptake systems ( hacs and lacs ) have been described and partially characterized in s. cerevisiae 
+   .
+cacch1 encodes a putative 2254 amino acid protein with 38.4% identity to its s. cerevisiae homolog . the 24 predicted transmembrane ( tm ) regions in cacch1p are arranged in four repeated units ( i to iv ) of six tm domains , as they are in mammalian calcium channels where they tetramerize to form the core 1-subunit of l - type ca channels .
+we propose that stretch activation of camid1p , and subsequent opening of the cacch1p channel , results in localized ca influx that exerts an influence on the molecular machinery involved in polarized growth of the hyphal tip .
+we propose a model whereby localized ca - channel activation , caused by localized changes in membrane potential or membrane stretch , results in calcium influx that directs polarized growth ( figure  4 ) .
+we hypothesize that the voltage - gated cacch1p ca channel is activated by membrane depolarization at the cathodal face of yeast cells and that this results in localized ca uptake and subsequent induction of localized polarized growth .

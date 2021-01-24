@@ -1,0 +1,6 @@
+further work and increased attention on mosaic rpp genes is important if we are to understand the evolutionary selective pressures driving their fixation in bacterial populations and the subsequent effects on resistance and mobile genetic element evolution within their host .
+our knowledge of the mosaic rpp gene group is steadily increasing since their discovery in 2003 , with the majority derived from tet(o ) , tet(w ) and tet(32 ) and others deriving from tet(m ) and tet(s ) .
+it is clear that these genes are being under - reported both in terms of experimental detection and also within genomic data .
+however , a subgroup of rpp genes has been identified that consist of regions of different , already characterized rpp genes that appear to have undergone recombination forming a mosaic gene .
+rpps are a related group of proteins that , when bound to the ribosome , result in the release of tetracycline from the ribosome , enabling protein synthesis to proceed ( reviewed by thaker et al . ) . of the 12 classes of rpp gene currently reported [ tet(m )
+it must be stressed here that the progenitors of mosaic genes are assumed based purely on the order in which they were discovered and we can not be sure of the directionality of mosaic gene formation .

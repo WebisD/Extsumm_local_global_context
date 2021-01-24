@@ -1,0 +1,5 @@
+of the 37 class 1 patients , the majority ( n = 30 ) were treated with low - intensity follow - up ( imaging and/or lfts every year ) , while all 33 class 2 patients were treated with high - intensity follow - up ( imaging and/or lfts every 36 months ) ( figure 3 ) .
+the decisiondx - um gep test is an accurate prospectively validated molecular classifier , and its results are highly correlative to metastatic potential   , as reported by the collaborative ocular oncology group ( coog ) .
+this study demonstrates that the 15-gene expression assay decisiondx - um continues to accurately predict metastatic risk for um patients , thus enhancing the molecular test 's established clinical validity .
+consistent with their high - risk gep , 12 ( 36% ) class 2 patients experienced a metastasis , whereas only 2 ( 5% ) class 1 patients experienced a metastasis ( p = 0.002 by fisher 's exact test ) with a median follow - up of 2.38 years .
+class 2 patients had a significantly worse 3-year metastasis - free survival ( mfs ) rate of 63% ( 95% confidence interval = 43%83% ) compared to 100% in class 1 patients ( log rank test p = 0.003 ) ( figure 1 )

@@ -1,0 +1,7 @@
+here , we present evidence that apg1 , a protein kinase essential for autophagy , plays a pivotal role in induction of tor - regulated autophagy .
+in an effort to study the mechanism of autophagy induction , we focused on the apg1 gene , which encodes a protein kinase whose activity is essential for autophagy ( matsuura et al .
+this tight apg1apg13 association is required for autophagy , but not for the cvt pathway , an observation that supports a model in which the apg1apg13 complex plays an important role in switching from the cvt pathway to autophagy in response to nutrient conditions ( fig .
+cell growth is tightly linked with the cell 's perception of its nutritional environment . in particular , microorganisms , such as the yeast saccharomyces cerevisiae , that spend most of their time in the stationary phase in the wild ,
+however , the molecular mechanism by which tor negatively regulates autophagy remains to be determined .
+tor is a phosphatidylinositol kinase - related kinase that promotes cell cycle progression in response to nutrient availability ( thomas and hall 1997 ) .
+our observation that tor regulation of apg1 activity and autophagy induction is rapamycin - sensitive , but tap42-independent , implies that the apg1apg13 interplay comprises a novel tor signaling pathway regulating autophagy induction .

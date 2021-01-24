@@ -1,0 +1,7 @@
+the measurement obtained with a cls has been shown to be accurate and reproducible.14 in the present study , we investigated the relationship between short - term and long - term iop fluctuations .
+in conclusion , long - term and short - term iop fluctuations were significantly correlated .
+measuring iop fluctuation with a cls could be useful to predict long - term iop fluctuation .
+as shown in figure 1 and table 2 , the short - term iop fluctuation was significantly correlated with the mean iop ( p=0.001 ) , the iop difference ( p=0.0207 ) , the sd - iop ( p=0.0061 ) , and the peak iop ( p=0.0017 ) . the short - term and the long - term iop fluctuations were moderately but significantly correlated .
+the mean iop as well as peak iop , the iop difference , and sd - iop of long - term iop fluctuation was correlated with the short - term iop fluctuation measured with a cls .
+thus , the short - term and the long - term iop fluctuations were significantly correlated .
+the long - term iop fluctuation was shown as a significant risk factor by multiple logistic regression analysis.8,15 another study showed that peak iop was a better predictor of progression than mean iop or iop fluctuation.9 some studies reported that the short - term and the long - term iop fluctuations were correlated in stable glaucoma patients.1519 these results are in agreement with our present findings .

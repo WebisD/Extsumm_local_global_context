@@ -1,0 +1,6 @@
+the unique point of this database is that it allows to compare compositional complexity of genomes and to analyze over- or underrepresentation of particular oligonucleotides .
+we created a series of statistical models predicting the frequencies of word of up to 4 nt in a genome .
+we retrieved all available complete eukaryote and prokaryote genomes , constructed such models for them , and compared the actual word frequencies with those predicted by the models to determine the discrepancy . here , we present a database , called genome composition database ( gcd ) , which shows how accurately each genome can be approximated by a model .
+noncoding regions are the major part of eukaryote genomes , and most of them are believed to evolve neutrally ( kimura 1983 ) . under this assumption
+oligonucleotide frequencies of one genome can provide a useful mechanism of genome comparison ( karlin 2005 ) , including phylogeny reconstruction ( takahashi et al .
+, we expect that the frequency of a particular short oligonucleotide , or dna word , of 10 bp or shorter should be primarily determined through accumulation of neutral mutations , and the total set of frequencies of all dna words of certain length should follow some simple statistical rules .

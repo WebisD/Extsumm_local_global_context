@@ -1,0 +1,7 @@
+therefore in this article we will product a meta - analysis to explore the diagnostic accuracy of pleural fluid tnf- in tp .
+plr was 4.78 ( 95% ci : 3.32 - 6.89 ) and nlr was 0.16 ( 95% ci : 0.1 - 0.27 ) [ figure 3 ] .
+specificity ranged from 0.71 to 0.93 , and meta - analysis showed a pooled specificity of 0.82 ( 95% ci : 0.78 - 0.86 ) [ figure 2 ] .
+sensitivity for pleural fluid tnf- in tp diagnosis ranged from 0.71 to 0.96 in the seven studies , and meta - analysis of sensitivity and specificity indicated a pooled sensitivity of 0.89 ( 95% confidence interval [ ci ] : 0.83 - 0.93 ) [ figure 2 ] .
+diagnostic performance was better in meta - analysis of adenosine deaminase , which reported a sensitivity of 0.86 , specificity of 0.88 , plr of 6.32 , nlr of 0.15 , and dor of 45.25 .
+, we found the sensitivity of the pleural fluid tnf- assay to be 0.89 ; specificity , 0.82 ; maximum joint sensitivity and specificity , 0.89 ; and auc , 0.8556 .
+the diagnostic performance of tnf- may improve by changing the detection platform from the current elisa to more advanced flow cytometry , elispot and luminex methods .

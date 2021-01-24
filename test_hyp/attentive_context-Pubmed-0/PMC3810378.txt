@@ -1,0 +1,7 @@
+a stable , selective , and sensitive gc - ms method has been developed for the simultaneous determination of codeine and its metabolite morphine in human urine .
+this developed method with derivatization for sample preparation was successfully applied for the determination of morphine and codeine in human urine for methodological study .
+qc samples at three concentration levels ( 50 , 200 , and 1600  ng / ml for morphine and codeine ) were analyzed to assess the accuracy and precision of the method .
+all the stability studies of morphine and codeine in human urine were conducted at three concentration levels ( 50 , 200 , and 1600  ng / ml for morphine and codeine ) with three replicates for each concentration .
+concentrations of the analytes in the samples were expected to be smaller than the low end of the therapeutic range ( 25  ng / ml ) , which highlighted the importance of efforts aimed at increasing the sensitivity of detection .
+the lloq for codeine in human urine was 25  ng / ml and the precision and accuracy at lloq were 13.8% and 88.9% , respectively .  
+the lloq for morphine in human urine was 25  ng / ml and the precision and accuracy at lloq were 10.5% and 87.6% , respectively .

@@ -1,0 +1,7 @@
+in this work , a robust nonblind medical image watermarking scheme for mammograms was proposed applying frwpt .
+experimental results show that the scheme is robust to common attacks like the compression attacks , interference attacks , and signal processing attacks .
+it is difficult to evaluate watermark interferences with diagnosis . embedding the information within the non - region of interest ( nroi ) : this method   generally places the watermark in the gray portions of the image .
+in the past few decades , there has been a tremendous growth in information and communication technology leading to easier access to any form of digital data including medical data .
+the time factor is very important to discover the abnormality issues in target images , especially in various cancer tumors such as the breast cancer .
+researchers at the january 1997 consensus development conference presented data discussing the facts related to breast cancers detected by mammography .
+medical data are those that are generated from medical information system ( mis ) , hospital information system ( his ) , radiology information system ( ris ) , and electronic patient records ( epr ) . most of the medical diagnosis is based on images from ct scans , x - rays , mri scans , mammography , and other forms of image modalities .

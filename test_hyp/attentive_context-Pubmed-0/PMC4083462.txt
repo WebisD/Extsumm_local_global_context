@@ -1,0 +1,8 @@
+first , it illustrates how er stress impairs the formation of both adherens junctions and desmosomes , contributing to dd pathogenesis .
+dd , caused by mutations in the er ca atpase atp2a2 ( sakuntabhai , et al . , 1999 ) , is an uncommon ( 1:30,000 ) blistering skin disease .
+as the authors note , however , therapeutic options for dd are limited , and miglustat may be the first in a series of agents that treat dd by facilitating redistribution of adhesion molecules to the plasma membrane .
+second , it expands our understanding of how er ca signaling may control , not only keratinocyte growth and differentiation , but also keratinocyte cell - to - cell adhesion .
+current treatments , such as retinoids , do not ameliorate the underlying defect in er ca sequestration , and are ineffective for many patients .
+this report , by savignac et al ( editor , please add reference ) , advances our understanding of dd in several important ways .
+this report identifies er stress , induced by er ca depletion due to serca2 dysfunction , as an important contributor to dd pathogenesis .
+finally , this report demonstrates that treatment of dd keratinocytes with miglustat improves desmoplakin and e - cadherin redistribution and improves ( although it does not normalize ) cell - to - cell adhesion .

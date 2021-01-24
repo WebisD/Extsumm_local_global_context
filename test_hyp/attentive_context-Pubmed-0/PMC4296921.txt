@@ -1,0 +1,25 @@
+on the other hand , since the tissue 
+ penetration of the nir laser is limited to around ten millimeters , 
+ an alternative strategy for activatable dissociation of the nanoassemblies 
+ are needed to apply this system to treatment of drug - resistant metastatic 
+ tumors .
+furthermore , this 
+ dna - based nanoassembly platform can accumulate chemotherapeutic drugs 
+ in the nuclei , thus greatly enhancing their therapeutic efficacy against 
+ drug - resistant cancer cells by effectively bypassing p - gp .
+this proof - of - concept 
+ structure also opens a new door in the use of nanoassemblies for the 
+ design of drug delivery systems for biological and clinical research . 
+ to comprehensively evaluate the superiority of this nuclear - uptake 
+ nanodrug delivery system
+in summary , we have developed a dna - based 
+ nanoassembly platform for cancer therapy . unlike traditional intranuclear 
+
+transport strategies of nanoparticles , no nuclear 
+ localization signal ( nls ) peptides are required in our design , and 
+ the nuclear uptake of nanodrugs is mainly attributed to small particle 
+ size , thus avoiding complicated nls modification processes and maintaining 
+ the valid occupancy of drug - loading probes on the np surface . by using 
+ this photocontrolled , size - transformable nanosystem , nanodrugs can 
+ be efficiently transported across the cell membrane and enter the 
+ nucleus in a coordinated and harmonious manner .

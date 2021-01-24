@@ -1,0 +1,7 @@
+tlrs are transmembrane proteins which contain extra - cellular domains composed of leucine - rich regions ( lrr ) that interact with specific pathogen associated molecular patterns ( pamp ) ligands .
+the cytoplasmic domains of tlrs , which are homologues to the interleukin-1 receptor ( il-1r ) signaling domain , are called toll / interleukin-1 receptor ( tir ) domains .
+tlr3 ligands have been identified in the synovial fluid of patients with ra , and tlr9 ligands have been found in the immune complexes of sle patients .
+tlrs are the key initiators of innate and adaptive immune response due to high production of proinflammatory cytokines and chemokines , upregulation of co - stimulatory molecules , and activation of antigen presentation .
+thus , a set of events that follow activation through tlr results in the production of autoantibodies and cytokine response leads to autoimmune diseases .
+these studies represent promising avenues for the development of novel - tailored immune therapeutics that can relieve by inflammatory and autoimmune diseases on human health and quality of life . at present
+immunotherapeutic role of tlrs is emerging in treating autoimmune conditions , suggesting that the selective targeting of tlrs might be useful .

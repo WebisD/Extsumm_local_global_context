@@ -1,0 +1,8 @@
+rkshv.219 virus is latently infected in islk.rkshv219 cell line , derived from islk cell line , as previously described by .
+these results demonstrate that while nucleosomal positioning remains relatively constant between chromosomes at each timepoint , nucleosomal occupancy changes in a chromosome specific manner .
+these two chromosomes show clear increases in the nucleosome occupancy relative to the other chromosomes . at the other end of the scale , chromosomes 1 and 12 are statistically indistinguishable , yet different from all other chromosomes .
+we utilized a high - resolution dna microarray , which we customized to contain 1  kb upstream and downstream of the transcription start sites of 462 immunity - related genes .
+these two chromosomes show clear increases in the nucleosome occupancy relative to the other chromosomes . at the other end of the scale , chromosomes
+these results demonstrate that while nucleosomal positioning remains relatively constant between chromosomes at each timepoint , nucleosomal occupancy changes in a chromosome specific manner .
+we were next interested in calculating the statistical significance of the chromosome specific nucleosome occupancy changes that we had identified at the 24  hour timepoint .
+we first calculated the range of nucleosome occupancy values for all loci studied on a per chromosome basis for each post - kshv reactivation timepoint ( fig . 

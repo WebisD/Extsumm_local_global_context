@@ -1,0 +1,25 @@
+in this study , we have identified conditions 
+ for the oxidative 
+ coupling of o - aminophenols to n - terminal amino acids . 
+
+herein , we report an oxidative 
+ coupling pathway that can preferentially 
+ modify the n - terminus of proteins with fast kinetics .
+this mild bioconjugation reaction enables the facile , 
+ rapid modification of proteins to create a well - defined and stable 
+ linkage in a single position , and thus should be useful for many different 
+ applications in chemical biology and the construction of biomolecular 
+ materials .
+these groups can be 
+ introduced readily in n - terminal positions using site - directed mutagenesis 
+ and escherichia coli expression , especially 
+ since the methionine residue resulting from the start codon is cleaved 
+ when proline is in the second position .
+peptide substrates 
+ were first used to screen reaction conditions and identify the site 
+ of modification . a peptide panel with varying n - terminal residues 
+
+the ability of the n - terminal oxidative coupling method to achieve 
+ this in a single , brief reaction step is highly advantageous , and 
+ the fact that it can be combined with cysteine modification chemistry 
+ provides new opportunities for complex bioconjugate synthesis .

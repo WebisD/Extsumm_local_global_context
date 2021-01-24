@@ -1,0 +1,7 @@
+the average central epithelial thickness was measured to be 52.6  4.1  m ( 40.9~60.6  m ) before lasik and 56.2  4.3  m ( 50.0~65.5  m ) 3 months after lasik ( p = 0.013 , figure 2 ) .
+the spherical equivalent of lasik correction ranged from 1.69  d to 6.75  d ( mean : 4.39  1.63  d ) .
+the average epithelial thickness at 5~6  mm annular zone was 51.6  6.6  m ( 39.6~67.4  m ) before lasik and 54.8  4.3  m ( 49.8~68.0  m ) 3 months after lasik ( p = 0.024 , figure 2 ) .
+the slope of 1.15 indicated that , for every diopter of myopic lasik correction , the central epithelial thickness increased by 1.15  m , which corresponded to a smoothing constant of about 0.46  mm . based on this smoothing constant
+corneal epithelium was thicker on the inferior side compared to that on the superior side both before ( figure 1(a ) ) and after lasik ( figure 1(b ) ) .
+fourier - domain oct was demonstrated to be a valuable tool for noncontact measurements of corneal epithelial thicknesses change caused by lasik .
+paired t - test was used to compare the difference of preoperative and postoperative epithelial thickness .

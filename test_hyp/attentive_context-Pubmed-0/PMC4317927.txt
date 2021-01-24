@@ -1,0 +1,6 @@
+the dse - fret technique can detect protein  dna interaction quantitatively and specifically using a simple procedure ; just mix and measure .
+inadequate intra- and intermolecular hybridization of tails interferes with appropriate formation of a four - way junction and markedly reduces the efficiency of strand exchange .
+it detected p50 binding with a high z-factor and a dose  response analysis was carried out with two types of inhibitor ( eb and ( )-dhmeq ) .
+we believe that the dse - fret assay will be a powerful tool to isolate novel nf-b inhibitors that inhibit dna binding activity and cancer growth .
+however , the amount of ( )-dhmeq required to inhibit the proteins differed between the two methods . a ( )-dhmeq concentration fourfold that of p50 ( 8020 m ) inhibited protein binding completely in emsa,(19 ) whereas a ( )-dhmeq concentration 44-fold that of p50 ( 8.80.2 m ) was required to inhibit half of the p50 binding in dse - fret .
+nuclear factor-b plays a pivotal role in the coordinated transcription of multiple inflammatory genes and is a probable drug target.(1416 ) two probes , nf - d1 and nf - d2 , were prepared to test quantitative detection of p50 binding to dna .

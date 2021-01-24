@@ -1,0 +1,6 @@
+some f - s mtlds in clinical service delivered unacceptably high torque values . due to the high variability in peak torque delivery , the purpose of this study was to assess the accuracy ( 10% of the target torque ) of new f - s mtld , before and after aging .
+within the limitation of this study , aging as an independent factor affects the accuracy of f - s mtlds .
+new f - s mtlds from three different implant manufacturers were collected to determine their accuracy by comparing their peak torque with their target torque values ( figure 1 ) .
+the data support rejection of the first null hypothesis , as there was significant difference between the absolute difference of peak torque and target torque values ( error ) after aging in astra tech and biohorizon mtlds ( p < 0.001 ) .
+a significant difference was seen between raw error values ( absolute value of difference between peak torque and target torque ) of the three groups studied ( p<0.05 ) .
+according to this test , biohorizon and dr idhe mtlds , showed significant differences in the fifteen first repetitions of torque value measurements ( p<0.05 ) and then they were comparable but showed significant difference with astra tech mtlds ( p<0.05 ) .

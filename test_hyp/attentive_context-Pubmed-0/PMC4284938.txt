@@ -1,0 +1,8 @@
+together , our results argue that the interpretation of data involving lysosome - dependent processes in primary macrophages must take the source of the cells into consideration .
+moreover , using the example of the lipotoxic inflammasome , we provide evidence that these differences in the lysosomal compartment can influence macrophage inflammatory responses .
+consistent with the flow cytometry and imaging data , the expression of genes encoding cathepsin proteases , lysosomal membrane proteins , and the vacuolar atpase was increased in pmacs relative to bmdms ( figure 3(a ) ) .
+we , and others , have shown that the combination of lps and the saturated fatty acid ( sfa ) palmitate triggers the release of il-1 through an nlrp3 and caspase 1-dependent mechanism   . in prior studies using this system
+to assess lysosomal protease function , we analyzed the activity of cathepsin b using the fluorogenic substrate magic red .
+therefore , we compared the expression of several lysosome and autophagy related genes in bmdms and pmacs .
+our data demonstrate that pmacs have a larger lysosome volume , increased cathepsin activity , and enhanced expression of several lysosomal genes and proteins .
+interestingly , the molecular weight of lamp1 was significantly greater in bmdms suggesting a higher level of glycosylation , a finding which could further affect lysosome function and stability in these two types of primary macrophages ( figure 3(d ) ) . to investigate whether the observed differences in lysosome phenotype modulate macrophage inflammatory responses , we explored the lipotoxic inflammasome as a model system .

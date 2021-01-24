@@ -1,0 +1,5 @@
+we found a substantial proportion of mdr tb cases and case clustering in california among non  us - born persons , and the katg s315 t mutation was independently associated with clustering .
+mdr , multidrug - resistant tuberculosis ; or , odds ratio ; ci , confidence interval .
+in this 4-year population - based molecular epidemiologic study , transmission followed by secondary case generation contributed to 14% , or 1 of every 7 , mdr tb cases in california . clustered cases occurred more often among younger persons and persons who had emigrated from mexico and refugee settings in southeast asia .
+clustering was independently associated with katg s315 t ( or 11.2 , 95% ci 2.2- ; p = 0.004 ) and refugee status ( or 6.0 , 95% ci 1.236.2 ; p = 0.03 ) in exact multivariate analyses in which strain lineage and sputum smear positivity were controlled for ( table 5 ) .
+time to culture negativity ( 2.4 vs. 2.8 months , p = 0.95 ) , treatment failure , or death did not differ between clustered and nonclustered cases ( p = 0.57 ) among 105 ( 85% ) of 123 cases for which data were available .

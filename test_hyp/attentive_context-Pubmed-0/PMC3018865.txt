@@ -1,0 +1,7 @@
+after concentration of the filtrate under reduced pressure , the resulting oil was purified by flash column chromatography ( etoac in hexane ) to afford alcohol 21 ( from 20 ) or 26 ( from 13 ) as a colorless oil .
+after 8 h , the reaction was quenched by the addition of nahco3 ( 5.95 mmol ) and then filtered .
+acoh ( 3.00 mmol ) was added to a solution of galactoside 20 or 13 ( 1.57 mmol ) in acetone ( 3.5 ml ) and meoh ( 4.7 ml ) at 0 c .
+concentration under reduced pressure followed by purification of the residue by flash column chromatography ( etoac in hexane ) afforded azide 22 ( from 21 ) or 25 ( from 26 ) as a colorless oil .
+the resulting colorless oil was used in the next step without further purification ( 96 mg , quant . ) .
+the resulting colorless oil was used in the next step without further purification ( 192 mg , quant . ) .
+pph3 ( 1.86 mmol ) , diad ( 1.86 mmol ) , and dppa ( 1.86 mmol ) were added sequentially to a cooled solution of alcohol 21 or 26 ( 0.90 mmol ) in thf ( 20 ml ) .

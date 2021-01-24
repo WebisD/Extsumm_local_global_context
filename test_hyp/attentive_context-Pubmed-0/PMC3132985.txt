@@ -1,0 +1,7 @@
+in this paper , we have proposed a model for adaptive regression , called mcbr .
+the proposed method integrates , in the same bayesian framework , brr and ard and performs a different regularization for relevant and irrelevant features .
+another asset of the proposed approach in fmri inverse inference is that it creates a clustering of the features and thus yields useful maps for brain mapping . after introducing our model and giving some details on the parameter estimation algorithms ( the variational bayes or gibbs sampling procedures ) ,
+experiments on both simulated and real data show that our approach is well suited for neuroimaging , as it yields accurate and stable predictions compared to the state - of - the - art methods .
+it can tune the regularization to the possible different level of sparsity encountered in fmri data analysis , and it yields interpretable information for fmri inverse inference , namely , the z variable ( latent class variable ) .
+, we cast regularization in a bayesian framework and treat the regularization weights as hyperparameters .
+the proposed model may thus be used for diagnosis in medical imaging , for the prediction of both continuous or discrete variables .

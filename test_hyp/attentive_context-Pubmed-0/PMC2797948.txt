@@ -1,0 +1,6 @@
+expression levels of key genes , including facilitated glut member 4 ( glut4 ) , insulin receptor substrate ( irs)-1 , and irs2 were lower in the ir group , indicating insulin resistance in this group at the tissue level in accord with their insulin resistance assessed in vivo .
+together , these data suggest that mechanisms underlying the associations between intramyocellular lipids and insulin resistance likely involve ceramide , which in turn may depend on the muscle fiber type or its oxidative capacity .
+moreover , muscle fiber type as well as fiber type  specific lipid content is associated with insulin resistance in muscle .
+the is group had a higher proportion of type i myocytes ( p = 0.002 ) and a lower proportion of type iia ( p = 0.014 and type iix ( p = 0.02 ) than the ir group .
+taken together , however , these results suggest a role for muscle fiber type proportion and/or the oxidative capacity of muscle in insulin resistance , possibly through partitioning muscle lipids into either triglycerides or ceramides . in summary ,
+both groups combined , there was a significant positive correlation between the proportion of type i myocytes and insulin sensitivity and a negative correlation between the proportion of type ii myocytes ( type iia and iix combined ) and insulin sensitivity ( table 3 ) .

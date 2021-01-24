@@ -1,0 +1,6 @@
+we will use the following convention : obesity leads to metabolic syndrome which can progress to t2 dm . in humans obesity
+there are a number of open issues in the hfd mouse modeling of t2dm : will these mouse models be useful in preclinical investigations?what about the differences identified between wild type mouse strains?why some protocols do not elicit dcm?can the research community agree upon a common hfd feeding protocol ?
+the goal is that researchers will use this paper to plan their hfd protocols and to create some consistency in future experimental protocols and analysis techniques . due to differences in the literature ,
+comparisons between papers , genetic manipulations , and therapies will be much easier and more informative if a specific diet , length of diet , and analysis protocols can be agreed upon .
+an updated murine hfd review is urgently required as 223 references for january 2016 were found on pubmed using  high fat diet and mouse  as the search term ( too many to read all ) .
+comparisons between papers , genetic manipulations , and therapies will be much easier and more informative if a specific diet , length of diet , and analysis protocols can be agreed upon .  

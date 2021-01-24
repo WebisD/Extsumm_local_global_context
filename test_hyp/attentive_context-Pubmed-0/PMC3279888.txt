@@ -1,0 +1,14 @@
+
+ biosynthesis de novo : the de novo purine biosynthetic pathway produces purines which represent the building blocks for dna and rna synthesis 
+ cistron : a segment dna equivalent to gene for function ( protein or enzymes ) 
+ diploid ; an organism with sexual cycle is diploid and has one chromosome set from each of its parents 
+ haploid : the haploid means usual number of chromosomes set in somatic cells of common organisms .
+organisms that have not sexual cycle are haploid 
+ inversion : chromosome break of the two areas separated pieces is back by reversal from chromosome breakage 
+ inverted repeats : is a sequence of nucleotides that is the reversed complement of another sequence further downstream 
+ poly cistronic : there are some cistrons on one mrna 
+ polyploidy : increase in chromosome set number 
+ pseudo - genes : are copy of original gene sequence , but lacked the necessary sequences for function . these genes from genetically similar to functional genes , but they have containing multiple mutations 
+ snrnp : small nuclear ribonucleoproteins , are rna - protein complexes , they will combined with unmodified pre - mrna and various other proteins to spliceosome formation . 
+
+prokaryotes such as escherichia coli need simple and inexpensive culture media and have a short proliferation time .

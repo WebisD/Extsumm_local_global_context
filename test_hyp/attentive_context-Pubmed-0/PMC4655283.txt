@@ -1,0 +1,6 @@
+the term metabolomics is similar to that of older technologies such as genomics ( dealing with genes ) , transcriptomics ( dealing with gene transcripts ) , and proteomics ( dealing with proteins ) .
+this variability both in disease progression and treatment response emphasizes the need for additional tools for predicting disease progression and treatment success .
+to examine metabolomic differences in response to t2d and pd in this review , we conducted a pubmed search for the following keywords : ( ( diabetes type 2 ) or ( insulin resistance ) ) and ( metabolomics or metabolomic or metabolite ) and filtered for human studies published within the last 10 years .
+, who used a set of metabolites in a clinical setting to inform physicians on t2d risk factors .
+metabolomic studies have the potential to determine a unique set of metabolites that are predictive of both pd and t2d , often years or decades ahead of disease onset .
+type 2 diabetes ( t2d ) is an increasingly widespread disease in both developed and developing countries . by the year 2030 , it is predicted that more than half a billion people worldwide will be affected by this disease .

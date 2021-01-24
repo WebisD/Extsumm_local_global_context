@@ -1,0 +1,6 @@
+, we investigated the changes of the plasma bdnf levels in hd patients and evaluated the potential correlations between this peptide and selected parameters of uremic inflammation .
+in addition , the plasma bdnf level was found to be positively correlated with inflammatory cytokine in these patients , which suggests that plasma bdnf might reflect the uremic inflammatory condition in the patients undergoing hd .
+the plasma bdnf level showed higher values in the hd patients , and the presence of diabetes seemed to be associated with the higher value of the plasma bdnf in the patients .
+serum il-2 , il-4 , tnf- and ifn- also showed higher values in the hd group than in the control group ( p < 0.05 ) .
+the logbdnf was positively correlated with hs - crp ( r = 0.409 , p < 0.01 ) and ifn- ( r = 0.551 , p < 0.01 ) , and it was negatively correlated with serum albumin ( r = -0.408 , p < 0.01 ) .
+in multivariate regression analysis , logbdnf was independently related to the presence of diabetes ( -coefficient = 0.399 , p = 0.041 ) and ifn- ( -coefficient = 0.538 , p = 0.003 ) after adjustment for age , sex , bmi , dialysis duration , serum albumin , crp and cytokines ( table 3 ) .

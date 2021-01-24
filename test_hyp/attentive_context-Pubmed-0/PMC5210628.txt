@@ -1,0 +1,6 @@
+assembly 22 allows powerful , allele- and haplotype - specific analyses of the overall genome structure , function and evolution . to facilitate genome - wide research
+the candida genome database ( cgd , http://www.candidagenome.org/ ) is a freely available online resource , based on the saccharomyces genome database ( sgd , www.yeastgenome.org ; ( 1 ) ) , which collects , organizes , and makes available candida gene , protein and sequence information to the fungal research community .
+candida albicans is the most thoroughly studied of the human fungal pathogens and also serves as a model organism for the study of other more experimentally challenging fungal pathogens ( 2 ) .
+thus , in order to understand and combat candida pathogenesis , it is important to study candida biology directly , and having access to the phased genome assembly opens up multiple new research opportunities .
+since its inception in 2004 , cgd has been tasked with maintenance of the primary genome sequence and annotation for the c. albicans reference strain sc5314 .
+improving the reference sequence is an ongoing project and we are currently focusing our efforts on intergenic regions , repetitive sequences and segmental duplications .

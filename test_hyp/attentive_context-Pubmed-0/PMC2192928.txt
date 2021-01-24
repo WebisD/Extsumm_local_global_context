@@ -1,0 +1,6 @@
+the ability of a peptide sequence to confer mucosal   secretion upon a molecule may prove a powerful means of   delivery of therapeutic molecules to mucosal areas where   they may prevent the entry of pathogens .
+three mutant   iga1 molecules were constructed and expressed in baculovirus to examine the effect of amino acid changes in this   area on pigr binding ( fig .
+the presence of amino acid sequence insertions in all the   polymeric igs that are ligands for this receptor and the absence of insertions from non - pigr binding igs ( fig .
+further studies are underway with peptides   and additional mutations to examine the nature of the interaction between iga and the pigr as well as the role of   j chain .
+binding was then   measured to the physiologically relevant human receptor   by elisa using the purified recombinant extracellular domain of human pigr expressed in baculovirus as previously   described ( 18 ) .
+4 shows the binding of iga1 monomer ,   iga1 dimer , and igg compared with the monomeric and   dimeric forms of the l1 , l2 , and l3 mutants to purified   human pigr . only dimeric wild - type iga1 and dimeric l2   mutant , in which the mutations are in the -strand nh2-terminal to the loop ,

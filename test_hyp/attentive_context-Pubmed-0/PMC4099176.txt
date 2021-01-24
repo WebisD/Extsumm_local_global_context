@@ -1,0 +1,8 @@
+past study from our group has shown that a stringent quality system may be proposed for a general pilot scale production of any alternative and complementary medicine . with this motivation
+we have analyzed and proposed a mechanism for inclusion of six sigma methodology in the production process .
+we have also considered several strategies for process validation and tried to correlate  dmaic  with respect to penicillin g production .
+first the process and the business case need to be defined separately which could be trailed by investigation of the seed lots and the cell or culture stability .
+also , process improvement needs constant attention by in - process testing and inspection of the culture stability .
+this may reduce batch - to - batch variations and produce better products that will adhere to the regulatory norms and meet quality issues .
+production of ssps is essentially a two - step process : first , penicillins ( in bulk ) are converted to 6-aminopenicillanic acid ( 6-apa ) through a procedure mediated through chemicals or enzymes .
+it is interesting to note that till date several stages for enhanced heterologous production of pga have been proposed using recombinant dna technology and for this escherichia coli or e. coli is the preferred host system due to strong growth features and renowned physiology and metabolism .

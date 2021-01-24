@@ -1,0 +1,6 @@
+here we observed that the adult dorsal root ganglion ( drg ) expresses mrnas of three members of the unc5h family and that netrin has an inhibitory effect on the regenerative axonal growth of cultured drg neurons .
+because unc5h , the receptor mediating the repulsive function of netrin , is mainly found in the adult drg and spinal cord neurons , netrin in the adult neurons may be a neurite - inhibitory molecule .
+we also analyzed the effect of netrin-1 on the neurite outgrowth of adult drg neurons in dissociated cultures .
+we also examined the distribution of neurite length of the longest neurite within neurite - bearing cells , and found that the neurite length was also significantly decreased by netrin-1 treatment ( fig .
+, netrin expression is known to be increased after the spinal cord injury , and inflammatory cells in the wound region are responsible for the high levels of netrin mrna expression after the injury ( 14 ) . in the present study , we demonstrated that netrin-1 inhibits neurite outgrowth from adult drg neurons .
+our data that show the expression of unc5h1 - 3 mrna in the sensory neurons of the adult drg may support the idea that netrin , present in the sciatic nerve , regulates nerve regeneration directly through the receptors expressed in the peripheral sensory neurons .

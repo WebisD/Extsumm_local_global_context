@@ -1,0 +1,19 @@
+complete remission or complete response 
+ means that all of the tumors completely disappeared , and partial remission means that the 
+ tumors regressed more than 50% , but less than 100% . in our study , three to eight 
+ administrations of vincristine at a dose of 0.7 mg / m were able to induce 
+ complete remission in five dogs ( 83.33% ) .
+method validation : the results of intra - day and inter - day precision and 
+ accuracy of the assay are presented in table 
+ 1table 1.intra-day and inter - day accuracy and precision of vincristine sulfate in dog 
+ plasma ( n=5)qc sample concentration 
+ ( ng / ml)mean  sd(ng / ml)accuracy(%)precision(% r.s.d)intra - day ( 5 days)2.02.05  0.201026.4650.049.9  0.8199.71.59100.099.9  0.9999.90.92inter - day ( 5 days)2.02.22 
+the present study was 
+ conducted to evaluate the pharmacokinetic parameters of vincristine sulfate in dogs with tvt 
+ and to determine their correlation with the clinical effects of the drug using the 
+ well - suited lc - ms / ms method to determine the concentration of vincristine sulfate in dog 
+ plasma .
+five duplicates of the quality control 
+ ( qc ) sample at concentrations of 2 , 50 and 100 ng / ml were 
+ prepared and used to determine the recoveries , intra - day and inter - day precision , and 
+ accuracy of the method .

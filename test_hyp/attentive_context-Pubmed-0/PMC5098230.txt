@@ -1,0 +1,25 @@
+the photodynamics 
+ of a unidirectional molecular motor has been 
+ studied by time - resolved ir spectroscopy in which both vibrational 
+ and electronic structures are probed . in combination with quantum 
+ mechanical calculations , the high structural sensitivity and real - time 
+ character of the technique allows us to understand fundamental aspects 
+ of the operation mechanism .
+the performance of photoinitiated 
+ unidirectional rotation thus involves a multicoupled - state optimization 
+ of nuclear motion .
+the results show that conversion of photon 
+ energy into directed motion proceeds on the potential energy surfaces 
+ of two different electronic states , which is the more important as 
+ it implies that the conical intersection between the  dark  
+ electronically excited state and the ground state determines the efficiency 
+ of the motor . to rationally tune
+these techniques offer 
+ a high time resolution but provide only indirect information as to 
+ how the structure evolves spatially over time . in the present contribution 
+ we show that this information can be obtained through a combination 
+ of picosecond time - resolved vibrational spectroscopy of the electronically 
+ excited states together with quantum - mechanical calculations .
+time - resolved studies are essential to elucidate these dynamics but 
+ have thus far focused on probing the change in the electronic structure 
+ after photoexcitation through uv / vis absorption and fluorescence studies .

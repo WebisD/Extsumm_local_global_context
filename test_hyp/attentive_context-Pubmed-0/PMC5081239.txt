@@ -1,0 +1,8 @@
+this study was conducted to explore the possibility of using psi as an agent to sensitize cancer cells to cisplatin , with an attempt to provide new methods and insights for the management of gastric cancer .
+thus , psi induces apoptosis , especially together with the cisplatin treatment , leading to enhanced efficacy
+psi significantly sensitizes sgc-7901 cell lines to cisplatin - induced proliferation inhibition in a cisplatin concentration - dependent manner in vitro .
+the mechanism of this chemosensitivity is related to the g2/m phase arrest and apoptosis by increased caspase-3 , bax , p21 and decreased bcl-2 expression
+the results reveal that psi promotes cisplatin - induced apoptosis in sgc-7901 cells at 48 h significantly in a cisplatin concentration - dependent manner . to explore the mechanism by which psi enhances the cisplatin - induced apoptosis and cell cycle arrest in sgc-7901 cells
+annexin v / pi double staining assay was used to evaluate the apoptosis induced by psi and cisplatin in sgc-7901 cells .
+, we examined the effects of psi and/or cisplatin on the expression of key regulators , including caspase-3 , bax , bcl-2 and p21 .
+four groups were divided as the control group , psi group , cisplatin group and psi + cisplatin group .

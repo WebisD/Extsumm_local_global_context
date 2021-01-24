@@ -1,0 +1,6 @@
+first , a quarter of patients referred for intermediate - sized pn evaluation were found to have cancer , emphasizing the importance of the diagnostic evaluation .
+these models had very good accuracy in this cohort of patients , with an area under the curve of 0.77 ( 95% ci , 0.72 - 0.81 ) and 0.74 ( 95% ci , 0.69 - 0.80 ) , respectively ( e - fig 3 ) .
+third , despite guideline recommendations for surveillance of pns with < 5% pca , 44% of low - risk patients underwent one or more invasive procedures for a benign nodule .
+in conclusion , one in four patients referred with a nodule to a community pulmonologist has cancer , making management decisions critical to patient outcomes . to spare patients unnecessary testing , use of a higher pca to define a nodule as low risk seems reasonable .
+finally , the rate of surgical resection for nodules with various pretest probabilities of malignancy was similar .
+current smokers ( or = 3.29 ; 95% ci , 1.36 - 7.98 ) and patients with larger nodules ( 16 - 20 mm ) were more likely ( or = 4.77 ; 95% ci , 2.95 - 7.72 ) to have a procedure ( biopsy or surgery ) performed .

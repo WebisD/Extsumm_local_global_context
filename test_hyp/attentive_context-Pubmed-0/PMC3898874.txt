@@ -1,0 +1,9 @@
+this made -arrestin1 an interesting object for our studies of stat1 dimer reorientation and its effects on dephosphorylation .
+here we present the results of our experiments , which contrary to expectations provide evidence against the reported negative - regulatory role of -arrestin1 in stat1 signaling .
+propose a model whereby -arrestin1 , but not -arrestin2 , promotes the dephosphorylation of nuclear stat1 by acting as a scaffold to directly facilitate recruitment of phosphatase tc45 .
+the cytokine interferon- is critical for protection against viral and bacterial infections and tumor development .
+we accordingly found that the transcription of interferon- target genes was not inhibited in the presence of -arrestin1 . in summary
+at first we wanted to confirm that overexpression of -arrestin1 diminishes ifn-induced transcription of a stat1-dependent reporter gene in hela cells .
+, our data do not support a negative - regulatory role for -arrestin1 in interferon- signaling .
+we used c - terminally green fluorescent protein ( gfp)-tagged human -arrestin1 and n - terminally flag - tagged rat -arrestin1 , which in agreement with its evolutionary conservation can supplant functions and interactions of the human homolog ( scott et  al . , 2006 ;
+we then studied the tyrosine dephosphorylation of stat1 in the wild - type cells and the -arrestin1-deficient cells ( figure  2c ) .

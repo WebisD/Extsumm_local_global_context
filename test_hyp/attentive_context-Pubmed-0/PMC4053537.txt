@@ -1,0 +1,28 @@
+we utilized the energy balance between 
+ the precession entropy s and 
+ free energy of membrane deformation gdef to derive an equation of state describing 
+ the dependence of the tilt on the helix length and membrane thickness . 
+
+following previous works on tilting under 
+ hydrophobic mismatch 
+ conditions , we demonstrated 
+ that precession entropy can contribute to the tilting of tm helices 
+ under conditions of perfect match and negative mismatch , despite the 
+ unavoidable membrane deformation .
+hydrophobic match or mismatch in transmembrane 
+ ( tm ) helices ( or 
+ proteins ) refers to the match or mismatch between the length of the 
+ hydrophobic core of the helix and the native thickness of the hydrocarbon 
+ region of the membrane ( figure 1 ) .
+notably , 
+ our simple theoretical model managed to reproduce the 
+ tilt angles observed for 17 different peptides in membranes of various 
+ thicknesses .
+this supports the model s underlying assumption , 
+ namely , that the tilt is determined by the free energy balance between 
+ the helix precession entropy and lipid perturbation .
+thus , the equation of state 
+ can be used for a quick estimation of the helix tilt .
+however , one 
+ should take into account that the 17 peptides are synthetic and very 
+ similar to each other .

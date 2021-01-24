@@ -1,0 +1,7 @@
+i devised an innovative mathematical model to describe novel equations governing hba1c which enables analysis of hba1c behavior and provides emerging new concepts in assessment of diabetes management .
+this index is not affected by short - term fluctuations in blood sugar ( hour to hour ) and hence gives a relatively precise reflection of the state of blood glucose control in diabetes . to introduce novel applications and new concepts about hba1c
+this devised model also makes hba1c more befitting and useful for being a main part of guidelines on using the hba1c test as a diagnostic tool for diabetes .
+, an innovative mathematical simulation was analytically modeled to describe the hba1c behavior and process of events .
+as described in table 2 and figure 4 , change in hba1c shows a prompt fall upon institution of rigorous diabetic control .
+this would be an important issue , and if measured following a significant variations in plasma glucose during changes in patient 's diabetes control or medication , then it would end to a remarkable error in estimation of mpg .
+in addition to the presented application , i specifically was interested in assessing the pattern of hba1c changes over time and calculation of emerged error during crude estimation of mpg from hbmix .

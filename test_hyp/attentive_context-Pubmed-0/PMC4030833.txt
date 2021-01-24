@@ -1,0 +1,22 @@
+compound 11e , 11r , 11w , 
+ and 11y increased histone h3 and h4 acetylation in the 
+ same level of lbh589 ( one of the most potent hydroximates hdacis in 
+ clinical ) in u937 cell line . at the same time , some of the compounds 
+ decreased the level of pro - caspase3 , which was consistent with the 
+ result of flow cytometry analysis in inducing apoptosis .
+recently , we have embarked on development of n - hydroxycinnamamide - based hdacis ; in our previous study , compound 
+ ( s , e)-tert - butyl 
+ ( 1-(4-(3-(hydroxyamino)-3-oxoprop-1-en-1-yl)-2-methoxyphenoxy)-3-(1h - indol-3-yl)propan-2-yl)carbamate ( 14a ) exhibited 
+ modest hdac inhibitory . here in this 
+ article , we report the design , synthesis , and biological evaluation 
+ of a new series of selective hydroxymates hdacis describing their 
+ structure  activity relationship ( sar ) studies , isotype - selectivity , 
+ and anticancer activities .
+compound 11r was evaluated for its in vivo antitumor study in a u937 
+ xenograft mice model and showed higher efficacy compared to the approved 
+ drug saha .
+in addition , a few of the examples 
+ of the new series in antiproliferative study exhibited high potency 
+ against several solid or hematological cells , even though antiproliferative 
+ activity of the compounds seemed inferior to their hdac inhibition 
+ activity .

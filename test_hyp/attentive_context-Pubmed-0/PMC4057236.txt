@@ -1,0 +1,6 @@
+use of the sheep model in this study had several advantages . with a size comparable to that of the human , the ovine model allowed an analysis of physiological endpoints that are clinically relevant and permitted the application of ventilation strategies that are similar to those used in clinical practice .
+in the current issue of critical care , de prost and colleagues   evaluated the impact of protective and injurious ventilation strategies on lung neutrophil distribution and activation in sheep 2 hours after endotoxin infusion .
+the authors conclude that a protective ventilation strategy that optimizes alveolar recruitment and minimizes alveolar distension may mitigate neutrophil activation in the lung , particularly in dependent areas , during early experimental acute lung injury ( ali ) .
+it is hoped that the group will perform follow - up studies to determine whether the observed changes in regional leukocyte activation are predictive of progressive respiratory failure and pulmonary injury as well as better define the specific cell populations involved .
+18f - fdg : f - fluorodeoxyglucose ; ali : acute lung injury ; peep : positive end - expiratory pressure ; pet : positron emission tomography .
+positron emission tomography ( pet ) imaging and n-[nitrogen]-saline infusion were performed to evaluate regional lung perfusion and shunt fraction .

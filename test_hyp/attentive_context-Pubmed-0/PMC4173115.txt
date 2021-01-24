@@ -1,0 +1,8 @@
+in our model , each particle consists of a core sphere with four tetrahedrally oriented arms ( see fig .
+note that although the q6 based order parameter is sensitive to multiple crystal structures , visual inspection of the detected clusters consistently showed a bcc structure in all cases .
+note that there are no hard - core interactions within a particle : spheres belonging to the same tetramer can overlap .
+s4 in the si for examples ) . to determine whether spontaneous crystallization occured in our sus simulations , we used a bond - order parameter to find the largest crystalline cluster in the system .
+for the liquid phases , we used a high temperature fluid as a reference state , where we obtained the helmholtz free energy f by combining the chemical potential  ( evaluated from a sus simulation ) and the pressure p at the same density  ( taken from an npt mc simulation ) , using : 
+ ( 1)ffn=p , 
+ where n is the number of particles .
+the central sphere and the arms are modeled as interpenetrating hard spheres with diameter  , with the centre of each arm located a distance l from the centre of the core . on the surface of each arm

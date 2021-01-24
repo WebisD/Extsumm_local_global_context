@@ -1,0 +1,6 @@
+whereas genomics provides a list of potential proteins encoded by an organism 's genome , data from proteomic analysis can provide the ' rosetta stone ' that allows assignment of specific proteins to different subcellular structures .
+comparative analysis of organellar subfractions can potentially circumvent this problem by providing a rational basis for distinguishing bona fide organelle components from contaminants . here , we scrutinize the use of such an approach to survey the integral membrane proteins of the nuclear envelope .
+the most informative proteomic analysis requires highly purified organelle ( sub)fractions , yet subcellular fractionation is notorious for cross - contamination .
+although decades have passed since most cellular organelles were initially characterized by microscopy and subcellular fractionation , a complete catalogue of the proteins in each organelle has yet to be obtained .
+the roads opened by comparative proteomics will one day provide a complete map of all the cellular proteins in each organelle in each tissue at each stage of development . through comparison of this map with datasets generated from people with particular diseases , proteomics
+the opening of the nuclear envelope by proteomics has already identified new inm proteins and produced a catalogue of yeast npc proteins .

@@ -1,0 +1,6 @@
+therefore , in this study , we investigated the effects of pacap on kidney cells and the mechanisms of how pacap decreases the expression of inflammatory cytokines .
+pacap , a substrate for dpp4 , activated the camp / pka signaling pathway in cultured podocytes and inhibited the expression of inflammatory cytokines , which were induced by lps / tlr4 signaling .
+then , we examined the effect of h89 , an inhibitor of the pka signaling pathway , and of u-73122 , a known plc inhibitor , on the increased levels of mcp-1 .
+in conclusion , we have shown that pacap has anti - inflammatory effects on glomerular podocytes . because treatment options for dn are still limited , pacap may be a good candidate for prevention / attenuation of dn . however , more study is definitely needed to prove this possibility .
+in the present study , we reported that vpac1 , a pacap receptor , was exclusively expressed in glomerular podocytes .
+the expression of tlr2 , tlr4 , and myeloid differentiation primary response gene 88 ( myd88 ) , a tlr adaptor protein , but not that of il-1 receptor associated kinase-1 ( irak1 ) , a down steam signaling molecule of myd88 , was decreased in the presence of pacap .

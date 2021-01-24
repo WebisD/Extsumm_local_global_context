@@ -1,0 +1,18 @@
+our results indicated that ( a ) the paretic lower limb 
+ strength was correlated with the nonparetic lower limb strength , ( b ) both the paretic and 
+ nonparetic knee extension strengths were predictors of gait performance in older patients 
+ with poststroke hemiparesis , ( c ) the paretic knee extension strength affected gait 
+ performance more than the nonparetic strength , and ( d ) the strength indices of the paretic 
+ and nonparetic strengths combined with the weighted impact for gait performance could 
+ predict gait performance .
+however , because spasticity of knee extensor and flexor muscles in 
+ stroke patients was not examined in this study , further research is needed to investigate 
+ the relationship between lower limb strength and spasticity and gait performance .
+in the present study , a relation between both paretic and nonparetic lower limb strength 
+ and gait performance was discovered .
+a strength index of 2.0 , meaning that the prediction of gait 
+ performance was deduced from the bilateral knee extension strengths , provides the best 
+ balance between positive and negative predictive values .
+the discriminant analysis classified the difference between the ability 
+ and inability to walk ( eigenvalue , 0.49 ; wilks lambda , 0.67 ;  , 93.85 ; df , 2 ; p 
+ < 0.0001 ) .

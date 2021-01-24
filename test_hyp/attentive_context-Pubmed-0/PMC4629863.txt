@@ -1,0 +1,8 @@
+this publication has presented the strenuous experimental journey to discover the first spectroscopic evidence for the existence of a bridging hydride in a [ nife ] h2ase s ni 
+improved sample concentration , increased photon flux and ultra - low noise level in the apd detectors all set the foundation for a possible nrvs measurement of the weak ni 
+the decision and insistence on searching in the then unlikely energy region of 620720  cm was the key step towards successful observation of the ni 
+fe wagging mode has 2729 parts per million in intensity in comparison with the nuclear resonance peak , or 0.8% in comparison with a fe  s feature .
+fe feature at 675  cm provided a critical observed reference for dft calculations and thus served as a key in the dft determination of the ni 
+it will be of interest to other scientists who use synchrotron radiation for measuring dilute samples and/or weak spectroscopic features in general .
+the existence / non - existence of the 675  cm peak for nir - h / nir - d identified the peak as a fe  h - related feature experimentally .
+this article evaluates all the matters related to whether the feature is observable , where to search for a fe  h - related feature , whether the observation is reliable , and how the experiments identify the observed 675  cm peak as a fe  h - related feature .

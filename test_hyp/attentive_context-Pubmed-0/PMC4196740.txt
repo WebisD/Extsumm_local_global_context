@@ -1,0 +1,21 @@
+, we devised the implicitly polarized charge model 
+ ( ipolq ) , based on a new quantum mechanical 
+ method that integrates the condensed - phase environment due to explicit 
+ water molecules into quantum calculations at the mp2 level of theory . 
+ in this method ,
+while the ipolq approach offers numerous 
+ benefits for creating a self - consistent force field , the process of 
+ deriving charges is laborious , and our previous work did not assign 
+ torsion fourier terms to complete the model . in this article , we will 
+ extend the ipolq method to facilitate derivation of complete models , 
+ and we will also describe automation of the procedure , which greatly 
+ reduces the human effort needed to create new force fields for proteins 
+ and drug - like molecules .
+the 
+ choice of tip4p - ew to represent the solution - phase 
+ environment while developing the protein force field supports the 
+ use of this water model for later simulations .
+the appropriate atomic partial charges of a nonpolarizable 
+ model are estimated to be halfway between the charges of the system 
+ in vacuum and those of a system fully polarized in the presence of 
+ a condensed - phase reaction field potential .

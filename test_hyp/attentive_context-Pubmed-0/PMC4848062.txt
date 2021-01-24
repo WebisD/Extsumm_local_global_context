@@ -1,0 +1,14 @@
+we have developed a new method of providing the finger with haptic feedback about visual targets in the general environment , by permitting the finger to scan the environment directly to locate those targets .
+we have developed this idea , which we call fingersight , through a series of prototypes , exploring the particular application of detecting edges . in the process , we have developed a new spatiotemporal \documentclass[12pt]{minimal } 
+ \usepackage{amsmath } 
+ \usepackage{wasysym } 
+ \usepackage{amsfonts } 
+ \usepackage{amssymb } 
+ \usepackage{amsbsy } 
+ \usepackage{upgreek } 
+ \usepackage{mathrsfs } 
+ \setlength{\oddsidemargin}{-69pt } 
+ \begin{document } 
+ } { } $ n$\end{document}-dimensional edge detection algorithm of potentially general interest , which is simultaneously capable of detecting the presence of a stationary edge as well as having passed over an edge between successive timeframes .
+defunct ) , aim to simulate tactile exploration of virtual objects and have been developed specifically for reading the printed page .
+we have conducted proof - of - concept experiments showing that under active exploration the fingersight device is capable of transmitting visual spatial information through haptic channels . sighted , blindfolded subjects were able to use the device to differentiate between angles separated by as little as 15. performance with the coarser angle set , where responses were separated by 30 showed that fingersight transmitted close to 2/3 of the available information in the stimulus , with most errors being near misses .

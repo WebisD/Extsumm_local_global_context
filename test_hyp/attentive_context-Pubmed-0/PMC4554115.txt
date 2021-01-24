@@ -1,0 +1,6 @@
+therefore , to compare the long - term safety and efficacy between laparoscopic surgery and laparotomy in patients with high - risk ec , we conducted a retrospective analysis based on our decade of clinical data using propensity score matching ( psm ) in this research .
+the laparoscopy cohort also has significant shorter first flatus time ( 2.0 days vs. 2.4 days , p  <  0.01 ) and postoperative hospital stay ( 14.7 days vs. 17.7 days , p  =  0.02 ) than laparotomy which meant that patients received laparoscopic surgery had more rapid recovery than that received laparotomy .
+the mean blood loss were significant less in laparoscopy group ( 107  ml ) than laparotomy group ( 414  ml ) ( p  <  0.01 ) .
+comparison of operation outcome intraoperative complications were significant different between the 2 groups ( 6.2% for laparoscopy and 25.9% for laparotomy , p  <  0.01 ) .
+the patient baseline characteristics of laparotomy and laparoscopy group were adequately balanced after matching , and then , the surgery outcomes achieved comparability .
+, it seems that laparoscopic surgery is as effective as laparotomy in the long term and can be safely carried out in patients with high - risk ec for surgery treatment .

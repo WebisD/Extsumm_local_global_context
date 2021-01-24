@@ -1,0 +1,25 @@
+, the data reported here 
+  represent the first functional characterization of the klf14 protein , outline 
+  a novel pathway for the silencing of the tgfrii 
+  promoter , provide insight into the molecular mechanisms by which these 
+  phenomena are achieved , and report additional tgf-inducible , klf 
+  proteins that are good candidates to regulate this promoter .
+therefore , understanding 
+  how this down - regulation of the tgfrii promoter occurs 
+  is of primary biological importance for better understanding tgf 
+  signaling .
+the current study provides us with several novel mechanistic insights on 
+  the regulation of the tgf pathway . for instance
+these findings 
+  are of significant relevance to the areas of klf proteins , tgf 
+  signaling , the maintenance of cell homeostasis , and their potential 
+  contribution to disease states .
+now , due to the findings 
+  reported in the current study , we can propose a model wherein tgf 
+  cytokines activate and repress the tgfrii promoter 
+  using the very same gc - rich sites utilized by this family of proteins . 
+ 
+interestingly , we 
+  demonstrate that there is a strong inverse correlation between expression 
+  patterns in a temporal manner of tgfrii mrna and klf14 mrna in human 
+  pancreatic cancer cells .

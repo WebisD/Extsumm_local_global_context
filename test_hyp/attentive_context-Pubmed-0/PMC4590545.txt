@@ -1,0 +1,5 @@
+we have obtained direct evidence that , rather than solely relying on voltage - gated potassium channels , activity - dependent , spatially localized ca influx at nors of pc axons recruits an intermediate - type kca ( ik , or kca3.1 ) to provide a node - specific repolarizing conductance crucial for axonal spike propagation .
+understanding information transmission within neuronal circuits , and the factors underlying long - range axonal signaling malfunction , relies on identifying the axonal ion channels that are key regulators of node of ranvier ( nor ) excitability .
+our findings show that ca may play both short- and long - term roles in regulating axonal excitability , crucial for long - range signaling in neuronal circuits .
+purkinje cells ( pcs ) in the cerebellum fire at high rates , both spontaneously and in response to synaptic input , and thus require fast recovery of sodium channels at their nors .
+our results provide the first direct evidence for local , activity - dependent cav - mediated ca influx at nors and for the recruitment of an intermediate kca current ( ik , kca3.1 ) that is an essential component for spike propagation .

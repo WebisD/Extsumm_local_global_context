@@ -1,0 +1,8 @@
+published results available on tbi in vivo dosimetry in the technique using anterior to posterior and posterior to anterior ( ap  pa ) treatment fields with the patient lying on the lateral decubitus position are rare .
+the objective of this study is to report and analyze the results of our in vivo dosimetry checks measured with tld chips on tbi using ap  pa treatment fields .
+the tbi treatment protocol used in this study is simple and easy to implement . in any single fraction of tbi with the treatment technique used in this study
+, a dose within 5% of the prescription dose is expected to be measured from all the sites except calf and chest when tld is used for the in vivo dosimetry .
+the practice of using lif tld-100 for in vivo dosimetry is a good option for tbi dosimetry .
+also , accurate and more consistent results could be expected if a detector which has less uncertainty in measuring the delivered dose is used . with this observation ,
+a better homogeneity in dose delivery is possible by adding tissue compensators for extremities and chest .
+this movement of the patient can also result in a significant variation in the measured dose . in calf , chest , and thigh ,

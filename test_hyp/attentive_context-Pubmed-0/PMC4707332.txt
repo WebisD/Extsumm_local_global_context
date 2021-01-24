@@ -1,0 +1,7 @@
+it will also be an important tool for t cell epitope discovery and for the preclinical evaluation of insulin - targeted immunotherapies for the disease .
+this model should find utility in investigations to probe the mechanisms underlying the association between reduced thymic insulin expression and t1d in humans .
+nod.2m.hhd.ins2 mice represent a model for t1d that incorporates the reduced , but not abolished , thymic insulin expression observed in patients .
+it should also aid in preclinical studies to evaluate insulin - targeted immunotherapies for the disease .
+thus , we hypothesized that the diabetes observed in nod.2m.hhd.ins2 mice was of an autoimmune nature , as is the case for the nod.2m.hhd parent strain , and not a deficiency in pancreatic insulin production due to the presence of only one functional copy of the ins2 gene . to verify this ,
+the nod.2m.hhd.ins2 mouse therefore has a variety of potential uses as a humanized model of t1d , including cd8 and cd4 t cell epitope identification , analysis of the relationship between thymic insulin expression and tolerance , and the evaluation of antigen - specific immunotherapies , particularly those targeting the immune response to insulin .
+this was also true for nod.2m.hhd.ins2 mice , and no differences were observed in any of the cell types analyzed as a percentage of total cells . to investigate whether a reduction in regulatory t cells ( treg ) might contribute to disease pathogenesis in the ins2 mice ,

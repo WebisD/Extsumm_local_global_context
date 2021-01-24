@@ -1,0 +1,32 @@
+what is more , computer simulations probing 
+ pt mechanisms should include an explicit treatment 
+ of the hydrated excess proton ( along with its full physics of grotthuss 
+ shuttling and charge defect delocalization ) to properly capture the 
+ coupling between water dynamics , hydration , and pt .
+herein , multiscale 
+ reactive molecular dynamics ( ms - rmd ) is used 
+ to study pt through a cnt penetrating a graphene sheet .
+this 
+ finding has widespread implications for pt through hydrophobic ( and 
+ likely other ) regions in molecular systems such as proteins , by demonstrating 
+ that protons can dynamically create their own solvation pathways that 
+ would not be detected by experimental or computational means in absence 
+ of an explicit protonic charge defect .
+the two - dimensional free energy surface reveals 
+ a three - step mechanism by which the protonic charge defect is transiently 
+ stabilized at the nanotube entrance , facilitates nanotube wetting 
+ via grotthuss - facilitated water migration through the charge defect , 
+ and then traverses a lower free energy barrier for grotthuss shuttling 
+ proton permeation via activated ( infrequent event ) dynamics .
+when hydrophobic 
+ cavities are encountered , i.e. , those lacking crystallographically 
+ resolved water molecules , simulations have often been used to try 
+ to identify states of the system ( e.g. , via oxidation state or conformational 
+ changes ) that induce wetting . in this manner , mechanisms of pt have 
+ been proposed based on the existence and stability of hydrogen - bonded 
+ water wires . however , the simulations presented herein suggest that 
+ the excess proton itself is strongly coupled to the solvation structure 
+ and stability in nanoconfined spaces and hence must be explicitly 
+ included in the analysis of internal solvation . by 
+ simulating pt through a nanotube penetrating a graphene sheet 
+ with ms - rmd

@@ -1,0 +1,7 @@
+the use of c. elegans as an experimental model has produced considerable insight and valuable information regarding the multiple and varied processes of metal detoxification .
+we offer a brief summary of the ways in which the c. elegans model has shed novel insights on the various mechanisms of metal detoxification .
+the selectivity and sensitivity of each of these proteins is highlighted in the large body of accumulated research on different metal toxicities as well as various systems of metal detoxification .
+the c. elegans model system will be critical for these investigations , as knockouts are easily generated and provide a wealth of information about metal detoxification in a genetically retractable , inexpensive , and in vivo model .
+future studies are necessary in order to enhance our understanding of the complex interplay of multiple - cell detoxification systems in response to exposure to different metals .
+conclusive biochemical evidence has indicated that different metals are not handled in the same capacity .
+the in vivo   c. elegans model system is especially valuable for the investigation of metal detoxification and is particularly amenable for examining gene - environment interactions , albeit with a few considerations to take into account ( table 1 ) .

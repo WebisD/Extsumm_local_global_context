@@ -1,0 +1,5 @@
+, we investigate the usefulness of a fusion model of 3d - ct and mri along with an icg endoscope as a multimodal assistant system in etss , particularly in cases requiring identification of the icas for safe and maximum resection of the tumor .
+preoperative 3d - ct and mri fusion models along with icg endoscopy allow for distinct visualization of vital structures , such as the icas , in the case of tumors that have extensively infiltrated the sphenoidal sinus .
+35 patients in the present study included those with pituitary adenomas ( n = 27 ) , craniopharyngioma ( n = 3 ) , rathke 's cleft cyst ( n = 3 ) , chordoma ( n = 1 ) , and giant cell tumor ( n = 1 ) ( table 1 ) .
+in the current study , we successfully performed etss for 35 patients with pituitary tumors and intrasphenoidal sinus tumors using multimodal assistant systems , consisting of a fusion model of 3d - ct and mri and icg fluorescence endoscopy .
+furthermore , angiography with an icg endoscope has been shown to be useful in verifying the patency of vessels hidden from microscopic view during etss   . in the present study

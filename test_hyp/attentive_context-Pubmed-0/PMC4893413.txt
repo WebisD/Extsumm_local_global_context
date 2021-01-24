@@ -1,0 +1,7 @@
+moreover , the identified expression profiles of some examined mirnas might offer important points to consider for the treatment of nave patients and management of chronically infected hcv patients in egypt and around the world .
+in this study , we attempted to identify special characteristics of the egyptian hcv patients of predominantly genotype 4 by performing a selected 94 mirna profile in 50 chronically hcv - infected patients .
+it illustrates the relation between a , the level of expression of mir-199a-3p ; and b , mir-638 with gender in the liver tissue of chronic hcv patients .
+expression of three other mirnas ( mir-95 , mir-130a , and mir-142 - 5p ) expression was inversely correlated with the serum albumin levels of the enrolled patients .
+in addition , a number of reports have highlighted the importance of host cellular mirnas in modulating responsiveness to exogenous ifn treatment ( 15 ) .
+some of the obtained data were provided in the context of hcc ( 23 , 24 ) . in this study , we aimed to identify changes in mirna characteristics of nave egyptian patients with chronic hcv infection .
+forty - four out of the 94 analyzed mirnas were significantly deregulated ; 27 mirnas exhibited at least a 4.0-fold increase , and 17 mirnas exhibited at least a 4.0-fold decrease . to understand the role of the deregulated mirnas in association with hcv infection , their published functions and proposed targets were summarized , as shown in tables 2 and 3 .

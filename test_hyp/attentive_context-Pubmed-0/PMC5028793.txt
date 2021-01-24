@@ -1,0 +1,6 @@
+t - cell activation requires specific recognition of antigen presented as small fragments ( peptides ) bound to major histocompatibility complex ( mhc ) molecules .
+the low polymorphism in hla - e in conjunction with its relative insensitivity to downregulation by , for example , hiv , makes hla - e an interesting target for vaccination strategies against infectious diseases and tumors .
+transplantation of hematopoietic cells as well as solid organs and detailed studies of viral infections provided the initial key information leading to the concept of genetic mhc restriction by autologous mhc molecules .
+hla - e plays a dual role in the innate and adaptive immune system ( figure 1 ) .
+classically , cd4t - cells recognize antigens scavenged extracellularly by the antigen presenting cell ( apc ) that are presented in mhc class ii , whereas cd8 t - cells recognize endogenous antigens presented by mhc class i ( mhc - i )   . in spite of this widely held view , already decades ago it was shown that also antigens derived from intracellular pathogens such as viruses or intracellular bacteria can be presented in mhc - i .
+more recently , cross - presentation by dendritic cells and autophagy have been elucidated as important mechanisms in this context   .

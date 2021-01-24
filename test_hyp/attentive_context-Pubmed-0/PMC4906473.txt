@@ -1,0 +1,8 @@
+he did this comparison and found fluorescence generation from hno treatment was greatly enhanced compared with rsno , and these findings initiated the study .
+significant advances in hno detection have occurred with the development of new copper and phosphinebased fluorescent probes and new electrochemical & mass spectrometric methods . with these mechanistically different ways to detect hno , questions regarding hno 's biology and endogenous formation can be approached .
+nitroxyl ( hno ) , the oneelectron reduced / protonated form of no , has been discussed as a signaling agent , but the lack of specific & selective detection methods hampers a better understanding of its biology .
+zhengrui miao noticed that no one had ever really directly compared the response of these probes to hno and rsno .
+the most significant result is that the azaylide intermediate generated from the reaction of these probes and hno rapidly and reliably undergo a staudinger ligation resulting in fluorescence and a stable amide byproduct .
+we knew that rsno reacts with phosphines to yield azaylides that should undergo ligations and yield fluorescence .
+
+ redox biological signaling has significantly developed over the last couple of decades with small molecules such as no , co , h2s , and h2o2 being identified as competent signaling agents .

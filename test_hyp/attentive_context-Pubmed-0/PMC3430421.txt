@@ -1,0 +1,6 @@
+the purpose of this paper is comparison of dosimetric and delivery characterizations between full - arc and half - arc vmat for maxillary cancer .
+in this study , we demonstrated that half - arc vmat plans provided significantly reduced doses to the normal brain and brainstem compared with full - arc vmat plans , while maintaining nearly identical dose homogeneity and conformity in the ptv . for other oars , no significant dvh differences were observed between the full - arc and half - arc vmat plans , possibly because these oars were located closer to the ptv .
+the advantages of the half - arc vmat delivery include reductions in total mu and delivery time , thereby leading to better patient comfort and treatment throughput .
+advantages of the half - arc vmat planning include improved oar sparing with nearly identical hi and ci for the ptv .
+in contrast , conventional 3d plans for a maxillary cancer resulted in much higher doses to oars , whereas four- and nine - field imrt plans provided target coverage and sparing ability similar to our half - arc plans .
+volumetric - modulated arc therapy ( vmat ) has been characterized as intensity - modulated radiotherapy ( imrt ) in a single gantry arc , in which gantry speed , dose rate and leaf speed of the multileaf collimator ( mlc ) are varied during gantry rotation .

@@ -1,0 +1,6 @@
+, we will propose an efficient sw alignment method , called cuda - swfr , for the protein database search by using the itr technique based on a cpu - gpu collaborative system . in order to avoid the unnecessary alignments ,
+in this paper , we presented a gpu - based sw alignment method , cuda - swfr , with fdfs by using the itr technique .
+these results indicated that cuda - swfr is suitable for the protein database search with a lot of database sequences .
+fdfs is also applied to cuda - swfr to enhance the computation performance . for most of bioapplications
+in bioinformatics , the sequence alignment has become one of the most important issues . when the biologists get an unknown sequence , in general they would compare this unknown sequence ( denoted as query sequence ) with the known database of sequences ( denoted as database sequences ) to find the similarity scores and then identify the evolutionary relationships among them .
+the other is that these works all do the sw computations one by one ( seen as the brute force search ) , and the computation time will be large for comparing a query sequence with a lot of database sequences under the limited hardware resources .

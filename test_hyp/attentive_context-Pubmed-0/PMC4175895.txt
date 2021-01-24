@@ -1,0 +1,8 @@
+this case report describes a patient on low - dose warfarin , who succumbed to a subdural hematoma and was found to have polymorphic cyp2c9 ( * 1/*3 ) .
+a 49-year - old male patient , who was a known case of superior sagittal sinus thrombosis for the past 8 years on tablet warfarin 2.5 mg every night , was brought to the hospital unconscious .
+, this case highlights the necessity of adopting the practice of routine genetic testing for cyp2c9 and vkorc1 while initiating warfarin therapy .
+recently , an algorithm for indian patients has also been developed , which was found to be more accurate , sensitive and significantly reduced the risk of overestimation of dose of warfarin .
+cyp2c9 was found to be polymorphic for * 3 ( * 1/*3 ) and vkorc1 was found to be wild - type ( normal ) .
+this algorithm can be used for predicting the appropriate dose of warfarin in our population with the genotype details of cyp2c9 and vkorc1 . to conclude
+warfarin is the most commonly used oral anticoagulant both for prophylaxis as well as treatment for arterial and venous thromboembolic conditions .
+similarly , in the vkorc1 gene , two alleles have been identified in vkorc1 namely g and a. patients with gg ( wild type ) are resistant requiring a higher dose of the drug whereas aa are sensitive requiring a lesser dose and ga requires intermediate .

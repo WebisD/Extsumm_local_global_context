@@ -1,0 +1,7 @@
+periodic modulation of ir activation and ecd by ion magnetron motion should be the same for other proteins because of its invariance in respect to ion m / z value .
+in our study for substance p , ubiquitin , cytochrome c , and myoglobin the period of ion magnetron motion was ca .
+however both methods require precise synchronization of both ecd event and ir activation with the ion magnetron motion .
+the optimum fluency for ir activation depends on the nature of the protein and its charge state . in our study
+the implication of the above findings for implementation of ai ecd on this and similar types of instrument , particularly for protein analysis , is that proper synchronization of ion activation and ecd with the ion magnetron motion must be ensured .
+an irradiation time of 70 ms is typically used for ecd of peptides , because longer irradiation results in secondary , neutralizing electron capture and leads to a decrease in the number of ion fragments and , therefore , ecd efficiency ( figure 1 ) . to synchronize the ecd and irmpd delays , all
+either pre - ecd or post - ecd ir activation can be employed for those protein ions , which require additional vibrational excitation to destroy their internal noncovalent bonds .

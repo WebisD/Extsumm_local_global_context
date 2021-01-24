@@ -1,0 +1,6 @@
+, we aimed to evaluate the effect of uneventful cataract surgery on subfoveal ct and gcc thickness measured by edi - oct .
+in this study , we investigated the effect of cataract surgery on subfoveal ct and gcc thickness , as measured by edi - oct , and we found that both subfoveal ct and gcc thickness increased slightly after cataract surgery .
+regression analysis showed that age , sex , al , cct , ot , and ept were not associated with ct changes ( p=0.834 , p=0.129 , p=0.203 , p=0.343 , p=0.547 , and p=0.147 , respectively ) and gcc thickness changes ( p=0.645 , p=0.542 , p=0.152 , p=0.664 , p=0.448 , p=0.268 , respectively ) after cataract surgery .
+phacoemulsification surgery increased ct and it should be kept in mind that the small changes in ct may affect the onset of amd , which is a serious disease that results in central visual impairment .
+a total of 30 eyes of 30 patients ( 16 male and 14 female ) , with a mean age of 60.24.2 years were included in this study .
+mean bcva improved in all eyes , and this improvement was statistically significant ( 0.460.15 logarithm of minimum angle of resolution [ logmar ] units preoperatively and 0.060.49 logmar units postoperatively ; p<0.001 ) .

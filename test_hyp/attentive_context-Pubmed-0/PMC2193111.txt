@@ -1,0 +1,7 @@
+. this feature may help explain how ii chain expression affects t cell selection and b cell maturation independently from its effect on mhc class ii traffic 131415 .
+we demonstrate here that ii chain deletion leads to the lysosomal degradation of h2-mb in apcs , suggesting that ii chain is required to prevent the proteolysis of h2-m and perhaps of other proteins
+, h2-m degradation could contribute to the observed decrease in cd4 t cells in the thymus of all ii chain  deficient strains and the milder phenotype for maturation of cd4 t cells in the periphery of the ii balb / c ( i - a ) mice 15 .
+the isoforms are expressed differently in various apcs and regulate the presentation of certain antigen epitopes in b cells 9 .
+the fact that mice lacking both ii and h2-m exhibit a nearly complete inhibition of cd4 t cell selection supports the idea that ii and h2-m deletions are synergistic 28 .
+this difference may reflect protease inhibition by the amino acid insertion in p41 , as it has been shown to inhibit the lysosomal cysteine protease cathepsin l both in vitro and in vivo 910 .
+in any event , the fact that ii chain deletion can indirectly cause h2-m downregulation will indicate that results obtained with ii mice should be carefully controlled for the possible contribution of h2-m dysfunction .

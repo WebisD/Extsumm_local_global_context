@@ -1,0 +1,6 @@
+the doubling and tripling of overweight prevalence in women and men , respectively , in china has been accompanied by a shift in the social distribution of this overweight among women .
+the hazard ratio of overweight was lower for the most educated versus the least educated ( hr 0.72 ( ci 0.54 , 0.97 ) for women . in men ,
+however , by 2006 , the odds ratio for overweight for the highest versus the lowest education groups was or 0.22 ( ci 0.11 , 0.42 ) for the younger cohort and or 0.27 ( ci 0.10 , 0.72 ) for the older cohort ( figure 2 ) .
+using longitudinal panel data spanning 17 years , we test whether a social disparity in the relative odds of overweight has emerged since the late 80s in china among women or men .
+those with the most versus the least education had a higher hazard of overweight ( hr 3.43 ( ci 2.64 , 4.46 ) ) for men .
+our work concurs with other predictions that the burden of chronic diseases , such as overweight , might shift toward the lowest social classes even in developing countries where higher ses individuals have historically had higher comparative risks for such diseases .

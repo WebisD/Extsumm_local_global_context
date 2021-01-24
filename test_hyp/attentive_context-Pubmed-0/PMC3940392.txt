@@ -1,0 +1,27 @@
+convergent total syntheses 
+ of ( )-pyrimidoblamic acid and 
+ p-3a were detailed based on the early stage preparation of the chiral 
+ highly functionalized c2 side chain and subsequent late stage , divergent 
+ construction of the pyrimidine cores through use of a powerful inverse 
+ electron demand amidine/1,2,3-triazine [ 4 + 2 ] cycloaddition reaction 
+ conducted at 25 c .
+these observations with 
+ 1,2,3-triazines extend the utility of the inverse electron demand 
+ cycloaddition reactions of electron - deficient heterocyclic azadienes 
+ that includes the complementary 1,2,4- and 1,3,5-triazines , 1,2,4,5-tetrazines , and 1,2-diazines in the synthesis of highly substituted 
+ and functionalized heterocycles found in complex natural products .
+in addition to permitting full control 
+ of the natural product stereochemistry , the approach provides the 
+ opportunity for the late stage divergent synthesis of modified analogs 
+ bearing deep - seated changes in either the pyrimidine core ( c4 and 
+ c5 ) or the highly functionalized c2 side chain .
+such investigations 
+ are in progress and will be reported in due course . the examination 
+ of the key 1,2,3-triazine cycloaddition reaction with amidines defined 
+ nonobvious 1,2,3-triazine substituent effects that maintain or enhance 
+ the heterocyclic azadiene reactivity without altering the intrinsic 
+ regioselectivity or mode of cycloaddition .
+we envisioned that the pyrimidine core 
+ of ( )-pyrimidoblamic acid would arise from an 
+ inverse electron demand 
+ diels  alder reaction between the highly functionalized amidine 4 and 1,2,3-triazine 5a ( scheme 2 ) .

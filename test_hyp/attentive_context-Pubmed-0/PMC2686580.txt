@@ -1,0 +1,7 @@
+in addition to the need to facilitate greater comparative analysis of rna viruses is the need to link together the existing virus web sites and their underlying databases .
+we have , therefore , created the rna virus database as a user - friendly site devoted to rna viruses , providing essential genomic data and tools ( discussed in more detail below ) and links to the other virus web sites .
+provide multiple whole - genome alignments , gene and whole - genome translations for all rna virus species identification and taxonomic searching facility guidance to other web resources .
+we intend to update the database on at least a 6-monthly basis in order to include newly discovered viruses , and are currently working to incorporate biological and epidemiological data .
+the evolutionary history of rna viruses is in general poorly known , especially the deep phylogenetic relationships between virus families ( 8,9 ) .
+provide multiple whole - genome alignments , gene and whole - genome translations for all rna virus speciesidentification and taxonomic searching facilityguidance to other web resources .
+we believe that one of the reasons for this is a lack of easily available translated genes and genomes for all species , and the lack of aligned genome sequences representing different isolates of the same species .

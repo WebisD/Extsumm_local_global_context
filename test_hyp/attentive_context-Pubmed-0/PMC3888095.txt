@@ -1,0 +1,8 @@
+haemolytic uraemic syndrome ( hus ) is most frequently caused by infection with shiga toxin - producing strains of escherichia coli or shigella dysenteriae type 1 .
+the acute form has a high mortality rate , although successful treatment with plasma exchange has been described   .
+recently eculizumab , a humanized monoclonal antibody directed against c5 that prevents the activation of the terminal complement pathway , has been shown to be an effective treatment for patients with atypical hus ( ahus ) .
+thrombotic microangiopathy has long been recognized as a complication of disseminated cancer   and cisplatin therapy .
+endothelial cells , glomerular basement membrane and podocytes all show ultrastructural evidence of damage after cisplatin exposure .
+the possibility that dysregulated complement activation underlies the thrombotic microangiopathy in other patients with cisplatin - induced hus should be considered , and testing for abnormalities of complement regulation should be performed in future patients .
+plays a pivotal role in the development of ahus , it seemed appropriate to initiate treatment with eculizumab .
+the finding of a novel mutation causing decreased expression of cd46 suggests that dysregulated complement activation played an important role in pathogenesis . the response to eculizumab , deterioration on withdrawal of eculizumab and improvement after restarting treatment all support this hypothesis .

@@ -1,0 +1,7 @@
+partial least squares discriminant analysis ( plsda )   was used to develop the classification model .
+, the comparison of chemical methods , for example , lc / uv / ms , to the electronic tongue analysis will be performed to investigate the statistical correlation between the chemistry and the tastes of longjing tea .
+robust principal component analysis ( robpca )   was used to detect outliers in each class .
+the sensitivity / specificity of plsda for classes a , b , and c was 1.000/1.000 , 1.000/0.967 , and 0.950/1.000 , respectively . electronic tongue and chemometrics can provide a rapid and reliable tool for discriminating the specific producing areas of longjing . compared with human sensory analysis , this method is easier to perform and the more attractive economically . in the future studies
+rapid and effective discrimination of longjing green tea from different subproducing areas was performed using electronic tongue and chemometrics .
+, a good correlation between human and electronic tongue judgment has been observed , which makes it a promising alternative to human sensory analysis of teas .
+this paper was focused on developing a rapid analysis method for discriminating specific subproducing areas of longjing tea by electronic tongue and chemometrics .

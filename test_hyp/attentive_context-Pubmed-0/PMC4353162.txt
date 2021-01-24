@@ -1,0 +1,6 @@
+the objective of this study was to establish the incidence of oxygen desaturation during recovery from anesthesia for modified ect and evaluate its risk factors in a large sample .
+the mean duration for return of saturation to > 95% was 12 s. the incidence of desaturation was 64% ( 14/22 ) in obese patients ( bmi > 30 ) and 27% ( 79/294 ) in nonobese patients ( relative risk = 2.4 [ 95% confidence interval = 1.6 - 3.4 ] p < 0.001 ) .
+close to 50% ( 45/93 ) of the patients who had desaturation , had spo2 in the range of 80 - 89% .
+electroconvulsive therapy ( ect ) is an established modality of treatment for severe psychiatric illnesses such as depression , drug - resistant bipolar disorder , and schizophrenia . among the various complications associated with ect , oxygen desaturation ( defined as a spo2 < 90% )
+similarly incidence of desaturation was 37% ( 36/97 ) in patients with prolonged seizure duration ( > 45 s ) as compared to 26% ( 57/219 ) in patients with shorter seizure duration ( < 45 s ) [ figure 2 ] .
+bmi , dose of thiopentone and suxamethonium and seizure duration correlated with post - ect desaturation .

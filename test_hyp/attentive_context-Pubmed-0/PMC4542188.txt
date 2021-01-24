@@ -1,0 +1,7 @@
+undoubtedly , understanding the mechanistic details of this alternate terminal step of the sec pathway will lead to a greater understanding of secretion and the response to secretion stress .
+, we and others have been exploring the optimization of their spectrum of activity ( 1113 ) .
+the natural physiological role of the pathway may be to support spase function at times when elevated secretion is required and the capacity of spase has been exceeded .
+as part of these efforts , we recently demonstrated that s.  aureus responds to arylomycin - mediated spase inhibition by increasing expression of the four adjacent genes , sa0337 to sa0340 , and that arylomycin resistance is conferred by loss - of - function mutations in sa0337 ( 15 ) .
+spase functions at the terminal step of the general secretory pathway by releasing translocated proteins from the cytoplasmic membrane at a defined cleavage site .
+the general secretory ( sec ) pathway , conserved throughout bacteria , is the canonical translocation pathway and is responsible for translocating the vast majority of secreted proteins across the cytoplasmic membrane . like other general translocation pathways
+staphylococcus aureus is a striking example of the importance of spase , as it mediates the secretion of a diverse range of virulence factors , including proteins required for adhesion and colonization , evasion of the host immune response , scavenging of nutrients and minerals from the environment , and dissemination ( 6 ) .

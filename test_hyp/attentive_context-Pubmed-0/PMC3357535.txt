@@ -1,0 +1,8 @@
+we have demonstrated that the present procedure with iodine / carboxylic acid without adding solvent provides a very efficient method of esterification of numerous acyclic and cyclic chiral alcohols .
+near equimolar amounts of alcohol and carboxylic acid are typically used , thus avoiding waste and providing very simple experimental and workup procedures .
+the main advantages of this method are its operational simplicity , the ready availability , and nontoxic nature of the reagent , and its general applicability .
+all the esters were analyzed by gas chromatography on a cp chirasil - dex cb column in order to provide optimum resolution for a chiral alcohol of a particular structural type .
+furthermore , acetylation of acyclic and cyclic alcohols usually increases the separation factor of the isomers .
+we describe herein a simple and convenient procedure for acylation of chiral alcohols under solvent - free conditions in the presence of a catalytic amount of iodine with no by - products formation and using near equimolar amounts of alcohol and carboxylic acid ( scheme 1 ) .
+initially , a systematic study was carried out for catalytic evaluation of iodine in the acetylation of 2-heptanol .
+further , the optimized method was applied to ( r)-2-heptanol and cis-1,3-cyclohexanediol to determine that no isomerization occurred with acetylation or trifluoroacetylation .

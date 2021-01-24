@@ -1,0 +1,8 @@
+we have demonstrated that by using homoepitaxial chemical growth method highly uniform , single crystalline nr arrays arranged in a predefined pattern can be prepared . by changing the growth parameters , diameter and length of the nrs
+we exploited two alternative synthesis routes using soft and hard under - layer to obtain all - zno and metal contacted , anchored nr arrays , respectively .
+the former one can be a promising candidate for nanopillar - based photonic crystals , especially if a refractive index contrast between the nr and the zno substrate is realized .
+the monodispersity of the diameter of single crystalline nrs can be < 2% by maintaining an excellent uniformity in the longitudinal dimension .
+we have tried two options for the formation of nr arrays . in the first ,
+can be tuned in the range of 90170 nm and 500 nm2.3 m , respectively .
+the desired nucleation pattern was drawn in a polymethyl - methacrylate ( pmma ) layer , which was subsequently removed resulting in an all - zno structure . in the second route ,
+vertical zno nanoarrays arranged in a designed pattern were recently produced by a few groups using different techniques , however , either the geometrical non - uniformity of the nws or the low density of the vertical microcrystals ( ~1 nr/m ) makes their use in nanogenerator application difficult .

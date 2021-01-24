@@ -1,0 +1,23 @@
+understanding 
+ fundamental controls on water consumption and withdrawal 
+ of thermoelectric generation within the context of power plant fleets 
+ with long lifespans and legacy infrastructure is an essential prerequisite 
+ to assessing impacts of water availability on thermoelectric generation 
+ and impacts of thermoelectric generation on water resources .
+quantitative information on water use and understanding of controls 
+ provided by this study should be very valuable for future management 
+ of water and energy to ensure reliable electric generation .
+this work builds on a previous study quantifying 
+ water consumption for thermoelectricity in texas in 2006 by taking advantage of improvements in eia data 
+ since 2006 and focusing on controls rather than on future projections . 
+
+the importance of generator 
+ technology controlling water consumption with up to 63% reduction 
+ in consumption intensity for ngcc plants relative to traditional sts 
+ ( 0.19 vs 0.52 gal / kwh ) is very important , with projected future expansion 
+ of ngcc plants in texas and throughout the u.s .
+( www.eia.org ) requiring water for cooling in thermoelectric 
+ ( steam electric ) power plants , it is important to understand how much 
+ water is used for thermoelectric generation to assess vulnerability 
+ of power generation to water shortages and determine potential impacts 
+ of generation on water resources .

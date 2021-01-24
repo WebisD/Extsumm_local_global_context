@@ -1,0 +1,5 @@
+these energy factors are not relevant , but in imaging of the upper abdominal tract the maximum applicable energy may cause problems , leading to diagnostic issues . therefore , the aim of this study was to examine the maximum current levels that can be used in dual - source high - pitch ct during imaging of the upper abdominal tract .
+high - pitch imaging , in departments where a ct machine that is able to work in this mode is available , is already a standard examination tool for selected clinical indications .
+ especially in non - electrocardiogram ( ekg)-gated high - pitch imaging  the amount of energy that can be applied may be limited by patient habitus . in high - pitch imaging of the lung ,
+therefore , in some cases , high - pitch imaging is a good solution for imaging patients , but in other cases , especially in abdominal imaging , it may be desirable to apply more energy than the ct is able to deliver . altogether , not every clinical question can be answered in a way that it could be in conventional single source mode ct .
+, we reconstructed the images in the b30 kernel ( medium - smooth kernel ) , which were often used for abdominal imaging .

@@ -1,0 +1,5 @@
+this review will focus on the role of mybp - c in regulating the formation of actomyosin cross - bridges via its direct interaction with both myosin and actin filaments .
+similar to its cardiac counterpart , phosphorylation of these sites may be essential in regulating the activities of smybp - c
+moreover , our laboratory has recently identified novel phosphorylation sites within the pro / ala- rich motif of the nh2-terminus of smybp - c , specifically ser-59 , located in the novel nh2-terminal insertion and ser-62 are targets of pka , while ser-83 and thr-84 are targets of pkc ; ser-204 is a substrate for both pka and pkc .
+however , this novel motif is both necessary and sufficient to support binding of smybp - c v1 to the last ig domain of titin , m10 , which is a hotspot for mutations associated with tibial muscular dystrophy   .
+although mybp - c was identified over forty years ago as a contaminant of purified myosin , a better understanding of its physiology has emerged in the last two decades , paralleling the discovery of mutations in cmybp - c that result in the development of familial hypertrophic cardiomyopathy ( fhc ;   ) .

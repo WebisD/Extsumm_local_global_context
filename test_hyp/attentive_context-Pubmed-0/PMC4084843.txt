@@ -1,0 +1,27 @@
+when coupled 
+ with high value experimentation , we posit that the faithful and more 
+ efficient conversion of data streams into knowledge will significantly 
+ advance major breakthroughs in mechanistic biology and on the front 
+ lines of disease research including improved discovery and validation 
+ of protein - based biomarkers .
+the c - score model lays forth 
+ a path to increase the sophistication of protein identification and 
+ characterization platforms to extract maximum value from ms - based 
+ proteomics in automated fashion .
+in sum , we have shown a promising scoring system for protein identification 
+ and proteoform scoring to better capture the information content in 
+ high - resolution top down proteomics .
+non - bioinformaticists / non - proteomicists  
+ to advance protein - based science based on proper description of the 
+ fully articulated primary structure for whole proteoforms .
+we describe the implementation 
+ of this bayesian approach to scoring , and compare one set of generative 
+ models to the prosight ptm expectation value used within prosightptm 
+ and prosightpc .
+the conceptual and demonstrable advances 
+ outlined above provide a deterministic process to advance the utility 
+ of proteomics for nonexperts .
+we show that our implementation , with its current generative models , 
+ provides an improvement over the existing scoring system as measured 
+ by area under the curve ( auc ) on the resulting roc chart ( auc of 0.99 versus 0.78 for a complex human 
+ example and auc 0.85 versus 0.80 in pseudomonas ) .

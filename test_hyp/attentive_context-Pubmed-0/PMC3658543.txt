@@ -1,0 +1,6 @@
+secondly , we aim to estimate the genomic effects of these adaptations using nei and li distance to estimate the genetic distances between the samples after polymerase chain reaction ( pcr)/restriction fragments length polymorphism ( rflp ) .  
+generation time analysis demonstrated e. coli atcc 8739 is able to adapt to the additives over extended culture , and dna fingerprinting suggests that benzoic acid , sodium chloride , and monosodium glutamate are exerting evolutionary pressure on the bacterium .
+this paper had demonstrated that e. coli is able to adapt to food additives over an extended period of time by observing the decreased in generation time over a period of 70 passages .
+firstly , we aim to examine the adaptability of e. coli atcc 8739 ( a sequenced strain ) in a long - term culture environment in the presence of benzoic acid , sodium chloride , and monosodium glutamate ( msg , a common taste enhancer in asian cooking ) , singly and in combination .
+this may have implications in using sublethal doses of bacteriocidal agents such as disinfectants and preservatives .
+two concentrations of each additive were used to evaluate the effects of concentration in the adaptability of e. coli .

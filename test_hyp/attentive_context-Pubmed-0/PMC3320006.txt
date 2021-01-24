@@ -1,0 +1,6 @@
+p - wave duration , qtc interval , and qtc dispersion were increased in patients with pulmonary hypertension ( table 5 ) .  
+elevated pulmonary artery pressures ( pap ) as defined by pap  30  mmhg was demonstrated in ( 26 ) 41.9% of patients with sickle - cell anaemia and in ( 2 ) 3.2% of the controls ;  
+  = 26.571 , df = 1 , p < 0.001 ( figure 1 ) .
+  pulmonary hypertension in adult sickle - cell anaemia patients is significantly associated with electrocardiographic evidence of right ventricular hypertrophy , increased p - wave duration , qtc interval , and qtc dispersion and correlates significantly with frequency of vaso - occlusive crisis and qtc interval .
+significant correlation was found between mean pap and ( 1 ) frequency of crisis ( spearman correlation = 0.320 ; p = 0.011 ) , ( 2 ) body mass index ( pearson 's correlation = 0.297 ; p = 0.019 ) , and ( 3 ) qtc interval ( pearson 's correlation 0.261 ; p = 0.040 ) , ( table 6 ) .
+the observations by this study tend to suggest that these parameters could be useful for early detection and prevention of pulmonary hypertension in patients with sickle - cell anaemia .

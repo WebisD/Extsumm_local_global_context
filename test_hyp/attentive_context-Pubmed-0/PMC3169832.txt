@@ -1,0 +1,6 @@
+use of these averaged scores is acceptable , given the underlying nature of the data and the improvements in power .
+second , we evaluate the statistical efficiency of averaged versus raw scores by comparing the powers of their correlations with a reasonable criterion variable .  
+furthermore , these averaged scores improve analyses by decreasing measurement error as demonstrated by an increase in power .  
+the norbeck social support questionnaire ( nssq )   is a network - based social support inventory .   that is , unlike global support measures which assess overall perception of how supported one feels , the nssq asks participants to take detailed stock or inventory of ( a ) how many supportive network members they have and ( b ) how much affection , affirmation , and aid each network member provides .   
+the purpose of this paper is twofold : first , using three different data sets , we evaluate norbeck 's   concern by investigating whether averaged support scores do indeed decrease as network size increases .  
+the strength of a network - based inventory is that it allows testing of multiple social support hypotheses , which are impossible to test using global measures of social support .  

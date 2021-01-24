@@ -1,0 +1,7 @@
+computer modeling methods can help to simulate the biological process of antigen presentation , minimize the number of experiments required , enable a systematic scanning for candidate mhc - binding peptides and thus speed up vaccine development ( 9 ) .
+current implementation can predict peptides that bind hla proteins belonging to supertypes a2 and a3 ( hla class i ) as well as dr ( hla class ii ) and in future will be extended to other supertypes .
+the predictive engines implemented in multipred are hidden markov models ( hmms ) and artificial neural networks ( anns ) .
+t - cells of the human immune system recognize antigens as short peptide fragments ( t - cell epitopes ) derived from the degradation of proteins .
+a novel data representation method enables multipred to predict peptides that bind to multiple hla alleles belonging to one hla supertype by a single prediction model per supertype .
+the main utility of multipred is in the selection of key antigenic regions to minimize the number of experiments required for mapping of promiscuous t - cell epitopes and t - cell epitope hotspots .
+multipred is a web - based system for the prediction of peptides that bind multiple hla alleles .

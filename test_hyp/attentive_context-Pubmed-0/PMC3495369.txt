@@ -1,0 +1,6 @@
+simulation in relation to wounds can be divided into use of simulation to study the effect of projectiles on tissue ( wound modelling ) and the use of simulation in the management of wounds .
+the educational technology section of the 2004 aem consensus conference for informatics and technology in emergency department health care concluded that there should be increasing use of web - based , virtual reality and human patient simulation in educating emergency medicine trainees .
+the purpose of this article is to outline the present status of simulation related to wounds , in terms of their creation and management .
+pari passu with the progress of science in medical education , simulation in medical education is also progressing in leaps and bounds .
+, the mci 2015 vision document says that a mandatory and desirable comprehensive list of skills has been planned and would be recommended for bachelor of medicine and bachelor of surgery ( mbbs ) graduate .
+simulation has been variably defined as  the imitation of the operation of a real - world process or system over time ;   an imitation of some real thing , state of affairs , or process  for the practice of skills , problem solving , and judgment . 

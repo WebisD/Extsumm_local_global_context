@@ -1,0 +1,8 @@
+the objective described in the following paper is to explore the full - field cellular strain response to a range of applied stresses and cellular moduli .
+the described computational framework will now allow us to develop more realistic cellular models , whose intracellular structures are distinctly identified .
+the applied stress state within our custom - fabricated optical and hydrodynamic ( optohydrodynamic ) trap have been mathematically developed from the fundamental equations describing microfluidic creeping flows past a suspended sphere .
+, we developed a three - dimensional , multiphysics computational model to fully characterize a unique micromechanical environment .
+  we explored the full - field cellular strain response to a range of applied hydrodynamic stresses and cellular moduli , representing various degrees of functional loading and health / disease , respectively .
+the described multiphysics computational framework will facilitate more realistic cytoskeletal model interpretations , whose intracellular structures can be distinctly defined , including the cellular membrane substructures , nucleus , and organelles .
+the computational framework now allows us to develop more realistic cellular models with intracellular and membranous structures , distinct in spatial , elastic , and active transport characteristics .  
+the local microenvironment can therefore be precisely manipulated to facilitate biomechanical test sequences on individual biological cells and molecular structures .   in order to explore the connection between external mechanical stimulation and cellular regeneration or degeneration

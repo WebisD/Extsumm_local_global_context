@@ -1,0 +1,7 @@
+the strain has heavy metal transporters that can enable it to tolerate high concentrations of lead , mercury , or zinc .
+bg to verify its phylogenetic relationship with the known acidophiles belonging to this genus and compare the putative mechanisms , which enable the bacteria to withstand acid and metal stress .
+the genome includes 4516 protein - coding genes , 67 trna genes , and 9 rrna genes . the phylogenetic analysis based on concatenation of 32 ribosomal proteins showed that strain bg clustered with the acidophilic , copper - resistant desulfosporosinus sp .
+physiological studies did not reveal outstanding tolerance to cobalt , nickel , and cadmium in strain bg . in conclusion , we have revealed additional transporters that are not available genomes of other members of this genus .
+one of the atpases ( dsbg_rs14085 ) is present in all available desulfosporosinus genomes and located close to the cu - atpase .
+bg was isolated from the tailings pond sediment of the bom - gorkhon molybdenum - tungsten mine in the transbaikal area .
+one of the atpases ( dsbg_rs14085 ) is present in all available desulfosporosinus genomes and located close to the cu - atpase .

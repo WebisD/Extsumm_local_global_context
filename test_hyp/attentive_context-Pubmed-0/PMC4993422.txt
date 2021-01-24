@@ -1,0 +1,9 @@
+we focus on shh medulloblastoma and discuss how cell senescence shapes the natural history and molecular evolution of this childhood cancer .
+are characterized by activation of the hedgehog ( hh ) signaling pathway and are often driven by mutations in hh pathway components . here
+, medulloblastomas can be classified in 4 different molecular subtypes : wnt , shh , group 3 and group 4 .
+each of these molecular subtypes has specific underlying molecular features , gene expression , demographic characteristics and prognosis . sonic hedgehog ( shh ) medulloblastomas
+this is in agreement with the idea that pa are long - term senescent astrocytic lesions that do not progress .
+moreover , tp53 mutations have recently been identified as a key event in the pathogenesis of medulloblastoma recurrence .
+although the specific roles of p53 in medulloblastoma are still largely unknown , the presence of recurrent tp53 mutations suggests that p53 signaling plays an important role in driving medulloblastoma tumorigenesis .
+we thus speculate that wnt activation in the brainstem may also lead to changes compatible with cell senescence and this may be an explanation for the presence of tp53 mutations in advanced wnt medulloblastomas
+, the fact that we found cell senescence and ptch1 loh in medulloblastoma preneoplastic lesions suggests that high levels of hedgehog signaling in preneoplasia likely cause high levels of oncogenic stress and this leads to cell senescence .

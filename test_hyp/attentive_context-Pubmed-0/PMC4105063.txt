@@ -1,0 +1,22 @@
+we used coarse - grained ( cg ) simulations with 
+ the martini force field of a broad sampling of the peptide 
+ dimer and lipid / surfactant ensemble .
+our results suggest the dpc micelle 
+ environment suppresses interactions mediated by gxxxg repeats in the 
+ tm region , leading to an x - shaped structure that best satisfies the 
+ boundaries of the surfactant / solvent interface . in this way ,
+dimerization results in little change in helix stability in the popc 
+ bilayer , but a measurable decrease in helix stability is observed 
+ in the dpc micelle . although the dimer ensemble in either environment 
+ is characterized by multiple conformational states , the dominant structures 
+ observed in our simulations in both the dpc micelle and popc bilayer 
+ are consistently right - handed coiled - coil structures , supporting the 
+ conclusions of earlier experimental and 
+ computational studies .
+our model is benchmarked against the well - studied glycophorin a 
+ ( gpa ) dimer and used to develop novel predictions for the c991555 dimer . following the identification of the 
+ predominant structural states 
+ through cg simulations , representative conformations in all - atom
+molecular 
+ dynamics simulations were used to refine the atomistic structure and 
+ characterize the detailed peptide  peptide , peptide 

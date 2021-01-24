@@ -1,0 +1,8 @@
+, a novel weissella species isolated from fermented cabbage was characterised up to genus and species level using 16s rdna - based sequence analyses .
+its glucan formation capacity has been explored in detail and compared with that of leuconostoc mesenteroides nrrl b-512f .
+such methods include soluble whole - cell protein pattern analyses , restriction pattern of ribosomal dna   fatty acid analyses , random amplified polymorphic dna - pcr ( rapd - pcr ) , denaturing gradient gel electrophoresis ( dgge ) , and pcr targeting 16s/23s rrna gene spacer region . in the present study
+the isolated bacterium ( cab3 ) was identified at species and genus levels based on 16s rdna sequencing to be weissella confusa imau:10190 ( genbank accession number gu 138518.1 ) .
+this study reveals a novel high glucan producing bacterial isolate which could be a good alternative for glucan - production in the future .
+the physiological and biochemical characterisation was carried out to distinguish the isolate from other closely related lactic acid bacteria .
+the isolate weissella confusa ( cab3 ) could not ferment mellibiose , raffinose , and trehalose , a common trait of weissella confusa .
+the isolated strain could be very promising candidate for glucan production at industrial level as it has high glucan concentration ( 34  mg / ml ) .

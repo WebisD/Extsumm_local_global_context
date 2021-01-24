@@ -1,0 +1,6 @@
+different pre - planning methods ( 2d vs. 3d ) were compared with respect to the implant quality as judged by volumetric and dose parameters of the treatment plans .
+box diagrams comparing target 100% coverage between groups for which 2d and 3d pre - planning were used box diagrams comparing d90 between groups for which 2d and 3d pre - planning were used box diagrams comparing dose homogeneity index ( dhi ) between groups for which 2d and 3d pre - planning were used
+statistical analysis shows that the differences between 2d and 3d pre - planning groups for considered parameters are statistically significant ( p = 0.006 for vptv100 and p = 0.013 for d90 ) .
+a similar relation can be observed for the values of dose homogeneity index where dhi obtained for 3d pre - planning is 0.60 and 0.53 for 2d .
+the results of this study show that replacing the 2d pre - planning method with the 3d one seems to be the right solution , resulting in higher values of target coverage and dose homogeneity index simultaneously .
+the analysis presented in this paper shows that the 3d pre - planning method improves the geometric quality of the implant , which benefits the dosimetry .

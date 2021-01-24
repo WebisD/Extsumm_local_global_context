@@ -1,0 +1,6 @@
+, we demonstrated that acute and chronic hyperglycemia promote activation of jip1/jnk signaling in retinal arterioles leading to impairment of endothelium - dependent no - mediated dilation .
+this study showed that exposure of porcine retinal arterioles to chronic hyperglycemia in vivo or acute hyperglycemia in vitro selectively diminished endothelium - dependent no - mediated dilation to bradykinin .
+concentration - dependent dilation of isolated retinal arterioles to bradykinin was examined in the absence or presence of nos inhibitor l - name after 2 weeks of euglycemia ( control ; n = 6 ) or hyperglycemia ( diabetes ; n = 9 ) in pigs . *
+it appears that jip1/jnk signaling contributes directly to the impairment of endothelium - dependent no - mediated dilation of retinal arterioles following acute and chronic hyperglycemia .
+the ability of pharmacologic blockade of jip1 or jnk to fully restore arteriolar vasodilator function following 2 weeks of hyperglycemia suggests that these specific proteins may provide useful clinical targets to consider for retinal vascular treatment to ameliorate retinal blood flow during early diabetes .
+pharmacologic inhibition of stress - activated kinase jnk and its upstream interaction with jip1 preserved retinal vasodilator function related to endothelial no .

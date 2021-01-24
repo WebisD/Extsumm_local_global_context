@@ -1,0 +1,7 @@
+that 's why large gene , in many cases , have to be interrupted into several domains to imitate the whole gene function 1 . to solve the problem ,
+classical pcr - ligation strategy is the most familiar one to clone for its convenience and efficiency . in long cds cloning , pcr and sequencing are the most challenging steps .
+in addition , long fragment sequencing will be troublesome for both time and money cost on intermediated sequencing and primer synthesis .
+dna is not easily amplified from complementary dna ( cdna ) for many reasons , e.g. cdna may not be in good quality , primers are easier to miss - prime during long extending time , gc - rich region will stop dna polymerizing . on the other hand , fidelity is far from our satisfactory .
+this strategy shows potential in handling long cds clones , including introducing mutation , deleting and inserting domains . here
+we found a strategy to clone large fragments of dna by dividing them to short pcr fragment cloning , followed by restriction digestion and ligation cloning 9 .
+fourth , we programmed a script to test its universality in the entire cds , and find a great number ( ~70% ) of long cds problem will benefit from it .

@@ -1,0 +1,6 @@
+we propose that na channel slow inactivation and use - dependent lidocaine action are linked to a common structural rearrangement involving the outer pore .
+6 , right ) we postulate that the structural rearrangements associated with slow inactivation may move the na channel p - segments into positions that stabilize the interaction between lidocaine and the pore .
+the findings suggest that the use - dependent lidocaine block and slow inactivation share a common , outer pore structural rearrangement that reduces mts accessibility .
+1996b ) that remove fast inactivation also attenuate use - dependent suppression of ina by lidocaine and other na channel blockers , a high affinity interaction between lidocaine and the fast - inactivated state has been a candidate structural motif for the sustained inactivation induced by these compounds .
+we postulated that sulfhydryl modification of a residue harboring such restrictive access might be sensitive to the voltage - gated conformational state of the ion channel .
+1996 ) . to determine whether the effects of lidocaine on use - dependent loss of ina availability could be linked to a structural change in the outer pore , we examined voltage - dependent mtsea modification during lidocaine exposure .

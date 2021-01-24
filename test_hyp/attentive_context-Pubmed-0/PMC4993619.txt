@@ -1,0 +1,6 @@
+also , sr results in slight posterior head translation and subsequently lower sva and c17 translational distance compared with lateral cervical xr and may underestimate regional cervical sagittal alignment parameters in patients with cervical deformity or sagittal imbalance .
+the purpose of this study is to evaluate the correlation and reliability of cervical sagittal alignment parameters measured from lateral cervical xrs compared with lateral whole - body eos srs ( eos imaging , paris , france ) .
+we retrospectively evaluated adult patients with a primary diagnosis of cervical deformity treated by a single surgeon between january 2010 and december 2014 with both lateral cervical xrs and lateral srs obtained within 1  week of each other . at our institution ,
+we hypothesized that the difference in arm position and in the trajectory of the radiation beam between standard cervical xr and sr would result in a difference for all cervical sagittal alignment parameters .
+the lower radiation exposure using single sr has to be weighed against its higher cost compared with xr .
+we found a significant difference between the groups , with sr having lower measurements compared with xr for both sva ( 0.68 cm lower , p  <  0.001 ) and c1c7 ( 1.02 cm lower , p  <  0.001 ) .

@@ -1,0 +1,6 @@
+the goal of this study was to determine a reliable association between changes in cvp and pvp in patients with burns and to assess the long - term correlation in varied hemodynamic status during the first 10 h.
+hence , the trends in pvp may be useful as an alternative for hemodynamic monitoring in the bicu during emergencies , in situations where central venous site is inaccessible and also to avoid the complications of central venous catheterization in critically ill burns patients .
+this regression formula shows a reliable and significant association between cvp and pvp ( p < 0.001 ) . the overall mean difference between cvp and pvp was 1.628  0.84 mmhg . the mean difference between cvp and pvp in each hour
+we used the bland - altman diagram for estimation of agreement between cvp and pvp during the 10 h period .
+this showed a perfect agreement ( difference of  1.2 with an sd of + 1.96 ) as seen in figure 3 .
+the predictability of central venous pressure by measuring peripheral venous pressure tested by applying linear regression the hourly mean difference between central venous pressure and peripheral venous pressure agreement between central venous pressure and peripheral venous pressure during the 10 h period using bland 

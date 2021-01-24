@@ -1,0 +1,17 @@
+we 
+     report the identification of expression signatures , canonical pathways , molecular networks and 
+     drug targets of dysregulated neuropsychiatric disease - related genes in ba46 of postmortem brain 
+     tissue from patients with ptsd using a human mitochondria - focused cdna microarray ( hmitchip3 ) 
+      24 .
+our results indicate mitochondrial dysfunction in 
+     the dlpfc ba46 and may prove useful for developing methods for diagnosis and treatment of 
+    ptsd .
+in addition , 17 ( 61% ) of the 28 genes that were mapped to 
+     neurological diseases were known to play a role in survival and apoptosis of a cell . moreover
+the lack of a 
+     holistic study of all the mitochondria - related genes hinders the progress of the ptsd research . to date , methods employing a systems biology approach to identify the mitochondria - focused 
+     genes underlying the pathogenesis in ptsd - related brain regions have not been documented , 
+     probably due to the lack of human postmortem brain tissue from ptsd patients .
+human brain dlpfc including ba46 is involved in regulation of working memory and preparation 
+     and selection of fear responses and has been correlated with structural and functional 
+     alterations and treatment response of patients with ptsd 9 - 13 .

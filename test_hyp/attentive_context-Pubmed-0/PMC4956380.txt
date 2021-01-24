@@ -1,0 +1,6 @@
+in summary , our results show that ifn enhanced nmda - induced inward currents in sg neurons through the activation of ifn receptors in microglia , and ccl2 was one of the mediators between microglia and neurons .
+, we analyzed the effects of ifn on postsynaptic action by using whole - cell patch - clamp recordings from sg neurons .
+the substantia gelatinosa ( sg , lamina ii ) of the spinal cord dorsal horn has been implicated in nociceptive transmission because both finely myelinated ( a ) and unmyelinated ( c ) primary nociceptive afferent fibers are heavily projected to this spinal region . to elucidate how ifn affects nociceptive responses in the spinal dorsal horn
+in the present study , ifn significantly enhanced nmda - induced inward currents but not ampa - induced inward currents in sg neurons .
+thus , ifn plays an important role as one of the initiating agents of glia  neuron interactions that lead to neuropathic pain due to central sensitization .
+they showed that incubation of the mouse spinal cord slices with 100  ng / ml ccl2 induced substantial activation of extracellular regulated kinase ( erk ) in lamina i  ii , and erk phosphorylation was primarily induced in neun - positive neurons , indicating that ccl2 may directly act on neurons .

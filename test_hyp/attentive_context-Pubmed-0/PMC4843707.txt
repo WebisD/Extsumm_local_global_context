@@ -1,0 +1,5 @@
+however , only a small number of studies have investigated the association between sox2 and the clinical outcome of patients treated with radiotherapy . the aim of this study was to assess the prognostic significance of sox2 amplification and expression in squamous cell lung cancer patients treated using adjuvant radiotherapy .
+sox2 overexpression ( hr , 0.1 ; 95% ci , 0.02 to 0.5 ; p=0.005 ) and age ( hr , 0.33 ; 95% ci , 0.11 to 0.98 ; p=0.046 ) were the independent prognostic factors for os ( table 4 ) .
+in conclusion , sox2 overexpression could be a positive prognostic factor in lung squamous cell carcinoma patients treated with postoperative adjuvant radiotherapy .
+sox2 overexpression ( hr , 0.15 ; 95% ci , 0.04 to 0.65 ; p=0.01 ) and total radiation dose ( hr , 0.13 ; 95% ci , 0.02 to 0.7 ; p=0.02 ) were the independent prognostic factors for dfs ( table 4 ) .
+sox2 overexpression ( hr , 0.15 ; 95% ci , 0.04 to 0.65 ; p=0.01 ) and total radiation dose ( hr , 0.13 ; 95% ci , 0.02 to 0.7 ; p=0.02 ) were the independent prognostic factors for dfs ( table 4 ) .

@@ -1,0 +1,6 @@
+our results support the idea that mammalian p2x receptors share a common agonist binding site with the negative charge of atp coordinated by positively charged lysine residues and the nfr motif involved in binding of the adenine / ribose component ( fig .
+this suggests that at p2x2 and p2x4 receptors the conservation of the asparagine and arginine residues is more important in regulating the actions of atp than the phenylalanine of which they are adjacent . at p2x1 receptors and a non - desensitizing chimeric p2x1/2 receptor ,
+the y378a mutation was introduced to improve surface expression of the receptor ( 21 ) and increased the peak amplitude of atp currents by > 2050-fold in the present study .
+the conserved ft motif also contributes to agonist action , however , whether this results from an effect on agonist binding and/or gating remains to be determined .
+the inhibition of cysteine - substituted mutants of the arginine of the nfr motif for p2x1 and p2x4 receptors by both positive and negatively charged mts reagents suggests that arginine is not directly involved in binding of the phosphate tail of atp .
+we have previously shown , for p2x1 receptors , that reductions in atp potency at cysteine mutants of the nfr motif are likely to result from effects on agonist binding at arg and effects on both binding and gating for asn and phe ( 16 ) .

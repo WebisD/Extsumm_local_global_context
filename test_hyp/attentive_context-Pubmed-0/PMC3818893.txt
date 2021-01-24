@@ -1,0 +1,6 @@
+the aim of this study on caco-2 cells was to investigate the effect of signals known to be proinflammatory on ahr expression and to describe the molecular mechanisms involved .
+, these results showed that enhancement of ahr expression was associated with signals involved in proinflammatory processes . to see whether ahr induction ( mrna ) in response to pma was associated with an increase in ahr transcription ,
+several pieces of evidence point to ahr as a potential new target in the management of ibd and suggest that the modulation of ahr signaling pathway via diet , smoking cessation , or the consumption of ahr antagonists such as resveratrol   could be a viable new strategy for the prevention and treatment of ibd .
+, we demonstrated for the first time that compounds inducing proinflammatory cytokine expression enhance ahr expression in intestinal epithelial caco-2 cells through the nfb transduction pathway .
+since tcdd induces il-6 expression through the ahr pathway , this synergistic effect could be partly explained by an inflammation - induced increase in ahr expression .
+treatment of caco-2 cells with the proinflammatory cytokine il-1 was also associated with an increase in ahr mrna that was maximal ( 6.5-fold ) after 8  h of treatment ( figure 1(b ) ) . taken together

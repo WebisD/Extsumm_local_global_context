@@ -1,0 +1,25 @@
+we have developed 
+ a method to determine membrane structure ( number 
+ density and area per lipid ) and bending rigidity from md simulations 
+ of lipid vesicles .
+the vesicle membrane geometry raises a new and more difficult challenge : 
+ obtaining al , structure , and bending rigidity 
+ correct by varying the lipid distribution in the two monolayers and 
+ the water density inside the vesicle .
+the convergence 
+ of these three metrics may serve as a simple readout for vesicle equilibration .
+although we are currently 
+ limited by the accuracy of the simulation force fields , changes in 
+ structure that correlate with changes in rigidity may provide insight 
+ into the interpretation of experimental results .
+any 
+ predefined  ,  surface reference frame 
+ requires either a real - space filter ( e.g. , arc - length filter ) or a 
+ direct spherical harmonic transformation that requires treating every 
+ membrane bead as a radial delta function to obtain the urs .
+this paper lays the groundwork for an iterative process to improve 
+ vesicle construction . with flat - patch membranes ,
+removes 
+ the fluctuation - induced broadening effect and 
+ recovers the underlying structure profile , even under extreme vesicle 
+ deformations ( e.g. , elliptical vesicles ) .

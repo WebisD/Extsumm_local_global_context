@@ -1,0 +1,7 @@
+elevated tnf concentrations may be important in the pathogenesis and perpetuation of heart failure by modulating systemic metabolism , causing apoptosis and having a negative inotropic effect . in the light of our results modulating ct-1
+in monocytes we found a concentration - dependent increase of intracellular tnf after ct-1 application ( figure 1(b ) ) .
+blocking ct-1 by an antibody against ct-1 inhibited ct-1 induced tnf mrna ( data not shown ) indicating that tnf induction is specifically caused by ct-1 . with the next experiments we addressed the question whether tnf protein expression is dependent on mrna synthesis and intracellular protein transport . in figure 3
+intracellular tnf determination in cd4 and cd8 lymphocytes did not show an effect of ct-1 on tnf expression ( data not shown ) .
+tnf is increased in serum of patients with chf and correlates with the severity of heart failure , cachexia , and clinical outcome .
+the first result of our study is that ct-1 is able to induce tnf mrna and protein in pbmc of healthy volunteers .  
+but so far the mechanisms responsible for tnf production in these cells under these circumstances are not determined .   in this study we investigated whether ct-1 induces tnf expression in human pbmc of healthy volunteers .

@@ -1,0 +1,7 @@
+thus , understanding how nuclear shape is regulated and identifying genes that contribute to nuclear morphology are of interest from both a medical and a basic biology standpoint .
+underlying the inner nuclear membrane is a network of proteins , called the nuclear lamina , made of lamins and lamin - associated proteins .
+different cell types have adopted different strategies to facilitate the access of chromosomes by microtubules : at one end of the spectrum are cells of most metazoans , in which nuclear envelope components , including the two nuclear membranes , the npcs and the nuclear lamina with their associated proteins , disperse during each and every mitosis ( fig . 
+in order to proliferate , cells must accurately transmit their chromosomes from one generation to the next . in eukaryotes ,
+moreover , in certain cancer cells nuclei become larger and multi - lobed , and during aging the nuclear envelope appears 
+this type of mitosis is called  open mitosis ,  and it necessitates the reassembly of the nuclear envelope around a full complement of chromosomes in each of the daughter cells once chromosome segregation is completed .
+alterations in nuclear shape and size are characteristic of aging and certain disease states , such as various types of cancer .

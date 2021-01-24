@@ -1,0 +1,8 @@
+inbred , congenic and transgenic strains are widely used in current research labs as very valuable tools to investigate human diseases pathogenesis and develop new effective therapeutical strategies .
+high - resolution genetic and physical linkage maps of the mouse genome have greatly facilitated the identification and cloning of mouse disease genes .
+furthermore , transgenic approaches allowed us to ectopically express or make germline mutations in virtually any gene in the mouse genome by using homologous recombination in embryonic stem ( es ) cells   .
+multiple technological advances have dramatically advanced our skills to create mouse models of human diseases .
+the importance of disease mouse models and their impact on medical research is hard to overestimate .
+coupled with the use of fine - tune regulators of gene expression , micrornas , and mouse modeling they have a promising potential for subsequent discoveries and new therapies development in the complex field of human pathology .
+, one can identify candidate genes that lead to disease in humans and develop models to better understand human disease pathogenesis .
+therefore the value of animal modeling is very critical for our understanding of human disease and development of new effective approaches to therapy .

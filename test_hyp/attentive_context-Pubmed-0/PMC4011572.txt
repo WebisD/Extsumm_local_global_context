@@ -1,0 +1,24 @@
+the yields reported in the supporting information describe the result of a single experiment , whereas the yields reported 
+ in scheme 2 and table 1 are average yields of two or more experiments .
+high resolution esi mass 
+ spectra were acquired using an instrument equipped with at tof mass 
+ analyzer , and high resolution ei mass spectra were acquired using 
+ an instrument equipped with a magnetic sector mass analyzer .
+thus , the yields 
+ reported in the supporting information may 
+ differ from those shown in scheme 2 and table 1 .
+structural and stereochemical assignments were made on the basis of 
+ 2-d cosy , hsqc , and noesy experiments . ratios of diastereomers were 
+ determined by h nmr analysis .
+all reactions were carried out 
+ under a nitrogen atmosphere in oven- or flame - dried glassware . all 
+ catalysts and reagents were obtained from commercial sources and were 
+ used without further purification with the exception of bf3oet2 , which was purified by distillation from cah2 .
+yields 
+ refer to isolated yields of compounds estimated to be 95% 
+ pure as determined by h nmr analysis unless otherwise 
+ noted .
+2:1:1 mixture 
+ of the two possible diastereomers and a side product tentatively assigned 
+ as 6-methyl-11-methylene-5,6,11,12-tetrahydrodibenzo[b , f]azocine , which results from competing intramolecular 
+ heck reaction .

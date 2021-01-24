@@ -1,0 +1,7 @@
+these authors went on to suggest that these clonally expanded populations of cells are the result of an hr - mediated deletion that occurred during replication , probably in a rad51-dependent mechanism ( as compared to ssa ) .
+werner syndrome ( ws ) is a rare autosomal recessive disease associated with premature age - related phenotypes such as cancer , osteoporosis , diabetes mellitus and early graying of the hair ( review ) .
+in summary , mice expressing a helicase - deficient wrn allele did not have an increase in the frequency of spontaneous hr .
+recently reported that in the absence of parp1 , somatic hr events , measured by the p system , are highly elevated and that a majority of these events were large clonally expanded cells .
+studies in yeast using a similar duplication / deletion assay to the p reversion assay have identified several possible mechanisms of hr that may mediate this type of deletion event .
+our result also differs from a more recent report using the p eye spot assay with the expression of a transgenic dominant negative human wrn allele     .
+these observations lead us to investigate the role of wrn in vivo .   for this study we used a wrn mouse model with a deleted helicase domain      in combination with the well - established murine pink - eyed unstable ( p ) mouse model that can be used to determine changes in the spontaneous frequency of somatic homologous recombination ( hr ) events       .

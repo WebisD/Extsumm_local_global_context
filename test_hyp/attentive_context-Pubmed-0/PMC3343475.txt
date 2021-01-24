@@ -1,0 +1,7 @@
+we will review and compare studies that have employed different imaging modalities to examine the neural correlates of tinnitus in animal models and in humans .
+further experimental and conceptual linking between human studies and studies in animal models of tinnitus will facilitate the discovery of the etiology and the cure of tinnitus .
+we will also discuss how imaging in animal models may help address specific hypotheses about the persistent basis of tinnitus in the central nervous system .
+intrinsic and network characterization of neurons that contributed to increased metabolic activity in vivo , imaging studies will increase the understanding of induction and maintenance of tinnitus and aid in the development of therapeutic strategies to improve hearing deficits for human sufferers of tinnitus .
+in particular , positron emission tomography ( pet ) and functional magnetic resonance imaging ( fmri ) are now commonly used to study the physiological basis of tinnitus in human sufferers .
+on the other hand , imaging studies in animal models of tinnitus offer a reduced , better - controlled experimental environment that will facilitate the discovery of the underlying physiological remodeling that leads to tinnitus . here
+recently developed animal models of noise - induced tinnitus have provided a unique opportunity for determining the neural mechanisms underlying the induction and the expression mechanisms of tinnitus ( eggermont and roberts , 2004 ) .

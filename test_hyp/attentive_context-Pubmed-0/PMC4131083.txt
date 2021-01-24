@@ -1,0 +1,5 @@
+the present study was conducted to determine the predictive value of clinical , laboratory , and imaging findings in the diagnosis of vur in children with their first febrile uti .
+esr , positive urinary nitrite test , hyaline cast , and renal ultrasound are best predictive markers for the presence of high - grade vur .
+the sensitivity , specificity , lrp , and accuracy of the dmsa renal scan for predicting vur were 63% ( 95% cl , 51 - 75 ) , 96% ( 95% cl , 91 - 99 ) , 14.7 , and 79.5% , respectively . also , those of the renal ultrasound were 30% ( 95% cl , 18 - 41 ) , 96% ( 95% cl , 85 - 97 ) , 3.4 , and 60.5% , respectively .
+in addition , fever38.2 had a sensitivity of 60% ( 95% cl , 47 - 72 ) , specificity of 53% ( 95% cl , 42 - 62 ) , lrp of 1.26 , and accuracy of 55.5% ( table 5 ) .
+the multivariate logistic regression analysis revealed significant positive correlations between fever>38.2 and dmsa renal scan and vur , and also between esr , positive urinary nitrite test , hyaline cast , and ultrasound and high - grade vur ( table 6 ) .

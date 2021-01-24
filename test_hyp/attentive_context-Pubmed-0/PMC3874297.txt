@@ -1,0 +1,6 @@
+, we tested our hypothesis and showed that a conditionally immortalized human podocyte cell line is able to undergo emt upon tgf-1 treatment , like previously shown in a murine model .
+these results prompted us to test the hypothesis that the impairment of the slit - diaphragm , and in general , of the cell contacts , might have a role in nephrin deficiency - dependent emt .
+although we are aware that ca deprivation might induce more complex metabolic effects , the impairment of the cell contacts is one of the most evident consequences , and this method has been previously used to the same purpose   .
+in fact , the rupture of the intercellular junctions by ca deprivation induced , in the human wild type podocytes , phenotypic and molecular expression changes very similar to the emt observed in the nephrin - mutated podocytes .
+the p - cadherin was down - regulated , and the expression of -sma , typical myofibroblast marker , was upregulated and so all the major players of emt .
+more interestingly , we showed that genetic ablation of nephrin induced a constitutional emt as well , with most of the above indicated molecular hallmarks .

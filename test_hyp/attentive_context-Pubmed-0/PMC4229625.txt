@@ -1,0 +1,7 @@
+we now have quite detailed knowledge of the partners of the plk4 family of kinases at centrioles . in c.  elegans ,
+the phosphorylation of ana2 in its stan motif enables it to recruit sas6 , presumably to form a new cartwheel structure and establish engagement of the new procentrioles to both old mother and daughter .
+we purified an active form of drosophila plk4 expressed in e.  coli that was able to undertake known autophosphorylation   and was also active toward an artificial substrate ( figure  s1a available online ) .
+several substrates of plk4/zyg-1 have been identified to date that include sas-6 , cep152 , and a component of -turc , gcp6 , but it is not clear how phosphorylation of these proteins might affect centriole duplication . to address this question we chose to identify centriole proteins that could be phosphorylated by plk4 in  vitro . to this end
+zyg-1 is targeted to centrioles by spd-2   whereas in drosophila , asterless has this function .
+this verifies our in  vitro findings that following phosphorylation by plk4 , ana2 is able to interact with sas6 .
+we first tested whether this preparation of plk4 would phosphorylate proteins found in the outer layers of the centriole   .

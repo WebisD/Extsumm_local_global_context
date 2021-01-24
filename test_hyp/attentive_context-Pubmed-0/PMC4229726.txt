@@ -1,0 +1,7 @@
+overall , since its discovery about 20 years ago , myd88 has emerged as a central and well - conserved node of innate immune responses through its role as a bridge between tir - containing receptors and dd - containing kinases .
+the characterization of the myddosome suggests a clear molecular mechanism for signal transduction upon the local clustering of tir domain - containing receptors .
+myd88 signaling can lead to distinct outputs depending on the context , usually leading to pro - inflammatory cytokine or type i ifn production .
+myd88 was first described in 1990 as a gene upregulated during il-6-induced myeloid differentiation , but its homology to the cytosolic domains of drosophila toll and mammalian il-1rs ( whose homology had already been noted ) was not appreciated for another 4 years .
+as our understanding of innate immunity has grown , it has become clear that other myd88-independent signals can mediate innate and adaptive immune responses to many pathogens , especially viruses .
+distinct pathways downstream of irak family members regulate these outputs , and the outcome of signaling can be influenced by the cell type and location of signal initiation . in the years
+comparisons between myd88- and caspase-1/11-deficient mice have been used to control for lack of il-1r and il-18r signaling in myd88-deficient animals , but mice deficient for all tlr functions were recently described and may prove useful for evaluating the role of tlrs independently of receptors for il-1 family cytokines .

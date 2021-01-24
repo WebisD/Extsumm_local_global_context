@@ -1,0 +1,8 @@
+this paper will discuss progress in utilising novel cellular reprogramming techniques to treat rbc diseases .
+furthermore , these strategies have been successfully combined with gene therapy to treat a sickle cell anaemia mouse model , suggesting that cellular reprogramming will provide a realistic future alternative to conventional treatment of haemoglobinopathies .
+the various blood cell lineages in mammals arise from a multipotent haematopoietic stem cell via particular differentiation pathways .
+drug - based therapies involve the nonspecific reactivation of foetal globins and have long - term side effects . in seeking alternative strategies
+alternative forms of therapy are currently being sought , and stem cell therapies should be considered .
+they began by identifying a pool of 24 transcription factors which are important in maintaining stem cell traits and used retroviral transduction to express these factors in murine embryonic and adult fibroblasts .
+there is evidence that long - term administration of these drugs has chronic side effects , consistent with their lack of specificity       .   as the existing methods of treatment for these haemoglobinopathies remain inadequate ,
+, recent advances have shown that cellular reprogramming can now generate large quantities of red blood cells in culture , potentially for use in transfusions .

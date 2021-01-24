@@ -1,0 +1,6 @@
+more broadly , at the time of this analysis , no significant adverse events related to abnormal cardiac repolarization were reported in this trial nor the concurrent phase 1 , 2 , and 3 clinical trials , representing an analysis of more than 700 linifanib - treated patients ( data on file ) .
+there were also no significant t or u wave morphological changes as determined by trained investigators . a categorical analysis of subjects with an absolute qtcf value in excess of 500  ms or change in baseline for more than 3060  ms supports the absence of clinically significant effects .
+it was therefore the objective of this high - precision qt study to investigate the effect of linifanib on qt prolongation in patients with advanced solid tumors .
+a phase 1 , single dose , open - label , randomized study in subjects with advanced solid tumors was conducted on 24 patients .
+the current study is one of a few to rigorously test the effect of an investigational drug on cardiac repolarization in patients with advanced tumors who are refractory to standard treatments .
+response modeling showed qtcf change was not significant at the maximum concentration for the maximum tolerated dose , which further supports a lack of qt prolongation with linifanib .

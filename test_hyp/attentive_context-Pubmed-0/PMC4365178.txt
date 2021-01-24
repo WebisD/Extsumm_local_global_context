@@ -1,0 +1,5 @@
+such an analysis requires data on the distribution of exposure in the population , the relationship between exposure and lung cancer risk , and time trends in the incidence rates .
+although there are some uncertainties in the estimates , approximately 25 to 30  % of lung cancer cases attributable to radon exposure could be prevented if all residential radon concentrations over 200  bq / m were lowered to 140  bq / m ; if all exposures above 100  bq / m were lowered to 100  bq / m , about 35 to 40  % of these cases could be prevented .
+the mean radon exposure per person is estimated as 113  bq / m ( line a , all ) , corresponding to a risk increase of 18  % ( line b).table  2radon ( rn ) concentration in dwellings and estimated number of lung cancer cases caused by radon in different exposure categories based on exposure data in 1990radon exposure bq / m 
+
+available data in the literature suggest a strong interaction effect between radon exposure and smoking status , which mean that smokers are at a much higher risk of dying from radon - induced lung cancer than nonsmokers .

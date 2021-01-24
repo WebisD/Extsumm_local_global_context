@@ -1,0 +1,6 @@
+in addition , administrative data , as we describe here , can be used to estimate the effects and severity of illness attributable to dengue .
+we found a dramatic increase in the number of hospitalizations for patients with dengue fever in the united states .
+we conducted a retrospective cohort analysis of trends in dengue diagnoses among hospitalized patients using the national inpatient sample , the largest all - payer database of hospital discharges in the united states .
+nevertheless , our results indicate that the decision to make dengue fever a reportable disease in the united states was warranted and that increased vigilance focused on these new surveillance data is needed .
+we first extracted all discharges from the national inpatient sample for hospital admission ( i.e. , the denominator of the incidence rate ) from 2000 through 2007 . among this population , we then identified cases of dengue fever coded as either a primary or secondary diagnosis ( i.e. , code 061 , dengue fever ) , according to the international classification of diseases , ninth revision , clinical modification .
+the database is maintained as part of the healthcare cost and utilization project by the agency for healthcare research and quality and consists of a 20% stratified sample of discharges from nonfederal acute care hospitals ( 11 ) .

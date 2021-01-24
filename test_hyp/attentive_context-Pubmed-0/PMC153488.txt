@@ -1,0 +1,7 @@
+our goal is to verify the localization of p14arf protein and to compare it with the localization of other regulatory proteins , such as p53 , hdm2 , rb , p27 , hsp70 , and pml .
+however , the literature data shows contradictory data about p14arf - hdm2 localization reporting that p14arf targets hdm2 to the nucleoli , hdm2 re - localizes p14arf to the nucleoplasm , or these two proteins are found in different compartments . in the present study ,
+accumulation of pml bodies and proteasomes at these sites suggest that the components of the nuclear inclusions are targeted for proteasome - mediated degradation .
+the ink4a locus on human chromosome 9p21 encodes the p14arf tumor suppressor protein , which uses an upstream promoter and a shifted frame in exon 2 ( compared to the p16 protein ) .
+our data show that co - localization between p53 , hdm2 and p14arf occurs at extranucleolar sites .
+p14arf can associate with p53 bound hdm2 forming tri - molecular complexes . in human tumor cell lines , p14arf is localized mainly to nucleoli .
+nucleoli are assembled around clusters of repeated ribosomal genes , which are transcribed by rna polymerase i. the nucleoli are the sites of ribosomal biogenesis .

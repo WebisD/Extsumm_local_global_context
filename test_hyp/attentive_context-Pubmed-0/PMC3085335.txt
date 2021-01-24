@@ -1,0 +1,7 @@
+identification of mutation in bsnd gene in more families will give valuable insight into the genetic mechanisms underlying nonsyndromic hearing disorder .
+pathophysiological pathway leading from a specific mutation to a specific phenotype has remained elusive in syndromic as well as nonsyndromic hearing loss families . individuals with the same mutation can fall along a clinical spectrum ranging from asymptomatic to severely affected and can even have completely different diseases with different mutation in the same gene .
+the clinical features of bartter syndrome type iv include sensorineural deafness and peculiar facies , distinguished by the triangular face , large eyes , and protruding ears ( 1 ) .  
+antenatal bs with bilateral sensorineural deafness ( bsnd ) was first described in children born to a consanguineous couple from a bedouin family of southern israel .
+comparison of the protein sequence of bsnd with closely related species takes place and find out conserved regions . other bioinformatics analysis such as protein modeling and proteins docking
+our results support the relationship between missense bsnd mutation ( i12 t ) and nonsyndromic hearing loss .
+several disease - causing bsnd mutations have been identified and functionally analyzed . in all cases , there is a genotype - phenotype relationship in that the level of function of mutant barttin predicts the renal phenotype .

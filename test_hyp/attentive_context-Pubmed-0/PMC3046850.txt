@@ -1,0 +1,7 @@
+ablation of sglt2 in db / db mice prevented loss of -cell mass and thus preserved in vivo glucose - stimulated insulin secretion , which partly accounted for the overall improvements in glucose homeostasis . taken together
+a major finding of our study was that reducing glucose toxicity in a model of extreme diabetes preserved islet mass and improved insulin secretion in vivo .
+sglt2 knockout led to favorable reductions in plasma glucose and insulin during hfd and in the context of genetic obesity .
+type 2 diabetes is characterized by impaired glucose - stimulated insulin secretion , which is strongly associated with hyperglycemia in rodent and human studies ( 8,9,11,26 ) .
+, these data support sglt2 inhibition as a viable insulin - independent treatment for type 2 diabetes .
+although there seem to be some differences between rodents and humans with regard to the importance of -cell proliferation in response to hyperglycemia , human autopsy studies have demonstrated a decline in -cell mass in individuals with type 2 diabetes that was associated with increased -cell death ( 9 ) .
+a similar effect was observed after pharmacologic inhibition of sglt2 in db / db and kk - a mice for 12 and 9 weeks , where total pancreatic insulin content and immunohistologic staining for insulin were increased in treated mice ( 16,28 ) .

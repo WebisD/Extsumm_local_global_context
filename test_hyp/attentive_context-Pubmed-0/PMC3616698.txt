@@ -1,0 +1,6 @@
+we expanded the availability of cpat to a larger scientific audience via a web interface , which allows users to submit sequences and receive the prediction results back almost instantaneously ( http://lilab.research.bcm.edu/cpat/index.php ) .
+consequently , a more accurate , robust and faster method that does not rely on sequence alignment is needed to distinguish ncrnas , especially lncrnas , from protein - coding genes . here , we present coding - potential assessment tool ( cpat ) , an alignment - free program , which uses logistic regression to distinguish between coding and noncoding transcripts on the basis of four sequence features .
+distinguishing between protein - coding and noncoding sequences is the first and arguably the most crucial step in genome annotation .
+we compared the performance of cpat with that of cpc , phylocsf and portrait ( protein - independent support vector machine model ) using an independent test data set composed of 4000 coding genes and 4000 noncoding genes .
+we developed cpat , a highly accurate alignment - free method , which uses a logistic regression model to discriminate between coding and noncoding transcripts using pure linguistic features . compared with other tools ,
+accurate and quantitative assessment of coding potential is the first step toward comprehensive annotation of newly discovered transcripts .

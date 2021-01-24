@@ -1,0 +1,9 @@
+in conclusion , cranioplasty using the individualized prefabrication of implants assures satisfactory aesthetic results , reduces surgical time , and decreases the potential complications associated with the use of pmma .
+the authors demonstrate a simple and cost - effective cranioplasty method using individualized mold prefabrication with a 3d printer and pmma casting .
+in addition , our customized cranioplasty model may have advantages with respect to cost , manufacturing time , and the simplicity of the procedure .
+between november 2009 and april 2011 , 16 patients with large skull defects ( > 100 cm ) underwent cranioplasty with individualized prefabricated molds created by the 3d model and pmma casting method at our institution .
+post - operative ct scans showed excellent restoration of the bony symmetry in all cases ( fig .
+the median follow - up period was 23 months ( range , 14 - 28 months ) .
+the median operation time was 184.3626.07 minutes ( range , 150 - 380 minutes ) .
+the stair - like surface of the 3d - implant model was processed with a smoothing technique by the mimics 13.1 software ( materialise inc . )
+a representative case of a unilateral cranial defect and a case of bilateral cranial defects are described in this paper .

@@ -1,0 +1,14 @@
+, 
+  concerning europe , we are aware of only three published papers reporting estimates of the mortality burden . 
+ , 
+ , 
+
+  herein , we analyzed the mortality data obtained during the pandemic , in 14 european countries , which accounted for 75% of the european population in 1918 .
+indeed , we were obliged to base our estimation on the available monthly data on concerned total mortality , not influenza  and  pneumonia ( p&i ) mortality however , there is a striking linear relationship between the overall annual influenza  and  pneumonia mortality records , for each of the 11 countries where such data were available , and the total number of excess deaths ( figure  6 ) .
+the lack of reliable mortality data in a large part of the world leads to reliance on anecdotal evidence and extrapolation of mortality rates for entire countries from punctual information obtained in highly specific settings . 
+
+a revised estimation of influenza pandemic mortality given in 1991 was 247393 million , 
+  and another published in 2002 even set the death toll up to 100 million to take into account the lack of data in a large part of the world . 
+
+ 
+excess mortality ( % ) comparison between the 19181919 pandemic periods and the rest of the years ( 19061917 ; 19201922 ) in each of the 14 countries we found a statistically significant negative correlation ( spearman s rank correlation   =  066 ; p  =  0013 ) between excess mortality and latitude ( figure  2 ) , meaning that northern countries experienced significantly less mortality , while southern europe suffered significantly more excess deaths .

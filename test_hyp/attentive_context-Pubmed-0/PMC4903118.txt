@@ -1,0 +1,7 @@
+characteristics and functions of reproductive system cancer will be summarized and discussed in the present review .
+although increasing studied are focused on the roles of gper-1 in different types of cancers , the functions of gper-1 in cancers remain unclear yet .
+lots of evidences show that estrogen induces the proliferation of cancer cells in breast , uterus , and ovarian cancer through er. on the contrary , activation of er can reverse this effect .
+notably , a novel transmembrane estrogen receptor , known as g - couple estrogen receptor ( gper ) , was found .
+it is interesting that several other studies showed that g-1 , the special agonist of gper-1 , promoted the expression of gper-1 and inhibited the proliferation of er negative breast cancer cells , ovarian cancer cells , and prostate cancer cells .
+majority of the study results addressed that activation of gper-1 by estrogen and g-1 results in the downstream signals and target genes activation , which promotes the proliferation , migration , and invasion of cancer cells . and
+the opposite effects of gper-1 in cancer cells may be associated with the epigenetic of gper-1 , such as the snps and histone acetylation .

@@ -1,0 +1,6 @@
+the long - term viability of murine skeletal muscle plasmid gene expression in vivo was assessed using live whole body imaging of luciferase expression , along with the potential for expression control using an inducible model .
+finally an ex vivo model was developed in murine musculoskeletal tissue and conditions replicated to examine plasmid gene expression in human ex vivo mesenchymal tissue .
+these results indicate , when administered using electroporation , that plasmid constructs result in long - term in vivo gene expression and that this expression can be reliably induced with oral agents . finally , for the first time , successful plasmid gene transfection with electroporation in human ex vivo mesenchymal tissue has been demonstrated .
+the luminescence imaging strategy utilised here provided a rapid , robust and reliable method for ex vivo assessment of transgene expression in patient samples .
+the method of culturing tissue ex vivo has been demonstrated to provide high viability for up to 1 week post resection , while bioluminescence imaging provides a highly sensitive readout for real - time transgene expression in viable cells .
+, p = 0.5 ) . to assess translation of the murine findings to a clinical setting

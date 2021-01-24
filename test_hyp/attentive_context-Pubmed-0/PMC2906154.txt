@@ -1,0 +1,6 @@
+we now report that t - oligo inhibits angiogenesis in the aggressive human melanoma cell line mm - an , derived from a metastatic melanoma     , by decreasing production and secretion of proangiogenic factors in both tumor cells and ecs . as well
+  and because blocking angiogenesis would be an additional anticancer mechanism of action for t - oligos , we asked whether t - oligo treatment inhibits tumor angiogenesis .
+, t - oligo treatment decreases the number of total and functional ( perfused ) vessels in flank tumors of mm - an cells in scid mice after two systemic injections .
+we now report that telomere homolog oligonucleotides ( t - oligos ) decrease the synthesis and release of angiogenic factors by ecs and melanoma cells , inhibit ec tubulogenesis and impede melanoma cells and ecs from invading matrix ( matrigel ) .
+, we show that t - oligo increases e2f1 mrna and protein levels as well as its dna binding activity in human mm - an melanoma cells , further confirming our previous finding that e2f1contributes to t - oligo effects .  
+in addition to vegf and its receptors , angiopoietin 1 and 2 ( ang-1 and ang-2 ) and their tyrosine kinase receptor tie-2 have been identified as major players in the processes of growth and remodelling of tumor vasculature       .

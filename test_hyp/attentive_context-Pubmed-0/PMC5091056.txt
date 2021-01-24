@@ -1,0 +1,6 @@
+the fact that our results highlight a complex modulation of premotor - motor networks during observation of a painting with i m support the hypothesis that observation of art might be used to augment traditional rehabilitation paradigms and speed the recovery of motor functioning .
+in this study we investigated whether i m information from a static image of a painting affects cortical excitability , connectivity and plasticity . our results demonstrated that observation of an image with i m increases mep size .
+given that current rehabilitation treatments are capable of changing brain connectivity and inducing functional reorganization ( dimyan and cohen , 2011 ) , the present study aims to provide evidence that observation of i m in a works of art can modulate neuroplasticity in fundamental motor circuits .
+furthermore , using rtms , we showed that i m in a work of art modulates pmd 
+3 ) . on the whole , the data indicate that observation of i m in a work of art modulated connectivity and plasticity of pmd  m1 inhibitory circuits .
+similar results were obtained in a control experiment using a longer exposure to the conditions ( total duration 25 min ) ( i m : to , 0.78 0.03 mv ; t15 , 1.360.05 mv ; t30 , 1.120.05 mv ; no - im : to , 0.820.04 mv ; t15 , 1.290.05 mv ; t30 , 1.360.04 mv ( main effect  condition 

@@ -1,0 +1,22 @@
+photodynamic therapy using 
+ gold nanoparticles will also require careful design of the nanoparticles 
+ with respect to size , shape , and capping layer and will require internalization 
+ of the nps , not just attachment to the cell surface , which is sufficient 
+ for photothermal therapy .
+here we present new experimental results on the photogeneration 
+ of singlet oxygen by irradiation of gold nanoparticles with continuous or pulsed laser light , as well as theoretical work pertaining 
+ to the underlying mechanism(s ) , which so far had not been addressed . 
+
+dpbf has been used successfully to detect 
+ singlet oxygen that is 
+ formed when spherical nps are irradiated at 532 nm , either with cw 
+ or pulsed laser irradiation .
+irradiation of gold nps with continuous wave ( cw ) lamp or laser 
+ light has been shown to lead to photogeneration of singlet oxygen 
+ ( o2 ) in vitro , suggesting that this highly reactive species , which is widely used 
+ in photodynamic therapy , may be involved in 
+ the photochemical pathway of cell killing by gold nps . in 
+ vitroo2
+nevertheless , even cw irradiation can produce enough singlet oxygen 
+ for photodynamic therapy applications and will allow practical applications 
+ of the effect at safe irradiation levels .

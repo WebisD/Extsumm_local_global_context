@@ -1,0 +1,7 @@
+indian genome variation data would be enormously useful for the dissection of common complex diseases and in pharmacogenomics studies .
+frequency profiles of markers on disease or drug - related genes that have been generated through the igvc are being used to identify at - risk chromosomes , founders , ld - based mapping , tracing history of diseases in pharmacogenetics as well as reference populations for mapping relatedness ( 3,4,5,819 ) .
+the indian genome variation consortium ( igvc ) project , an initiative of the council for scientific and industrial research ( csir)was set up to develop a database of genomic variations in indian population for predictive marker discovery in complex diseases such as diabetes , asthma , neuropsychiatric , infectious and cardiovascular disorders , response to drugs , etc .
+to address the need for an online comprehensive resource that enables users to visualize igvc data with integrated information about snps from different resources we have developed igvbrowser as shown in figure 1 . 
+
+this initiative lays the foundation for the integration of global genotype - to - phenotype data ( 6 ) with indian population data and development of a federated database .
+a possible integration of igvbrowser with hgvbaseg2p ( 20 ) can enable researchers for cross study comparison among different populations of the world for disease  gene association study .

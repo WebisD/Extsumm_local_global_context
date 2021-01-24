@@ -1,0 +1,6 @@
+in the present study , no contamination of tap water samples and water for injection samples with pahs were found . however , a comprehensive survey for analysis pahs in water is recommended .
+the aim of this study was to determine the level of 13 priority pahs in different brands of water for injection as well as tap water samples collected from tehran , iran , in march , 2014 using dllme procedure and gc / ms .
+the recoveries and rsds of 12 pahs in quality control samples ( spiking level : 1.0 ngml ) analyzed using dllme method and gc - ms determination of 13 pahs in tap water and water for injection samples .
+the optimized and validated method was utilized for extraction and determination of studied pahs in 36 tap water samples and 30 water for injection samples .
+the repeatability and recovery of method for each 12 analytes ranged 4.0 - 16.0% and 71 - 90% respectively . limits of detection ( lod ) and limits of quantification ( loq ) were calculated based on the signal - to - noise ratio of equal to 3 and 10 , respectively .
+the results showed that the concentration of 12 pahs in all samples ( tap water and water for injection ) were lower than the loq ( 0.1 - 0.35 ngml ) of the method .

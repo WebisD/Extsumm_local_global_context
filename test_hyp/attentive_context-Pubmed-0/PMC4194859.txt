@@ -1,0 +1,7 @@
+national medicaid outpatient drug expenditure and utilization data are available from two sources : cms ' medicaid statistical information system ( msis ) , and the medicaid drug rebate program data files .
+data files containing utilization and expenditure data on prescribed drugs from the drug rebate program beginning in federal fiscal year ( ffy ) 1996 can be accessed at internet address : http://www.cms.hhs.gov/medicaid/msis/msis99sr.asp 
+ . outpatient drug expenditure , but not utilization data , are also available through the quarterly medicaid statement of expenditures ( cms-64 ) .
+figures 1 and 2 display trends expenditure data on medicaid prescribed drugs under ffs payment arrangements . between ffys 1985 and 2001 , medicaid ffs expenditures for prescribed drugs increased from $ 2.3 to $ 24.7 billion , approximately a 10-fold increase . during the same period
+between ffys 1997 and 2001 , medicaid ffs prescribed drug expenditures nearly doubled from $ 12.4 to $ 24.7 billion . during the same period
+twenty - two percent of the increase in total medicaid expenditures between ffys 1997 and 2001 was accounted for by increases in expenditures for ffs prescribed drugs .
+figure 3 displays ffs medicaid prescribed drug expenditures by age in ffy 2000 , and figure 4 shows the percent change by age in ffs medicaid drug expenditures between ffys 1999 and 2000 .

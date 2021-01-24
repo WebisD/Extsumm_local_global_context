@@ -1,0 +1,7 @@
+when i hear the word quantitation , what comes to mind is the contrast between two famous 19th - century german scientists , alexander von humboldt and carl gauss , as described in measuring the world : a novel ( kehlmann , 2009 ) .
+there has been rapid development of single - molecule techniques , making it possible to manipulate individual molecules using optical and magnetic techniques and to visualize their activity inside cells using fluorescence microscopy . in this way
+these include the following : 
+ morphology : what determines the size , number , and shape of cells and organelles?signaling : how do molecules compute , and what is the role of spatial localization and compartmentalization?scaling : how do we bridge from one scale to another ? are there universal laws ?
+hand in hand with these developments , we must have theory and models to make sense of the experimental results , as exemplified by gauss , rather than the collection of data for their own sake .
+does the theory really fit to the data ? how accurately have the underlying quantities ( parameters ) been measured ?
+a mathematical model is the development of the conceptual model into a system of equations .

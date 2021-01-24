@@ -1,0 +1,25 @@
+we have 
+ studied the interplay between the critical adsorption of 
+ a lattice hp protein with alternating h and p monomers and the coil  globule 
+ transition with the dynamical monte carlo method .
+second , the 
+ sequence we have studied is the hp polymer with a fully alternating 
+ sequence in which the surface interactions of h and p monomers are 
+ treated as the same .
+the conformational properties of the end - grafted 
+ hp chain are strongly influenced by the pairwise h 
+a further extension of our study is to treat the surface interactions 
+ of h and p monomers differently .
+we seek to increase understanding of the relationship 
+ between protein adsorption and conformation change through a systematic 
+ examination of the interplay between the collapse and critical adsorption 
+ transitions .
+studies of hp chains interacting with surfaces have also confirmed 
+ the experimental observation that the presence of the surface can 
+ significantly alter the lowest energy conformation of a folded protein and have been used to determine 
+ conformational pseudophase diagrams of hp chains near a surface that 
+ shows how temperature and the strength of attractive interactions 
+ impact adsorption and folding . in this work ,
+one route through which the hp model can be used to 
+ understand protein adsorption and/or folding is the study of two transitions , 
+ the coil 

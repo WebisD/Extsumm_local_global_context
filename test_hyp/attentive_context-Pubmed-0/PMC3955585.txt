@@ -1,0 +1,7 @@
+due to its high sensitivity , rapidity , and the simultaneous determination of different anesthetics in urine samples , the present method represents a further development in comparison with the literature   .
+this is probably due to the synergism of a well - optimized spme procedure and gc / sim - ms analysis .
+the preliminary data obtained by this pilot study on surgical theatres stressed the effectiveness of this method as a useful tool to monitor the exposition to anaesthetics in occupationally exposed people .
+the analysis results were also evaluated in the light of independent environmental anesthetics determinations obtained through a complementary technique based on the photo - acoustic detection principle . in particular , sevoflurane , its metabolite hexafluoroisopropyl alcohol , and desflurane
+indeed , with this method , it has been possible to ascertain significant difference between the anesthetics levels in urine before and after the work shifts in 25 individuals .
+the developed analytical method proved to be very quick , sensitive , and robust ( precision , calculated as rsd , was always below 13% for all intra- and interday determinations ) .
+further , significant differences in post - shift urine levels have been found in personnel working in different surgical theaters .

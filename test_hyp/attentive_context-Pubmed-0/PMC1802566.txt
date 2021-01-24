@@ -1,0 +1,6 @@
+all three enzymes are capable of phosphorylating both l- and d - enantiomers ( 1416 ) .
+the structures reported herein document that dck phosphorylation of l - nucleosides and l - nucleoside analogs is due to both the nature of the enzyme active site and the nature of the substrates .
+this difference can be attributed in part to the absence of a 3-oh group on 3tc and on tro , both of which can act as dna chain terminators . finally , a torsion angle rotation about the c4 and c5 bond , from gauche in the d - dc structure to trans in the complex structures of 3tc , tro and l - dc , direct the 5-oh group towards glu53 .
+detailed comparison of the protein  ligand interactions , presented schematically in figure 4 , reveals the structural basis for non - enantioselective phosphorylation by dck . for both 3tc and tro
+, the enzyme satisfies the same requirements for substrate recognition / catalysis that govern phosphorylation of its primary physiologic substrate , d - dc .
+in contrast , human tk1 , which is restricted to d - dt phosphorylation , is exquisitely enantioselective ( 25 ) .

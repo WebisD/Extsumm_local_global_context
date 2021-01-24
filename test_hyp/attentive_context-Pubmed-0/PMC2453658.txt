@@ -1,0 +1,6 @@
+clinically , our findings are important in that we have shown an association between even individuals with moderate ckd ( egfr < 60 ml / min per 1.73 m ) and an increased risk for the onset of dfu and ultimately amputation .
+compared with the reference group ( group 1 ) , the hr for group 2 was 2.08 ( 95% ci 1.682.58 ) and for group 3 was 7.71 ( 5.2911.26 ) ( p < 0.001 ) .
+the fully adjusted associations between dfu and ckd were 1.51 ( 1.381.66 ) for group 2 and 3.22 ( 2.604.00 ) for group 3 , both versus group 1 ( all p < 0.001 ) .
+an interaction due to pad was also present ( pinteraction = 0.08 for group 2 ; pinteraction = 0.003 for group 3 ) , and , as a consequence , our ckd effect estimates are reported for those with and without pad ( table 2 ) .
+our fully adjusted association between lea and ckd was 2.18 ( 1.702.78 ) for group 2 and 7.09 ( 4.5711.00 ) for group 3 , respectively ( all p < 0.001 ) .
+for example , for our main confounders , the mean age was 63.9 years and 51% were women . when their full medical record and not just data obtained after 2002 was evaluated , 5% had evidence of a foot ulcer at some time in their medical record versus 4% for our cohort and 1% had a record of an amputation versus 1% for our cohort , 26% used insulin versus 23% of our cohort , and 0.9% had a history of esrd versus 0.8% of our cohort .

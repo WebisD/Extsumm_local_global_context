@@ -1,0 +1,6 @@
+the results indicate that there is a link present between upper and lower respiratory inflammation in nir and copd .
+new - onset nir was also related to smoking ( p=0.004 ) and atopy ( p<0.001 ) in the univariate analyses . in the logistic regression analysis adjusted for age , gender , bmi , copd , smoking , and atopy , copd , smoking , and atopy remained independently associated with new - onset nir ( figure 2 ) .
+the interaction between copd and smoking in relation to new - onset nir was calculated and was found to be nonsignificant ( data not shown ) .
+only 4.3% ( 11 of 257 subjects with copd ) displayed a feno value > 50 ppb , ie , values that indicate the presence of atopy and asthma .
+there was no association between atopy and copd , indicating a low risk of asthma misclassification ( 19.1% vs 19.2% , p=1 ) .
+in this longitudinal population - based study of a large cohort , the risk of developing nir , over a 5-year period increased in individuals with copd . smoking and atopy were also risk factors for nir .

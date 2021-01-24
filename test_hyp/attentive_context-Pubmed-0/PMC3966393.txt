@@ -1,0 +1,6 @@
+introduction of a third mmr dose to the vaccination schedule has been considered in the netherlands ( 6 ) but was not recommended because of relatively low overall illness rates associated with mumps and other factors , including an expected low vaccine uptake .
+notification criteria for mumps include > 1 related symptom ( i.e. , acute onset of painful swelling of the parotid or other salivary glands , orchitis , or meningitis ) and laboratory confirmation of infection or an epidemiologic link to a laboratory - confirmed case ( 7 ) .
+although the vaccine remains effective in most settings and significantly reduces the risk for complications , further research is needed to understand the limitations of mmr , and modeling is warranted to understand the dynamics of mumps virus transmission in future .
+we reviewed data on mumps cases reported to the registration system for notifiable infectious diseases in the netherlands ( osiris ) during september 1 , 2009august 31 , 2012 .
+laboratory confirmation was most often by detection of viral rna ( 68.8% ) , followed by antibody detection ( 21.9% ) and virus isolation ( 7.3% ) . in 2% of cases ,
+the number of cases increased proportionally over time for the 1317-year age group ( p = 0.003 ) and the > 25-year age group ( p = 0.042 ) and decreased over time for the 1825-year age group ( p<0.001 ) .

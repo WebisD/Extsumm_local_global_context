@@ -1,0 +1,7 @@
+the nuclear receptor corepressors were initially identified as nuclear proteins recruited by the thyroid hormone receptor ( tr ) and retinoic acid receptor ( rar ) isoforms to mediate ligand - independent repression .  
+we have focused on the role of these corepressors in inhibiting adipocyte differentiation , which appears to occur via repression of peroxisome proliferator - activated receptor  ( ppar ) activity .
+nuclear receptor corepressors ( cors ) are recruited to ppar on a subset of ppar-responsive positively - regulated genes ( a ) .   on these genes ,
+recently , we and other groups have found that ncor and smrt play an important role in the adipocyte .  
+the in vivo function of ppar is complex , and further work will clarify the role of ppar in distinct tissues , including its relationship with ncor and smrt .
+corepressors repress ppar activity in the absence of ligand .   the presence of ligands such as tzds causes release of corepressors and recruitment of coactivators ( coas ) .   on other genes
+1995 ] and the silencing mediator of retinoid and thyroid hormone receptors ( smrt ) [ chen and evans , 1995 ] .   nuclear hormone receptors ( nhrs ) generally bind ncor and smrt in the absence of ligand or the presence of antagonists .  

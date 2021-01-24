@@ -1,0 +1,7 @@
+therefore , more data regarding cnvs should be accumulated from japanese populations . in this report , we focus on cnvs which were observed at a high frequency ( 5.0% of the individuals ) in the population residing in hiroshima and nagasaki , japan by acgh with bac - clones as targets .
+the majority of the polymorphic cnvs presented on bac clones that overlapped with regions of segmental duplication , and had been previously reported in other publications .
+we conducted population screening for 213 unrelated japanese , and observed 680 highly polymorphic cnvs .
+we summarized the genes and disease - related genes in omim which overlap to the bac - clone region with our cnvs ( table 2 ) .
+moreover , it is expected that the cnvs might be good surrogate markers for detecting etiological genes , even if cnvs did not directly affect the genes themselves .
+as described before , the results of two bac ( rp11 - 259n12 and rp11 - 121a8 ) were obtained from 133 unrelated individuals examined in stage ( 2 ) .
+segmental copy - number variations ( cnvs ) , involving the gain or loss of several hundreds of bases to several hundred kilobases ( kb ) of the genome , can be an important source of genetic variation among human populations of different ethnic groups as well as among individuals .

@@ -1,0 +1,21 @@
+a naphthalene derivative was selected as antenna because of ( i ) its 
+ high two - photon absorption cross - section , ( ii ) the large spectral overlap between its emission and the absorption 
+ of the trans isomer of the aminoazobenzene group 
+ in 3 , and ( iii ) its reduced size , to minimize potential 
+ steric hindrance effects on the glutamate - binding site of the receptor .
+we have rationally designed mag derivatives 
+ with visible absorption , fast thermal relaxation , and high two - photon 
+ isomerization efficacy based on push  pull substitutions and sensitization of the azobenzene 
+ photoisomerization .
+we 
+ have demonstrated the two - photon activation of azobenzene - based 
+ photoswitches in living cells expressing the light - gated receptor 
+ liglur . although a symmetrically substituted 
+ azobenzene
+, a novel scheme 
+ was exploited in this compound to enhance its nonlinear optical response , 
+ which consists in the introduction of a light - harvesting antenna to 
+ sensitize the trans  cis isomerization of the 
+ system by absorption of nir radiation and subsequent resonant electronic 
+ energy transfer ( ret ) to the trans - azobenzene group . because of its maleimide  azobenzene  glutamate  antenna 
+ structure , we named compound 3 as maga2p . 

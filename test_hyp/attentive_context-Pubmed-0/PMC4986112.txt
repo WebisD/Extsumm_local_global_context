@@ -1,0 +1,6 @@
+the limit of detection and quantification is 2.5 and 1.2 g / ml and 5.5 and 3.5 g / ml for diosmin and hesperidin , respectively .
+the paper puts forward a method for the co - assay of diosmin and hesperidin in pharmaceutical products using hplc in which some ionic liquid is added to the mobile phase . when the ionic liquid was added , analysis time was reduced and resulting peak symmetry was improved .
+the low % rsd values of repeatability ( 0.39 and 0.42% for diosmin and hesperidin , respectively ) , intra - day ( 0,39 %  1,12% ) and inter - day ( 0.51% - 1.19% ) variations reveal that the proposed method is precise .  
+the precision of the proposed method was carried in terms of the repeatability , inter - day and intra - day time periods .
+the results show that the method may be used for the control of diosmin and hesperidin contents in pharmaceutical products .
+the method has high precision from 1.10 to 3.21% and 0.57 to 3.37% for diosmin and hesperidin , respectively ; accuracy from 96.9 to 103% and from 96 to 102.9 for diosmin and hesperidin , respectively and very good repeatability ( 0.39 and 0.42% for diosmin and hesperidin , respectively ) .

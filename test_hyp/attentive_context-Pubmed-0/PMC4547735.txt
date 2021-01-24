@@ -1,0 +1,23 @@
+in the present work , we have investigated the 
+ transformation mechanism 
+ between two binding modes for 2,6-sa in both the wild type 
+ and mutant h1n1 hemagglutinin proteins from 1918 and 2009 pandemic 
+ flu using the 6sln ligand .
+this information , especially the transition mechanism , the barriers , 
+ and the key intermediates , could be helpful in identifying additional 
+ therapeutic targets and provide a more complete understanding of the 
+ effect of a particular mutation on viral fitness . in the present work , 
+ we investigate interconversion pathways between two binding modes 
+ to elucidate the contrasting affinity of the two different h1n1 virus 
+ mutants for 2,6-sa .
+we find that the d222 g mutation 
+ exchanges the energetic preference of the two binding modes in both 
+ sc18 and nl602 has and that the effect is more dramatic in sc18 . by 
+ analyzing the shape of the binding pocket
+the different shape , the flexibility of the 
+ pocket during binding 
+ mode interconversion , and the resulting energy profile changes provide 
+ insight into the contrasting pathogenicities induced by the d222 g 
+ mutation in the sc18 and nl602 viruses .
+, we have identified differences 
+ between the two binding modes for the 1918 and 2009 strains .

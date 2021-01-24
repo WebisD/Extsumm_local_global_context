@@ -1,0 +1,9 @@
+most were processed by sanger paired - end sequencing of 3 - 6 kb shotgun libraries .
+sequences were downloaded in february / march 2009 with scaffolding performed by aligning all bac and fosmid ends against contigs and then anchored and ordered primarily by optical mapping .
+six a17 bac and one fosmid library were used to create mt3.5 ( table s1 ) .
+three tissues were used for small rna analysis with ~3 million reads per illumina library ( figures s17-s18 , table s16 , datafile s9 ) .
+five tissues were used for rna - seq analysis with ~10 million illumina 36 bp reads per library ( table s12 ) .
+separately , 25 gb of illumina sequence was generated using short ( 375 nt ) inserts plus 2.1 gb from a 5 kb mate - pair library , then assembled using clcbio ( www.clcbio.com ) and soap ( http://soap.genomics.org.cn/ ) .
+three tissues were used for small rna analysis with ~3 million reads per illumina library ( figures s17-s18 , table s16 , datafile s9 ) .
+most were processed by sanger paired - end sequencing of 3 - 6 kb shotgun libraries .
+sequences were downloaded in february / march 2009 with scaffolding performed by aligning all bac and fosmid ends against contigs and then anchored and ordered primarily by optical mapping .

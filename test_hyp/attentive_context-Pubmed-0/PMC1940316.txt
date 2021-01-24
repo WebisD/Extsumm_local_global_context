@@ -1,0 +1,34 @@
+, we introduce a 
+ novel image analysis method able to assess quantitatively the 
+ relationship between imaging and electrophysiological data . in 
+ section 4
+a better 
+ understanding of the relationship between functional and 
+ electrophysiological data might lead to new approaches in epilepsy 
+ surgery and will likely improve clinical management of a large 
+ number of patients suffering from intractable epilepsy .
+with ever - improving imaging technologies and high - performance 
+ computational power , the complexity and scale of brain imaging 
+ data have continued to grow at an explosive pace .
+although this 
+ is an area of active research , current state - of - the - art 
+ technologies are still suboptimal with respect to multimodality 
+ integration and quantitative assessment of qualitatively distinct 
+ neuroimaging datasets in patients with structurally abnormal 
+ brains .
+this paper presents a multimodality database for 
+ neuroimaging , electrophysiological , as well as clinical data 
+ specifically designed for the assessment of epileptic foci in 
+ patients with epilepsy , and can serve as a standard template for 
+ other diagnostic procedures which employ multiple imaging 
+ technologies .
+recent advances 
+ in imaging technologies , such as molecular imaging using positron 
+ emission tomography ( pet ) , structural imaging using 
+ high - resolution magnetic resonance ( mr ) , as well as quantitative 
+ electrophysiological cortical mapping using electroencephalography 
+ ( eeg ) , have allowed an increased understanding of normal and 
+ abnormal brain structures and functions   it is well 
+ understood that normal brain function is dependent on the 
+ interactions between specialized regions of the brain which 
+ process information within local and global networks . 

@@ -1,0 +1,7 @@
+a study to investigate the feasibility of using haralick features to discriminate between  cancer  and  normal  subimages within a patient is illustrated in . in this paper ,
+the proposed algorithms introduce promising results in detecting the abnormality of lungs in most of the patients in comparison with the normal .
+the texture features analyses are well known approaches to quantify and express the heterogeneity that may not be appreciated by clinical naked eyes , and it was presented before as good imaging biomarkers to differentiate between diseases . in this paper
+an evaluation of the haralick texture features is done in order to identify the most significant features that can be used in order to detect and differentiate abnormalities within the lungs for cancer and edema versus normal .
+the homogeneity , energy , and correlation were significantly less than those of the normal fellow lung . while entropy of the cancerous lung is approaching being significantly more than that of the fellow lung , moment 3 and the difference statistical feature asm ( diff_asm ) texture feature measurement of the cancerous lung is approaching being significantly less than that of the normal lung . 
+
+the significant haralick texture features that can differentiate between pulmonary edema and tumor are found in table 4 . from table 1 , we can conclude that haralick texture features measurements ( homogeneity , energy , correlation , and entropy ) of the affected cancer lung were significantly different than that of the fellow lung .

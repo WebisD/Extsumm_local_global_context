@@ -1,0 +1,7 @@
+this study aimed to compare the use of fluorescein angiography and octa in the diagnosis and quantification of dmi when applying a split - spectrum amplitude - decorrelation angiography algorithm ( ssada )   to improve the detection of flow signals in angiography with the purpose of offering a suitable  sparing  contrast alternative using 3  mm  3  mm octa for clinical investigations of diabetic patients   .
+patients without dmi presented a mean fa of 0.19  0.67  mm ( 95% ic , 0.140.24 ; p < 0.05 ) .
+patients with dmi presented a mean fa of 0.68  0.53  mm ( 95% ic , 0.460.90 ; p < 0.05 ) .
+the results also offer improved quantification of faz area in diabetic patients without dmi when compared to diabetic subjects with established macular ischemia .
+octa angiogram analysis demonstrated a mean of 0.20  0.79  mm ( 95% ic , 0.150.26 ; p < 0.05 ) .
+octa angiogram analysis demonstrated a mean of 0.58  0.35  mm ( 95% ic , 0.430.73 ; p < 0.05 ) .
+in summary , octa may provide images with higher details regarding macular status , becoming a novel imaging technique for the diagnosis of dmi , and may become an alternative to fa for this purpose .

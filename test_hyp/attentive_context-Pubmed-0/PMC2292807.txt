@@ -1,0 +1,7 @@
+we propose , to improve this filter with an automatic tuning of the filtering parameter , a blockwise implementation and a mixing of wavelet su - bands based on the approach proposed in .
+these contributions lead to a fully - automated method and overcome the main limitation of the classical nl - means : the computational burden .
+section 4 shows the impact of our adaptations compared to different implementations of the nl - means filter and proposes a comparison with well - established methods .
+the results on phantom shows that the proposed optimized blockwise nl - means with subbands wavelet mixing filter outperforms the classical implementation of the nl - means filter and the optimized implementation presented in   , in terms of psnr values and computational time .
+this paper focuses on a new denoising method firstly introduced by buades et al .   for 2d image denoising : the nonlocal ( nl ) means filter .
+this paper presented a fully automated blockwise version of the nonlocal means filter with subbands wavelet mixing .
+compared to the classical nl - means filter , our implementation ( with block selection , blockwise implementation , and wavelet subbands mixing ) considerably decreases the required computational time ( up to a factor of 20 ) and significantly increases the psnr of the denoised image .

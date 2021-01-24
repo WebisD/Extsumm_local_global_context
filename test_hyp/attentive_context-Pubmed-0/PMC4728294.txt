@@ -1,0 +1,7 @@
+for illustration purposes , we have chosen a system where the pk is described by a twocompartment model , and the pd effect is modeled with an indirect response13 ( figure 
+ 1 ) . in order to maintain efficacy while avoiding adverse side effects , it has been determined that inhibition of the target should be in the range of 4060% . a twocompartment pharmacokinetic model with an indirect response pharmacodynamic model .
+rxode is an r package that provides tools for the efficient simulation of complex dosing regimens via pk / pd models described by odes .
+what should be the starting dose ? will monitoring and adaptive dosing continue indefinitely , or only during an initial period after treatment initiation ? simulations of these scenarios can be quite helpful in understanding the impact of these decisions . in this tutorial
+first , we will demonstrate how to set up and run a simulation using rxode .
+rxode outputs can be combined with a multitude of r facilities to create advanced static and interactive visualization displays for effective communications with clinical team members and other consumers .
+it provides great flexibility and speed in performing simulations with variability and uncertainty . as part of the r environment ,

@@ -1,0 +1,5 @@
+the purpose of this aggregate data meta - analysis was to examine the association between ms and the risk for breast cancer in adult females .
+therefore , the purpose of this study was to use the aggregate data meta - analytic approach to examine the association between ms and breast cancer risk in women .
+the overall results of this meta - analysis suggest that there is a modest positive association between ms and risk of breast cancer in adult females .
+increased by 34% and was still statistically significant with high heterogeneity ( rr : 1.81 , 95% ci , 1.282.56 ; z = 3.37 ; p = 0.001 ; q = 23.36 , p = 0.001 ; i = 74.32% ) . when limiting the results to studies that controlled for four or more of the important confounders ( as listed in table 1 )   , breast cancer risk increased by 17% and was statistically significant with moderate heterogeneity (
+the rr decreased by 30% but remained statistically significant with very low heterogeneity ( rr : 1.17 , 95% ci , 1.011.36 ; z = 2.04 ; p = 0.04 ; q = 4.30 , p = 0.37 ; i = 7.04% ) . when limited to postmenopausal women , breast cancer risk

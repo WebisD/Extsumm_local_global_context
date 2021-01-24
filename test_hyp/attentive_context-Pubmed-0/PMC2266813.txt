@@ -1,0 +1,21 @@
+the present study examines joint changes in perfusion and bold 
+ signals during monocular and binocular stimulation , to test the hypothesis that 
+ spatial decoupling of flow and metabolic responses during stimulation of only a 
+ partial subset of the columnar regions distributed within primary visual cortex 
+ leads to a significant shift in the ratio between spatially averaged bold and 
+ perfusion signals ( measured using arterial spin - labeling ) . by combining 
+ quantitative mri - based measures of these two physiological quantities ,
+the limited impact of monocular blockade 
+ on flow and bold response amplitudes is also demonstrated , and should serve as 
+ a caution that ocular dominance contrast is likely to be faint in hemodynamic 
+ imaging methods .
+we hope 
+ to provide new insight into the spatial precision with which cerebral blood 
+ flow is regulated , as well as factors which determine bold contrast amplitude 
+ in cortical tissues exhibiting columnar organization .
+we 
+ found that the bold and cbf responses to monocular visual stimulation were both 
+ significantly reduced in v1 relative to the responses observed during binocular 
+ stimulation ( figure 3 ) .
+in this study , we examined the coupling between bold and cbf 
+ responses in primary visual cortex during monocular and binocular stimulation .

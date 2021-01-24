@@ -1,0 +1,7 @@
+brian showed good accuracy in screening between bd and non - bd with quite good performance in specificity , for example at cutoff 16 , with a sensitivity of 68.2 , specificity was excellent ( 92.5 ) .
+the results also show that brian has good discriminant validity in detecting bd from healthy controls and shows good test - retest reliability .
+test - retest stability was measured in half of the sample randomly recruited after stratification by diagnosis and sex ( 8 male ; age 44.83 , 19 bipolar ) .
+the study suggests the possibility of developing mixed screening tools by introducing items on biological rhythm dysregulation into the usual measures of mood
+the italian version of the brian is a valid and reliable tool with psychometric properties equivalent to the original tool and has a good test - retest reliability measured with k statistics .  
+due to the relevance of monitoring biological rhythms with a valuable and reproducible instrument , brian can be a useful tool both in research and clinical practice with bipolar patients .
+moreover , the results of the present study suggest that the italian version of the brian shows an interesting discriminant validity in screening for bipolar disorder .

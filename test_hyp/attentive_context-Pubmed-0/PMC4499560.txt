@@ -1,0 +1,5 @@
+this study evaluated whether the maximum standardized uptake value ( suvmax ) of fluorine-18 fluorodeoxyglucose positron emission tomography / computed tomography ( f - fdg pet / ct ) is a significant predictor for pathologic grade and postsurgical outcomes in patients following surgery for pmec .
+the high suv group also had more frequent t3/4 stage ( 72.4% vs. 6.3% , p = 0.006 ) , more frequent lymph node metastases ( 57.1% vs. 0% , p = 0.001 ) , and consequently , higher cancer stages ( stage i / ii vs. iii , p = 0.001 ) than the low suv group .
+most of the patients ( 87.0% ) showed an eastern cooperative oncology group performance score of 0 or 1 and only three patients had a performance score of 2 ( two patients from high suv group and one patient from low suv group ) .
+three - year disease - free survival was also significantly higher in the low suv group ( 100% vs. 17.9% respectively , p < 0.001 ) . high grade tumor ( p < 0.001 ) , pathologic stage iii ( p
+patients with a suvmax greater than 6.5 were more likely to have a high - grade tumor , lymph node metastasis and cancer recurrence .

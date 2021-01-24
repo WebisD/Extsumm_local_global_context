@@ -1,0 +1,27 @@
+the microstructures and morphologies of 
+ the nanostructures are 
+ characterized by a jeol 6700 scanning electron microscope ( sem ) .
+the 
+ cross - sectional image of the heterostructure device is obtained by 
+ an fei titan transmission electron microscope ( tem ) .
+to fabricate the 
+ vertical wse2/mos2 heterojunction 
+ devices , wse2 was grown using a physical vapor deposition 
+ process on a si / sio2 ( 300 nm sio2 ) substrate . 
+
+the metal electrodes 
+ ( for probe contact or wire bonding purposes ) were patterned on the 
+ si / sio2 substrates by using electron - beam lithography and 
+ electron - beam deposition of ti / au ( 50/50 nm ) thin film .
+the mos2 flakes were then exfoliated onto the wse2 flakes 
+ through a micromechanical cleavage approach .
+the dc electrical 
+ transport measurements were conducted with a lakeshore probe station 
+ ( model ttp4 ) and a computer - controlled analogue - to - digital converter 
+ ( national instruments model 6030e ) .
+the scanning photocurrent measurements were conducted 
+ with the same horiba labhr confocal raman system combined with the 
+ same electrical measurement system .
+the confocal micro - pl and raman 
+ measurements were conducted on a horiba labhr confocal raman system 
+ with 600 g / mm grating , 50 diffraction - limited objective ( n.a . 

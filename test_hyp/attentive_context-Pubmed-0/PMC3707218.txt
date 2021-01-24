@@ -1,0 +1,5 @@
+the gee models accounting for inter - eye correlations and age , disease duration , and edss scores indicated that rnflt was not significantly associated with 6mw ( p = 0.99 ) or t25fw ( p = 0.57 ) . by comparison , the gee models accounting for inter - eye correlations and age , disease duration , and edss scores indicated that tmv was significantly associated with 6mw ( p = 0.023 ) and t25fw ( p = 0.005 ) .
+we hypothesized that the metrics of rnflt and tmv would be associated with scores on well - characterized walking outcomes , namely , the six - minute walk ( 6mw ) and the t25fw   , even after controlling for possible covariates ( e.g. , disease duration , edss , and age ) .
+this study examined the association between integrity of the anterior visual pathway and walking functions in persons with ms .
+the present study demonstrated that integrity of anterior visual pathways based on oct metrics was associated with ambulatory outcomes in persons with ms .
+the sample mostly had relapsing - remitting ms , and this limits the generalizability of our data and results amongst those with progressive ms .

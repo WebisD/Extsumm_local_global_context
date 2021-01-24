@@ -1,0 +1,6 @@
+as there is no telecobalt machine available for surveillance of dosimetry methods , an attempt was earlier made to study the efficacy of an extrapolation chamber as a 
+the above report enumerated calibration factor , nd , w , variability over a 9 year period , as is typical at the user level , and the extent of agreement / disagreement in application of nd , w factor in realizing dose were described .
+the international dosimetry protocol(trs 398 , iaea ) indicates relative standard uncertainty in dose estimates using nd , w for cobalt reference , a value of 0.9% for telecobalt beams , and 1.5% for high energy linear accelerator photon beam , calibrated at an user institution .
+objective of our present study , is referred to our earlier report on status of beam level dose delivery , and correlate to realization of true absorbed dose in field conditions , in the user institution .
+the measured dose in water at reference point in phantom is an absolute parameter for planning the treatment monitor units ( mu ) , both in conventional and intensity modulated / image guided treatments .
+it was indicated by us earlier that a constant value of linear accelerator beam output cgy / mu is used in the department , and continuous monitoring of the beams are carried out to quantify routine variations .

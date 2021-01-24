@@ -1,0 +1,6 @@
+table showing the dengue virus type 1 ( denv-1 ) envelope gene reverse transcription pcr and another showing denv-1 strains used in a study of the genetic relatedness of dengue viruses in key west , florida , usa , 20092010 .
+the observed differences between e gene sequences for the key west strains ( 20092010 ) and the rest of the strains in this phylogeny were < 2.1% with the other florida strains , < 1.2% with central american strains , and < 4.8% with the rest of the american  african genotype .
+most viruses isolated in monroe county diverged from the central american lineage into a distinct sublineage  the key west denv-1 strain associated with the 20092010 outbreak .
+collectively , these findings indicate that endemic denv-1 was transmitted in key west over a period of > 2 years .
+the high level of genetic similarity among the viruses isolated in monroe county , their close evolutionary distances , and the lack of recent international travel for the case - patients suggest endemic transmission and microevolution of this denv .
+conversely , the scattered and separate phylogenetic positioning of virus strains from patients with travel - associated cases from other florida counties indicates a different origin from the majority of key west isolates .

@@ -1,0 +1,5 @@
+we evaluated the reliability and reproducibility of the high resolution mt measurements in 12 brain regions of interest ( rois ) , applied statistical measures to the data and used complex multivariate mixed - effects models to test the statistical significance of several effects due to region , subject , observer , time , and manual repetition .
+we acquired repeat brain measurements based on a high resolution mt imaging protocol at 3 t in 9 healthy adults .
+this investigation evaluated observer - agreement of high - resolution mt measurements determined from repeated brain scans of 9 healthy volunteers .
+point 1 , iccs were greater than 0.7 in regions of genu , left and right putamen , whereas iccs were from 0.5 to 0.7 in regions of splenium , left and right hippocampus , left caudate , and right cerebral white matter ( table 8) .
+these results indicated moderate to strong interobserver reliability . in comparison , at time point 2 , iccs were greater than 0.7 in regions of genu , splenium , left and right caudate , putamen and cerebral white matter , and left hippocampus and thalamus , while iccs were from 0.5 to 0.7 in right hippocampus and thalamus .

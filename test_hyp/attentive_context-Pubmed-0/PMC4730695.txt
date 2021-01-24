@@ -1,0 +1,5 @@
+the total number of black cells in right - left and hemispheric asymmetry was similar in early glaucoma as well as the control group ( p = 0.1 and p = 1 , respectively ) .
+however , the right - left and the hemisphere asymmetry components of the ppaa performed poorly and probably needed further refinement before they can be effectively used for diagnosing early unilateral glaucoma patients .
+both of them had 5% sensitivity at 95% specificity and 10% sensitivity at 80% specificity for early glaucoma diagnosis . comparing the diagnostic criteria based on the number of black cells , criteria a ( two black cells ) had the highest sensitivity at 73.7% with a specificity of only 30% , while criteria d ( five black cells ) had the highest specificity of 90% with a sensitivity of only 42.1% .
+the auc for the right - left and the hemispheric asymmetry was 0.427 and 0.499 , respectively .
+significant differences between the two groups were seen for all ppaa parameters ( p < 0.01 ) except for the right - left asymmetry ( p = 0.1 ) and the hemispheric asymmetry analysis ( p = 1 ) .

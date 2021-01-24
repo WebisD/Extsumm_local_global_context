@@ -1,0 +1,6 @@
+the increased efficiency of the barbier coupling reaction as described in this paper allows for facile formation of epoxy - and enediyne skeletal structures in an overall two - step procedure .
+the use of n - methylformamide is shown to be a nice alternative to aqueous conditions in indium promoted coupling reactions between propargyl aldehydes ( 1 ) and -chloropropargylphenyl sulfide ( 4 ) .
+the introduction of nmf as an alternative solvent in barbier reactions will open new pathways to organic synthetic chemists . further studies to test other halides and aldehyde functional groups under barbier coupling reaction conditions in nmf are currently underway and will be reported in due time .
+this paper introduces the use of nmf as s viable solvent in a barbier coupling reaction , revealing increased rates and better selectivity when compared to reactions conducted in water and other organic solvents .
+this paper reports on the use of nmf in barbier - style reactions with a focus on rates of reaction , stereochemistry , and its use to form enediyne and epoxydiyne skeletal structures.(9 )
+new solvents in dielsalder(2 ) and barbier reactions have been sought to help streamline the one - pot transformations further , reducing synthetic steps and organic waste .

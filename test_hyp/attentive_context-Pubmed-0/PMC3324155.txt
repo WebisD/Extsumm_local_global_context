@@ -1,0 +1,7 @@
+the use of liquid chromatography coupled to tandem mass spectrometry in the clinical laboratory is rapidly maturing and is already in routine in diagnostic laboratories for steroid hormones .
+the enormous potential of these techniques already led to the development of methods that associate immunoaffinity , in situ digestion , and mass spectrometry for the discrimination and quantification of the pool of circulating pth forms   .
+it is a long story , and the accumulated knowledge about physiology and metabolism of the molecule provided new tools for the development of new assays in a continuous feedback process .
+the recent demonstration of functional carboxyl - terminal receptors for pth , and of their potential physiological importance , brought a new challenge in the interpretation of pth results   .
+the additional information potentially provided by the measurement of the various forms of circulating pth peptides is very attractive , but attaining this goal using immunometric assays would require several different assays .
+we foresee these techniques ( 3rd generation ) as the next step in pth quantification , with broad new clinical applications .
+this phenomenon is particularly important in patients with end - stage renal disease , where pth fragments , with marked predominance of the carboxyl terminal ones , are present in great quantities in comparison to the intact 184 form ( figure 1 ) .

@@ -1,0 +1,7 @@
+remarkably , we also find that mice lacking both nmnat2 and sarm1 are viable , enabling us to examine the mechanistic origins of the developmental axon outgrowth defect associated with constitutive nmnat2 deficiency .
+, we used axon injury in nerves and neurons from sarm1 mice to establish the relationship between nmnat2 loss and a sarm1-dependent function during wld - sensitive degeneration .
+studies of wld , an aberrant fusion protein with critical nicotinamide mononucleotide adenylyltransferase ( nmnat ) activity responsible for the slow wallerian degeneration phenotype , indicate this often shares molecular features with injury - induced axon degeneration ( conforti et  al . , 2014 ) .
+to conclude , these studies have now firmly established the order of two core events in an emerging wld - sensitive and sarm1-dependent axon degeneration pathway .
+new , endogenous regulators of wallerian degeneration have emerged , so establishing interactions among them will be important for developing appropriate therapies ( conforti et  al .
+suggests very strong correction of the defects associated with constitutive nmnat2 deficiency during early development .
+crucially , sarm1 depletion is currently the only known manipulation that delays wld - sensitive axon degeneration as robustly as expression of wld or other nmnats . in this study

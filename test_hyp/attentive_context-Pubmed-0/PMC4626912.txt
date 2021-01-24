@@ -1,0 +1,7 @@
+, both the eortc and the cueto risk tables exhibit a poor discrimination for prognostic outcomes and overestimate the risk of disease recurrence and progression in high - risk patients in external validation .
+nmibc comprises of a heterogeneous group of patients and includes pathological stage ta , t1 and cis .
+the eortc and cueto risk tables are the two best - established predictive models for recurrence and progression risk calculation in patients with nmibc . however
+patients with low - grade ta disease have very low risk of progression while patients with t1 disease with concurrent cis have a much higher risk of progression , approaching 50% .
+future research should focus to enhance the predictive accuracy of the risk assessment tools by incorporating additional prognostic factors such as depth of lamina propria invasion and molecular biomarkers after rigorous validation in multi - institutional cohorts .
+molecular biomarkers such as ki-67 , fgfr3 and p53 appear to be promising in predicting recurrence and progression , but need further validation prior to using them in clinical practice .
+the most important risk factor for progression is grade , not stage , because patients with high - grade tumors progress with similar frequency regardless of whether they were invasive ( t1 ) or non - invasive ( ta ) .

@@ -1,0 +1,5 @@
+this research showed that visual method in ebsco host had better performance than the mesh - controlled method
+. then findings of this research are important because , unlike the traditional method , three types of precision were measured , i.e. , best precision , useful precision , and objective precision , for the first time in a medical database from the perspective of real users .
+3- objective precision of the retrieved sources in the medline medical database ( in the ebsco host ) in the visual search method is different from that of the mesh - controlled method .
+this research was conducted using a semi - empirical method , and two search methods were compared , i.e. , the visual search method and the mesh - controlled method using ebsco as the host . considering the precision that the researchers expected for any method and using the ratio comparison formula for both groups ( 5 ) , a sample size of 287 was obtained for each method . to collect the information ,
+our research findings indicated that the mean average of useful precision in the visual search method was equal to 0.3758 , and , for the mesh - controlled search method , the value was 0.3313 .

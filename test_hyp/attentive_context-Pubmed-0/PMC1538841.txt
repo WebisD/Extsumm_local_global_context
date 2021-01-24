@@ -1,0 +1,7 @@
+automatic topology annotation for membrane proteins has been included among the efforts of the biosapiens european network of excellence ( ) with the specific aim of taking into consideration different predictors for annotating membrane proteins in the human genome .
+, the pongo - das server ( ) provides topology annotation for the all - alpha membrane proteins of the human genome .
+we then use four state - of - the - art predictors already described in the literature in order to identify the most probable integral membrane proteins . in this way
+there are a number of computational methods available to predict the topology of membrane proteins , which consists of two basic features : ( i ) the location of transmembrane domains along the protein chain and ( ii ) the location of the n- and c - termini with respect to the lipid membrane .
+the common platform for these efforts is the biosapiens distributed annotation servers ( das ) ( ) . in this context
+ensemble takes also advantage of the evolutionary information derived by multiple sequence alignment , both for the neural network and the hidden markov model systems .
+topological models are sufficient in many instances to design simple experiments in order to prove the location of the n- and c - protein termini , that of the inner and outer loops with respect to the membrane plane , and concomitantly the number of transmembrane segments in the chain

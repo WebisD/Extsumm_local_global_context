@@ -1,0 +1,8 @@
+we intend eventually to include the sidd profiles of the complete genomes of all fully sequenced model organisms
+accessible over the web at , it gives users an overview of the sidd sites in their selected genome , and their positions relative to the annotated genes .
+this information will facilitate the identification of regulatory elements , such as promoter - containing regions , in the genomic sequence .
+[ see figures 1 and 2 of ref ( 17 ) . ] here we describe the database we are compiling of the sidd profiles of microbial genomes .
+initially this will be yeast , at least one complete chromosome from each fully sequenced eukaryote , and the encode regions of the human genome .
+these methods have been extended recently to enable the analysis of long dna sequences , and successfully applied to the complete genome of e.coli ( 13,17 ) .
+the current database only contains sidd profiles of complete genomes from prokaryotes and archaea . in the future we also will deposit the results of sidd analyses for eukaryotic genomes .
+the protein gene products are classified into functional categories according to the information in the clusters of orthologous groups ( cog ) database ( 18 ) .

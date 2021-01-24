@@ -1,0 +1,9 @@
+our results track development of an attentional focus in the population activity of prefrontal cortex . in line with the proposal of adaptive prefrontal coding of task - relevant information
+the results track dynamic allocation of processing resources in prefrontal cortex , with gradual establishment of a coherent and global attentional focus .
+when two stimuli were present in the display , attentional competition resolved through widespread reallocation of neural resources .
+early processing lacked attentional coherence , with different neurons responding to different items in the display .
+early in processing a two - object display , we indeed found that the two hemispheres were focused on different stimuli , like parallel processing pools .
+we found that the time course of transition depends on the attentional weight of nontargets . for nc ,
+the speed and extent of transition between these states reflected the strength of attentional competition , being more rapid and complete for t  + nc than for t  + ni displays .
+, we found that many prefrontal cells discriminated task - critical stimulus categories and locations .
+here we examined the dynamics of attentional allocation in prefrontal cortex with widely separated visual stimuli . in the behaving monkey , we used time - resolved measures of neural population activity ( e.g. , buschman et  al .

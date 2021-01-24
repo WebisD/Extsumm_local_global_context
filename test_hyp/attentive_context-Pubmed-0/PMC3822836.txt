@@ -1,0 +1,7 @@
+we review the expression , localization and operation of various functional snare complexes in both murine and human mast cells .
+we evaluate the published functional data that has been used to implicate specific snares and snare complexes as indispensable mediators of mast cell degranulation .
+soluble n - ethylmaleimide - sensitive factor attachment protein receptors have been demonstrated to play a pivotal role in regulated exocytosis ( degranulation ) in mast cells [ 12 - 22 ] and represent a mechanical step involved in inflammatory mediators release that can be targeted for the design and development of therapeutics .
+activation of mast cell degranulation has been demonstrated to be an important mediator of allergic disease and more recently , as an initiator or contributor to autoimmune disease [ 1 - 4 ] .
+the major contribution of mast cells to both immune function and dysfunction results from the release of a plethora of inflammatory mediators through a process known as regulated exocytosis [ 1 - 5 ] .
+model of the mast cell snare complex mediating degranulation based on functional findings   .
+this process occurs in many cell types and involves the storage of intracellular pools of inflammatory mediators , hormones or neurotransmitters in pre - formed granules / vesicles . upon activation of the cell ,

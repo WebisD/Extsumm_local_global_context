@@ -1,0 +1,5 @@
+this is the first study for this novel device to be used in the treatment of amblyopia and demonstrates an improvement in visual acuity and stereopsis .
+improvement in bcva after isva training was 0.74 line ( paired t - test : factor of 1 , t8 = 5.842 , p < 0.001 ) . in the follow eyes ,
+we also measured bcva before and after the training . as seen in figure 5 and table 1 , in amblyopic eyes , average bcva before the training was 0.39  0.14 , and average bcva after the training was 0.31  0.14 .
+notably , 2 patients who had no measurable stereoscopic depth perception in random - dot stereopsis before the training acquired 200  sec and 600  sec after the training , respectively . both titmus stereopsis ( wilcoxon sign rank test : z = 2.809 , p = 0.005 ) and random - dot stereopsis ( wilcoxon sign rank test : z = 2.317 , p = 0.018 ) were significantly improved after isva training .
+the bcva had no changes ( paired t - test : factor of 1 , t8 = 0.218 , p = 0.832 ) .

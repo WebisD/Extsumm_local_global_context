@@ -1,0 +1,6 @@
+the present paper focuses on the main ionic constituents of salinity , na and cl and also analyses which specific membrane transporters have been shown , or are believed , to be involved in uptake , extrusion , long - distance transport , and compartmentalization of salt at the cellular and tissue level .
+the accumulative data show importance of two particular classes of transporters : hkts which function in both na uptake and long - distance translocation   and nhxs in their capacity as na  :  h antiport   or by maintaining k homeostasis .
+manipulation of several of the genes discussed above has been shown to alter uptake , efflux , translocation , and compartmentation of na .
+the na cation is chaotropic and predominantly associated with the deleterious effect of salinity , and therefore , most research has focused on this mineral .
+numerous genes and proteins have been shown to affect the tolerance to environmental stress in an array of plant species , which together compose a complex puzzle with a myriad of individual elements and crisscrossing signal transduction pathways .
+, a lack of understanding regarding the molecular entities and complex interactions of the responsible membrane transport proteins has hindered progress in this respect .

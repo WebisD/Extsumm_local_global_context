@@ -1,0 +1,6 @@
+the results obtained indicated distinct differences in immuno - complexed pca psa compared to bph psa , although both were predominantly composed of nonsialylated incompletely glycosylated molecular species .
+it poses the question of the possible role of glycosylation as a framework for immunoreactivity and immunoediting , representing a mechanism for early elimination or inactivation of aberrant cancer molecules and cells .
+the detected molecular species were subsequently analyzed for protein and glycan composition and compared to established psa forms .
+circulating psa - igm complexes separated by gel filtration from subjects with bph and pca were subjected to on - chip immunoaffinity profiling using monoclonal anti - psa antibodies .
+according to the observed molecular masses , psa has been classified into two more or less heterogeneous groups of glycosylated ( gp28 , gp22 , gp18 , and gp12 ) or nonglycosylated ( p26-full length nonglycosylated psa , p20 , p16 , p10 , and p6 ) peptides .
+it seems that newly found igm - bound isoforms could have diagnostic potential to distinguish pca and bph , but with no advantage in comparison to other established parameters ( total psa - igm or fpsa / psa ) . due to intrinsic heterogeneity of total psa - igm and complexity of the method applied ,

@@ -1,0 +1,6 @@
+some of these include taking advantage in motif discovery of increasing numbers of genomes , including low - coverage sequences ; quantifying the contributions to motif discovery of different genomes or sets of genomes ; improving the predictive reliability of motifs by genome - scale clustering and co - occurrence ; determining a best minimal set of motif discovery methods , probably in a discovery approach that uses multiple methods ( 6 ) ; and using coexpression and other functional data types . in this report
+data processing system for high - throughput motif discovery , clustering , co - occurrence , annotation and performance assessment .
+we also describe the predictive system behind the database , which uses genome - scale approaches to predict deeply conserved ab initio motifs and identifies groups of similar motifs and co - occurring patterns of motifs .
+, we describe a new cisred database that contains predictions for whole - genome discovery of regulatory elements in mammals and other eukaryotes .
+the system is designed to be readily maintained and extended in the context of rapidly evolving resources , data types and tools .
+database contents and high - level links , from a web user perspective , as of cisred human v1.2 .

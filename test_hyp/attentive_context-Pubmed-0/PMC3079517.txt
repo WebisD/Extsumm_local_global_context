@@ -1,0 +1,8 @@
+the 2 huvec cell lines used in the study were derived from male caucasian donors genotyped as heterozygotes for the 9p21 cad associated snps .
+3d - dsl sequencing : the dsl ligation products were prepared as described in kwon et al.23 .
+the 4 ebv transformed lymphoblastoid cell lines ( lcl ) were selected for their genotypes ( 2 homozygous cad risk or 2 homozygous cad non - risk ) using the hapmap data27 .
+the 5 phosphate of acceptor probes and 3 oh of donor probes were ligated using taq dna ligase .
+probe design : we designed 12 acceptor probes in the interval chr9:22100523 - 22126469 ( hg18 ; spanning from ecad7 to the et2d2 enhancer ) , on both strands immediately 3 of the 6 bamhi sites in the region .
+a universal sequence added to the probes is compatible with illumina ga adapters for direct sequencing .
+donor and acceptor probes pools were annealed to the biotinylated 3c samples and the biotinated dna was bound on to streptavidin magnetic beads .
+experiments were performed within 24 passages by treating cells with 100 ng / ml of ifn ( r&d ) for 24 hrs . treated and untreated cells were subjected to rt - pcr ( huvec ) , chip ( huvec and lcl ) , 3c analysis ( huvec ) or fish ( huvec ) .

@@ -1,0 +1,7 @@
+, we address this point and focus on the activation and stabilization of emt in cancer cells .
+we investigated whether aberrant expression of the crucial emt activator zeb1 and the control of potential emt - regulatory mirnas are linked and can synergize to promote malignant tumour progression .
+the fact that both the zeb1 binding sites and the overall structure of the mir-200c and mir-141 genes are highly conserved in vertebrates from zebrafish to human suggests that the tumour cells use a long - established regulatory mechanism of mirna expression .
+this important role of zeb1 points out that the predicted regulatory loop might also have a physiological role in separating mesenchymal from epithelial tissue in development and organogenesis . in conclusion , we suggest that zeb1 is a crucial promoter of tumour progression by reducing transcription of both mrnas and mirnas .
+by applying a mirna expression array screen for various human cancer cells , we detected several mirnas suppressed by the emt inducer zeb1 .
+thus , zeb1 is a central molecular regulator of a mirna - mediated feedforward loop , which can re - enforce emt .
+we further identified putative target genes , which are known promoters of emt and malignant tumour progression .

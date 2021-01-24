@@ -1,0 +1,6 @@
+antigenic analysis of whooper swan / akita/1/2008 highly pathogenic avian influenza virus ( h5n1 ) versus related isolates *
+, genetic analysis demonstrates that the virus that killed the 4 swans in japan in 2008 is genetically distinguishable from the strains that caused previous poultry outbreaks in japan , ruling out a possibility of resurgence of previously introduced hpaiv in japan . after the incident we describe
+representative strains of the previous highly pathogenic avian influenza outbreaks in japan are in boldface .
+although the susceptibility of a certain species of birds to a subtype h5n1 virus may be different depending on the virus strain ( 14 ) , whooper swans as well as mute swans have been considered to be susceptible species to hpaiv ( h5n1 ) , as they showed a fulminant course of disease at the outbreak in germany in 2006 ( 7 ) .
+phylogenetic tree constructed based on the hemagglutinin ( ha ) 1 region ( 966 bp ) of the ha gene of the highly pathogenic avian influenza viruses ( h5n1 ) .
+it is unlikely that the swans were infected before they flew to japan in autumn , maintained the virus within the flock , and then suddenly developed the disease after no apparent infections for several months .

@@ -1,0 +1,6 @@
+in summary , polyclonal activation of treg through their surface molecules by biologicals that enhance their intracellular camp level are effective to induce the suppressive function of treg for re - induction of tolerance in small animal models and in humanized mice .
+together these findings classify camp as a key component of treg suppressive mechanism in vitro and in vivo and disclose camp - regulating enzymes as molecular targets for therapeutic intervention with treg activity in pathological processes like allergy and autoimmunity .
+the notion of peripheral immune regulation by t cells that shut off other immune cells has been around for many decades ( gershon and kondo , 1971 ) .
+it is therefore expected that polyclonal treg activation forms a rational for tolerance induction in humans . however , both the exact conditions , efficiency in different stages of disease and cooperation with additional treatment regiments to diminish t effector cells need to be thoroughly explored
+attempts to define the molecular basis of treg suppression have lead to the description of numerous putative pathways and molecules ( tang and bluestone , 2008 ; shevach , 2009 ) .
+there is growing evidence that cytokines substantially add to the immune regulatory function of treg in vivo .

@@ -1,0 +1,5 @@
+in contrast , those patients with age at onset of type 1 diabetes between 15 and 40 years may have a consistently better prognosis than any patient group with age at onset < 15 years .
+this study shows that the patients with the youngest age at onset ( 04 years ) have the longest mean duration of type 1 diabetes without proliferative retinopathy ( 24.3 [ 95% ci 22.725.9 ] years ) .
+the mean  se difference in the duration of diabetes to proliferative retinopathy between age - at - onset groups 04 and 514 years was statistically significant ( 4.2  0.9 years , p < 0.001 ) .
+similarly , patients with age at onset 04 years had a higher risk of proliferative retinopathy ( 1.61   , p = 0.002 ) .
+patients with proliferative retinopathy had the highest mortality ( 20.4% ) , the highest bmi ( 25.5   kg / m ) , and the longest duration of diabetes ( 33.1   years ) ( table 1 ) . in the cox proportional hazards model , with potentially significant risk factors ( a1c , blood pressure , sex , and bmi ) as covariates , onset of diabetes between 5 and 14 years of age increased the risk of proliferative retinopathy the most ( hazard ratio [ hr ] 1.90 [ 95% ci 1.452.48 ] , p <

@@ -1,0 +1,5 @@
+the dna sequences of the 18s rrna gene were identical for the babesia organisms from the two patients , which indicates that they were infected with the same organism .
+we investigated the first reported human cases of babesiosis in italy and austria and have provided molecular evidence that the etiologic agent was a previously uncharacterized babesia organism , which we refer to here as eu1 .
+the occurrence of two identified cases of eu1 infection in humans in different countries ( i.e. , italy and austria ) and years ( i.e. , 1998 and 2000 ) indicates that eu1 is not restricted to one geographic area or time .
+the organism was found in countries in europe not previously known to have zoonotic babesiosis and had novel molecular characteristics for the genetic marker we analyzed , the complete 18s rrna gene .
+the phylogenetic analysis ( figure 1 ) indicates that eu1 is most closely related to but distinct from b. odocoilei , which infects white - tailed deer ( 15,16 ) and is not known to infect humans . eu1 and b. odocoilei form a sister group to b. divergens , a bovine parasite that has been considered the main babesia pathogen of humans in europe .

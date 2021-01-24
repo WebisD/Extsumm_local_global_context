@@ -1,0 +1,8 @@
+previously , we identified a brain specific nuclear gtpase called pike , which binds pi 3-kinase and enhances its kinase activity .
+therefore , pike - a provides a new mechanism whereby growth factors and other cellular stimuli regulate akt , and functions as an oncogenic effector of cell invasion . here
+, we discuss the recent advances in biochemical and molecular studies and future directions that might further our understanding of the roles of nuclear pi 3-kinase and pike family .
+mounting evidence demonstrates that akt is a crucial regulator of diverse cellular processes and contributes to cancer progression .
+pike - a is co - amplified with cdk4 in a variety of human cancers .
+the c - terminal protein structure resembles that of centaurin family , which are gtpase  activating proteins ( gaps ) for arfs or have homology to arfgaps and arf effectors 3 , 4 . in rat brain and hippocampal neurons
+the activation of mglur i by its agonists enhances formation of an mglur i - homer - pike - l complex leading to activation of pi 3-kinase activity and prevention of neuronal apoptosis 5 .
+ngf treatment elicits the membrane - associated 4.1n nuclear translocation and binds pike , which was initially identified as a 4.1n binding partner in a yeast two - hybrid screening .

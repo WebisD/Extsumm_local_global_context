@@ -1,0 +1,6 @@
+we detected fecal shedding of a previously uncharacterized parvovirus in a child with unexplained diarrhea .
+control pcr studies of unexplained diarrhea and serologic tests , are needed to define the prevalence and disease association of this new parvovirus species in different age groups and populations .
+the 18-month - old girl showed twice daily liquid and greenish feces over 3 days but no fever ( 37.4c ) , vomiting , or dehydration . to identify other viral infections in this patient ,
+no other mammalian virus was detected , suggesting a possible role for tusavirus 1 in this patient s gastrointestinal illness , although the lack of testing for pathogenic bacteria and parasites does not enable us to exclude these alternative explanations .
+we used a nested pcr targeting ns1 to determine the prevalence of this virus in the 180 tunisia diarrhea samples .
+using metagenomic deep sequencing , we analyzed fecal samples from 180 infants and children ages 7 days96 months ( mean 18.7 months ) in tunisia who had unexplained diarrhea that tested negative for rotavirus , norovirus , astrovirus , sapovirus , adenovirus types 40 and 41 , and aichi virus by reverse transcription pcr ( 7 ) .

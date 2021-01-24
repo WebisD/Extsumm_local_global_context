@@ -1,0 +1,6 @@
+we have used the same rt - qpcr method together with ihc and fc to analyze a larger cohort of 39 non - hodgkin lymphomas , 16 chronic lymphatic leukemias , and 5 b cell derived tumor cell lines .
+previously , we used reverse transcription quantitative real - time pcr ( rt - qpcr ) to quantify igkc and iglc gene transcripts in a small set of lymphomas and found that also gene expression level clonality was frequently evident . in the present study
+we conclude that ihc , fc , and rt - qpcr analysis of human b - lymphoid tumors gives partially divergent results .
+dual producers were most common in the follicular lymphoma group in which 11/16 tumors failed to score for monoclonality based on rt - qpcr analysis .
+the divergent results may in part be explained by the fact that biopsies , besides the tumor cells , often contain considerable numbers of normal lymphocytes that could contribute to the rna samples analyzed by rt - qpcr and the cell population studied by flow cytometry .
+these reports and our data prompted us to analyze five monoclonal b cell derived tumor cell lines ( table 3 ) .

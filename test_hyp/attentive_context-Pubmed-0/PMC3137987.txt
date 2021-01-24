@@ -1,0 +1,6 @@
+we performed an initial exploratory microarray analysis in 5 cases and controls and then further examined the most highly expressed mirnas in an additional 15 cases and controls .
+, we sought to compare mirna expression in whole blood of patients with angiographically significant cad to that of healthy aged - matched controls .  
+the present study provides insight into whole blood levels of mirnas in patients with cad compared to healthy subjects and demonstrates their potential utility as biomarkers for vascular disease .  
+thus , mirna expression signatures in tissues and blood have a potential role in the diagnosis , prognosis , and assessment of therapy . in this study
+although we were able to detect some differences in whole blood mirna levels between healthy subjects and cad patients ( mir-584 , in particular ) , our microarray data suggest that , similar to other reports , levels of mirnas in the blood are low and microarrays may lack the sensitivity to adequately identify mirnas that might serve as vascular disease biomarkers .  
+we believe that further elucidation of the role that these mirnas play in the pathogenesis and progression of chronic cad will contribute to our understanding of the disease process and lead to new therapeutic and preventative strategies .

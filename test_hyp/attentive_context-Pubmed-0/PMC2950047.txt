@@ -1,0 +1,7 @@
+approximately 1 - 5% of peripheral blood t cells express the  t - cell receptor instead of the conventional  t - cell receptor .
+the sensitivity of tumor cells to  t - cell - mediated killing is increased upon treatment of tumor cells with aminobisphosphonates ( n - bps ) , drugs that are used in clinical practice for the treatment of osteoporosis and bone metastasis in cancer patients .
+the discovery that n - bps activate  t cells by inhibiting fpps , thereby leading to accumulation of ipp , has paved the way for proof - of - principle studies to activate  t cells in patients with advanced cancer . in a phase i clinical trial , dieli and
+interestingly , human v9v2 t cells can kill a broad variety of epithelial tumor and leukemia / lymphoma cells .
+n - bps inhibit the ipp - processing enzyme farnesyl diphosphate synthase ( fpps ) , thereby leading to an accumulation of ipp , which is then sensed by the  t cells .
+this could be considered both for in vivo application together with n - bps and for optimization of in vitro expansion of  t cells .
+alternative strategies consider the adoptive transfer of in vitro expanded tumor - reactive  t cells [ 10 - 14 ] .

@@ -1,0 +1,6 @@
+what follows , we state the specifications of the simulations , use statistical methods ( in particular , logistic regression ) to describe the probability of surfing and to assess our analytic model , and offer likely explanations for the quantitative results we obtain .
+our main goals are to describe how the probability of surfing depends on model parameters ( with or without selection ) , to explain heuristically the nature of this dependence , and to offer a simple model of the surfing process as a contribution to the development of analytic models that yield quantitative predictions about genetic change during invasions .
+our work is based on data obtained from a series of simulations of cellular automata . in
+accordingly , we have begun to extend our models to the cases of beneficial and deleterious mutations , and we present some results here .
+further simulation and empirical studies seem warranted to assess the generality of this effect and its importance in explaining adaptive genetic change during invasions .
+our simulations indicate a strong positive association between the probability of establishment ( which in this model leads to invasion )   and the probability psurf of surfing , conditioned on establishment , for neutral and beneficial mutations in one dimension .

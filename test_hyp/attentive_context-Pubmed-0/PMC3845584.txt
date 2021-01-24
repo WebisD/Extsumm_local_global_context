@@ -1,0 +1,9 @@
+methylated tumor suppressor genes are being intensively investigated in gastric cancer , but the underlying functions and mechanisms need to be carefully examined .
+defects in many of the molecules that regulate the cell cycle have been implicated in cancer initiation and progression .
+we believe that information obtained from studying dna methylation will have an impact on cancer prevention , diagnostics , and treatment , and will contribute to cancer elimination
+, we will review tumor suppressor genes that regulate cell cycle and apoptosis that have been found to be methylated in gastric cancers .
+future investigations of the connections between h. pylori infection , gastric cancer , and epigenetic changes will greatly expand our understanding .
+as reviewed above , many methylated tumor suppressor genes in gastric cancer contribute to the dysregulation of the important aspects of tumorigenesis : cell cycle and apoptosis .
+the understanding of these molecular mechanisms will provide accesses to novel molecular therapeutic strategies for inhibiting oncogenic activity of signaling pathways .
+tumor suppressor genes which are most recently found to be methylated in gastric cancers regulate cell cycle progression and apoptosis .
+thus , understanding tumor progression to the metastatic state and changes in highly aggressive cells is important for the development of novel approaches to diagnose and treat aggressive malignancies .

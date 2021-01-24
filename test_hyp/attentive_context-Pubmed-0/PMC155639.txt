@@ -1,0 +1,6 @@
+slc / ccl21 , normally expressed in high endothelial venules and in t cell zones of spleen and lymph nodes , strongly attracts t cells and dendritic cells ( dc ) [ 1 - 8 ] .
+based on these findings we hypothesized that augmentation in ifn , mig / cxcl9 , and ip-10/cxcl10 would play an important role in the slc / ccl21-mediated anti - tumor response . here
+the capacity to facilitate the co - localization of both dc and t cells forms a strong rationale for the use of slc / ccl21 in cancer therapy . in previous studies
+we show that the cytokines ifn , ip-10/cxcl10 and mig / cxcl9 serve as effector molecules in slc / ccl21-mediated anti - tumor responses .
+our results suggest that the anti - tumor properties of slc / ccl21 may be due to its chemotactic capacity in co - localization of dc and t cells as well as in part to the induction of key cytokines such as ifn , ip-10/cxcl10 and mig / cxcl9 .
+both mig / cxcl9 and ip-10/cxcl10 are important for the anti - tumor activity mediated by ifn inducing cytokines such as il-12 .

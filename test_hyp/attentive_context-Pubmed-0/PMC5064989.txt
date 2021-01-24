@@ -1,0 +1,7 @@
+we provide the comparison of sequenced dna with b0\w dna sequences and revealed the presence of three polymorphisms at virulence genes .
+the beijing genotype is commonly present in russian population and in eurasia as a whole .
+we compared our output sequence with dna sequence of the high - virulent m. tuberculosis w-148 strain which belongs to b0/w cluster of beijing group . in this announcement , we focused on genes , which determine virulence and drug resistance .
+this lineage , especially bo\w subline is characterized by high - level virulence , , , . for our analysis , we chose the mycobacterium tuberculosis strain b9741 , isolated from a 33-years - old hiv - positive female patient from irkutsk oblast , russia , with firstly diagnosed fibrocavernous tuberculosis , provided by the scfhhrp , irkutsk , russia .
+we carried out a deeper analysis of these genes involved in virulence . in the gene mce3f ,
+which essential for survival of mtbs in macrophages and invasion to the host cells , we have found substitution - d410a , in irtb gene , which encode the part of irtab iron importer - a175 t , .
+in addition , we analyzed snps in genes , which are associated with drug resistance to inh , rif , sm , and pza .

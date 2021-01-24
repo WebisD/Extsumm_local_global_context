@@ -1,0 +1,6 @@
+. this review will highlight recent advances in the field of endothelial nanomechanics and its impact in endothelial physiology .
+experimental science is now equipped with a full tool kit facilitating the investigation of cellular mechanics and its physiological relevance ( lee and lim 2007 ; van vliet et al .
+hormones , paracrines , autocrines and other mediators define the permeability of the endothelial barrier , the anti - thrombotic nature of the endothelial cell surface and endothelium - dependent blood pressure regulation ( reviewed in current special issue ; and in libby 2002 ; luscher 1990 ; landmesser and drexler 2007 ; vierhapper et al . 1990 ; wojciak - stothard and ridley 2002 ; palmer et al .
+endothelial mechanobiology is a young field of research and little is known about mechanics - dependent signaling pathways .
+nanomechanics provides information on the physiological state of the endothelial cell in terms of nitric oxide release and barrier function .
+any changes in elasticity at the level of the egc glycocalyx , the cell cortex and the cell nucleus , can have a significant influence on endothelial function in terms of local blood flow , tissue perfusion and , finally , arterial blood pressure .

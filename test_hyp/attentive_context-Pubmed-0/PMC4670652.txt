@@ -1,0 +1,7 @@
+, we aim to investigate whether administration of coq10 could attenuate high glucose - induced apoptosis of epcs and whether nitric oxide ( no ) could be involved in the corresponding signaling pathway in this process .
+this study provides a notion that coq10 has beneficial effects in high glucose - induced epc apoptosis and dysfunction in vitro .
+our findings provide novel evidence that coq10 could be a potential therapeutic strategy to diminish ischemia - induced tissue damage by enhancement of epc function in diabetic patients .
+these data may clarify the underlying mechanisms responsible for the benefit of coq10 on the treatment of diabetic vasculopathy and cardiovascular diseases ( figure 7 ) .
+administration of coq10 improved epc functions , decreased ros , increased no production , and attenuated cellular apoptosis , with the mechanism of these effects being shown to involve ampk , enos , and ho-1 pathways .
+the defects in epc functions and behavior may underlie some of the vascular complications associated with diabetes , such as endothelial dysfunction , that predispose a diabetic patient to diffuse atherosclerosis and impaired neovascularization after ischemic events   .
+, we described that administration of coq10 improved high glucose - suppressed epc function and reversed apoptosis of epcs by enhancement of mitochondrial function , enhanced bcl-2 expression , and downregulation of caspase 3 , which suggest that coq10 might improve epc functional impairment and survival in diabetic patients .

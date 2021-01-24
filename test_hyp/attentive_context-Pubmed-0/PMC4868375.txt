@@ -1,0 +1,24 @@
+is the high grafting density 
+ and colloidal stability conclusively demonstrated , with important 
+ implications for correct comparison of previous and future results 
+ on np ligand density .
+we conclude that direct ligand replacement of oleic acid - coated 
+ monodisperse iron oxide nps can be optimized to consistently yield 
+ grafting densities of 1 nda - peg(5 kda)/nm regardless 
+ of core size in the investigated superparamagnetic range ( diameter 
+ 310 nm ) .
+the 
+ methods described in this work form the fundament for development 
+ of a whole set of diversely functionalized nps that are suitable for 
+ biomedical applications such as targeted mri , multifunctional superparamagnetic 
+ nps , and drug delivery .
+several mutually contradicting conditions 
+ during the ligand replacement reaction have to be fulfilled : ( 1 ) to 
+ dissolve the capping agent ( oleic acid ) , ( 2 ) to solubilize the dispersant , 
+ ( 3 ) to keep the dispersant at low coil size , quantitatively described 
+ by e.g. rg , which determines the grafting 
+ footprint , and ( 4 ) to provide the right conditions ( protonation ) of 
+ the anchor group to irreversibly bind to the core .
+shell nps colloidally stable over many 
+ months in biologically relevant media as well as withstanding demanding 
+ tests such as temperature cycling in serum .

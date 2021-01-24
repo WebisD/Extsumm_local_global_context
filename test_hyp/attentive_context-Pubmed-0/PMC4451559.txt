@@ -1,0 +1,8 @@
+thus , the goal of this study was to estimate the prevalence of diabetes and its associated risk factors in adults of brasilia , brazil .
+diabetes is a common health condition in adults living in brasilia and is positively associated with older age , cardiovascular disease , hypertension , respiratory disease , and presence of pain or discomfort .
+table 1 depicts diabetes prevalence and prevalence ratios ( pr ) before and after adjustment by poisson regression .
+diabetes was self - reported by 10.1% ( 95% ci : 8.5%11.6% ) of the adult population in brasilia .
+figure 2 illustrates differences in diabetes prevalence between all persons and the population with comorbidities .
+self - reported diabetes prevalence in the population was then calculated at a 95% ci . to identify factors related to diabetes prevalence , we calculated prevalence ratios ( pr ) using bivariate analysis and calculated the adjusted pr by a poisson regression model with robust variance . in this model ,
+the present cross - sectional population - based study was conducted in brasilia , brazil , from february to may 2012 .
+diabetes prevalence in the age range 3065 years is higher among individuals with cardiovascular disease , followed by those with hypertension and those with respiratory diseases .

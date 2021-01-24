@@ -1,0 +1,6 @@
+we used protein sequences from the swiss - prot database release 45.0 ( http://www.ebi.ac.uk/swissprot ) for training and testing purposes in this study . to obtain high - quality datasets , we filtered the data as follows : ( 1 ) include sequences only from the animal species that have experimentally derived annotations for  subcellular localization  .
+( 3 ) remove sequences known to exist in more than one subcellular localization , such as those that shuttle between the cytoplasm and the nucleus .
+three classes of features of amino acid sequences were used in the current study , including composition , transition , and distribution .
+the residuals , row effects , or column effects may then be illustrated graphically by the way of a stem - and - leaf display or boxplot .
+composition is a reference to the proportions of amino acid types contributing to the protein sequence .
+these localizations include ( the number of sequences are shown in parentheses ) : cyt - cytoplasm ( 2,673 ) , end - endoplasmic reticulmn ( 794 ) , exc - extracellular / secretory compartment ( 7,077 ) , gol - golgi complex ( 253 ) , lys - lysosome ( 179 ) , mit - mitochondrion ( 2,019 ) , nuc - nucleus ( 4,112 ) , pla - plasma membrane ( 5,273 ) , and pox - peroxisome ( 185 ) . from these datasets , we separated a subset of 3,749 proteins belonging to human .

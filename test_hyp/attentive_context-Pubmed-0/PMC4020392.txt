@@ -1,0 +1,7 @@
+
+ human leukocyte antigen ( hla ) matching significantly reduces the risk of graft rejection and graft failure after solid - organ transplantation   and graft - versus - host disease ( gvhd ) after hematopoietic stem - cell transplantation ( hsct )   .
+we here review the current knowledge regarding hla - directed alloreactivity and the various in vitro and in silico methodsthat can be used to predict this alloreactivity .
+several approaches have therefore been developed to define permissibility of hla - mismatched combinations ; some of these approaches are very useful in predicting alloreactivity .
+however , multiple approaches seem to be clinically relevant and some are currently implemented in clinical practice . further improvement of the definition of hla - mismatch permissibility , and implementation of these definitions into the donor - selection procedure , will eventually lead to reduced alloreactivity , thereby improving clinical outcome after solid - organ transplantation and hsct .
+, there is a clinical need to predict whether a certain hla mismatch will elicit severe b - cell and t - cell - mediated alloreactive responses or not .
+these pathological conditions evolve due to an alloreactive immune response that is initiated through interaction of allogeneic hla with antibodies or the t - cell receptor ( tcr ) .

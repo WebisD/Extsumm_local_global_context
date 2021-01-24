@@ -1,0 +1,6 @@
+the aim of this study was to examine the relationship between maternal iron status and offspring bp and adiposity measures in adulthood , using both ordinary multivariable regression and iv regression methods .
+we found no association between maternal iron status and offspring s blood pressure and adiposity using both multivariable ordinary least squares regression and instrumental variable modeling with maternal c282y mutation in the hfe gene as the instrument .
+we have compared two methods ; confounder - adjusted multivariable analyses , and analyses where we used a genetic mutation ( c282y ) in the hfe gene as an instrumental variable for maternal iron status .
+we have examined the association of maternal iron status with adult offspring s bp , bmi , and wc .
+maternal c282y was strongly associated with maternal fn : mean difference per each additional allele = 84 g / l ( 95% ci : 31137 , p = 0.002 ) . in univariable analysis ,
+we hypothesize that women who carry the c282y mutation are at lower risk of iron deficiency during pregnancy , and therefore their offspring will have on average lower blood pressure and adiposity ( as indicated by body mass index [ bmi ] and waist circumference [ wc ] ) .

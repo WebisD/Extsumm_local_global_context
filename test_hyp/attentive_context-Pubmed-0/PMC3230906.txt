@@ -1,0 +1,6 @@
+for instance , in associative learning there is a fine - grained distinction between declarative associative learning , which is dependent on the conscious association of events , and non - declarative unconscious associative learning , which occurs without awareness of the link between the related meaningful events ( shanks , 1995 ) . in an associative learning task ,
+it is in addressing these three arguments that we will characterize the theoretical boundaries of consciousness of learning .
+the presence of trace learning may be taken as evidence in favor of conscious awareness .
+the expression of trace learning in humans through a display of non - stereotyped representations of the contingency relies on an entirely distinct neural architecture
+further evidence of a causal link between awareness of the contingency and trace conditioning comes from human and non - primate mammalian data . in humans
+when two stimuli are systematically presented in a temporal sequence , a new relationship between these two items is learned . in classical trace learning , a neutral conditioning stimulus ( cs ) precedes and , therefore , causes the subsequent prediction of an emotionally charged or noxious stimulus ( unconditioned stimulus , us ; figure 1 ) . during a differential eye - blink trace conditioning task ,

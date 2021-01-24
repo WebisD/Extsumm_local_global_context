@@ -1,0 +1,27 @@
+in this paper we investigated 
+ the full photoswitching cycle of 
+ an isolated sma molecule by means of the semiempirical on - the - fly 
+ photodynamics simulations .
+these studies 
+ confirm barrierless pt in the first singlet excited state of sma and 
+ point to the presence of a conical intersection arising from cc double 
+ bond rotation as the main route for radiationless decay to the ground 
+ state . in this work we present results of semiempirical on - the - fly 
+ photodynamics 
+ simulations for the two sma tautomers relevant to photoswitching : 
+ the global minimum enol - form and
+for the two isomers that play a crucial 
+ role in the switching (  and  ) , we find a very efficient 
+ internal conversion ( 90% nonradiative decay of the excited 
+ state ) that indicates excellent photostability and promising switching 
+ efficiency of sma .
+our main goal is to investigate the full switching 
+ cycle and to determine the characteristic time scales and photoproduct 
+ distributions of both the forward and back switching transformations .
+the computed time scales characterizing the crucial 
+ phototransformations of this model schiff base system are all in the 
+ ultrafast regime ( 1 ps and subpicosecond ) .
+the strong dependence of the 
+ splitting ratio at the ci1 conical intersection on the photoswitching 
+ direction probably originates from the ground - state pes topology of 
+ the  and  switching forms .

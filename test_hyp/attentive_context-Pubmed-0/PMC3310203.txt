@@ -1,0 +1,31 @@
+we present the synthetic protocols and the 
+ inhibitory potency 
+ on enzyme level , as well as the activity in a cell - based assay , of 
+ the new inhibitors ( d and e ) .
+also included 
+ are stability and permeability studies of selected compounds , together 
+ with x - ray analyses of three of the inhibitors cocrystallized with 
+ the hiv-1 protease .
+the change in binding pattern between 
+ the inhibitors with two- and three - carbon spacers was in good agreement 
+ with the observed variation in enzyme binding activity .
+three inhibitors were cocrystallized with the 
+ hiv-1 protease enzyme providing information about the binding of the 
+ hydroxy lactams to the enzyme .
+functionalization of the two most 
+ potent stereoisomers ( 3r,4s ) ( 13a ) and ( 3r,4r ) ( 13d ) with heteroaromatic moieties in the p - benzyl p1 position improved the potency , rendering ki values down to 0.7 nm and ec50 values 
+ down to 0.04 m .
+we have successfully introduced -hydroxy 
+ -lactams 
+ providing a rigid backbone moiety and replaced the previously used tert - hydroxy group with a sec - hydroxy group . 
+
+more than 25 years after the identification 
+ of the causative agent 
+ of aids , hiv / aids is still a major challenge to society . 
+ the latest who / unaids report ( 2010 ) states that the number of people 
+ living with hiv has risen to 33.3 million , with more than 2.6 million 
+ new cases annually and almost 5000 aids - related deaths per day . with the introduction of the first hiv-1 
+ protease inhibitor ( pi ) 
+ ( saquinavir ) in 1995 and the development 
+ of highly active antiviral therapy ( haart ) the clinical 
+ outcome of hiv

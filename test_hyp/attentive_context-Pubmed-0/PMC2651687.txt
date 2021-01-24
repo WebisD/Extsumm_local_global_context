@@ -1,0 +1,7 @@
+the data generated and reported here allows the construction of a globally accessible d database of well - documented alkylating agents and michael acceptors for the synthesis of resin - bound unnatural amino acids 1 .
+students carry out , using simple procedures and inexpensive equipment , worldwide replicated solid - phase combinatorial chemistry , rehearsing new reagents and generating new compounds for library production . at the same time they learn and develop important synthetic skills and methodologies .
+accordingly , we have enumerated a 24  416-member virtual d catalog of acylated unnatural amino acids 5 based on the current work .
+virtual d catalogs based on rehearsed or well - precedented reagents and inexpensive global procedures are essential to the goals of distributed drug discovery .
+one of the most common types of intermediates used in combinatorial chemistry is the resin - bound natural or unnatural -amino acid 1 ( scheme 1 ) .
+this intermediate can then be incorporated into a wide variety of published combinatorial chemistry procedures .
+freely available virtual d catalogs , such as the one reported in this article , can be computationally analyzed to select potential drug leads for developing - world and other neglected diseases . in turn

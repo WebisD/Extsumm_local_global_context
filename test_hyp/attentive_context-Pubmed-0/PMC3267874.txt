@@ -1,0 +1,8 @@
+the results indicated that computational approaches could be used to design a stimulus protocol that increases long - term synaptic plasticity , transcriptional activation , and long - term sensitization .
+the present results indicated the feasibility of using computational methods to assist in the design of training procedures that enhance learning
+the present results suggested that modeling the dynamics of biochemical cascades could play an essential role in understanding why specific training protocols are more effective than others , and thereby , help guide the development of better learning paradigms .
+for example , a form of training with expanding isis appears to lead to enhanced performance in verbal recall tasks .
+in the present study , a simplified mathematical model of the dynamic activation of pka and erk was developed ( fig .
+interestingly , the non - uniform distribution of isis in the enhanced protocol was in marked contrast to the fixed intervals used in previous protocols for behavioral training in aplysia .
+a goal of the present study was to develop training protocols that enhanced learning and memory . however , the model described in fig .
+the mechanistic underpinnings of this form of training are not well understood , and therefore provide little guidance for designing protocols that maximize retention .

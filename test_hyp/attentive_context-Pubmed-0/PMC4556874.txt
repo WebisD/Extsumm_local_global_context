@@ -1,0 +1,6 @@
+, we compare the electrostatic interactions of ad11k and ad21k with their cd46(scr1 - 2 ) receptor to delineate similarities and differences in their binding mechanisms .
+we use computational tools to perturb the electrostatic network of cd46(scr1 - 2 ) and the two adenovirus proteins in order to identify and quantify the role of specific charged amino acids in association and binding .
+our analysis contributes to a molecular understanding of the mechanisms of adenovirus infection as well as provides a foundation for the design of molecular inhibitors against ad11k or ad21k binding .
+this is because of the presence of oppositely charged patches on the surfaces of cd46(scr1 - 2 ) and ad11k / ad21k , which allow the adenovirus proteins to recognize cd46(scr1 - 2 ) and promote binding , in addition to nonelectrostatic effects and entropic contributions .
+we propose a generalized electrostatic hypothesis that contributes to the formation of the two complexes and suggest specific amino acids that are contributing to binding .
+this energy map can serve as a predictive tool in the selection of cd46(scr1 - 2 ) or adenovirus protein mutants with desired binding affinity in experimental mutagenesis studies . in this paper

@@ -1,0 +1,6 @@
+we hope that lsd could be a useful resource for the leaf senescence research community , as well as a gateway for the collaborative project we are working with both domestic and international colleagues .
+we will update the database regularly with more leaf senescence related data available , and predict putative sags from completely sequenced plant genomes in the near future .
+we hope that lsd can be a platform not only for the domestic and international collaborators we are working with , but also for the research community of leaf senescence worldwide .
+the construction of a leaf senescence related database with wide - spread collection and systematic annotation of sags may provide a useful resource and a good starting point for the further study of the molecular aspects of leaf senescence .
+we plan to identify putative sags from completely sequenced genomes and add them into the database in the near future , and improve the user interface based on user feedback , provide more help documents with case studies , add more links to other useful sites , and update the database in time with more leaf senescence related data available .
+we will improve the user interface with comments and suggestions from the user community and add more documents including case studies to help user to make thorough analysis of sags .

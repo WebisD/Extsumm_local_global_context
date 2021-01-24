@@ -1,0 +1,8 @@
+the effect of varying the broth microdilution in vitro testing parameters on the ceftazidime - avibactam mic of -lactamase positive and negative enterobacteriaceae and pseudomonas aeruginosa isolates was determined and compared with the effects on meropenem and piperacillin - tazobactam mics .
+the two parameters that did have an effect were acidic media ( 6 isolates ) and high inoculum density ( 3 isolates ) .
+in summary , most of the variations in broth microdilution parameters had little effect on ceftazidime - avibactam mics .
+to testing parameters only affected ceftazidime - avibactam mics for a single isolate by only 4-fold in each instance .
+the magnitude of the changes in piperacillin - tazobactam mics was more difficult to assess due to the high mics of most isolates under standard testing conditions .
+the inoculum effects noted in this study with ceftazidime - avibactam mics are not surprising given that inoculum effects have been previously documented with ceftazidime mic testing , particularly against -lactamase producing strains   .
+avibactam is a non--lactam--lactamase inhibitor with activity against class c enzymes , most class a enzymes ( including kpcs ) , and some class d ( oxa ) carbapenemases .
+additionally , clsi recommends validating inoculum density on a weekly basis as part of standard quality control so any variations in inoculum should be easily identified .

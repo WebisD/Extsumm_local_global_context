@@ -1,0 +1,7 @@
+serial analysis of gene expression ( sage ) is a powerful method for obtaining comprehensive and quantitative gene expression profiles from cell populations under selected physiological conditions .
+we have used their statistical approach and developed a useful and flexible tool ( websage ) that analyse and compare a large number of sage tags .
+websage is the software that enables a rapid and comprehensive analysis of the sage data and integrates statistical data analysis methods using a database system .
+one of the most attractive applications of transcript profiling is to address the question of expression differences between normal and cancer samples or cancer and metastasis samples in order to define new diagnostic markers and therapeutic targets . over the past few years
+the aim of most sage studies is to identify genes of interest by comparing the number of specific tags found in two different sage libraries .
+the novelty of our tool compared with those available online ( 3,4 ) consists of the visualization of the results of the comparison of two sage libraries in a scatter plot .
+to gain insights into the molecular basis for metastasis , we compared the global gene expression profile of metastatic pancreatic cancer with that of primary cancer .

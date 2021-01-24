@@ -1,0 +1,6 @@
+the addition of a crowding agent also reduced vesicle - to - vesicle encapsulation variability for the lower mw aat , which was already encapsulated efficiently ( i.e. , with cin = cout ) in dilute solution .
+we find in general that the addition of peg increases the encapsulation efficiency of high molecular weight ( mw ) biomolecules compared to those encapsulated in di water alone .
+our results indicate that the addition of the polymeric coencapsulants peg 8 kda and dextran 500 kda as macromolecular crowding agents during passive encapsulation of biomacromolecular solutes can substantially increase mean encapsulated concentration and in some cases homogeneity for otherwise poorly encapsulated high mw proteins in giant vesicles .
+we conclude that volume exclusion in the presence of a crowding agent such as peg or dextran can be used as a general route to increase encapsulation efficiency of biomacromolecules in both giant and submicrometer lipid vesicles , up to levels expected for passive encapsulation of lower mw solutes ( i.e. , cin = cout ) .
+the approach used here should be effective for a wide range of membrane / macromolecular solute combinations .
+this work is important to those using gvs as bioreactors , where knowledge of encapsulated concentration is critical to quantifying the progression of products formed during a reaction .

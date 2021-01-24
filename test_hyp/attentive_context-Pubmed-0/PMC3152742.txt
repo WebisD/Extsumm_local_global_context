@@ -1,0 +1,7 @@
+this article reviews the findings supporting the role of gsk-3 inhibition in mediating lithium s neuroprotective effects against excitotoxicity in both cultured neurons and animal models of ischemic stroke .
+a growing body of evidence supports that lithium , a mood stabilizer used to treat bipolar disorder , has neuroprotective properties in both cellular and in vivo experimental settings .
+one of the major targets of lithium is gsk-3 , a serine / threonine kinase implicated in the pathogenesis of diverse cns disorders .
+a growing body of evidence indicates that gsk-3 is pro - apoptotic and that its dysfunction may be linked to the pathophysiology of mood disorders , schizophrenia , diabetes , and various neurological / neurodegenerative diseases , among others ( for review , meijer et al . , 2004 ;
+glycogen synthase kinase-3 ( gsk-3 ) , an evolutionarily conserved ubiquitous serine  threonine kinase consisting of  and  isoforms , is a multifaceted protein with diverse cellular and neurophysiological functions .
+we have also explored lithium s effects on smad3/4-dependent transcriptional activity and the underlying mechanisms .
+lithium - induced , gsk-3-dependent bdnf promoter iv activation could be a part of the molecular mechanisms underlying its neuroprotective effects and as such , possibly accounts for the therapeutic actions in bipolar patients .

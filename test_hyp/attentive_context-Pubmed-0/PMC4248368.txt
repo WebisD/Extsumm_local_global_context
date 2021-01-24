@@ -1,0 +1,7 @@
+, we used a whole - exome sequencing technique and identified two rho mutations in two japanese families with adrp , one ( p.w126l ) of which was novel .
+we additionally examined the impact of the p.w126l mutation on rhodopsin conformation by investigating the molecular modeling .
+the two rho mutations revealed in the data , c.377g > t , p.w126l in exon 2 and c.1036g > c , p.a346p in exon 5 , were found in the adrp patients of families 1 and 2 , respectively . with the exception of these rho mutations
+we additionally used molecular modeling to analyze the impact of the novel mutation ( p.w126l ) on the protein structure and function and then evaluated the genotype - phenotype correlations among japanese rp patients with heterozygous rho mutations . for the cosegregation analysis ,
+identification of rho mutations is a very useful tool for predicting the disease severity and providing precise genetic counseling .
+the analysis focused on the 212 retinal disease - causing genes that were listed in the retnet database .
+, there were no other mutations found in the obtained sequence data for both families 1 and 2 that fulfilled the rp phenotype and autosomal dominant inheritance pattern conditions .

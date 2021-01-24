@@ -1,0 +1,25 @@
+section 4 describes the 
+ training and test data used for our experiments and presents experimental 
+ results that demonstrate that our three - phase method is effective for detecting 
+ gene interactions .
+, we show that our proposed method significantly 
+ outperforms existing methods , and describe the contribution of each phase to 
+ its performance .
+the icml05 workshop on learning language in logic ( lll05 ) task provided a 
+ small training dataset annotated with pos - tags and syntactic relations .
+to improve recall without sacrificing precision , we propose a 
+ three - phase method to detect gene interactions using syntactic relation 
+ information , and apply it to a small training dataset lacking domain knowledge . 
+ through experimentation
+however , we 
+ have insufficient biomolecular data annotated with linguistic information . in 
+ 2005 ,
+to improve recall without sacrificing precision , this 
+ paper proposes a three - phase method for the automatic detection of gene 
+ interactions using syntactic relations .
+thus , 
+ many recent studies have sought to extract interaction information from 
+ biomolecular text using natural language processing technology .
+the proposed method does not require 
+ domain knowledge . to improve recall , in the first phase , we construct syntactic 
+ encapsulation categories of agent and target . in the second phase ,

@@ -1,0 +1,7 @@
+undoubtedly , hplc is one of the most widely used techniques in routine analysis of pharmaceuticals , but it involves expensive instrumental set which many laboratories in developing and underdeveloped countries can not afford . the proposed equilibrium spectrophotometric method based on the coupled redox - complexation reaction of the thiol drug nac or mpg with fe(iii ) and tptz can be applied in every analytical laboratory as a reliable method for the determination of nac or mpg in pharmaceutical preparations . due to the use of tptz
+the coloured fe(tptz)2 
+  complex is stable in an extended period of time up to 24 hours .
+the accuracy of the method was further ascertained through the recovery studies . to the drug solutions of the granules or the tablet powder , the standard solutions of the synthetic nac or mpg
+the linearity of the method was investigated under the optimized conditions for nac and mpg in the concentration range from 1.0 to 100.0  m .
+the effect of some possible interfering cations and anions on the analysis of a fixed concentration of 40.0  m for nac and mpg was investigated for the maximum molar ratio of foreign ions .
+regular excipients and additives present in the pharmaceutical preparations of nac and mpg do not interfere in this method .

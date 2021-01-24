@@ -1,0 +1,23 @@
+on the basis of the conformation , 
+ topology , and lipid and water 
+ interactions of piv5 fpk4 in the four lipid membranes obtained from 
+ solid - state nmr , we propose the following relations between the fp 
+ structure and viral membrane fusion .
+as the protein rearranges 
+ its structure and hra forms a coiled - coil trimer in the prehairpin 
+ intermediate , the fusion peptides of the three proteins interact in 
+ the cell membrane to form a homotrimer .
+, the piv5 
+ fusion peptide mainly adopts a -strand conformation , similar 
+ to its structure in neutral pc membranes , but the -strand is 
+ inserted into the dope membrane rather than surface bound . moreover , 
+ the peptide changes the phase behavior and hydration of the dope membrane . 
+
+we 
+ recently reported the first solid - state nmr structural study 
+ of the piv5 fusion peptide in lipid bilayers .
+we found that the peptide adopted an -helical conformation 
+ in the negatively charged popc / popg membrane but a -strand 
+ conformation on the surface of neutral popc and dmpc bilayers . in 
+ the current study , we have determined the complete backbone conformation 
+ of the popc / popg - bound piv5 fp using chemical shift constraints .

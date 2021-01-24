@@ -1,0 +1,26 @@
+recently 
+ we reported on an analysis of the infrared spectrum of 
+ c2f4 . by observation 
+ of many combination and difference bands , including many from two c - containing isotopologues , and by comparison with mp2 and 
+ density - functional calculations , all 12 fundamentals could be assigned , 
+ although only five are ir active .
+the 
+ magnitude of x18 as compared to the much 
+ smaller x17 ( coupling cc stretch with 
+ cis pyramidalization ) also supports a valence - bond analysis of weak 
+ double bonds , which was reviewed in ref ( 19 ) .
+very recently , 
+ high - level theoretical studies investigated 
+ electronic ground and excited states of c2f4 and their dependence on some coordinates , mainly 
+ to discover the fate of this molecule after electronic excitation 
+ and make comparisons with a corresponding time - resolved experiment 
+ ( ref ( 16 ) ) . for the 
+ ground state , the stabilizing effect of pyramidalization in the twisted 
+ molecule was confirmed .
+this idea is supported in the present work 
+ by the large value found for the anharmonic constant x18 coupling cc stretch with trans pyramidalization .
+the transition state for 
+ s0 dissociation was said to result from avoided crossing 
+ of the 2ag and 1ag ( i.e. , s0 ) states , 
+ also with large one - sided pyramidalization but at longer cc distances 
+ and perhaps without twist

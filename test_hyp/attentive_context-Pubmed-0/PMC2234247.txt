@@ -1,0 +1,7 @@
+in this review , we discuss current knowledge of the expression , regulation , and function of caspase-14 .
+determination of the in vitro conditions for caspase-14 activity that mimic stratum corneum conditions , together with the generation of caspase-14deficient mice , led to the identification of ( pro)filaggrin as the first known physiological caspase-14 substrate .
+this is not surprising , as it has been known for a long time that serine proteases are of major importance in epidermal homeostasis .
+importantly , caspase-14 seems to be involved in the correct processing of filaggrin preceding its degradation into free hygroscopic amino acids , which might explain its role in the prevention of water loss from the epidermis .
+activation of caspase-14 occurs most probably at the interface between the granular and cornified layer , implicating a role for caspase-14 in the stratum corneum .
+in contrast to the ubiquitously expressed other members of the caspase family , caspase-14 is expressed and activated mainly in the epidermis and is absent from most other adult tissues ( eckhart et al .
+caspase-14 also protects against uvb - induced damage , which means that it is involved in the establishment of the biochemical or structural properties of the stratum corneum as a uvb filter . how caspase-14 establishes the uvb - filtering capacity of the corneum is not completely understood .

@@ -1,0 +1,26 @@
+notably , the affinities measured for the oligosaccharides of the ganglioside 
+ ligands by esi - ms are comparable in magnitude to those reported for 
+ the oligosaccharides of known hbga receptors .
+taken 
+ together , the results of esi - ms and elisa measurements performed 
+ on two human novs representing two different genogroups ( gi and gii ) 
+ provide the first experimental evidence of interactions between human 
+ novs and gangliosides and sialic acid - containing glycoconjugates . 
+
+these experimental data 
+ demonstrate sialic acid - containing oligosaccharides as alternative 
+ ( to hbgas ) ligands for human novs and suggest a new mechanism of human 
+ nov 
+host interaction , one that involves hbga and sialic acid - containing 
+ oligosaccharide receptors and co - receptors for attachment and penetration 
+ into host cells and opens a new direction in human nov research .
+further 
+ studies to characterize the role of cell surface sialic acids / gangliosides 
+ in the early stage of viral infection and its potential coordination 
+ with hbgas for viral attachment and/or entry are needed .
+, we report the first experimental evidence 
+ that human novs 
+ recognize sialic acid - containing glycosphingolipids ( gangliosides ) . 
+ the catch - and - release electrospray ionization mass spectrometry ( car - esi - ms ) 
+ assay was used to screen a library of 
+ gangliosides against the p particle of human nov va387 ( gii.4 ) .

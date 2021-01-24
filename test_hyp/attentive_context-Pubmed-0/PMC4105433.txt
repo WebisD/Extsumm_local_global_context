@@ -1,0 +1,8 @@
+recently we reported the complete genome of h. halophila 
+ 1 . in this study , we report the draft genome sequence of h. halochloris , which was obtained through standard roche 454 pyrosequencing using the roche 454-junior instrument .
+the draft genome information reported here provides opportunity for further research into the mechanism involved in halophilic adaptations and allow organisms to thrive in hyper saline environments , how these evolve and how they differ for bacteria and archaea 10 .
+these considerations led us to determine the genome of h.halochloris , which we report on here .
+comparative genomics of h. halochloris and h. halophila promises to provide insights into this issue , which has implications both for genome - wide evolutionary processes and the mechanisms of halophilic adaptations .
+we found that a closely related organism h. halophila accumulates molar concentrations of kcl when grown in high salt medium and has an acidic proteome .
+the genus halorhodospira was formed by separating species h. halophila , h. halochloris and h. abdelmalekii from genus ectothiorhodospira based on their 16s rrna sequences 4,6 .
+the jgi img / er annotation pipeline ( http://img.jgi.doe.gov/er ) was employed for gene annotation with img submission i d and img project i d , 15725 and 50543 respectively . the numbers of trna and rrna genes were predicted as 46 and 8 , respectively . a total of 3,301 putative protein coding genes ( cdss ) or open reading frames ( orfs ) were predicted with a total gene count of 3,376 .

@@ -1,0 +1,25 @@
+probe 14 enables us to detect 
+ as little as 14 amol 
+ of 8-oxodguo in 34 h. typical experiments used 1 ng of dna 
+ substrate , and the quantitative analysis agrees well with data obtained 
+ using enzyme digestion and lc / ms analysis .
+herein , we have improved the limit of detection to 14 amol and decreased 
+ the time required to complete the analysis to 3 h by combining qpcr 
+ with a new biotinylated reagent .
+this method was time - consuming due to 
+ a lengthy procedure for preparing the plates on which the lesions 
+ were quantified .
+the amount of dna substrate used in the assay is considerably less 
+ than that in a typical experiment using lc / ms .
+following 
+ the adsorption of tagged dna to a surface , the biotinylated material 
+ is used to capture a streptavidin  horseradish peroxidase complex , 
+ which yields the signal by oxidizing a profluorescent molecule to 
+ a fluorescent one .
+however , oxidation 
+ of 8-oxodguo or fapydg in the presence of an amine nucleophile , 
+ such as a spermine ( rnh2 ) , provides a dna adduct ( scheme 1 ) in competition with gh and sp . we previously 
+ reported a method for selectively detecting 8-oxodguo and the mechanistically 
+ related fapydg lesion by utilizing this chemistry , first reported 
+ by burrows , and 1 as a nucleophile to trap the reactive 
+ oxidized species . fapydg and

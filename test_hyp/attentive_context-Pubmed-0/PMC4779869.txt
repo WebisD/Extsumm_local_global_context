@@ -1,0 +1,5 @@
+the aim of this study was to assess whether single nucleotide polymorphisms ( snps ) of the il-6r gene were associated with the development , neurologic status , and clinical features of ischemic stroke in the korean population .
+two snps ( rs4845617 , 5tur ; rs2228144 , ala31ala ) of the il-6r gene were in hwe in the is and control groups , respectively ( p > 0.05 , data not shown ) .
+as shown in table 3 , the snp rs4845617 was associated with the nihss score of is patients ( p = 0.011 , or = 0.24 , 95% ci = 0.08 - 0.72 in codominant model 2 , p = 0.006 , or = 0.30 , 95% ci = 0.12 - 0.74 in recessive model , and p = 0.008 , or = 0.48 , 95% ci = 0.28 - 0.84 in log - additive model ) . in snp rs4845617 ,
+in addition , the a allele of snp rs4845617 might have a protective effect against neurologic deficit in is patients .
+the frequency of the ag haplotype was higher in the nihss 1 group , and that of the gg haplotype was higher in the nihss 2 group of is patients ( p = 0.014 , p = 0.0024 , respectively ) .

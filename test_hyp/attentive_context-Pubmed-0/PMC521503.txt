@@ -1,0 +1,6 @@
+, we describe the development of rca - based highly multiplexed and sensitive protein microarray immunoassays for detecting 150 proteins in an elisa format .
+application to human serum and plasma samples has established that the rolling - circle amplified protein microarray is a powerful tool for the profiling of expressed proteins in biological specimens .
+because there is no pcr equivalent available to amplify proteins , the identification of low - abundance proteins may often be difficult or impossible , and important biomarker information could thus be lost . rolling - circle amplification ( rca ) is a unique signal amplification technology   that permits detection of multiple proteins with a broad dynamic range on protein microarrays   . in this paper
+immunoassays on microarrays hold appeal for studies requiring the ability to quantify many selected proteins simultaneously . considerable progress has been made in this area recently in terms of increased assay sensitivity and complexity ( ie , degree of multiplexing ) .
+rolling - circle amplification facilitates the use of such arrays with its powerful degree of signal enhancement and simultaneous detection of a large number of defined analytes .
+such robust systems will enable routine use of antibody arrays in both research and diagnostic modalities .

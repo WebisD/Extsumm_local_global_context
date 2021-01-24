@@ -1,0 +1,7 @@
+as such , the use of these data has the potential to be beneficial to the reduction of disease associated mortality and morbidity .
+the highest ranking dsb regions reported by tchurikov et al .   for the srr944107.fastq dataset predominantly relate to regions that would be likely to present problems to short read mapping software , such as satellite sequences . in an attempt to reduce mapping - related artefacts ,
+we have elected to remove regions known to result in low - confidence mapping from our analysis .
+the refined characterisation of the propensity for particular types of dsbs , such as those identified by the raft procedure , across the human genome will likely allow more efficient assessment of genomic 
+the raft protocol from which our data are derived is theoretically enriched for blunt - ended forum domain termini , previously shown to be associated with transcriptional control , , .
+these differences will be elucidated with the expansion of studies to a range of cell and tissue types .
+we have supplemented the profiling of the relative frequency of dsb sites in hek293 t cells with encode - derived annotation , including regional information pertaining to important transcription factor binding sites and other marks of gene regulation , regions of dnasei hypersensitivity and repetitive elements .

@@ -1,0 +1,6 @@
+from this paper , it can be concluded that vep is an important visual electrophysiological tool which has been used for the evaluation of visual field defects in primary open - angle glaucoma .
+further significant correlations between the magnitude of the vep latencies and the size of visual field defect and optic disc cupping or pallor over the years confirm the validity of vep method in primary open - angle glaucoma .
+in addition , the severity of global glaucomatous damage evidenced by reduction in md could depend on the delay in neural conduction from retina to the visual cortex as revealed by the significant correlation between vep latencies and md .
+vep is a more objective measure of optic nerve function because it is not influenced by cognitive factors or the motor skills of the subject as compared with the psychophysical tests .
+further , the correlation obtained by us between all the electrophysiological vep parameters and md of humphrey static perimetry suggests that the impaired visual cortical responses observed in glaucoma patients can be revealed by both electrophysiological and psychophysical methods .
+this paper summarizes many of the studies pertaining to the significance of visual evoked potentials in the assessment of visual field defects in primary open - angle glaucoma .

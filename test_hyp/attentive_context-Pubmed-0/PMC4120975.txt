@@ -1,0 +1,25 @@
+then , the validity of the method was tested with two well - characterized 
+ cu(ii ) binding peptides .
+we determined 
+ that only a single histidine residue is coordinated to cu(ii ) ion 
+ in component ii in a. finally , in component ii , cu(ii ) uses 
+ his 13 and his 14 as an equatorial ligand over his 6 .
+we experimentally validated the use of eseem intensities to quantify 
+ the number of n nuclei coupled to a cu(ii ) ion . a monotonic 
+ increase in the n eseem intensities
+shedding light into the component ii coordination was critical 
+ as component ii might be the dominant cu(ii ) coordination mode of 
+ a in vivo .
+herein , we propose a method to quantify the number 
+ of n nuclei coordinated to a cu(ii ) center by the use 
+ of integrated 
+ intensities of the fourier - transformed eseem .
+eseem spectroscopy is 
+ a pulsed esr technique that has been used to identify and quantify 
+ the number of histidine imidazoles coupled to a cu(ii ) center .
+two small peptides with known cu(ii ) coordination was used 
+ to test the validity of the method . the dahk 
+the proportions 
+ of the three histidine residues in cu(ii ) coordination can be rationalized 
+ by the pka values of the histidine side 
+ chains .

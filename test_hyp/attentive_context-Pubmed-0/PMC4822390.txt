@@ -1,0 +1,6 @@
+rsf identified a different subset of risk factors in chronic nonreversible renal graft rejection than the cox ph model .
+this study aimed to identify prognostic factors affecting renal graft by rsf and compare its performance with cox proportional hazard model .
+in addition , the c - index of rsf was considerably higher ( 0.965 ) than that of the cox model ( 0.766 ) .
+however , type of donors , hemoglobin level , donor s sex , immunosuppressive drug usage , post - transplantation condition , recipient sex , familial relationship , donor and recipient blood group , side of the kidney , duration of dialysis and urine volume are unlikely to be predictive . according to cox ph model , three variables of recipient age , type of donor ( living vs. deceased ) , and episode of post - transplantation acute and hyperacute rejection were identified as most important variables .
+the rsf is a promising method for intuitive variable selection and is a way to eliminate the doubt in the  black box 
+the present study utilized a data set corresponds to a retrospective cohort study which was conducted in hamadan , western iran , from 1994 to 2011 .

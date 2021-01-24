@@ -1,0 +1,7 @@
+its rna - binding properties and tissue - specific gene expression profiles were recently determined ( 15 ) . based on the concept of correlation between sequences and rna - binding modes , a systemic search was performed for nucleic acid association by evaluating sequence conservation using multiple sequence alignments search tools .
+having considered the importance of submitting new sequences for further functional characterization , the newly cloned and expressed cdna of previously unknown member of the hnrnp a / b family of proteins ( figure 1 ) is presented here .
+our efforts have been devoted to the cloning and subsequent tissue - specific gene expressions of numerous human rnps from the hnrnp a / b family of proteins ( figure 1 ; ref .
+this necessitates the study of the degree of homology of rna recognition motifs ( rrm ) among these proteins , requiring an evolutionary computation .
+, evolutionary computation approach could give us major clues on how evolutionarily conserved mrna transport machinery fails are linked to development of human autoimmune disorders .
+the aim of the presented work herein was to isolate novel cdna sequences with important functional implications in human pathology .
+such approach shows the level of improvement of the prediction of gene - regulatory elements in the human genome .

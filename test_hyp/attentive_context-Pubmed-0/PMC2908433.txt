@@ -1,0 +1,7 @@
+in marked contrast to the mammalian olfactory system , co - expression of ors has been documented in drosophila melanogaster .
+thus , we found that heterologously expressed cquior10 is highly sensitive and narrowly tuned to the oviposition attractant skatole . in female antennae of the southern house mosquito ,
+in our search for molecular targets that may be used in a reverse chemical ecology approach for the development of better oviposition attractants ( leal et al . , 2008 ) , we recently have mined the genome of cx .
+, we characterize cquior10 and show this or to be highly sensitive and narrowly tuned to skatole .
+recently , we demonstrated by rna interference that an odorant - binding protein ( obp ) from cx .
+we also have characterized an odorant receptor ( or ) from this mosquito species , cquior2 , which is highly sensitive to indole and moderately sensitive to skatole ( pelletier et al . , 2010b ) . here
+although expression of ors in heterologous systems , such as the xenopus oocyte system , is an invaluable tool for de - orphanizing and characterizing receptors , it does not completely mimic the insect olfactory system .

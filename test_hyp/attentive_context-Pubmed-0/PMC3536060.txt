@@ -1,0 +1,7 @@
+our data ( table 1 ) indicate a surprisingly high morbidity and mortality , even in children with mild pulmonary hypertension , and they underscore the fact that this is a very high - risk group .
+specifically , the addition of a protein index , weighted mostly by il-6 , il-10 , and mcp-1 concentrations , significantly increased the probabilities for those patients with an adverse event compared to hemodynamic measurements alone .
+we therefore applied a protein array approach that provides accurate and precise quantification of twelve proteins with known lung or vascular effects in a cohort of pediatric patients with ph .
+when investigating the plasma proteins univariately , vegf and il-6 were associated with occurrence of an adverse event and egf and il-6 were correlated with mean pap and pvri .
+our objective was to determine whether there is a clinically relevant association between any of the panel constituents , individually or combined , with hemodynamic parameters , disease prognosis , and relevant adverse outcomes .
+the estimated c - indices for the model with mpap alone , and with mpap and the protein measurements , were 0.69 and 0.82 , respectively .
+this study adds to the growing body of literature indicating that inflammation is important in pediatric ph and that circulating ( blood ) biomarkers can be important tools in prediction and prognostic evaluation of pediatric patients with ph .

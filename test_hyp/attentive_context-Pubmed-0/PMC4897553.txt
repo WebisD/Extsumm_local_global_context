@@ -1,0 +1,4 @@
+the aim of this study was to assess predictors of survival rate in hiv patients treated with haart .
+significant predictors of mortality were who clinical stage ( hr = 2.99 at 95% ci ( 1.26 , 5.31 ) ) , anemia ( hr = 5.54 at 95% ci ( 2.58 , 11.86 ) ) , and having past tb coinfection ( hr = 4.13 at 95% ci ( 1.79 , 9.51 ) ) ( table 2 ) .
+the majority of deaths occurred the first three months of the treatment ( log rank test , p < 0.001 ) ( figures 1 , 2 , and 3 ) .
+two hundred twenty three ( 53.6% ) of patients were placed on 3tc - tdf - efv regimen , 11% of patients had been treated for tb in the past prior to this study , and 96.9% of the patients were not given opportunistic infection prophylaxis . regarding substance use , 29% ( 119 ) , 21.4% ( 88 ) , 8.3% ( 34 ) , and 33% ( 137 ) had been using alcohol , tobacco , hard drug , and soft drug , respectively ( table 1 ) .

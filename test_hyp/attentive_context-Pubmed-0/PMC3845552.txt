@@ -1,0 +1,7 @@
+demonstration of effective and mechanism - driven rapalog - based combination regimens in patients should be a key effort in this direction .
+one successful example is the combination of rad001 and exemestane for the treatment of advanced hormone receptor  positive , her2-negative breast cancer in postmenopausal women .
+this category of cancer is expected to be  addicted  to the mtor axis for survival and growth , hence increasing susceptibility to mtor - targeted therapy .
+recently investigated the genetic basis of remission of a patient with metastatic bladder cancer treated with rad001 using whole - genome sequencing .
+however , the clinical data to confirm these preclinical findings are largely lacking , although a clinical study has shown that patients with pik3ca mutations responded better than those without the mutation to treatment regimens with a pi3k / akt / mtor inhibitor .
+moreover , preclinical data regarding the impact of pten mutation or loss on cancer cell response to mtor inhibition are not consistent and need further clarification or validation , particularly in the clinic .
+these efforts represent the first step toward personalized mtor - directed cancer medicine . considering the limited single - agent activity of rapalogs in the majority of cancers , development of rapalog - based combination regimens

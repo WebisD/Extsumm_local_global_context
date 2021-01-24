@@ -1,0 +1,7 @@
+we aim to summarize here the structural and functional aspects of the cell wall in fungal pathogens .
+we highlight recent findings that indicate the relevance of the cell wall in the interaction with the host immune cells and how this process is essential to prime and develop a protective immune response ( romani , 2004 ) and contributes significantly to the control and pathology of the infection ( casadevall and pirofski , 1999 ; casadevall and pirofski , 2001 ) .
+the identification of novel therapeutic approaches to fight against disease is therefore of primary importance in basic research .
+although both mannans and glucans can induce proinflamatory signals , the parallel stimulation of the mannan and glucan recognition pathways has a synergistic effect on the amplification of the immune response .
+, it is involved in adhesion , colonization , signaling and immune recognition , and therefore plays a major role during infection .
+although the surface structures being recognized by the host cells are beginning to be determined precisely , much more work is needed to understand the interaction of fungal pamps with their receptors on the host cell membrane .
+recognition of the different morphologies associated with fungi promises to be an attractive area for future research as they are important evasion mechanisms . in this sense

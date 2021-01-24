@@ -1,0 +1,7 @@
+to draw on both the speed of computational methods and the quality of rna probing experiments , we developed fragseq (  fragmentation sequencing  ) , a method that uses a nuclease specific for single stranded rna on a complex rna mixture followed by high - throughput sequencing and bioinformatic analysis to deduce cut sites ( phosphate backbone scissions ) .
+we apply fragseq to naked rnas from the mouse nuclear transcriptome and deduce structure data for known and novel ncrnas .
+this analysis provides an  rna accessibility profile ,  akin to dnase hypersensitivity assays on chromatin .
+fragseq , combined with methods developed in previous rna - seq studies , enables researchers to take high - throughput transcriptome analysis beyond one - dimensional sequence to reveal structural features of rnas and provide clues to their underlying biology .
+we chose nuclear rna from undifferentiated mouse embryonic stem cells ( undiff ) or cells differentiated into neural precursors ( d5np ) to assess whether our method gave reproducible results for rnas present in both samples .
+in contrast , computational structure prediction methods allow rapid , large - scale analyses of many rna sequences .
+the parallel pnk treatment where these latter products were converted to clonable rnas showed how sequencing multiple treatments yields insights into naturally labile sites . in parallel with this manuscript , a similar technique for high - throughput rna structure probing

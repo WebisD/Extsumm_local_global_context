@@ -1,0 +1,7 @@
+moreover , we have shown that schwartz 's reagent is compatible with the phosphoramidate moiety and can be used for n - deacetylation reaction in the later stages of the synthesis of this class of nucleoside monophosphate prodrugs .
+lastly , we have proved that modification of the reported procedure 
+
+
+  involving in situ generation of schwartz 's reagent leads to yield improvement and is promising of similar results on other nucleoside substrates .
+herein , we would like to report our efforts directed at deacetylation of n - acetyl purine and pyrimidine nucleoside analogues bearing a variety of protecting groups ( pgs ) at the hydroxyl moiety , commonly used in nucleoside chemistry , such as o - acetyl , o - tert - butyloxycarbonyl , o - tert - butyldimethylsilyl , o - tetrahydropyranyl , o - benzoyl , and o - isopropylidene groups , with the aim of evaluating the ability of reagent 1 to selectively remove the acetyl group from the amino moiety , leaving the other pgs untouched .
+in conclusion , we have demonstrated that the general and mild method for the deacetylation of n - acetyl group developed by bhat et  al . can be successfully applied to purine and pyrimidine nucleosides , with diverse o - protection .

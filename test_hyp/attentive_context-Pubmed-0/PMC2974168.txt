@@ -1,0 +1,6 @@
+possible post transcriptional role of poly - adenylation in dmrt7 expression regulation was previously proposed 30 . because transcriptional regulation of the gene dmrt7 during spermatogenesis is an important process , in this study , we have explored promoter function of the gene and found that nuclear factor - y ( nf - y ) regulates transcription of mouse dmrt7 gene through binding to two conserved ccaat boxes in its proximal promoter region .
+these results provide evidence of the regulatory mechanisms that control the expression in testis of the mouse dmrt7 gene and will form the basis for understanding mammalian spermatogenesis .
+deletion and site - directed mutagenesis were used to identify regions of the promoter that are required for transcriptional activity .
+emsa and chip analysis was employed to determine the binding relationship between transcription factor nf - y and the dmrt7 promoter .
+the transcription factor nf - y may activate the mouse dmrt7 gene and play an important role in the regulation of dmrt7 expression in testis .
+finally , our study showed that nf - y up - regulated the expression of dmrt7 by binding to two tandem ccaat - boxes in the proximal promoter region of the gene .

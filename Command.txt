@@ -1,0 +1,1 @@
+python test.py --train_input ../pubmed/inputs/train --train_label ../pubmed/labels/train --test_input ../pubmed2/inputs --test_label ../pubmed2/labels --refpath ../pubmed2/human-abstracts --gloveDir ../Glove --length_limit 200 --dataset Pubmed --model attentive_context --model_path pretrained_models/Pubmed/attentive_context

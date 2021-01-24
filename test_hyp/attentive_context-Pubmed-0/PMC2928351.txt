@@ -1,0 +1,5 @@
+< 6.5 vs. 6.5% , the hr for cardiovascular mortality was 0.16 ( 95% ci 0.100.27 ) and 0.23 ( 0.170.32 ) and for coronary heart disease incidence was 0.34 ( 0.250.45 ) and 0.44 ( 0.360.53 ) , respectively . for the cutoff points < 6.5 , 6.57.5 , and > 7.5% ,
+for example , the adjusted hr for 10-year coronary heart disease incidence and cardiovascular mortality was 0.53 ( 95% ci 0.420.67 ) and 0.30 ( 0.200.44 ) and 0.24 ( 0.170.34 ) and 0.23 ( 0.120.44 ) in men and women , respectively .
+the hr for cardiovascular mortality was 0.16 ( 0.100.27 ) , 0.22 ( 0.140.36 ) , and 0.24 ( 0.160.35 ) and for coronary heart disease incidence was 0.34 ( 0.250.45 ) , 0.37 ( 0.280.50 ) , and 0.48 ( 0.380.60 ) , respectively .
+other cutoff points of a1c ( < 6.5 vs. 6.5% and < 6.5 , 6.57.5 , and > 7.5% ) showed similar hrs for cardiovascular mortality and coronary heart disease incidence . at the cutoff point
+adjusted hr of 10-year end points for type 2 diabetes patients by baseline tertiles of duration , glycemic control , and therapy compared with nondiabetic first acute myocardial infarction survivors data are hr ( 95% ci ) .

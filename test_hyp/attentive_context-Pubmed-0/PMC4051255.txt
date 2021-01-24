@@ -1,0 +1,21 @@
+we also employ the nudged - elastic 
+ band ( neb ) technique to case study anomalies of molecular transition through 
+ ultranarrow pores .
+in addition to the use of molecular dynamics simulation and experimental 
+ methods for calculation of molecular diffusion , we analyze the free 
+ energy landscape of the system based on the computational method of 
+ sarkisov to provide more insights into structural 
+ heterogeneity and internal constrictions in the sic - dc carbon , which 
+ have rate limiting effects on gas diffusion .
+we 
+ have investigated the heterogeneity of the energy landscape 
+ of the amorphous structure of microporous silicon carbide derived 
+ carbon using a representative atomistic hrmc model of the sic - dc . 
+ the limiting free energy barrier , the percolating free energy threshold , 
+ henry constant , and differential heat of adsorption of water , carbon 
+ dioxide , methane , and argon have been determined in the limit of infinite 
+ dilution using analysis of free energy landscape .
+anisotropic diffusion of ch4 and co2 is found , and considered to be related 
+ to structural heterogeneity and pore size distribution of sic - dc , 
+ arising from unidimensional motion of the reaction interface during 
+ chlorination of the sic precursor .

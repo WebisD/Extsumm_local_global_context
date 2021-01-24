@@ -1,0 +1,8 @@
+strains carrying proa - tev - rpt1 were grown in 6 l of sd medium to od600 0.8 to 1.2 .
+bp1 was then released from the resin by incubating with actev protease ( invitrogen ) at 2.5 unit / l culture in proteasome buffer containing 2 mm atp and protease inhibitors for 1 hr at 30c .
+frozen yeast samples were then ground using an mm301 grinding mill ( restch ) under liquid nitrogen following manufacturer s instructions , or using a mortar and a pestle as previously described24 .
+cells were harvested , washed once with ice - cold water and drop - frozen in liquid nitrogen .
+bp1 was then released from the resin by incubating with actev protease ( invitrogen ) at 2.5 unit / l culture in proteasome buffer containing 2 mm atp and protease inhibitors for 1 hr at 30c .
+resins were collected at 900  g for 2 min at 4c and washed with proteasome buffer containing 50 mm nacl three times , followed by a final wash with proteasome buffer alone .
+eluates were concentrated using ultrafree-0.5 centrifugal filter device with 30 kda nmwl ( millipore ) .
+cell extracts were cleared at 30,000  g for 30 min at 4c , and the supernatants were mixed with rabbit igg resin ( cappel , mp biomedicals ) for 90 min at 4c .

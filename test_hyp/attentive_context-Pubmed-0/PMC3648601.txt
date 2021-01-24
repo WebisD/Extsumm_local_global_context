@@ -1,0 +1,8 @@
+for the in vivo hepatotoxicity study , one group of mice was sacrificed on day 3 following the injection of the toxin - bound nanosponges and another group was sacrificed on day 7 .
+the in vivo detoxification efficacy was tested through intravenous injection of nanosponges before or after administration of a lethal dose of -toxin to icr mice , followed by monitoring the survival rate of the mice .
+the toxin nanosponges were prepared by fusing rbc membrane vesicles on preformed poly(lactic - co - glycolic acid ) ( plga ) nanoparticles through an established extrusion process .
+the in vivo toxin neutralization ability of the nanosponges was tested through subcutaneous injection of the nanosponge / toxin mixture to the flank region of nude mice , followed by histological analyses .
+the morphology of the nanosponges after absorbing toxins was measured by transmission electron microscopy ( tem ) . for preparation of human rbc nanosponges ,
+the mice were imaged 3 days later for visualization of skin lesion formation ( fig s11 ) .
+a summary of methods is provided below and a detailed description of methods is included in the supplementary information .
+the interaction of the nanosponges with cells was examined by a scanning fluorescence microscopy by incubating fluorescent nanosponges and rbc membrane vesicles with human umbilical vein endothelial cells ( huvec ) .

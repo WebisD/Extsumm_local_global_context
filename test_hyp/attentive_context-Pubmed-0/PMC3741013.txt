@@ -1,0 +1,6 @@
+dose counters provide the only accurate and practical method of ascertaining the remaining number of effective doses in an mdi . by ensuring that patients do not use a rescue mdi beyond the recommended number of actuations and that they are receiving the appropriate metered dose of asthma medication
+, dose counters can improve asthma management and potentially decrease asthma - related morbidity and mortality , and improve patients quality of life .
+ and significantly  overestimate ( or less commonly , underestimate ) the remaining amount of active asthma rescue medication in mdis without dose counters , that the techniques used to  guesstimate  whether a recue mdi is effectively empty are unreliable , and how having a rescue mdi with an integrated dose counter mechanism can improve the health and quality of life of patients with asthma .
+accurately assessing the doses in an mdi is critically important for bronchodilating medications used for  rescue  from acute asthma symptoms .
+although there have been relatively few studies conducted to assess the use of mdis , they consistently show patients frequently overestimate the amount of active asthma rescue medication in mdis without dose counters .
+for these reasons , integrated dose counting mechanisms should be required on mdis that deliver asthma rescue medication .

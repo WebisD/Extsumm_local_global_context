@@ -1,0 +1,7 @@
+independent of particular organisms or genomic regions , we will use coalescent theory ( kingman 1982 ) to generate the type of reticulate networks that result from the evolutionary process .
+specifically , we will quantify the different classes of networks ( regular , tree sibling , tree child , and galled trees ) produced by the coalescent as a function of the population recombination rate .
+obviously , it is very important to characterize the size of this perceived gap between the algorithms and the biology , and this is precisely our goal . in order to provide a formal statistical description of this disagreement ,
+the coalescent describes the probabilities of the different genealogies for a sample of genes generally but not necessarily from the same population , and it was further extended by hudson ( 1983 ) to include recombination events .
+very few studies have tried to assess the performance of the algorithms used to reconstruct phylogenetic networks ( cassens et al .
+in the absence of recombination , all the simulated genealogies were binary trees , as expected .
+note that the coalescent with recombination results , going backward in time , in nonreciprocal exchanges of genetic material as only one of the two recombinants inherits ancestral material and will be therefore represented in the network .

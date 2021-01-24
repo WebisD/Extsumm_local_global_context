@@ -1,0 +1,5 @@
+, we found that the lag screw placements of p regions ( p , p - i , and p - s ) and i regions ( a - i , i , and p - i ) of the femoral head increased the failure risk of the trabecular bone .
+the bone density and the location of the lag screw at the femoral head are fundamental factors for the cut - out risk . in addition
+all in all , we can supposedly say that the density distribution of the trabecular bone is a more efficient factor compared to the positions of the lag screw in the cut - out risk .
+the aim of the fea study was to assess how the different positions of the lag screw and fracture types can influence the risk of cut - out systematically .
+therefore , the implant selection and position in the femoral head are of paramount importance for different iff types in terms of the cut - out of the lag screw and implant failure . in this study , the effects of three factors ( lag screw positions , fracture types , and tad ) in the cut - out risk were evaluated using finite element analysis ( fea ) in a patient - specific femur .

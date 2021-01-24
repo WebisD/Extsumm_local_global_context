@@ -1,0 +1,7 @@
+in the present study , we showed for the first time that , among healthy , nondiabetic individuals , both nf-b activity in pbmcs and jnk1/2 activity in subcutaneous adipose tissue were important determinants of insulin resistance and explained 16 and 29% , respectively , of its variance after adjustment for appropriate covariates .
+jnk1/2 activity in pbmcs was not related to jnk1/2 activity in skeletal muscle ( r = 0.14 , p = 0.6 ) or subcutaneous adipose tissue ( r = 0.34 , p = 0.2 ) .
+nf-b activity in pbmcs was positively associated with nf-b activity in the skeletal muscle ( r = 0.68 , p = 0.0004 ) but not in adipose tissue ( r = 0.17 , p = 0.4 ) .
+nf-b activity in skeletal muscle and adipose tissue were not associated with insulin sensitivity ( both p > 0.1 ) .
+moreover , nf-b activity in both pbmcs and skeletal muscle was also associated with central obesity .
+moreover , we show that jnk1/2 activity in adipose tissue but not nf-b activity in pbmc is an independent determinant of insulin resistance in this population .
+third , standard imaging methods such as computed tomography or magnetic resonance imaging would have provided a better assessment of central adiposity than waist circumference . in conclusion , we have demonstrated that elevated nf-b activity in pbmcs and jnk1/2 activity in subcutaneous adipose tissue are both important determinants of insulin resistance in a healthy nondiabetic population .

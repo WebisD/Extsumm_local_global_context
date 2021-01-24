@@ -1,0 +1,27 @@
+in 
+ conclusion , acylated cyclic polyarginine peptides were synthesized 
+ and examined as cpps and potential molecular transporters .
+phosphopeptide ptyr - glu - glu - ile ( pyeei ) 
+ is an optimal peptide ligand for binding to the src tyrosine kinase 
+ sh2 domain . in this study , we used negatively charged fluorescein - labeled 
+ phosphopeptide f-gpyeei as a model cell - impermeable compound .
+acpps showed 
+ higher potency as molecular transporter compared to the corresponding 
+ linear counterpart and cyclic polyarginine without fatty acid .
+the 
+ mechanism of the peptide internalization was found to be energy - dependent 
+ endocytosis .
+we hypothesize that the combination of acylation 
+ and cyclization of short polyarginine peptides having less than six 
+ arginine residues will increase the intracellular uptake and can generate 
+ peptides with molecular transporter properties . for convenience , square 
+ brackets   and parentheses ( )
+cyclization and acylation reactions on the structure 
+ of the peptide enhanced the intracellular uptake of polyarginine peptides 
+ although they carry a short length of sequence .
+this is the first 
+ report of cyclic fatty acylated polyarginine peptide as molecular 
+ transporter of a cell - impermeable phosphopeptide .
+this differential behavior of the peptides in normal , 
+ and cancer cells can be possibly rationalized through the interaction 
+ between polyarginine peptides and cell membranes .

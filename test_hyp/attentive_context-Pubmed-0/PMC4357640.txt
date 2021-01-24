@@ -1,0 +1,10 @@
+micro - raman spectra show high- and low - frequency e 
+ 2 modes indicating the hexagonal wurtzite structure of zno in the films .
+afm image of undoped zno film presents uniform distribution of densely packed well - defined grains of more or less uniform size with well - defined grain boundaries .
+the photoluminescence spectra show both nbe and deep level emissions and the intensity of the peaks decreases with eu2o3 doping concentration .
+all the films exhibit very good transparency in the visible region with a sharp cut - off around 380 nm .
+the appearance of interference fringes in the transmittance and reflectance spectra indicates good optical quality of the films .
+the structural , morphological , optical , and luminescent properties of the films are investigated .
+xrd analysis reveals the formation of nanostructured films exhibiting hexagonal wurtzite structure with ( 002 ) orientation .
+eu2o3 doped zno films are deposited on quartz substrate with various doping concentrations using rf magnetron sputtering .
+xrd and raman results suggest the presence of tensile stress and formation of defects in the films . zn interstitial ( zni ) and oxygen vacancy ( vo ) are the main donor defects while zn vacancy ( vzn ) and oxygen interstitial ( oi ) are the main acceptor defects in intrinsic zno ( 60 ) . from the calculation using full - potential linear muffin - tin

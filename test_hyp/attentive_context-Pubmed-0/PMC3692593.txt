@@ -1,0 +1,6 @@
+our second goal was to test for association of the gene - based fine - mapping snps with t2d and aod in order to identify genes related to t2d in aas .
+we propose that each haplotype harbors a distinct causal variant , despite sharing associations with the same risk alleles , demonstrating the complexity of disease associations .
+second , in every region including chromosome 18 , two or more potential susceptibility genes were identified through the association with t2d and aod of fine - mapping snps residing in those genes .
+other analyses inferred pleiotropy with triglyceride in the chromosome 2p region and pleiotropy with obesity in the chromosome 13 region . herein we present linkage and association analyses on the aa subset of the gennid sample using genotypes on 9,203 fine - mapping snps added to the genome scan snps used previously .
+the fine - mapping of five chromosomal regions allowed us not only to confirm our genome scan linkages , but also to infer the presence of multiple t2d susceptibility genes in each of the regions .
+our first goal was to more precisely localize the t2d susceptibility genes in each of the five chromosomal regions identified in the genome scan ( chromosome 2 at 6895 and 95121 mb , chromosome 7 at 5079 mb , chromosome 13 at 1930 mb , and chromosome 18 at 3165 mb ) .

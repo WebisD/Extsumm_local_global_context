@@ -1,0 +1,7 @@
+overall , in the present study we revealed new mechanism of 7 , 8 , 3-trihydroxyflavone as a pro - neuronal small molecule in promoting neuronal growth and protecting against bupivacaine - induced neurotoxicity in spinal cord drg neurons .
+, we used an explant model to culture neonatal mouse drg neurons in vitro to mimic the biological conditions of young spinal cord sensory neurons .
+we first investigated the pro - neuronal effect of thf on the growth of neonatal drg neurons by examining its effect on drg neuron neurite outgrowth .
+in the present study we discovered that , 7 , 8 , 3-trihydr - oxyflavone , a potent trkb agonist small molecule , had a profound pro - neuronal effect on neuronal growth , as well as protecting against local anesthetic - induced neurotoxicity in spinal cord drg neurons .
+the results of our study may further our understanding on the possible pro - neuronal mechanisms of small - molecule trkb agonists in spinal cord sensory neurons .
+the associated signaling pathway of thf in drg neurons is very likely through trkb activation .
+thus , our data suggest that thf pre - treatment was also effective in protecting bupivacaine - induced neurite retraction in drg neurons , very likely through activation of the trkb signaling pathway .

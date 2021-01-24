@@ -1,0 +1,27 @@
+a new method for the in situ study of battery materials that allows 
+ for the visualization of concentration gradients formed in electrodes 
+ during discharge is introduced . a significant difference in the performance 
+ of the material dependent on whether it is near the bulk electrolyte 
+ or current collector is observed . at higher rates of discharge ( > 10 
+ c ) the electrode material near the current collector changes at a 
+ much slower rate compared with the material close to the bulk electrolyte 
+ in cells containing a high concentration of lithium ion vacancies . 
+
+it is believed that this effect is the major limitation in the rate 
+ performance of electrodes in conventionally prepared batteries . in parallel
+we observed a significant breakdown in crystallinity 
+ of the lifepo4 during the electrochemical measurements . 
+
+nevertheless , 
+ modern synthesis techniques such as sol  gel and hydrothermal 
+ routes mean that synthesis of materials on the nanometre scale is 
+ routinely achieved which means that commonly the rate limiting step 
+ in the discharge of the battery material even with intrinsically poor 
+ electronic and ionic conductivities is the li ion transport through 
+ the electrolyte .
+it was shown that the breakdown is far more significant when the battery 
+ is cycled at a range of different rates rather than for the same number 
+ of cycles at either a high or low rate . ideally , to obtain the 
+ maximum rate out of a battery material of 
+ a given particle size and ionic and electronic conductivity we need 
+ an electrolyte that can supply the ions at high rates . in some cases 

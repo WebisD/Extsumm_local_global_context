@@ -1,0 +1,4 @@
+assuming  3 gy for urethra and rectum , eqd2 of the dose delivered by the boost to oars significantly decreased from g1 to g3 for both urethra ( d10u : 52 , 47 , and 46 gy for g1 , g2 , and g3 , respectively ; p < 0.001 ) and rectum ( d2r : 28 , 27 , and 26 gy for g1 , g2 , and g3 , respectively ; p < 0.001 ) ( table 2 ) . 
+ 
+d90 for g3 ( 105% ) was significantly decreased compared to the d90 calculated for g1 ( 114% ) , and g2 ( 111% ) ( p < 0.001 ) as well as v100 ( 97 , 96 , and 95% for g1 , g2 , and g3 , respectively ; p = 0.013 ) , while v150 and v200 significantly decreased from g1 to g3 ( v150 : 45 , 36 , and 27% for g1 , g2 , and g3 , respectively ; p < 0.001 and v200 : 16 , 12 , and 9 for g1 , g2 , and g3 , respectively p < 0.001 ) .
+dose homogeneity index ( dhi ) for g3 ( 69% ) was significantly better compared to dhi noticed for g1 ( 54% ) and g2 ( 61% ) ( p < 0.001 ) . for oars ( urethra and rectum ) ,

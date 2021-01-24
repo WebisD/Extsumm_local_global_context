@@ -1,0 +1,24 @@
+in 
+ summary , we have elucidated the effect of linking hydrophobic 
+ organic cores to the 3- and 5- ends of the dna components 
+ used in the assembly of smdh2 materials .
+herein , we present a 
+ detailed computational study , supported by 
+ experimental results , which suggests that both the hydrophobic nature 
+ and the flexibility of the organic core play very important roles 
+ in the self - assembly of smdh2s into cyclic dimers and higher - order 
+ nanostructures . while duplex alignment may be important , the interactions 
+ between the cores and the dna duplexes to minimize their sasa comprise 
+ a dominant force that can not be ignored , especially when there is 
+ restricted flexibility . indeed for cyclic dimers involving core 3 , when the cores are attached to the 3-ends of the 
+ dna component strands , they prefer to insert into the minor groove 
+ of the dna duplexes in the product dimers to minimize their sasa . 
+
+computational 
+ results indicate a high correlation between the linkage type ( 3 
+ or 5 ) and the final sasa of organic cores that can be attributed 
+ to the extent that the cores can insert into the dna minor grooves 
+ in the duplex arms of the resulting smdh2 . while 3-linked 
+ organic cores can insert almost perfectly into the minor groove , 5-linked 
+ cores can only insert partially , resulting in less - stable dimers ( i.e. , 
+ with higher sasa ) .

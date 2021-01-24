@@ -1,0 +1,5 @@
+we report some preliminary results on systematic trends of average crystal structure parameters and carbonate content in bulk human dental apatite as a function of age by using powder x - ray diffraction ( xrd ) , thermogravimetric analysis ( tga ) , and ftir spectroscopy .
+consistent , systematic variations of average crystal structure properties of human dental apatite as a function of age were found in this study from xrd , tga , and ftir spectroscopy experiments .
+the decrease of the a - lattice constant versus age in dental apatite that is associated with increased carbonate content is related to increasing solubility which in turn results in a decrease of crystallinity and disturbance of the local lattice order of the biomineral .
+ftir spectra also show an increase of the b and a - type carbonate contents as a function of the age of the dental mineral phase with the b - type substitution up to 5 times greater than the a - type .
+the approximately age - independent c - lattice parameter implies that the phosphate tetrahedron remains the main site of the carbonate substitution in the apatite lattice ( b - type substitution ) in the studied age - range .

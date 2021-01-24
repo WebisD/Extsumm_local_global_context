@@ -1,0 +1,6 @@
+the present study investigated the expression of selected immunological lineage - specific markers and selected vesicle - related markers on five major leukocyte subpopulations , namely , cd4 t cells , cd8 t cells , nk cells , b cells , and monocytes .
+the expression was determined for leukocytes present in freshly isolated whole blood and on cultured isolated leukocyte subpopulations and compared to the presentation of these markers on the corresponding leukocyte - derived evs .
+a tightly regulated sampling of molecules to evs would match with the fact that evs play an important role as systemic regulators , traveling through tissues providing key intercellular communication as well as transfer of biologically active components .
+the phenotype of five different subsets of leukocyte - derived sevs was determined and related to both the phenotype of sevs present in plasma and the cellular phenotype of the leukocyte subpopulations .
+the results underline the importance of detecting evs with a cocktail of antibodies against tetraspanins , as detection with a single marker may overlook some subsets of evs .
+the ev array , used for the investigation of the phenotype of sevs , is a protein microarray technique that provides the opportunity to detect and characterize sevs for up to 60 markers in a high - throughput manner and with high sensitivity   .

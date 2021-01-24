@@ -1,0 +1,6 @@
+detecting functional signatures directly from primary information is a challenging task . the mining process is tedious especially when the users have no prior knowledge about the query protein that can be used to judge how the mining results are .
+magiic - pro quickly guides the biologists directly to the most highly conserved regions , and after that the users can extend the derived patterns by using the advanced parameters to refine the mining results .
+after that , we will show by experiments that magiic - pro is efficient and effective in identifying functional sites and predicting hot regions in protein  protein interactions .
+magiic - pro provides many useful tools for examining and visualizing the derived patterns , which will be described in detail later .
+the derived patterns are useful in prediction of protein functions and structures , protein  ligand interactions , and protein - protein interactions .
+different from the previous works , our approach considers two types of gaps to improve the mining efficiency , where the gaps within a conserved region are called an intra - block gap and the gaps in between two adjacent conserved regions are called inter - block gaps ( 16 ) . using two types of gap constraints for different purposes improves the efficiency of mining process while keeping high accuracy of mining results .

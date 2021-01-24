@@ -1,0 +1,6 @@
+molecular and morphological evidence together support the idea that the anterior end of the amphioxus nerve cord contains regions homologous with vertebrate forebrain and hindbrain 1,2 , though it is generally the ventral portion of these regions that are best represented 3 .
+then , to generate the vertebrate condition ( c , right side ) , with mouth and brain on opposing sides of the body , one needs to move the mouth over the front or side of the snout by differential growth of an expansion zone ( ez ) located somewhere forward of the brain .
+any attempt to identify an amphioxus homolog of the vertebrate midbrain is hampered by the fact that we currently lack unambiguous criteria for recognizing its presence .
+in fact , except for a pineal homolog , amphioxus appears to lack all of the dorsal structures of the vertebrate brain .
+its most probable position , as defined by gene expression patterns , would be from somewhere forward of the caudal limit of otx expression , which in vertebrates extends through the midbrain , to a point close to the beginning of the zone of hox gene expression .
+the quintessential identifying feature in vertebrates is the dorsal optic tectum , but this is absent in amphioxus .

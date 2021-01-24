@@ -1,0 +1,10 @@
+associations ( mixedmodels analyses ) between age at baseline and ethnicity and heart rate and heart rate variability trajectories by sex 
+ table  s3b . estimated agespecific 10year rates of change ( 95% cis ) in heart rate and heart rate variability trajectories by ethnicity 
+ table  s4a
+crosssectionally , average levels of hrv were lower for men than for women , for participants with cardiometabolic condition , and for participants reporting the use of prescribed medications other than beta blockers .
+ageadjusted heart rate and heart rate variability means ( 95% ci ) at baseline and 5 and 10year followup by sex whitehall ii study participants with assessment of hr and hrv at each phase over the 10year followup .
+. associations ( mixedmodels analyses ) between age at baseline and habitual physical activity and heart rate and heart rate variability trajectories by sex 
+ table  s4b . estimated agespecific 10year rates of change ( 95% cis ) in heart rate and heart rate variability trajectories by habitual physical activity click here for additional data file .
+associations ( mixedmodels analyses ) between age at baseline and civil service employment grade and heart rate and heart rate variability trajectories by sex 
+ table  s2b . estimated agespecific 10year rates of change ( 95% cis ) in heart rate and heart rate variability trajectories by civil service employment grade 
+ table  s3a .

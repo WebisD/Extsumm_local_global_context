@@ -1,0 +1,21 @@
+to summarize , sxrd data 
+ have been acquired from -cr2o3(0001 ) 
+ as a function of h2o partial 
+ pressure . in uhv , after exposure to 2000 l of h2o , the surface is terminated by a partially occupied double layer 
+ of chromium atoms ; the lack of adsorbed oh / h2o is concluded 
+ to be most likely a result of either adsorption only at defects , or 
+ x - ray induced desorption .
+this surface geometry is largely consistent 
+ with those determined in recent leed - iv and sxrd studies of clean -cr2o3(0001 ) in uhv , although there are differences 
+ in the values of atomic coordinates and fractional layer occupancies . 
+ at  30 mbar of h2o
+, which predict that surface termination evolves 
+ as a function of h2o partial pressure at around room temperature 
+ as cr  o3cr  ( oh)2cr  o3  ( h2o(oh)2)cr  o3. one possible explanation 
+ for this discrepancy between theory and experiment is that the calculations 
+ do not explicitly take into account multiple layers of interfacial 
+ h2o , which is the expected sxrd measurement environment , 
+ as the relative humidity is 100% .
+this work builds 
+ on a previous sxrd study examining the impact of o2 on 
+ the surface structure of -cr2o3(0001 ) .

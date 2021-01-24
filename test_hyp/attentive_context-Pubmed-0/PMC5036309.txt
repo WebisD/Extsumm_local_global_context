@@ -1,0 +1,6 @@
+our study also implies that quiet time currents above the ionosphere produce a negative depression of the surface equatorial magnetic field of at least 15  nt even during solar minimum and as much as 30  nt during solar maximum .
+we have shown that the average value of the kyoto dst index should be approximately 13  nt more negative for the active year 2003 compared to quiet years 2006 and 2009 and that discontinuities in the kyoto dst index at the end of each year have an average value of about 5  nt but may be as large as 20  nt .
+this implies that the kyoto dst index underestimates the solar cycle variation of currents above the ionosphere that affect the surface equatorial magnetic field .
+we have now extended the model to years 19952009 using omni solar wind data ( instead of using solely wind and ace satellite data ) , added effects based on the f 
+ 10.7 index and effects using all three components of the solar wind velocity instead of just the vx component .
+the three coefficients in each quadratic expression are found by minimizing the rms difference between the model and kyoto dst index .

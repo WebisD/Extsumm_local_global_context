@@ -1,0 +1,6 @@
+we report that il-6 triggers activation of pi3-k / akt signaling in 7td1 cells , and that il-6-induced pi 3-k / akt activation is essential for the optimal growth of 7td1 cells .
+il-6 inhibits physiological cell death and allows expansion of populations of serum - stimulated cells .
+still , whether pi 3-k / akt plays the same role in il-6-dependent growth of 7td1 mouse - mouse b cell hybridoma is not known . in our previous work , we showed that erk cascade but not stat3 contributed to il-6-dependent growth of 7td1 cells . here
+the binding of il-6 to its receptor induces the activation of multiple signal transduction pathways such as jak / stats ( janus tyrosine kinase / signal transducers and activators of transcription ) pathway , ras / erk ( extracellular signal - regulated kinase ) pathway , and pi 3-k ( phosphotidylinositol 3-kinase)/akt pathway via gp130 tyrosine phosphorylation .
+how il-6 can promote the growth of 7td1 cells remains elusive . in our previous work , we showed that erk cascade but not stat3 contributed to il-6-dependent growth of 7td1 cells .
+, our data suggest that il-6 promotes the growth of 7td1 cells via activation of multiple signal transduction pathways including erk cascade and pi 3-k / akt pathway .

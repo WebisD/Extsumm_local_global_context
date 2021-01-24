@@ -1,0 +1,6 @@
+retinal macrophages have been recognized to have a role in amd , but their precise role ( whether protective , damaging , or incidental ) remains controversial . using our amd mouse model , we observed significant macrophage retinal infiltration that temporally preceded the onset of overt retinal pathology , suggesting a causative role for macrophages in retinal degeneration .
+we also provide experimental demonstration for the idea that regulation of immune responses ( in this case , inhibition of macrophage recruitment ) can be a target of therapy to prevent the development of amd .
+such an understanding raises the possibility of exploring immune - modulating therapy for the treatment or prevention of retinal degeneration , especially in patients exhibiting early signs of disease .
+since amd is an age - related disease , defining the progression of inflammatory cell recruitment and development of amd - like lesions at earlier stages of the disease is essential in order to map the character and timing of immune mechanisms that take place in our model and correlate with development of pathology .
+current understanding of amd recognizes oxidative stress and chronic retinal inflammation as possible causative factors .
+this work uncovers an important and detrimental role for macrophages in the development of amd .

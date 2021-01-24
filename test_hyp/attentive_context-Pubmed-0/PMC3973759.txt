@@ -1,0 +1,7 @@
+the purposes of the present study were to develop a surgical procedure for ha in mice and to assess the effectiveness of this procedure for improving fdg - pet .
+our study demonstrates that ha in mice is a simple and effective method which enables accurate measurement of fdg uptake in the frontal brain region .
+when performed prior to pet scanning of mice brains , ha may be useful for visualizing the frontal lobe with 18f - fdg micro pet / ct imaging .
+we found that the level of fdg uptake stabilized starting 10 days after the surgery and was maintained for the remainder of the study .
+our results support a previous finding that fdg uptake by the harderian gland results in a slight over - estimation of fdg uptake in the frontal lobe of rats .
+the acquired pet emission data were reconstructed using a fourier re - binning algorithm with three span and 31 ring difference , and ordered subsets expectation maximization 2d algorithm with 16 subsets and four iterations . in order to improve the anatomical localization of fdg uptake in the brain , computed tomography ( ct )
+the reduction in fdg uptake was approximately 55% , and the left and right harderian glands both showed similar levels of reduction .

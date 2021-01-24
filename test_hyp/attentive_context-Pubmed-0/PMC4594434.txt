@@ -1,0 +1,6 @@
+further evidence supporting this model includes a study employing ribosome profiling to examine the translational efficiency of specific mrnas in the presence of an mtorc1 inhibitor , which showed that the translational efficiency of nedd41 mrna is reduced in non - neuronal cells upon mtorc1 inhibition . 
+
+this 5top motif is important for anchoring elf4e to the 5-cap structure of mrnas , to direct the assembly of the translation machinery , and to initiate protein synthesis . the pyrimidine - rich sequence in the 5utr of nedd41 mrna may play a similar role as the 5top motif in initiating the translation of nedd41 mrnas in an mtorc1 activity - dependent manner ( fig .
+moreover , synaptic activation has been shown to cause a site - specific increase in nedd41 expression , which may mediate the ubiquitination and endocytosis of the ampa receptor subunit glua1 . in view of these findings , additional studies ,
+accumulating evidence indicates crucial roles of local protein synthesis in various aspects of normal neuronal development and function , including axon guidance , spine formation , and synaptic plasticity .
+this enables eif4e to be anchored to the 5-cap structure of mrnas , promotes the formation of protein initiation complex , and initiates protein synthesis . of note ,

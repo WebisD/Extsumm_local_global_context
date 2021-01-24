@@ -1,0 +1,27 @@
+for extremely low pumping thresholds , the solutions containing gain 
+ material and silver - enhanced and silica - coated nanostars exhibit spectrally 
+ narrow lasing modes , typical for coherent random lasing .
+additionally , 
+ we reveal that the silica coating nearly does not influence the operation 
+ of the silver - enhanced gold nanostar - based random lasers in terms 
+ of lasing intensity and pumping threshold , in contrast to gold nanostar - based 
+ random lasers , where only ase and no coherent random lasing was observed 
+ for the silica - coated gold nanostars .
+further , 
+ we show that silver - enhancement of the gold nanostars reduces the 
+ pumping threshold for nanostar - based random lasing .
+we attribute this to the plasmon resonances of auagnsts 
+ and auagnsts@sio2 , which spectrally overlap perfectly with 
+ both the absorption and pl emission of the gain materials as well 
+ as the excitation wavelength .
+first , hot - spots 
+ at the tips of the auagnsts and of auagnsts@sio2 can be 
+ resonantly excited by the pumping laser , and hence the gain material 
+ in the vicinity of the tips can be excited with a higher effective 
+ intensity .
+the large scattering cross 
+ sections and easily accessible hot - spots 
+ provided by auagnsts and the simultaneous compatibility of the auagnsts@sio2 with polar and nonpolar solvents render hybrid multilayered 
+ plasmonic nanostars one of the most promising candidates for an effective 
+ photon - management in organic and inorganic optoelectronic devices 
+ as well as for biosensing and analytical applications .

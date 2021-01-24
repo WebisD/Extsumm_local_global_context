@@ -1,0 +1,6 @@
+expression from plasmid pjm512 ( prep41-pil1-gfp ) was induced by growth in the absence of thiamine for 36  hours at 32c . to observe endogenous pil1-mcherry rods ,
+electron microscopy : for thin sectioning , cells carrying plasmid pjm512 ( prep41-pil1-gfp ) or control plasmid pjm211 ( prep41-gfp ) were grown in the absence of thiamine for 36  hours at 32c , and then prepared and imaged as previously described .
+cells expression from plasmid pjm512 was induced by growth in the absence of thiamine for 20  hours at 32c ; filipin ( sigma f9765 ) was added at a final concentration of 5 g / ml to live cells .
+strains in this study were jm837 ( leu132  h- ) , jm1262 ( pil1-mcherry::natr h- ) , jm1293 ( fhn1::kanmx6 ura4-d18 leu132 ade6-m210  h ) and jm1461 ( sle1::kanmx6 ura4-d18 leu132 ade6-m210  h ) .
+for immunolabeling of pil1 bundles , fixations and digestion were the same except for the following changes : initial fixation of 3% pfa/1% gta was used instead of 3% gta/1% pfa .
+four additional 85% etoh/1% ppd rinses over 1  hour were performed , and then pellets were resuspended in a 2:1 mixture of 85% etoh/1% ppd : lr white medium resin .

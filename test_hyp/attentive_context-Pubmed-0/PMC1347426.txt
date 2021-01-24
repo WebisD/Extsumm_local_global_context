@@ -1,0 +1,6 @@
+the prosite database uses two kinds of signatures or descriptors to identify conserved regions , i.e. patterns and generalized profiles , which both have their own strengths and weaknesses defining their area of optimum application .
+each prosite signature is linked to an annotation document where the user can find information on the protein family or domain detected by the signature : origin of its name , taxonomic occurrence , domain architecture , function , 3d structure , main characteristics of the sequence , domain size and some references . as a more detailed description of the prosite database
+has already been provided in previous publications ( 1,2 ) , this paper will only focus on recent developments that have taken place during the last 2 years .
+we thus have developed a new strategy to annotate the msa at these particular sites and to transfer this information to the profile builder program .
+the tool aim is to be more stringent on specific columns and to produce a better local alignment , which then helps to re - localize the functional residues in sequences matched by the profile .
+all these tools were designed to recover very divergent proteins ( < 20% of similarity ) .

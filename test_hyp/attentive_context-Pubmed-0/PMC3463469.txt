@@ -1,0 +1,5 @@
+we present here a study of the primate macaca mulatta genome to identify and characterize insertion sites of the two representative retroelements present , and further , comparison with similar features of the human genome ( excluding the y chromosome ) .
+, we aim to compare the insertion sites across species- a task that will be facilitated as the diversity of sequenced genomes increases further .
+previously , we analyzed several genomes for distribution of mges as well as their insertion sites along with the signals facilitating their insertion . in the present study of alus ( sine ) and l1s ( line ) in the macaca genome we found that the insertion sites had physicochemical characteristics that were similar to those observed in other organisms , suggesting that these are generally important .
+there could be an evolutionary link in primate genomes through the spread of lines and sines ; alternately , there may have been a  master  l1 or retrotransposon copy in the genome of last common ancestor of all primates .
+the only y chromosome that has been completely sequenced is of humans , and sequencing of the chimpanzee and mouse y chromosomes is in progress .

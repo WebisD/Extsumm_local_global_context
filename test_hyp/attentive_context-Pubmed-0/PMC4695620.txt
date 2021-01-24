@@ -1,0 +1,7 @@
+this study was part of a larger study that looked at several outcomes , including diabetes coping behaviors and glycemic control status of t2 dm patients .
+regarding personal and treatment control perception domains , the respondents reported a moderately high perception of both their own ability to control their diabetes and the effectiveness of their diabetes treatment .
+these findings could be used to develop medication adherence promotion approaches , as in the form of psychoeducational interventions .
+regarding illness perceptions , a significant difference in the mean treatment control perception score ( t=2.366 , p=0.018 ) was found between patients who reported low adherence to their diabetes medications ( mean=18.58 , sd=4.51 ) and those who reported moderate - high adherence ( mean=19.54 , sd=4.44 ) .
+the findings from this study showed that males and employed patients were more likely to be low adherers ; therefore , they might represent in - need groups for medication adherence promotion .
+all sociodemographic and disease profile  related factors that displayed associations with medication adherence at p0.25 in the bivariate analysis were entered into the model .
+the final model showed that two illness perceptions contributed significantly to low medication adherence ; these were treatment control perception and illness identity perception .

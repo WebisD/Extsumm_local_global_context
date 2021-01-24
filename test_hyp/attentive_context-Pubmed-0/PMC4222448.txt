@@ -1,0 +1,5 @@
+the aim of this study was to measure cvr by perfusion ct with inhalation of co2 , and to determine whether cvr is a better predictor of stroke than the degree of stenosis of the ica or mca .
+ischemic stroke occurred in 0 of 19 patients in cvr group 1 ( annual risk 0% ) , 7 of 18 patients in cvr group 2 ( annual risk 7.7% ) , 3 of 18 patients in stenosis group 1 ( annual risk 3.3% ) , and 4 of 19 patients in stenosis group 2 ( annual risk 4.7% ) .
+comparisons using pearson s chi - square test showed a significant difference in the rate of ischemic stroke between cvr group 1 and cvr group 2 [ odds ratio ( or ) 1.700 ; 95% confidence interval 1.1422.530 ; p=0.003 ]
+in ischemic stroke patients with > 70% stenosis of the internal carotid artery ( ica ) or middle cerebral artery ( mca ) , the risk of recurrent stroke is high , and stent placement is considered to decrease the risk of further ischemic events .
+eighteen of the 37 patients had 70% stenosis ( stenosis group 1 ) and 19 had < 70% stenosis ( stenosis group 2 ) .

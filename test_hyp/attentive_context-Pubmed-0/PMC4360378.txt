@@ -1,0 +1,25 @@
+herein , we report the identification of multiple chemotypes 
+ (  chemical structural motifs  ) that showed publication - quality 
+ ic50 values in our primary assay but through a series of 
+ orthogonal assays and counter - screens showed thiol - reactive assay 
+ interference and also promiscuous enzymatic inhibition . using sir 
+ and structure  activity relationships ( sar ) from our rtt109 
+ post - hts triage , along with multiple analytical techniques , we provide 
+ evidence supporting several chemical mechanisms of assay interference 
+ relating to thiol reactivity .
+the growing use of high - throughput screening 
+ ( hts ) as a discovery tool in academic translational centers has resulted 
+ in the pursuit of assay artifacts , promiscuous bioactive compounds , 
+ and screening actives with major absorption , distribution , metabolism , 
+ excretion , and toxicological ( admet ) liabilities .
+it is hoped that the identification and detailed characterization 
+ of these thiol - reactive chemotypes can accelerate post - hts triage , 
+ enhance lead identification , and prevent follow - up on unpromising 
+ chemical matter by other researchers .
+we highly recommend 
+ the problematic chemotypes described in this report be pursued as 
+ chemical leads with high levels of skepticism and that investigators 
+ currently working with these compounds carefully re - evaluate the interpretation 
+ of their results when there are claims of biological utility , including 
+ apparent enzymatic and cell - based selectivity , bioactivity , and mechanism - of - action 
+ studies .

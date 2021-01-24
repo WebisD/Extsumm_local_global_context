@@ -1,0 +1,20 @@
+in summary , these studies provide the unexpected finding that replacement 
+ of the 3-hydroxyl substituent of the 4-(3-hydroxphenol ) group of jdtic 
+ with either a hydrogen , fluoro , or chloro group leads to  opioid 
+ receptor antagonists that are as highly potent and selective as jdtic . 
+
+the high 
+  opioid receptor potency and selectivity relative 
+ to the  and  opioid receptors of 4 , 5 , and 14 combined with their favorable herg , 
+ mdck , pampa , solubility , and plasma and s9 stability in vitro preclinical 
+ studies and calculated tpsa , clogp , and logbb values suggest that 
+ the compounds should be considered for further development as potential 
+ drugs for treating depression , anxiety , schizophrenia , and addiction 
+ ( cocaine , nicotine , methamphetamine , alcohol , and eating disorders ) .
+a comparison of their in vitro efficacy properties 
+ to those of jdtic show that several of the analogues were potent and 
+ selective  opioid receptor antagonists .
+this finding is in contrast to what would have been predicted based 
+ on structure  activity relationship studies of other n - substituted 
+ 3,4-dimethyl-4-(3-hydroxyphenyl)piperidines such as 40 ( ly255582 ) , as well as much of the 
+ sar studies reported for opioid ligands in general .

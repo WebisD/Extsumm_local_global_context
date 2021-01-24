@@ -1,0 +1,25 @@
+the method 
+ of tar capturing used in this study 
+ has been previously reported .
+the inactivation of the acyl - coa 
+ synthetase encoding gene , enc16 , in the heterologous 
+ host strain s. coelicolor m1146-pbb01 was done using 
+ -red recombination with an apramycin - resistant marker ( aac(3)iv ) 
+ as described previously .
+the isolation 
+ of high - quality genomic dna from salinispora was 
+ performed according to standard procedures .
+the capture vector , pcap01 , containing yeast arsh4/cen6 and trp1 
+ marker , e. coli puc ori , streptomyces c31 integrase gene(int ) , its attachment site ( attp ) and origin 
+ of dna transfer ( orit ) , aph(3)ii gene ( kan / neo resistance ) , 
+ and two 1 kb regions flanking the gene cluster on either side was 
+ used to capture and propagate the enterocin gene cluster .
+the vector 
+ pcap01 with the captured enc gene cluster from s. pacifica cnt-150 was named pbb01 .
+the 
+ data were subjected to the molecular networking workflow and analyzed 
+ as described previously .
+the plasmid pbb01 and its derivatives 
+ were conjugated into s. lividans tk23 and s. coelicolor m1146 
+ using a standard triparental mating method with e. coli et 12567/pbb01 and e. coli et 12567/pub307 . after 6 days of growth in ssm media , the cultures 
+ were extracted with four volumes of etoac and concentrated in vacuo .

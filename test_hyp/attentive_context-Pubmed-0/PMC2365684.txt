@@ -1,0 +1,5 @@
+therefore , it will be interesting to examine the in vitro growth inhibitory activity of compounds possessing iso - type or anteiso - type chains with a chain - length of less than c12 against human solid tumor cell lines .
+we also observed the effect of 11 compounds ( 111 ) on the production of an inflammatory cytokine , il-8 , in pma - stimulated hl-60 cells since the inhibition of cell proliferation sometimes correlates with il-8 production . in this paper
+since the production of an inflammatory cytokine , il-8 , is , in some cases , correlated with the inhibition of cell proliferation , we also observed the influence of 11 compounds on the il-8 production system mediated by pma - stimulated hl-60 cells .
+in our experiment , compounds 17 and 911 showed weak to modest inhibitory activity against l1210 cells ( table 1 ) ; therefore , we examined the effect of compounds 111 on the rate of colony formation using v79 cells .
+the activity of the 10-methyl compound ( 4 ) against v79 and l1210 cells was stronger than that of the iso - type compound ( 2 ) and weaker than that of the anteiso - type compound ( 3 ) .

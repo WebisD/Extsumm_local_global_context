@@ -1,0 +1,6 @@
+gene therapy represents a safe , robust and efficient means to achieve sustained expression of wt apoa - v . by controlling plasma tg homeostasis in this manner
+apolipoprotein ( apo ) a - v - is an enigmatic modulator of plasma triacylglycerol ( tg ) homeostasis .
+given the role of apoa5 in modulation of plasma tg documented in studies of genetically engineered mice , gwas , human population loss of function studies and large - scale exome sequencing , therapies designed to promote its athero - protective effects are very attractive . whereas it may be possible to develop a small molecule therapeutic capable of inducing endogenous apoa - v expression , individuals harboring common snps or rare mutations in apoa5 may not benefit from this approach . on the other hand ,
+genome wide association studies ( gwas ) have identified apoa5 as a determinant of plasma tg concentrations .
+it is important to consider whether apoa5 may be a risk factor for disease processes that develop from chronic elevation of plasma tg .
+it is noteworthy that recent advances suggest gene transfer technology may constitute a feasible therapeutic option for a subset of individuals with chronic htg . for this purpose ,

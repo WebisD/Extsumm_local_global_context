@@ -1,0 +1,33 @@
+the esr results clearly identify the c3 formation 
+ in one - electron oxidized gemcitabine and the production of c2 
+ in one - electron oxidized mefdc .
+160170 
+ k. thus , our study in one - electron oxidized mefdc provides the first 
+ evidence of formation of c2 ( via the unstable intermediate 
+ c3 ( reaction 5 ) ) in a nonenzymatic 
+ system even at low temperature.5
+this f loss is a 
+ barrierless reaction between the 2-f - atom and the proximate 
+ h3o which was formed via deprotonation of h3 
+ in the cation radical .
+theoretically , 
+ dft calculations support the mechanism involving a h3o induced barrierless conversion of c3 to c2 
+ in one - electron oxidized mefdc .
+however , experimental and theoretical results shown 
+ in this work have clearly demonstrated that in our system ( supercooled 
+ homogeneous glassy solutions ) , c3 in gemcitabine does 
+ not convert to c2 on annealing up to 170 k owing to 
+ theoretically predicted barrier of greater than 5 kcal / mol .
+these calculations show 
+ that in the case of one - electron oxidized mefdc , the lowest energy 
+ path is the rapid formation of c2 from c3 
+ via f loss .
+, it is expected that the negative 
+ inductive effect ( i ) of two highly electronegative f - atoms 
+ at c2 should increase the acidity of h3. from our 
+ previous work on nucleoside cation radicals , the gemcitabine cation radical formed upon one - electron oxidation 
+ is expected to produce c3 after deprotonation of the 
+ acidic proton h3. in this work , esr spectroscopy has been 
+ employed to investigate one - electron oxidation of gemcitabine and 
+ other 2-modified derivatives , for example , 2-deoxy-2-fluoro-2-c - methylcytidine ( mefdc ( psi-6130 ) ; scheme 2 ) and 2-fluoro-2-deoxycytidine ( 2-fdc , scheme 2 ) , in order to test the influence of 2- 
+ substituent on radical site formation .

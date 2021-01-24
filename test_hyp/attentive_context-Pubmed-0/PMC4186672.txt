@@ -1,0 +1,25 @@
+section iii presents the results and analysis , starting with the geometries 
+ and vibrational frequencies , followed by the reduction potentials 
+ and an analysis of the spin densities to determine the oxidation states 
+ of the metal centers .
+ii , we introduce the nomenclature for the species studied 
+ and describe the computational methods used to calculate the structures , 
+ co vibrational frequencies , reduction potentials , and pka values for these species .
+, the computational 
+ methods are benchmarked by comparing experimental and theoretical 
+ structures , infrared ( ir ) vibrational frequencies of the co groups , 
+ reduction potentials , and relative pka values .
+the key features of this proposed mechanism highlight 
+ the roles of the ammonium - hydride interaction , flexibility of the 
+ bridging co ligand , and intramolecular electron transfer between the 
+ fe centers in the catalytic cycle . while these bioinspired models 
+ are effective catalysts for h2 production , the challenge 
+ of designing molecular electrocatalysts that can perform with weaker 
+ acids and lower overpotentials remains .
+further investigation of the effects of ligand substitution at the 
+ fe centers will help guide the design of more effective h2-producing catalysts .
+the calculations illustrate 
+ that the nhhfe dihydrogen bonding distance in the 
+ doubly protonated species is highly sensitive to the effects of ion - pairing 
+ between the ammonium and bf4 counterions , 
+ which are present in the crystal structure .

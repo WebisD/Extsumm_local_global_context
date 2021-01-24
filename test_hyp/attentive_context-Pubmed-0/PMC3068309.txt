@@ -1,0 +1,8 @@
+our primary aim is to articulate commonalities and differences in eukaryotic and prokaryotic glycosylation rather than provide full coverage of specific areas .
+a great deal of progress has been made in understanding prokaryotic glycosylation since the seminal review of szymanski and wren in 2005   which focused on the discovery , five years earlier , of a general n - glycosylation system in campylobacter jejuni .
+
+				 protein glycosylation   is a phenomenon   shared by all domains of life . over 70% of the eukaryotic proteome
+notably , novel general o - glycosylation systems have recently been uncovered in both pathogenic and symbiotic bacteria . in this paper ,
+the best understood prokaryotic glycoproteins are s - layers , pilins , and flagellins plus a selection of cell surface and secreted proteins which are known to be involved in adhesion and/or biofilm formation .
+there are many excellent specialist reviews referred to throughout our paper which the reader should consult for in depth coverage of particular topics .
+finally cytoplasmic o - glycosylation appears to be both more common and more diverse in gram - positive compared with gram - negative bacteria , possibly because of the existence of the alternative periplasmic o - ost pathway of the latter .

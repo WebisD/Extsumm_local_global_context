@@ -1,0 +1,25 @@
+activity against b. anthracis , a vancomycin - resistant enterococcus spp . , and listeria monocytogenes was good , in the 0.1254 g / ml 
+ range , and there was very strong synergy ( fici = 0.11 ) with methicillin 
+ and 1 in a mrsa strain of s. aureus , 
+ suggesting that 1 could be a promising lead ( in combination 
+ therapies ) for treating staph infections .
+the most potent lead was 1 , which is structurally 
+ quite similar to epalrestat , in clinical use to treat diabetic neuropathy . 1 ( and its analogue 4 ) inhibited the growth of 
+ gram positives ; they did not inhibit the growth of gram negatives 
+ ( important with e. coli in the context of maintaining 
+ commensal microflora ) , and they had no activity against s. 
+ cerevisiae .
+we then tested the 100 in silico 
+ hits in vitro against saupps and ecupps , leading to several m 
+ upps inhibitors ( as deduced from both ppi release and radioactive 
+ assays ) .
+the fici is defined aswhere fic(a ) and fic(b ) 
+ are the fractional 
+ inhibitory concentrations of drugs a and b , mic(a ) and mic(b ) are 
+ the mic values of drugs a and b acting alone , and mic(ab ) and mic(ba ) 
+ are the mic values of the most effective combination of drug a or 
+ b in the presence of drug b or a. using this method , fici values of 
+ < 0.5 represent synergism , > 0.5 and < 1.0 represent additivity , 
+ > 1 and < 2 represent an indifferent effect , and > 2 represents 
+ drug 
+ antagonism .

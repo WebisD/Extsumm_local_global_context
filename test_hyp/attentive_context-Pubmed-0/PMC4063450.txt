@@ -1,0 +1,19 @@
+given the uncertainties in our understanding 
+ of hooh production 
+ from ambient pm , our purpose is to quantify hooh formation from transition 
+ metals and quinones ( both individually and in mixtures ) in a more 
+ representative ( though still cell - free ) surrogate lung fluid ( slf ) . 
+
+taken together , 
+ these diverse studies provide consistent evidence that cu is an important 
+ component in the health effects from airborne particles .
+in this work we characterize an in vitro , cell - free assay to measure 
+ the rate of hooh production from pm . given the important role of lung - lining 
+ fluid antioxidants in ros formation , we include typical lung concentrations of four antioxidants : ascorbate ( asc ) , reduced 
+ glutathione ( gsh ) , urate ( ua ) , and citrate ( cit ) .
+, it is impossible to reproduce 
+ the complexity of particle  lung interactions using an in vitro assay .
+asc , gsh , and ua 
+ are naturally occurring in the lung fluid , while cit is a good proxy for proteins that mobilize iron in the 
+ lung fluid . while we use ph and antioxidant 
+ conditions similar to lung lining fluid

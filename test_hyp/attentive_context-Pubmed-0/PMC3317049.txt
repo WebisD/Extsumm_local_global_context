@@ -1,0 +1,7 @@
+we report that sod3 limits inflammation in cia and peritonitis both in the presence and in the absence of phagocyte oxidative burst .
+our results confirm the previously documented anti - inflammatory role of sod3 and additionally , for the first time , we show that it can downregulate both cia and peritonitis even in the absence of functional nox2 complex and phagocyte oxidative burst .
+the anti - inflammatory function of sod3 is not compromised by the lack of functionality of the nox2 complex as both ncf1 and ncf1 mice develop milder inflammation when treated with sod3 .
+we confirmed the presence of virally delivered sod3 mrna in the paws d25 and thus confirmed that the decrease in arthritis severity coincided with substantial adenovirus driven sod3 expression .
+similarly , pretreating the mice three days before induction of peritonitis allowed us to analyze the effect of sod3 during substantial sod3 expression in the peritoneal cavity .
+thus , we conclude that the anti - inflammatory effect of sod3 is not dependent on superoxide produced by the nox2 complex derived phagocyte oxidative burst and thus acts via other signaling pathways .
+the percentual treatment effect in both inflammation models was comparable with the effect previously obtained with transgenic sod3 overexpression in pulmonary emphysema .

@@ -1,0 +1,25 @@
+in summary , we have described a copper - catalyzed amidation of unactivated 
+ alkanes by benzamide , sulfonamide , carbamate , phthalimide , and their 
+ derivatives .
+our mechanistic 
+ data imply that the tert - butoxy radical , not a copper - nitrene 
+ or copper - aminyl species , leads to the activation of aliphatic c 
+the amidation of alkanes under our catalytic conditions 
+ preferentially forms the products from amidation at secondary sites 
+ over tertiary sites .
+we report the reactions of common amides , carbamates , and 
+ imides 
+ with alkanes to form n - alkyl derivatives with simple 
+ copper catalysts and a peroxide ( scheme 1 ) . 
+
+potential cu(ii)-amidate and -imidate 
+ intermediates were isolated , characterized , and demonstrated to be 
+ intermediates for c  h amidation of cyclohexane .
+mechanistic data from the stoichiometric reactions 
+ of isolated copper amidate or imidate complexes indicate that the 
+ transformation of alkanes to n - alkyl products likely 
+ occurs by the reactions of a alkyl radicals with copper(ii ) amidate 
+ and imidate complexes .
+although copper - catalyzed reactions at allylic 
+ and benzylic c  h bonds with carboxylic acids and sulfonamides 
+ in the presence of peroxides is well - known ( karasch - sosnovsky reaction ) , and the mechanism of these reactions has been studied , the amidation of c 

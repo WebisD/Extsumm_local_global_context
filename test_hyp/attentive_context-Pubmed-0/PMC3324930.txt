@@ -1,0 +1,7 @@
+the present study examined the effects of capsaicin , a natural trpv1 ligand , on inflammatory bone resorption in vitro and in vivo .
+these results showed that the trpv1 signal suppressed osteoclastic bone resorption associated with pge2 production in vitro and attenuated inflammatory bone loss induced by lps in vivo .
+we have reported that pge2 binds to the ep4 receptor , one of the pge receptor subtypes ep1-ep4 , and induces the rankl expression to stimulate bone resorption , using agonist and antagonist of eps and respective ep - knockout mice   .
+the present study showed that capsaicin , a trpv1 ligand , suppresses lps - induced osteoclastic bone resorption associated with inflammation by inhibiting pge2 production by osteoblasts .
+reported that trpv4 , a calcium permeable ion channel , possess chondroprotective role and deletion of trpv4 gene resulted in severe osteoarthritis using trpv4 knockout mice .
+an rt - pcr analysis showed the expression of cox-2 and mpges-1 mrnas to be markedly induced by lps in mouse primary osteoblasts at 3  h , and simultaneous addition of capsaicin clearly suppressed both the cox-2 and mpges-1 expression ( figure 2(a ) ) .
+lps administration induces the severe loss of trabecular bone in distal femurs in mice , and mpges-1 knockout mice are resistant to the bone loss induced by lps .

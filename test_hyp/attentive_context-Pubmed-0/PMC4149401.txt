@@ -1,0 +1,6 @@
+the aim of this study was to correlate the minimum inhibitory concentration ( mic ) levels of the fluoroquinolones with mutations in the gyra and gyrb genes in a subset of clinical isolates from the kzn province of south africa .
+, 23 of the 30 xdr isolates had an mic value of 2 mg / l , while seven had an mic value of 1 mg
+three mutations were observed in the nucleotide sequence of the gyra gene : e21q ( gaacaa ) , s95 t ( acgacc ) , and a90v ( gcggtg ) .
+the a90v mutation was present only in the 30 xdr isolates , correlating with an mic value of 8 mg / l for cpx and ofx . in the case of mxf
+we report on the correlation between mics of mxf and mutations in the gyra gene in a selection of clinical isolates in kzn , south africa . fluoroquinolone resistance in mtb
+while there may be a role for mxf as part of individualized xdr treatment regimens , this can not be advocated as part of empiric treatment protocols in the absence of mxf mic data of the circulating xdr strains in an area .

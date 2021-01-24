@@ -1,0 +1,24 @@
+proposed mechanism for the ni - catalyzed cycloaddition 
+ of diynes and tropone . in conclusion , we have discovered a nickel catalyst that 
+ can effectively and selectively incorporate a single c  c -bond 
+ of tropone in the cycloaddition with diynes .
+simple enones 
+ are known to undergo ni - catalyzed cycloaddition with diynes ( eq 2 ) .
+it involves a unique 8 insertion of tropone to 
+ form the observed major and minor products .
+thus , we focused our investigation on discovering 
+ an alternative ni - catalyzed cycloaddition protocol.2 diyne 1 and tropone a were used 
+ as model substrates and were subjected to a catalytic amount of ni(0 ) 
+ and a variety of phosphine and n - heterocyclic carbene 
+ ( nhc ) ligands ( eq 4 ) .
+the mechanism of 
+ this novel cycloaddition reaction has been investigated using dft 
+ calculations .
+the mechanistic studies 
+ to further understand this unique reactivity of tropone and application 
+ of this chemistry are underway in our laboratories .
+the lack of general methods to access troponoids prompted 
+ our investigation on the ability to convert the cycloadduct to a fully 
+ aromatized product .
+due to the uncertainty of the catalyst , we did not perform 
+ computational studies on the isomerization of the tricyclic product vii .

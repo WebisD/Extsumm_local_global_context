@@ -1,0 +1,5 @@
+however , we think that the calculation of  predictive  values like burn - up , irradiation date , or production mode ( i.e. reactor vs. explosion ) makes the assessment more straightforward . the measurement of pu , pu , pu , pu and pu allows for more precise assessment of the history and origin of environmental plutonium .
+when a reactor origin can be assumed , possibly based on the absence of pu , and by calibrating the data against simulated thermal neutron data with the same pu / pu , an accuracy of 2  years is suggested by our data .
+the conventional approach towards source assessment of an unknown material is to measure elemental concentrations and isotopic ratios , and to compare them with a database of all viable sources .
+additionally we have shown that the use of pu and pu allows dating of the time of irradiation accurate to within 6  years , while our data on the irish sea sediment core suggest that relative dating of material from the same source is possible with a precision of less than 2  years .
+results have been published for the thermonuclear weapons test  ivy mike  ( pu / pu  =  ( 11.8    0.7 )    10 )   and for the low - yield test 

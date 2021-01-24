@@ -1,0 +1,7 @@
+sarotup , a web application for scanning , reporting and excluding target - unrelated peptides has been coded with perl .
+it is capable of finding , reporting , and precluding possible target - unrelated peptides , which is very helpful for the development of mimotope - based diagnostics , therapeutics , and vaccines .
+there are now quite a few programs for mimotope based epitope mapping , none of them , however , has a procedure to scan , report and exclude target - unrelated peptides   . in this study , we describe a web server named sarotup , which is an acronym for  scanner and reporter of target - unrelated peptides  .
+it is also useful in the development of diagnostics , therapeutics , and vaccines . to our knowledge
+the power and efficiency of sarotup was also demonstrated by preliminary tests in the present study .
+sarotup was coded with perl as a cgi program and can be freely accessed and used to scan peptides acquired from phage display technology .
+peptides displayed on these phages are called target - unrelated peptides ( tup ) , a term coined recently by menendez and scott in a review .  

@@ -1,0 +1,7 @@
+here , we discuss the roles of nhrs , during feast and famine , in adipose tissue , liver and muscle , as well as their roles in establishing circadian rhythms and regulating fgfs .
+their importance in metabolism , combined with the ability to manipulate their ligand - dependent activity , make nhrs attractive drug targets for the treatment of metabolic disease .
+the 48 human nhrs are genetic switches that control networks of genes in response to various physiological cues and orchestrate a diverse range of biological functions , including nutrient homeostasis   .
+insight into these mechanisms can be gained by studying the highly conserved nuclear hormone receptor ( nhr ) superfamily .
+the ability to navigate through unpredictable environmental changes such as cycles of feast and famine is critical for the survival of an organism . in order to adapt to fluctuations in nutrient availability
+dysregulation of these processes can have an impact on survival during a fast or lead to obesity and related pathologies , such as type 2 diabetes , in response to overnutrition .
+recent studies show that certain members of the fibroblast growth factor ( fgf ) family are direct targets of nhrs and responsible for mediating many of their metabolic effects .

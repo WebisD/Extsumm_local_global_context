@@ -1,0 +1,6 @@
+assessment of carbapenemase production in p. aeruginosa through the mht method , using the standard strain of e. coli atcc 25922 , resulted in only 27 examinable isolates ; 81 isolates were unexplainable due to pseudomonas inhibition of e. coli growth in the culture medium ( figure 2a ) .
+however , out of 108 isolates examined by the mht test , using the standard strain of k. pneumoniae atcc 700603 , 38 isolates of p. aeruginosa produced carbapenemase and the results of this test were negative for 70 isolates ( figure 2b ) . using the combination - disk test with boronic acid ,
+the results of the antibiotic sensitivity pattern ( number and percentage of resistant isolates ) of p. aeruginosa isolates , obtained through the disk diffusion method , are presented in figure 1 .
+the sensitivity of boronic acid phenotypic method in detection of kpc was higher than mht ( 84.6% vs. 77% ) .
+of the 108 isolates of p. aeruginosa studied by pcr , 13 isolates ( 12% ) had the kpc carbapenemase encoding gene ( blakpc ) ( figure 3 ) .  
+26 isolates were identified as carbapenemase - producing strains , while 82 isolates were negative ( figure 2c ) .

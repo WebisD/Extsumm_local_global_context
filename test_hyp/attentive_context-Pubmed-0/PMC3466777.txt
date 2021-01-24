@@ -1,0 +1,26 @@
+isolate the urea 
+ effect on defined conformers from the unfolding process itself and 
+ by restraining the protein structure ( ii ) observe 
+ the competition of urea and water for protein interaction in the absence 
+ of protein dynamics .
+ this has implications 
+ for the relative weights of the contributions to the solvation force 
+ of the ( co)solvent components . in the direct comparison of the force 
+ distributions of the protein  urea and protein
+we have previously introduced shannon entropy 
+ maps and analyzed the hydration properties of water at the surface 
+ of prp , identifying particular loci with different entropies . by studying the effect of urea on folded and 
+ intermediate structures , we ( i )
+the 
+ direct comparison of urea and water forces on the protein was performed 
+ on rescaled forces to compensate for the dependence of the solvation 
+ forces on the urea concentration .
+hexafluoro-2-propanol has been shown to affect the ultrastructure 
+ of prp amyloid and to decrease the -sheet content as well as 
+ prion infectivity .
+the individual 
+ preferences to interact with urea or water follow a hydrophobicity 
+ scale in a similar trend as force field energies of amino acid analogues .
+in contrast , 1,1,1-trifluoro-2-propanol does not 
+ inactivate prion infectivity but alters the morphology of the rods 
+ and abolishes congo red binding .

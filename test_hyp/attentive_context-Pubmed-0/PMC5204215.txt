@@ -1,0 +1,6 @@
+there is therefore a critical need to develop new drugs and drugs targets to protect dopaminergic neurons and their axons from degeneration in pd .
+parkinson 's disease ( pd ) is a common , progressive neurodegenerative disorder , the incidence of which rises with age , with the life - time risk of developing the disease standing at 1.5% ( lees et al . , 2009 ) .
+in summary , small molecule epigenetic modulators , such as those targeting dnmts , hdacs and hats , hold much promise as pharmacological modifiers of the epigenetic status of the cns , especially considering their ability to cross the blood - brain barrier .
+in addition to this , much more work is needed in translational animal models of pd for rationalizing the use of small molecule epigenetic modulators as a potential neuroprotective therapy for this disorder , including exploring strategies to deliver these drugs to the brain .
+however , further research is required to elucidate the precise mechanisms leading to the chronic epigenetic dysregulation observed in neurodegenerative diseases , such as pd .
+these drugs therefore have the ability to act both centrally and peripherally in the nervous system , and have the potential to protect all neurons affected by pd .

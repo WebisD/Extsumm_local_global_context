@@ -1,0 +1,7 @@
+we searched the cassava genome near - complete sequence ( http://www.phytozome.com/ ) to gain an insight into genomic composition of cassava 's ssrs .
+genomic analyses of cassava ssrs would contribute to the understanding of cassava genome architecture and evolution and possibly correlate ssr 's frequency , distribution , and sequence motifs , with genomic localization and function .
+we carried out ssrs identification and characterization on the cassava 's genome and their distribution in exons , introns , and utr ( untranslated regions ) .
+the low number of ssrs previously found could be explained for the low number of genome sequences reported at that moment . with the recent cassava genome release a global and genomic analysis of ssrs is possible .
+a gene ontology ( go ) annotation was conducted for the ssrs present in the gene regions .
+the availability of cassava genome sequences enabled a more effective assessment of ssr marker distribution in this study .
+we observed that in cassava the dinucleotide ac / gt or ga / ct accounted only for 1,5% of the ssrs in all the evaluated sequences , while the other dinucleotides added up to 38% . compared to the genomes of animals

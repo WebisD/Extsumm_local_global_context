@@ -1,0 +1,6 @@
+the mrna expression levels of maker genes specific for cardiac myocytes or vascular smooth muscle cells ( vsmcs ) were analyzed in the muscular and vascular samples , respectively , obtained from rat heart sections .
+these findings suggested that the contamination of cardiac myocytes in the vascular samples or vsmcs in the muscular samples was negligible . in conclusion , the lmd method enabled us to separately collect the muscular and vascular samples from the myocardial sections and to selectively evaluate the mrna expression changes in individual tissue component .
+we present one example of real - time rt - pcr analysis in wky , which showed bnp mrna expression in the muscular samples , but not in the vascular samples ( figure 3 ) .
+moreover , the bnp mrna upregulation associated with cardiac hypertrophy was documented specifically in the muscular samples in shr - sp ( figure 4 ) .
+the mrna expressions of bnp and -sma were not detected in the vascular and muscular samples , respectively ( figure 3 ) .
+recently , the laser microdissection ( lmd ) method has been developed to isolate specific microscopic regions from tissue samples and separately collect the specimens of interest , which enables us to selectively evaluate the mrna expression levels in targeted cell clusters in the tissues , especially in malignant tissues .

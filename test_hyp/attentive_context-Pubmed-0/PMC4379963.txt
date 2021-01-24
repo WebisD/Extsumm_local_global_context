@@ -1,0 +1,26 @@
+in summary , we have developed a general method for the cross - coupling 
+ of hindered primary amines with a range of ( hetero)aryl chlorides 
+ and bromides .
+, 
+ it was found that oxidative addition for aryl chlorides and reductive 
+ elimination for aryl bromides with the initial catalyst based on ligand l4 were rate - determining .
+this transformation occurs under mild conditions and 
+ provides the desired products in high yields utilizing two catalyst 
+ systems .
+herein , we describe the development of two related catalyst systems 
+ that demonstrate high activity for the coupling of ,,-trisubstituted 
+ primary amines 15 with a variety 
+ of ( hetero)aryl halides .
+ligand l7 was designed after analysis of the 
+ reaction mechanism using the rpka method . rather than amine binding
+the 
+ availability of a general method to obtain a broad range of hindered 
+ anilines by a pd - catalyzed c 
+these observations lead to the development 
+ of l7 , a biaryl(alkyl)arylphosphine ligand that greatly 
+ accelerated the reaction with both aryl halides .
+l7 is 
+ the first example of a hybrid ( alkyl)aryl ligand that provides superior 
+ results as compared to its analogues with identical alkyl- or arylphosphorus 
+ substituents , offering another tunable 
+ site for better control of catalyst activity .

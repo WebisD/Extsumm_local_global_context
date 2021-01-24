@@ -1,0 +1,8 @@
+the immortalized human nsc lines hb1.f3 and hb1.a4 were maintained with dulbecco s modified eagle s medium ( dmem , sigma ) containing 10% fetal bovine serum ( fbs ) .
+to further study the potential function of mir-126 in nscs , hb1.f3 and hb1.a4 were stably transfected with mimics or negative control ( nc ) .
+as indicated in figure 1a , mir-126 mimics showed good overexpression effects both in hb1.f3 and hb1.a4 and both cell lines overexpressing mir-126 showed marked cell growth increase ( figure 1b , 1c ) . to further confirm the function of mir-126 on cell proliferation and growth , soft agar colony formation assay was performed .
+cck8 assay and colony formation assay both demonstrated that mir-126 can induce the proliferation of nscs .
+however , the effects of mir-126 in nscs is still unclear ; therefore , we intended to study its role in nscs proliferation and survival .
+to further study the potential function of mir-126 in nscs , hb1.f3 and hb1.a4 were stably transfected with mimics or negative control ( nc ) .
+we next investigated the function of mir-126 in the regulation of cell apoptosis by flow cytometry .
+as shown in figure 2a , 2b , the colony formation was significantly increased by mir-126 compared with the negative control group .

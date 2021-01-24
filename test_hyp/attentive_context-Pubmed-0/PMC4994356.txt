@@ -1,0 +1,6 @@
+a program designed to improve hand hygiene compliance among hospital staff successfully engaged all healthcare personnel in monitoring and improving their own hand hygiene compliance .
+, we demonstrated that increased hand hygiene compliance improvements from already high rates can be an important strategy for achieving infection reductions , particularly for healthcare - associated c. difficile infections .
+this pursuit of excellence for hand hygiene compliance led to substantial hai reductions hospital wide .
+in october 2013 , university of north carolina hospitals , an 853-bed facility , implemented a new hand hygiene program ( clean in , clean out ; http://news.unchealthcare.org/empnews/handhygiene ) in all inpatient areas , after a successful pilot implementation of the program in the pediatric intensive care unit ( 2 ) .
+we used data for hand hygiene compliance and number of overall hai , hai with multidrug - resistant organisms ( mdro ) , and healthcare - associated clostridium difficile infection ( ha - cdi ) from each nursing unit to estimate the overall association between hand hygiene and hai rates .
+we compared hand hygiene compliance data from the last quarter of the covert observations by infection preventionists and designated nursing staff to compliance data from the first month of the new program by using a  test .

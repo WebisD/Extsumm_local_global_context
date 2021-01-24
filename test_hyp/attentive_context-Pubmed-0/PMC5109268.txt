@@ -1,0 +1,6 @@
+it generated 92,415 all - transcripts with an average length of 496  bp and an n50 of 1466  bp ; and 71,443 all - unigenes were achieved .
+we obtained a total of 72.5 million , 55.1 million , 68 million and 69.3 million raw data reads from four sequencing libraries prepared , respectively ( table 1 ) , >  94.9% bases has a q value   20 ( an error probability of 0.035% ) . after cleaning and quality checks , the de novo assembly of all sequencing data using the trinity method .
+the results provides us useful information for further explorer the gene synthesis pathways of active ingredients .
+( baill . ) is a source plant of traditional chinese medicine . the s. chinensis fruit ( sf ) , which has five - flavored fruits ( salty , pungent , bitter , sweet and sour ) , is called  wuweizi  in china .
+of these , 46,461 ( 65.0% ) were 200500  bp , 11,322 were 5001000  bp , 8612 were 12  kb and the remaining 5078 were >  2  kb ( table 2 ) .
+we obtained a total of 72.5 million , 55.1 million , 68 million and 69.3 million raw data reads from four sequencing libraries prepared , respectively ( table 1 ) , >  94.9% bases has a q value   20 ( an error probability of 0.035% ) . after cleaning and quality checks , the de novo assembly of all sequencing data using the trinity method .

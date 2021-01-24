@@ -1,0 +1,7 @@
+to assess the correspondence between distinct basal ganglia pathways and hypothesized cognitive processes , we applied the high spatio - temporal resolution of single - unit electrophysiology to a stop - signal task based around our prior studies of rodent decision - making ( fig . 1 , table s1 ) .
+s1 ) . a challenge when studying behavioral inhibition is to disentangle neural activity specifically linked to stopping , rather than going . to do this
+we next examined the time course of activity in these stop - related stn and snr neurons .
+, we followed a latency matching procedure ( see methods ) , which exploits the similarity in reaction times -and thus presumably the go process - between failed stop trials and fast go trials .
+we compared the firing rate of each neuron between these trial types , and between correct stop trials and slow go trials .
+this is consistent with race models : when the go process happens more quickly , a stop process is less likely to successfully suppress behavior . for our first set of recordings ( experiment 1 ) , well - trained subjects ( n=4 )
+we isolated spikes from individual neurons during task performance , from each brain region ( for anatomical locations see fig .

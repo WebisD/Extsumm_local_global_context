@@ -1,0 +1,21 @@
+finally , these results identify og and sp lesions 
+ in dna and rna strands to be the most stable ( table 1 ) , and they support a hypothesis that these lesions in the 
+ genome or transcriptome would be much longer lived than the other 
+ guanine base lesions .
+these data will be paramount for researchers 
+ that oxidize oligomers of dna or rna with known sequences and then 
+ interpret the reaction yields from a biological prospective , for which 
+ oxidation events on these polymers are a rare occurrence .
+the 
+ current research determined the chemical cleavage rate constants 
+ for many lesions derived from oxidation of the nucleobase guanine 
+ in dna and rna oligomers . in these studies , the base damages og , sp , 
+ gh , z , and 2ih were site - specifically synthesized in dna and rna oligomers . 
+
+in addition , 
+ in rna strands , all lesions were found to cleave at a slower rate 
+ than their analogous dna counterparts ( table 1 ) .
+the alternative 
+ approach for identifying lesion sites in dna utilizes a base excision 
+ repair enzyme , such as fpg ; however , fpg cleavage also suffers from 
+ lesion - dependent cleavage kinetic differences .

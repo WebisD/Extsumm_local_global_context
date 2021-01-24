@@ -1,0 +1,7 @@
+the output of the oligowalk server is a table of sirna candidates , showing the sirna sequences and the probabilities of being efficient ( having silencing efficacy larger than 70% ) .
+it is well known that genes can be silenced by antisense rna oligonucleotides called small interfering rna ( sirna ) ( 1,2 ) . in order to design an efficient sirna sequence , empirical rules based on the features of the sirna sequence
+the svm classification model used in the server has been proven to be able to predict efficient sirna ( greater than 70% inhibition of the target mrna expression ) with high accuracy ( 16 ) .
+the oligowalk web server predicts the hybridization thermodynamics of an oligonucleotide binding to a complementary target rna using the most recent rna folding parameters ( 21 , 22 ) .
+a support vector machine ( svm ) program ( 20 ) is embedded in the server to take the thermodynamic and sequence features as input .
+it predicts efficient sirna with high accuracy using a transparent implementation of an svm ( 16 ) , which considers both sequence and thermodynamic features .
+overall , the positive predictive value of the server is 0.786 , meaning that 78.6% of the sirnas selected by the server will be efficient at silencing ( 16 ) .

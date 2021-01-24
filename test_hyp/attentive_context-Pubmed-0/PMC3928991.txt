@@ -1,0 +1,7 @@
+hence , these results support the hypothesis that meiosis and sexual reproduction are ancestral and ubiquitous features of eukaryotes .
+the extent and significance of sex in kinetoplastid parasites have been controversial , but this study reveals that t.  brucei is essentially a sexual organism .
+we therefore developed an alternative search strategy to find cells with gamete - like behavior in mixtures of sg - derived trypanosomes .
+both 3k1n and 3k2n cells were observed ( e.g. , figure  s2e ) . in summary , we have shown that meiosis is a normal part of the developmental cycle of t.  brucei in the tsetse fly and have identified a novel haploid pl cell that displays the behavior expected of a gamete .
+we conclude that the haploid pl cells are trypanosome gametes , although formal proof will require the demonstration of exchange of nuclear and kinetoplast dna . until now ,
+sex provides the opportunity for new pathogen strains to arise by recombination , a phenomenon already suspected in t.  b. rhodesiense , which has the capacity to become human infective by transfer of a single gene for human serum resistance ( sra ) .
+three functionally distinct , meiosis - specific proteins ( mnd1 , dmc1 , and hop1 ) were expressed in t.  b.  brucei strain j10 , implying that meiosis might be an integral part of the trypanosome s developmental cycle in the tsetse fly vector . to test this hypothesis and to obtain further information on the timing of meiosis

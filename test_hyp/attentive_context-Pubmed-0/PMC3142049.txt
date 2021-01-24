@@ -1,0 +1,6 @@
+u  and  c  , after also controlling for presence of age , race , sex , z - bmi , and duration of diabetes ( table 3 ) .
+multivariate regression analysis between  u- and  c-adjusted sif levels at each wavelength as dependent variables with patient age , duration of diabetes ( dod ) , sex , race , z - bmi , hba1c or hgi , and mbg statistically significant relationships , p = 0.05 or less , for the covariates in the model are indicated by x. the relationship between 405-nm excited sif using set 
+these findings suggest that mbg - independent , between - patient differences in hba1c are predictive of age burden in the skin and potentially influence the development of diabetes complications .
+to our knowledge this is the first in - depth study of the relationship of skin ages ( sages ) with hba1c , mbg , hgi , and other characteristics in a biracial population of children with type 1 diabetes .
+multivariate regression analysis showed that mhba1c adjusted for mmbg , or mhgi substituted in the model for mhba1c , was consistently associated with all sif excitation wavelengths , both 
+pearson correlation between  u  and  c  set sif adjustments with mmbg , mhba1c , mhgi , age , and duration of diabetes the top number in each cell is the correlation coefficient ( r ) , and the bottom number is the significance level ( p value ) ; n = 110 .

@@ -1,0 +1,6 @@
+from this study we can summarize that the modified analysis method can be used to quantify level of gcdc acid on serum samples and furthermore the method can be used to support the gcdc acid pharmacokinetic study .
+this study measures the gcdc acid serum in severe obstructive jaundice patients through biliary tract decompression models , using muraca and ghoos modified methods .
+this study , which was performed on patients with characteristics mentioned in table 2 , succeeded in quantifying the level of gcdc and glycodeoxycholic ( gdc ) acid in the serum of severe obstructive jaundice patients using the modified methods from muraca and ghoos .
+the precision and accuracy set on the level 1.0 ; 10.0 ; 50.0  g / ml for intraday validation gives score 3.39 ; 6.27 ; 3.05 and 3.61 ; 6.50 ; 3.23 , and for interday validation gives score 4.74 ; 10.47 ; 11.36 and 6.94 ; 7.62 ; 10.48 , that fulfill the validation requirement ( table 1 ) .
+several animal studies have shown that high performance liquid chromatography ( hplc ) can measure gcdc acid serum faster and precisely .
+the accumulation of glycochenodeoxycholic ( gcdc ) acid in obstructive jaundice patients is cytotoxic , can harm hepatocytes , and impairs liver function   .

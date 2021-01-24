@@ -1,0 +1,7 @@
+our pilot study demonstrated that remote pulse oximetry was feasible , and the data transmission method produced valid data at the remote end when compared with conventional face - to - face measures .
+a favourable result will enable the development of remote pulmonary rehabilitation programs for people living in rural or remote areas .
+this study aimed to develop and verify the use of a remote pulse oximetry system on healthy individuals . specifically , it aimed to establish the technical feasibility of transmitting pulse oximetry data remotely , to determine the validity of remote measurements when compared to conventional face to face measurements , and to evaluate the participants ' perception on the usability of the technology .
+although this study was performed on healthy individuals , participants found the ehab device easy to operate and were confident it could be used at home .
+( n = 4 ) and  [ the ehab was ] simple and easy to use 
+further studies are needed to address the technical feasibility and validity in a home environment and the therapist 's confidence in conducting a safe exercise program .
+the validity of remote pulse oximetry was assessed by comparing the remote measurements ( therapist data ) with conventional face - to - face measurements ( participant data ) .

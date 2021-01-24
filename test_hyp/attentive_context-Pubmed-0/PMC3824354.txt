@@ -1,0 +1,6 @@
+the aim of this retrospective investigation was to evaluate ( 1 ) possible associations between tissue kim-1 expression and tubulointerstitial ( tin ) inflammation , atrophy , and fibrosis in different chronic kidney diseases and ( 2 ) possible associations between tissue kim-1 expression and some demographic and laboratory parameters as well as kidney function and proteinuria at the time of biopsy and 6 , 12 , 24 , and 36 months later .
+multivariant stepwise regression analysis showed that the best predictor of kidney function at the time of biopsy ( egfr 0 ) was tin inflammation ( p < 0.001 ) , as well as of egfr12 ( p = 0.015 ) , egfr 24 ( p = 0.039 ) , and egfr 36 ( p = 0.012 ) .
+the present study exposed a strong association between kim-1 tissue staining and tin inflammation and fibrosis but not with tin atrophy .
+tissue kim-1 expression correlated significantly only with proteinuria / day 6 months after biopsy ( r = 0.394 ; p = 0.026 ) but not with proteinuria at the time of biopsy and 12 , 24 , and 36 months later .  
+
+although multivariate analysis pointed to tin inflammation , as the best predictor of kidney function at biopsy and 6 , 12 , 24 , and 36 months later , tissue kim-1 expression is one of the best predictor of kidney function 6 months after biopsy , the time when treatment effects are the strongest .

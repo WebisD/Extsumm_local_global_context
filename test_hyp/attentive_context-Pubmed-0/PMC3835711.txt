@@ -1,0 +1,6 @@
+we hypothesize that adjacent intergenic calm2 polymorphism could potentially modify lvm during fetal life and in the first period of life in newborns . in the present study
+, the relationships between g.474955027 g > a ( rs7565161 ) being adjacent intergenic calm2 gene polymorphism and lvm in a population of polish newborns have been investigated .
+, we have shown that the intergenic adjacent calm2 polymorphism is associated with left ventricular mass in newborns
+. this might be the consequences of variation in cell proliferation and growth , and this finding may indicate an important role for genetic variation of calm2 in expansion - induced heart growth in fetal life .
+the present study in a cohort of newborns has demonstrated for the first time the significant association between variants of the intergenic adjacent calm2  polymorphism and increases in lvm indices in newborns .
+lvmi measurements were tested for association using multivariate analysis ( ancova ) in order to adjust for possible confounding factors , after adjusting for newborn ( gestational age , gender , sbp , and apgar at three minutes ) and maternal ( age , bmi at the beginning and the end of the pregnancy , smoking status , and hypertension status ) parameters .

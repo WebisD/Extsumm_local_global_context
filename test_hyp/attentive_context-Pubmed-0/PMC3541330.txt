@@ -1,0 +1,6 @@
+in a recent study we provided experimental evidence that sorla indeed is the molecular link between app and the retromer sorting complex .
+based on our studies , we believe that the retromer complex is indeed the adaptor protein necessary for the retrieval of sorla from the endosomes to the tgn , and the localization of sorla in the tgn together with app is of crucial importance for regulating the processing of app . once disrupting the retromer binding site , the cellular distribution of sorla is changed , and sorla is no longer able to protect against the production of a.
+the cargo binding activity of the retromer is historically assigned to the trimer of vps26-vps29-vps35 , whereas the snx subunit is responsible for membrane association ( reviewed recently in refs ) .
+numerous studies have previously identified vps35 as the receptor binding component . however , in our study we have demonstrated that vps26 binds directly to a cargo receptor , i.e. , the cytoplasmic tail of sorla .
+we observed a mis - targeting to the endosomal compartments of the mutant receptor in line with retromer s role in retrograde transport .
+these results not only shed new light on the mechanism of how retromer deficiency may lead to ad , but also provided new insight of how app sorting receptors are key players in a metabolism .

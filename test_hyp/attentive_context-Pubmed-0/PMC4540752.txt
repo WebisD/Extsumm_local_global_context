@@ -1,0 +1,8 @@
+the online version of this article ( doi:10.1186/s13321 - 015 - 0089-z ) contains supplementary material , which is available to authorized users .
+first , it provides a natural way to integrate multiple types of information such as drug  drug similarity , target  target similarity , and existing drug  target interactions into a coherent framework .
+we combine three networks  drug  drug , target  target , and drug  target  to construct a heterogeneous network of drugs and targets .
+we have shown previously that a large semantic network of drug  target interactions provides a powerful framework for predicting new associations   and that an algorithm that predict drug - target associations by using this network performs surprisingly well , even without training datasets or incorporating target preference . in this work ,
+the links between drugs are obtained by quantifying molecular similarity with chemical fingerprints and examining the shared targets .
+we have demonstrated that rwr approach provides a powerful way of predicting of drug  target interactions .
+we apply a random walk - based link prediction algorithm based on chen et al .   to a more extensive drug 
+we apply the rwr algorithm to a drug  target network and use an external dataset extracted from chembl 15 ( 544 drugs and 467 proteins ) at bioactivity cutoff points of 10 and 1  m to quantitatively evaluate the performance and robustness of the approach .

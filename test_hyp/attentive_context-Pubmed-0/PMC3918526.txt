@@ -1,0 +1,6 @@
+this study is designed to evaluate the difference in oncologic impact according to the level of involved lymph nodes and to promote incorporation of the value of the level of nodal involvement in the current tnm staging system .
+after a median 49.5 months of follow - up , the 5-year overall survival rate was 84.1% in patients without lymph node metastasis , 65.2% in patients with n1 , and 45.0% in patients with n2 . in survival analysis according to our distribution - weighted nodal staging ,
+the distribution of involved lymph nodes had a significant impact on prediction of the survival outcome .
+our location - weighted prognostic scoring model , a prediction system that includes both the number and location of lymph node metastasis , may help to overcome the limitations of the current lymph node - related prognostic prediction system .
+a large scale study should be initiated and the significance of the distribution of metastatic lymph nodes may be included in the next tnm staging system .
+the distribution - weighted nodal staging model used in the present study showed that the modified nodal staging more precisely reflected the natural oncologic course in patients with rectal cancer . in the current ajcc nodal staging system ,

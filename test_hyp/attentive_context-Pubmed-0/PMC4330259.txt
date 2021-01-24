@@ -1,0 +1,5 @@
+, we analyzed the relationship between uric acid levels and the abcg2 snp rs2725220 using a group of volunteers from the korean metabolic syndrome research initiative study in seoul .
+the association with abcg2 was much stronger in male subjects with bmi  26.4 ( or , 5.09 ; 95% ci , 2.41 to 10.8 ) than in male subjects with bmi < 26.4 .
+we also analyzed the association of the abcg2 snp with body mass index and waist circumference levels .
+subjects with the gc / cc genotype had a 1.78-fold ( range , 1.22- to 2.62-fold ) higher risk of having abnormal uric acid levels ( 7.0 mg / dl ) than subjects with the gg genotype . when analyzed by gender , the association with abcg2 was stronger in men than in women . in table 4 , we analyzed the association of abcg2 by body mass index ( bmi ) quartile levels and waist circumference quartile levels in male subjects .
+the association with abcg2 was also a little bit stronger in male subjects with waist circumference ( wc )  91 ( or , 2.10 ; 95% ci , 1.08 to 4.10 ) than in male subjects with wc < 91 .

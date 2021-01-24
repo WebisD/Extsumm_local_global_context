@@ -1,0 +1,7 @@
+ hygiene hypothesis ,  which tries to explain the declined infections with rising autoimmune and atopic diseases in the recent two to three decades   . in this review
+, we summarize the roles of inkt cells in parasitic infections , with particular emphasis on the involvement of inkt cells in the hygiene hypothesis and underlying mechanisms .
+natural killer t ( nkt ) cells are recently discovered innate - like subset of lymphocytes expressing both nk and t cell markers .
+inkt cells exhibit potent effector functions and play critical roles in antimicrobial defense , cancer immunosurveillance , and modulation of immune - mediated disorders   . as
+inkt cells recognize glycolipids that are enriched in microbes and parasites , they are believed to play important roles in the infections caused by these pathogens .
+although the involvement of inkt cells in the hygiene hypothesis and the contribution to autoimmunity and allergic inflammation remains to be fully elucidated , exploiting inkt cells in helminth immunomodulatory mechanisms may lead to opening a new avenue to develop novel safer therapeutic agents for these diseases based on the manipulation of inkt cell function .
+inkt cells are unique innate - like t cell subset that bridge between innate and acquired immunity systems .

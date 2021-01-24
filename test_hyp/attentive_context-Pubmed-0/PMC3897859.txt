@@ -1,0 +1,6 @@
+the outcome of this study might provide a platform for simultaneous structural comparative analysis of these proteins and help in finding out variations in their structures to explore why different strains of hpv have causative associations with different types of cancers .
+hpvpdb brings together comprehensive information on a total of 1,036 protein sequences and 743 predicted structures .
+therefore , we proposed to develop a comprehensive reserve on hpv with maximum possible inputs and outputs for the end users .
+meanwhile , to provide regular updates , our team is committed to searching for newly sequenced hpv strains , updating this reserve , and serving the users .
+human papillomavirus ( hpv ) , a virus from the papillomavirus family , is capable of infecting humans . about 200 different strains of hpv identified , based on dna homology , have been found to be etiologically linked to cervical , vaginal , vulvar , penile , anal , oral , and plantar infectious lesions and cancers , as well   .
+amongst the existing 200 strains of hpv , 150 have been sequenced as of now , and their data available at the national center for biotechnology information ( ncbi ) .

@@ -1,0 +1,5 @@
+example of report for parental origin of de novo mutations showing base substitutions within a cpg dinucleotide ad , autosomal dominant ; xd , x - linked dominant ; xr , x - linked recessive ; p , point mutation ; ms , missense mutation ; ns , nonsense mutation ; cpg , mutation in a cpg dinucleotide ; ts , transition mutation ; tv , transversion mutation .
+ parent - of - origin effects is a broad term that encompasses two distinct phenomena 
+this catalogue served as the basis for the development of a more comprehensive , searchable , online database , made publicly available in 1999 .
+a parent - of - origin effect on transcription , or genomic imprinting , results from epigenetic modification of the genome which , in turn , results in unequal transcription of parental alleles . for these imprinted genes , expression of the alleles is dependent upon the sex of the parent from which they were inherited ( 1 ) . a parent - of - origin effect on mutation rate
+in 1998 , the catalogue of imprinted genes and parent - of - origin effects was first published ( 4 ) .

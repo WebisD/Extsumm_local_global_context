@@ -1,0 +1,18 @@
+tuning materials into a quasi - critical fluctuation regime offers the opportunity to make use 
+ of exotic properties associated with such a fluctuating state . among these properties
+a metal  adsorbate system is analysed , in which charge - density 
+ fluctuations cause an unconventional phase transition .
+are a strong 
+ response to external perturbations and novel types of interactions , such as the casimir force or 
+ cooper pairing .
+the phase transition is modelled in the 
+ spirit of landau theory by expanding the free energy in terms of a cdw order parameter , but also 
+ adding terms representing the inter - adsorbate repulsion and the adsorbate  substrate coupling . 
+ transferring the same model to the controversially discussed surface structures observed on 122 
+ fe - based superconductors a consistent explanation of both
+, the temperature dependence and the 
+ relative stability of the structures as a function of chemical composition is reached . as a 
+ consequence , it is suggested that cdw ( or eventually orbital order ) fluctuations are present in 
+ these compounds with a wave vector differing by an angular offset of 45 from that of the afm 
+the parameter range in which fluctuations persist is considerably enhanced in 
+ low - dimensional systems .

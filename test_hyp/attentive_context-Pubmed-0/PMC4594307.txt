@@ -1,0 +1,7 @@
+real - time monitoring of the circadian gene expression was performed using rat-1 cells expressing a luciferase reporter under the control of the upstream region of bmal1 gene .
+real - time monitoring of the circadian gene expression was performed using rat-1 cells expressing a luciferase reporter under the control of the upstream region of bmal1 gene .
+after incubation for 30  min , the reaction was stopped by the addition of 10  l of 2  sds sample buffer .
+the in vitro kinase assay was carried out at 30c in a reaction mixture ( 10  l ) consisting of 1  mm dithiothreitol , 100  m [ -p]atp , 10  ng 30k - camkii and 100  ng substrate protein .
+rat-1 cells were treated with 0.1  m dexamethasone for 2  h for the rhythm synchronization , and the bioluminescence signals from the cells were continually recorded at 37c under air with dish - type bioluminescence detector , kronos ( atto , ab-2500 ) or lumicycle ( actimetrics ) .
+the substrate proteins , gst - sp , mbp - nt , gst or mbp ( each 100  ng ) were prepared as described previously .
+the mice ( c57bl/6 background , male , 10-week - old ) were housed individually at 23c in cages with food and water available ad libitum .

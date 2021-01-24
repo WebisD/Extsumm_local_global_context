@@ -1,0 +1,5 @@
+this subgroup of individuals includes a substantial number with fasting glucose levels of 110125 mg / dl and a burden of cardiovascular risk factors similar to that of their counterparts with pre - diabetes by a1c and ifg .
+using ifg as the reference standard for pre - diabetes , a1c levels between 5.7% and 6.4% would reclassify 37.6 million americans with ifg as not having pre - diabetes and 8.9 million without ifg as having pre - diabetes for a total of 46.5 million reclassified ( table 3 ) . at
+policy makers and clinicians will need to consider the tradeoffs between performing both fpg and a1c testing alone or in combination .
+, the sensitivity , specificity , and positive and negative predictive values for pre - diabetes were 30 , 89 , 33 , and 87% by a1c ; 59 , 79 , 34 , and 91% by ifg ; 22 , 95 , 43 , and 87% by a1c and ifg ; and 66 , 73 , 31 , and 92% by a1c or ifg , respectively .
+further , because the prevalence of pre - diabetes is lower , as expected , the positive predictive value ( 27% ) is lower and the negative predictive value ( 95% ) is higher .

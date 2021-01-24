@@ -1,0 +1,6 @@
+csf : cerebrospinal fluid ; icp : intracranial pressure ; mri : magnetic resonance imaging ; onsd : optic nerve sheath diameter .
+present their research correlating magnetic resonance imaging ( mri ) measurements of onsd with icp . in a retrospective review of 38 patients with traumatic brain injury requiring both invasive icp monitoring and mri
+the recognition that elevated intracranial pressure ( icp ) is transmitted through the optic nerve and its sheath has been known for many years . this physiological process is the basis for the physical exam finding of papilledema on fundoscopic examination .
+recently , interest has turned to measurement of the optic nerve sheath diameter ( onsd ) through non - invasive imaging technologies to provide surrogate markers for early elevated icp . in this issue of critical care , geeraerts and colleagues  
+the study by geeraerts and colleagues adds to a growing body of research demonstrating a correlation between increased onsd and elevated icp . by demonstrating the correlation of mri measurements of the onsd with invasive icp monitoring
+the research presented by geeraerts and colleagues is unique in its comparison of onsd with simultaneous direct measurements of icp through invasive monitoring .

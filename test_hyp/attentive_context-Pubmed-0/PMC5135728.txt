@@ -1,0 +1,8 @@
+as can be seen , the expression of amacr decreased in metastatic prostate cancer ( p = 0.02 ) .
+the expression of other genes showed no difference between metastatic and non - metastatic tumors ( p > 0.1 ) .
+this study attempts to evaluate relationship between clinical parameters of prostate cancer ( psa , gleason sore , and metastase ) and expression of nkx3.1 , amacr , tmprss2- erg , erg , and spink1 genes .
+no relationship was detected between the expression of the five genes and the gleason score ( p > 0.1 ) .
+the psa levels were less than 10 ng / ml , 10 - 20 ng / ml and more than 20 ng / ml in 12 , 17 , 14 patients , respectively .
+establishing a relationship between gene expression and clinical parameters ( psa , gleason score and clinical stage ) can help us in treatment planning
+the challenge is to identify those patients at risk for relapse and to better understand the molecular abnormalities that define tumors at risk of relapse ( 2 ) .
+a decrease in the expression of amacr may be a sign of poor prognosis and an increase in the risk of metastasis .

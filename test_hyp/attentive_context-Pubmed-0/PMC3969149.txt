@@ -1,0 +1,5 @@
+we hypothesize that mitochondrial damage in pd occurs as a direct result of ppp dysregulation and that -syn plays an important role in the altered metabolism of glucose via the ppp in this disease .
+we hypothesize that reduced glucose metabolism via the ppp in neurons , is an early event in sporadic pd pathogenesis .
+2008 ) , the early stage cases in our experiments again did not show an increase in nadph levels
+importantly , ad cases with braak and braak stages iv - vi have amyloid beta and tau pathology in the putamen and the activation of g6pd in these samples suggests that an oxidative stress response is occurring . while both the mild and moderate and/or severe pd cases used in this study showed lewy body pathology in the putamen , it is only the moderate and/or severe group which shows increased nadph production in response to this ( fig .  1a , black bars )
+recent studies investigating metabolism in pd have continued to emphasize the importance of glucose usage in the disease process , with glucose hypometabolism shown in pd using magnetic resonance imaging and fludeoxyglucose ( 18f ) positron emission tomography studies ( borghammer , 2012 ) .

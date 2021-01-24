@@ -1,0 +1,7 @@
+mopa was successfully synthesized and could be used as a novel fluorescent reagent for determination of ammonium .
+compared with the fluorescent product of ammonium reacting with opa , the strong fluorescent compound of this proposed reaction appeared as red shift phenomenon , and the excitation emission wavelength was closed to the visible light zone . based on this , a novel analytical method was proposed for trace ammonium in natural water using mopa as fluorescent reagent .
+ammonium could rapidly react with mopa at room temperature producing a strong fluorescent compound , at which maximum excitation and emission wavelength were 370  nm and 454  nm , respectively .
+the fluorescence intensity of both blank solution and 0.200  mol / l ammonium working solution increased with an increase in the concentration between 0 and 0.12 
+the reproducibility of the proposed method was evaluated with 4 repetitive determinations of a 0.100  mol / l ammonium working solution .
+effects of the solution ph on the fluorescence intensity of blank and 0.200  mol / l ammonium working solution were investigated in the range of 9.212.2 .
+g / l , the fluorescence intensity of both solutions was closed to maximum constant , illuminating that the amount of na2so3 in the range of 0.0410.081 

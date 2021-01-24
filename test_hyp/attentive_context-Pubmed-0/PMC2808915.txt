@@ -1,0 +1,8 @@
+for example , many software packages that use rna parameters still implement the set of parameters assembled in 1999 ( 4 ) , in spite of the fact the rna parameters were updated in 2004 ( 2 ) based on experimental results .
+the top - level page provides access to a help page , available parameter sets and a page of references to rna optical melting experiments .
+text is encoded in unicode ( utf-8 ) to facilitate display of equations in pages with diverse browsers running on diverse operating systems .
+the help page introduces the purpose of the database and defines basic terms , including the set of structural features defined by secondary structures .
+this is a barrier to software development for novel algorithms that could take advantage of the parameters .
+the nearest neighbor database ( nndb ) is a web - based tool for assembling and archiving complete nearest neighbor sets , including rules and values .
+given the number of rules and constraints on the length of journal publications , it is difficult to assemble all the parameters in one publication and provide meaningful tutorials for using the parameters .
+additionally , links provide downloading of the whole database in either zip or gzipped tar format .

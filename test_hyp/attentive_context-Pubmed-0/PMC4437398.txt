@@ -1,0 +1,7 @@
+this review firstly discusses sample matrices that were used in the studies of potential voc biomarkers of cancer and critically evaluates in vitro and in vivo approaches applied in this field .
+finally , the main extraction techniques and analytical techniques that have been applied to date in the area of the studies of potential volatile biomarkers of cancer are compared .
+this underlines the need for investigation of new methods for the early detection of cancer . in this search
+the investigation of targeted vocs only ( rather than all the vocs present in a sample ) as candidate cancer biomarkers is also discussed .
+one of the most promising metabolomic approaches is the analysis of volatile organic compounds ( vocs ) , which could potentially serve as a safe , noninvasive ( at least for breath and some biofluid samples ) , and specific test for the early detection of different types of cancer .
+next this paper reviews complementary in vivo , ex vivo , and in vitro studies conducted to date in order to find volatile biomarkers of cancer .
+for example , a new , noninvasive method of lung cancer screening , spiral computer tomography , which has been shown to detect cancer that is curable by surgery , is also accompanied by a risk of exposure to radiation , high false - positive rates , and the possibility of overdiagnosis .

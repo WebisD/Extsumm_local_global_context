@@ -1,0 +1,8 @@
+we used both of the advantages of magnetic nanoparticles and biodegradable polymers , and the application of the novel polymer - fe3o4 complexes as gene vectors in vitro was then described at length .
+dna encapsulation efficiency increased with the proportion of polymer - fe3o4 nanoparticles , and the optimal e.e .
+the novel gene delivery system proved to be an effective tool for future , and it is promising in targeting expression and delivery of therapeutic genes in in vivo studies .
+the target distribution of polymer - fe3o4 complexes with an outer magnetic field was demonstrated in vivo .
+all types of nucleic acids from plasmid dna or oligonucleotides to sirna can be used with this approach . in this research ,
+the synthesized magnetic nanoparticles have an approximately size of 100  nm and are additionally coated with biodegradable polymers .
+the controlled - release effect of cts - fe3o4 complexes was more apparent than peg - fe3o4 , and the dna binding and release from the polymer - fe3o4 do not alter its functionality . both cts - fe3o4 and peg - fe3o4 had low cytotoxicity to hek-293 and hepg2 cells .
+thus , they were good representative samples for enhancement of delivery and effective targeting of gene expression . furthermore , the egfp expression was strong in transfected cells indicating that the function of dna was kept and no fragmentation occurred .

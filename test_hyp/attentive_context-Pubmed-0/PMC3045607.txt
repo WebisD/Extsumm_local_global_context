@@ -1,0 +1,6 @@
+, we introduce a simple model to obtain its base pair parameters , roll , tilt , shift , slide and rise , so , the lateral displacements of the adjacent base pairs of dna are considered besides the bending and twisting deformations , which are mostly studied in the previous theoretical works and simulations . the dna 
+these encouraging results show the important role of the rigidity of the sugar - phosphate backbones of dna in its conformation .
+we simply consider no sequence effect explicitly in writing the elastic energy of dna , and without any tuning parameter , the base pair parameters of the 147  bp steps , especially , the most important ones , roll and slide , are obtained in an overall good agreement with the experimental results .
+, we can find all of the 21 different elastic constants of dna molecule as a function of the covalent bonds stiffness .
+the elastic energy of the molecule consists of two terms : one shows the changes in the covalent bond energies , and the other shows the energy cost of the rotation of the base pairs . by using this simple model
+mohammad - rafiee and golestanian ( 8) studied the structure of dna in the nucleosome core particle using an elastic model that incorporates anisotropy in the bending energies and twist - bend coupling .

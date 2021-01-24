@@ -1,0 +1,7 @@
+one - year relative survival was 61.9% ( ci 95% : 56.867.5 ) in men and 64.3% ( ci 95% : 51.970.8 ) in women ; five - year relative survival was 34.2% ( ci 95% : 29.240.1 ) in men and 53.3% ( ci 95% : 40.370.5 ) in women ( table 2 ) .
+the objective of this study is to determine oropharyngeal cancer survival from the population - based cancer registry ( pbcr ) of zaragoza , spain .
+the observed survival after one year of diagnosis of oropharyngeal cancer was 61.3% ( ci 95% : 56.466.2 ) .
+there were no differences when comparing the three age groups ( p value = 0.61 ) , the locations ( p value = 0.25 ) , and the three studied time periods ( p value = 0.17 ) .
+comparison of survival rates by sex revealed statistically significant differences ( p value = 0.017 ) with better survival in women .
+cancer survival analysis from population - based data constitutes a valuable tool for the evaluation of welfare services offered and allows for the orientation towards diagnose and treatment strategies .
+the population studied was diagnosed with oropharyngeal cancer in the province of zaragoza , spain , between january 1 , 1978 and december 31 , 2002 .

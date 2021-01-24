@@ -1,0 +1,5 @@
+table 3 demonstrates that males who underwent a nerve - sparing procedure and females with vaginal sparing had a significantly decreased risk of requiring long - term cic ( odds ratio [ or ] 0.20 , p < 0.01 ) .
+surprisingly , older age was associated with a decreased risk of cic ( or 0.92 , p < 0.01 ) .
+furthermore , patient characteristics associated with increased risk include non - conservative ( non - nerve sparing and non - vaginal sparing ) surgery , younger age and higher bmi .
+patients < 50 years of age were more likely to catheterize than those 50 years of age , with an or of 6.4 ( 95% confidence interval [ ci ] 1.0638 , p = 0.042 ) .
+three factors were statistically significant predictors for the need for cic and included younger age , higher bmi and undergoing non - conservative surgery ( non - nerve sparing in males and non - vaginal sparing in females ) , table 2 . when age is evaluated as a continuous variable , the mean age in those who required long - term cic was 62 years compared with 57 years in those who required cic ( p = 0.026 ) .

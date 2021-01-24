@@ -1,0 +1,6 @@
+we present an educated and pragmatic method to quantify the potential impact of residual confounding , and to de - bias the comparison of screened with unscreened groups , a method originally introduced by cornfield et al . .
+in conclusion , in studies on breast cancer screening the mortality reduction ranges from 38 to 70%   .
+these values were chosen based on the expected prevalence of the risk factors in the female population , i.e. 5% for mammographic density , 10% for late age at menopause , 20% for nulliparity , and 35% for serious overweight .
+we compared the mortality rate in the screened ( ms ) with not screened women ( mns ) .
+to assess the effect of screening , breast cancer mortality in both screened and not screened women has to be compared ; this can be looked upon as the relative risk ( rr , or rate ratio ) of breast cancer mortality .
+the y - axis in each figure depicts the expected ors adjusted for residual confounding other risk factors for breast cancer like obesity , socio - economic status , nulliparity , late age at menopause , early age at menarche , and family history show a 1.5 to fourfold relative risk of breast cancer at most .

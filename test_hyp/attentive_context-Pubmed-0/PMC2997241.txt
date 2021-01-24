@@ -1,0 +1,34 @@
+it is hoped that this paper will 
+ provide medical professionals and students some 
+ overview of what rfid technology can potentially do 
+ for medical applications , effectively motivating and 
+ facilitating them to utilize this valuable technology not 
+ only for the improvement of patient treatments , but also 
+ to possibly develop particular rfid devices , in 
+ collaboration with other disciplines such as biomedical 
+ and electrical engineering , for specific medical needs .
+our main objective is not to present 
+ specific rfid systems for these medical practices , 
+ which are outside the scope of our research and requires 
+ significant collaborated efforts between different 
+ disciplines , but to give ideas that can possibly lead to significant improvements in medical examinations and 
+ monitoring of patients .
+we have presented several ideas using rfid 
+ technology , one of the most significantly developed and 
+ advanced technologies in the past decade , for personal 
+ health examination and monitoring .
+, we present several ideas of using rfid 
+ technology for personal health examination and 
+ monitoring .
+rfid is 
+ very attractive for medical applications and if properly 
+ utilized can potentially lead to breakthroughs in the way 
+ medical examinations and monitoring of patients are 
+ conducted . in this paper
+it is 
+ believed that implementing the rfid technology would 
+ not only help reduce the enormous and significantly 
+ growing medical costs in the u.s.a . , but also help 
+ improve the health treatment capability as well as 
+ enhance the understanding of long - term personal health 
+ and illness .

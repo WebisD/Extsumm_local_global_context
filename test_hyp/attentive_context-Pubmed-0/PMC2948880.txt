@@ -1,0 +1,6 @@
+the cause was identified as lack of experience ( group 3 ) and an error in the calculation of the dilution of the standard to make the standard curve ( group 11 ) . for tau ,
+with the aim to improve between - laboratory performance we set out to identify the specific differences in procedures between laboratories .
+laboratories that used the innotest assays improved the between - laboratory variation of a42 from 30% in 2004 to 22% in 2008 , suggesting that experience and standardization of assay procedure may contribute significantly to reduce between laboratory variation .
+26 participants from 17 different international centres with previous experience in performing the assays were divided in 14 groups , and every group performed the a42 , tau , and ptau assays .
+examples of these items are the use of polypropylene plate for sample predilution , the inclusion of 1500  pg / ml standard in the curve , the use of 50  l h2so4 in the a42 assay , and the use of 5pl curve fitting and incubation temperature of 25  2c for total tau .
+the intra - assay variation based on the concentrations of the unknowns was high for pool 1 and 2 of abeta but on average was below 10% for tau and ptau .

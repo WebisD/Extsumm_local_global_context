@@ -1,0 +1,7 @@
+this paper developed a fall detection system based on a single triaxial accelerometer based wearable device .
+the hardware and software realization of the device is mainly based on a single triaxial accelerometer and gps / gsm module .
+the system has low power consumed hardware design and highly efficient algorithm which could extend the service time of the wearable device .
+besides this , the accelerometer coordinate does not have to be fixed if only the magnitude of sum vector is needed , and that is quite convenient for wearable application . in this paper , a fall detection system based on a wearable device is developed .
+sufficient sample number collected from subjects with different age and gender will improve the reliability and robustness of the threshold . beside these , technologies such as svm and neural network are considerable to seek out a proper classification method based on the features used in this system .
+a single triaxial accelerometer is quite enough for human fall detection as sufficient information could be extracted from its measurements .
+external supports such as motion sensors could be used to enhance computer vision based fall detection method , and a data fusion algorithm can operate the validation and correlation among the two subsystems to raise robust performance of fall detection .

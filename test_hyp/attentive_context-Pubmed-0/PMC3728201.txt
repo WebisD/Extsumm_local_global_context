@@ -1,0 +1,5 @@
+as such , we studied metabolite abnormalities in mld using multi - voxel long te h - mrs of the brain .
+the naa / cr ratios were significantly reduced in the white matter ( t - test , p < 0.0001 ) and the bg ( t - test , p < 0.0001 ) in the mld patients compared to controls .
+we propose that elevated lac / cr and mi / cr ratios are both attributable to the astrocytic gliosis characteristic of mld .
+bizzi et al implemented a long echo - time ( te ) h - mrs in 70 patients in an attempt to classify the patterns of metabolite abnormalities in various types of leukodystrophies.3 kruse et al studied seven cases of mld using short te h - mrs and found a marked decrease in the neuronal marker n - acetyl aspartate ( naa ) , and elevated myo - inositol ( mi ) levels.4 multi - voxel h - mrs can be used to examine large areas of the brain and therefore is an efficient tool for researching mld , which causes diffuse cerebral changes without any focal lesions .
+in contrast , the mi / cr ratios were markedly elevated in the bg ( t - test , p < 0.01 ) and the white matter ( t - test , p < 0.0001 ) in our subjects compared to normal controls .

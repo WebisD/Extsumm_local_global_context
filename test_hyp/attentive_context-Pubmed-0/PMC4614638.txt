@@ -1,0 +1,7 @@
+herein , we report on a case of ndm in a caucasian boy , who presented severe diabetic ketoacidosis ( dka ) at 17  days of life .
+the e227k mutation found in our patient is a gain - function mutation that results in both impaired atp sensitivity and higher intrinsic 
+neonatal diabetes mellitus ( ndm ) is a rare monogenic form of diabetes starting within the first 6  months of life 13 .
+further investigation is required to understand clinical heterogeneity and the incomplete co - segregation of the kcnj11 mutation with diabetes , and also the molecular mechanisms underlying the biphasic course of tndm .
+the genetic screening showed a heterozygous missense mutation ( c.679  g > a ) in the kcnj11 gene which leads to the replacement of lysine with glutamic acid at position 227 ( e227k ) of the atp sensitive potassium channel .
+mutations in these genes lead to a gain - in - function of the pancreatic atp - sensitive potassium ( katp ) channel , which is critical in the regulation of insulin secretion by the beta cell 3,6,8,9 .
+the reason why the same mutation causes a relapsing / remitting form of diabetes in some patients whereas in others it produces a permanent diabetes is unclear 15 .

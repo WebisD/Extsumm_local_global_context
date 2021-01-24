@@ -1,0 +1,7 @@
+the strain a. azurea dsm 43854 is a gram - positive bacteria and contains aerial mycelium with white to blue color .
+a total of 8603 coding regions ( 4406 from a positive strand and 4197 from a negative strand ) were found in the genome of which 5396 ( 63% ) could be functionally annotated .
+the strain a. azurea dsm 43854 is a gram - positive bacteria and contains aerial mycelium with white to blue color .
+a. azurea was proposed by omura et al . in 1983   and later on emended by henssen et al . in 1987   and was isolated from soil that produced two water soluble antibiotics , namely , azureomycin a and b. a. azurea strain dsm 43854 was obtained from the open collection of the german collection of microorganisms and cell cultures ( dsmz ) , braunschweig , germany .
+the genome contains 3 rrna genes ( 5s23s16s ) and 58 aminoacyl - trna synthetase genes .
+genomic dna was extracted from a 48  hour old culture using zr fungal / bacterial dna miniprep as per manufacturer 's instructions .
+the annotated genome has 117 genes involved in virulence , disease and defense including 61 genes for resistance to antibiotics and toxic compounds such as tetracycline , vancomycin , arsenic and beta - lactamase ( fig .

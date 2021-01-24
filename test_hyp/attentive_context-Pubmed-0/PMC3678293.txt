@@ -1,0 +1,28 @@
+we 
+ thus show that it is possible to develop enzyme - responsive pa systems 
+ with pronounced nanostructure transitions , leading in turn to macroscopic 
+ changes in the sample transparency .
+the pas corresponding 
+ to cleaved products c16-kkf and c16-kkff are 
+ shown to self - assemble into spherical micelles , quite distinct from 
+ the nanotubes / helical ribbons formed by c16-kkffvlk .
+, we investigate the influence of the 
+ model serine protease 
+ -chymotrypsin on the self - assembly of the pa c16-kkffvlk .
+specifically , release of 
+ micelles in response to enzymatic degradation of extended nanostructures 
+ ( which have been shown to offer enhanced circulation 
+ times in vivo ) may be useful in delivery of actives .
+the peptide amphiphile ( pa ) has been designed based on 
+ the klvff core motif from the amyloid beta ( a ) peptide .
+we have shown that the pas corresponding to 
+ the cleavage products 
+ c16-kkf and c16-kkff assemble into very different 
+ structures than the parent pa which forms nanotubes and helical ribbons 
+ at room temperature .
+this released a hexapeptide ( containing a c - terminal f ) along with 
+ peg with an n - terminal f residue . this proof - of - principle work established 
+ a possible route to create an enzyme - responsive delivery system based 
+ on peg - coated particles which have relevance to biological applications 
+ since peg provides a sterically stabilized corona , enabling enhanced 
+ in vivo stability . here

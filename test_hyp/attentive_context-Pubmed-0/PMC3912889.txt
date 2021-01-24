@@ -1,0 +1,8 @@
+firstly , extract feature point set based on curvature characteristics , and then achieve the registration results by two procedures : the coarse registration and the precise registration . to verify the reliability of the improved icp algorithm , we test it with 3d cbct dental model and ineos blue - light scanned model .
+the procedure of this algorithm used in the registration of 3d cbct dental model and 3d ineos blue scanning dental model is discussed in detail .
+the aim of this work is to develop an improved iterative closest point ( icp ) algorithm in terms of the problem of registration with different image resolutions .
+section 4 reports the results of experiments conducted on the cbct model and the ineos blue scanned model and provides the discussions .
+section 2 provides an overview of the icp algorithm and proposes an improved icp algorithm .  
+experimental results show that the accuracy is increased significantly and this solution meets the requirements of the image - assisted surgery .
+the feature points extraction and image registration successfully between the ineos blue scanner dental model and the cbct 3d dental model .
+considering the characteristic of the stl model data itself , we take the cbct 3d dental model as the reference model and adopt the constraint - based curvature method .

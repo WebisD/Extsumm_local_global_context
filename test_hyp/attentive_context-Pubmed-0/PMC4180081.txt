@@ -1,0 +1,25 @@
+finally , we demonstrate our parameters  in action  by 
+ modeling metal substitution in the active site of the human and e. coli variants of glyoxalase i.
+qvist and warshel proposed a solution to this problem 
+ in 
+ 1990 , presenting a nonbonded octahedral 
+ dummy model to describe transition metals , which allowed one to capture 
+ fundamental properties of the metal center such as m 
+metal ions are crucial to biology , 
+ fulfilling a range of chemical 
+ and structural functions that make life possible , but accurately describing 
+ metal centers in molecular simulations remains a significant bottleneck 
+ in computational chemistry and biology .
+however , while complex metal centers are by now routinely modeled 
+ in computational organometallic chemistry and in qm / mm studies of biological systems , the high computational cost associated with using a density functional 
+ theory based description of the metal center makes use of such an 
+ approach untenable in long time scale biomolecular simulations . additionally , 
+
+we have tested our model using two different popular water models 
+ ( spc and tip3p ) and show that our parameters are easily transferable to any force 
+ field that describes nonpolar interactions using a lennard - jones potential . 
+
+ideally , one would like to 
+ have a full quantum mechanical description of the metal center , particularly 
+ as this would allow one to correctly describe ligand - to - metal charge 
+ transfer , and changes of spin state in the case of transition metals . 

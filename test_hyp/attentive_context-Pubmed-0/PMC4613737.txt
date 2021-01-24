@@ -1,0 +1,19 @@
+, 
+ we have conducted an initial evaluation of ebola virus persistence 
+ within wastewater to address uncertainty and inform ongoing risk assessments . 
+ a current ebola virus outbreak strain from guinea ( makona - wpgc07 ) 
+
+ebola virus titer was rapidly reduced ( approximately 
+ 99% ) within the first day of the test , consistent with an inability 
+ to identify infectious ebola virus from the initial sample with 10 ebola virus tcid50 ml on day 
+ 1 .
+the observed ebola virus inactivation in wastewater was 
+ more rapid than that reported for human blood , which required 20 days 
+ for a 90% inactivation , and results are 
+ consistent with recent studies that identified viable ebola virus 
+ to persist in infected macaque blood for > 8 days . in general , ebola virus was found to be less persistent 
+ in wastewater than model enteric viruses . while the t90 for ebola virus in wastewater was found to be < 1 
+ day , the t90 for hepatitis a is greater 
+ than 17 days and the t90 for enteric adenovirus is 33 days ; however , the t90 for poliovirus 
+ is 5 days , which is between the observed t90 values including or excluding the time zero 
+ time point .

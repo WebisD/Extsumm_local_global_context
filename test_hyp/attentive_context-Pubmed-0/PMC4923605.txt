@@ -1,0 +1,6 @@
+systemic lupus erythematosus ( sle ) is a systemic autoimmune disease with manifestations in multiorgans that are induced by the deposition of circulating autoantibody - autoantigen complexes ( immune complexes , ic ) and amplified by subsequent infiltration of different types of leukocytes promoting the inflammation .
+as chemokines and chemokine receptors are important in the recruitment of leukocytes to the kidney in the development of ln , one would naturally think of developing new treatments for ln that target the interaction between chemokines and chemokine receptors .
+inflammatory factors inducing the expression of chemokines , as well as chemokines that may be used as biomarkers for the diagnosis of ln , are also discussed .
+we summarize recent studies on the chemokines that are increased in the kidney as ln progresses and the corresponding chemokine receptors used by renal - infiltrating leukocytes in response to the chemokines .
+the complexity of chemokine and chemokine receptor system and possible redundancy are a challenge for the development of new drugs to block leukocyte infiltration   .
+lupus nephritis ( ln ) , a major cause of morbidity and mortality in up to 60% sle patients , is characterized by inflammation of the kidney .

@@ -1,0 +1,6 @@
+we find that this is a rapid and accurate way to identify ncs , even in a case where the map is poor and the correlation of ncs - related density is low .
+the approach described here for finding ncs in a map can be used in a number of situations . in the phenix crystallographic software ,
+this approach uses superposition of a cut - out region of the map with the remainder of the map , and therefore can make use of all the local features in a map , not just rotation - invariant ones . in this approach , an fft - based convolution search  
+is used to find orientations and translations that relate parts of a map to other parts of a map .
+the method phenix.find_ncs_from_density is used during structure solution with phenix.autosol   if ncs is expected but can not be found from heavy - atom sites , and it is used during iterative model - building with phenix.autobuild   any time it is expected and has not been identified by any other means .
+the ncs relationships identified in this way can be used as a powerful addition to the information available for density modification   .

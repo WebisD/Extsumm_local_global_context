@@ -1,0 +1,7 @@
+internal rotations in clindamycin were investigated in vacuum and within the framework of the ief - pcm model . using nbo analysis , and with the aid of the aim theory ,
+we have quantum chemically characterized the two conformers of each of the known lincosamides clindamycin , lincomycin , and pirlimycin at the b3lyp/6 - 31 g level .
+we focused on the sensitivities of electronic structure parameters such as nbo atomic charges , bond critical points , nmr chemical shifts , and spin  spin coupling constants to the conformation of clindamycin .
+the two most stable conformers of clindamycin exhibit c = oh  o intramolecular hydrogen bonds . according to nbo and aim analyses ,
+the aim of the work described in the present paper was to clarify the role of intramolecular hydrogen bonds in clindamycin using quantum chemical calculations .
+the presence of this internal hydrogen bond between the pyrrolidine - derivative ring and the six - atom sugar ( methylthiolincosamide ) is the main influence on conformer stability in vacuum and in water .
+no systematic and accurate study of the conformational behavior of clindamycin in the gas phase and in solution has been reported .

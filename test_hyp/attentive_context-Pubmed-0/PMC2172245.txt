@@ -1,0 +1,8 @@
+cleavage furrow induction through local relief from the inhibitory effects of microtubules is an appealing model because it explains how two pathways , spindle elongation and central spindle assembly , could control furrow formation through a common molecular mechanism .
+microdissection , genetic , and inhibitor experiments have been used to define the parts of the spindle that are required for cleavage furrow induction .
+in particular , it is tempting to speculate that the signals discussed here are important for patterning of the cortex in response to a local inhomogeneity in the distribution of microtubules .
+in addition , it accounts for the fact that the central spindle has a positive ( though nonessential ) role in furrow formation .
+alternatively , contractile ring assembly might be a cooperative process that is self - refining and amplifying .
+it also has predictive value in that local depolymerization of microtubules should induce cleavage furrows .
+at this juncture , furrow positioning does not appear to be solely due to induction by astral microtubules or the central spindle , but rather , both components contribute .
+results of numerous experiments of this type have led to the astral stimulation model ( fig .

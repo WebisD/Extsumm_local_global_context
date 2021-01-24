@@ -1,0 +1,7 @@
+because clinicians implement hba1c testing to screen for diabetes , these data may be used to help identify the risk of incident diabetes among individuals with hba1c levels < 6.5% .
+we found that baseline hba1c was significantly predictive of the subsequent development of a diagnosis of diabetes over an 8-year period .
+logistic regression was used to compare the groups for risk of developing diabetes in the follow - up period ( table 2 ) . when compared with the reference hba1c group ( < 4.5% )
+we generated a risk calculator using hba1c and other clinical data that estimate the 5-year risk of developing diabetes .
+risk models for a diabetic diagnosis over 5 years were developed using hba1c alone ( model 1 ) and a multivariable model using hba1c , age , bmi , and sbp as predictors ( model 2 ) . for each predictor
+the first equation calculates the odds of developing diabetes mellitus in 5 years , and the second equation calculates the probability of developing diabetes mellitus in 5 years using the result from eq . 1 .
+risk comparison by cox proportional hazards model for developing diabetes according to baseline hba1c groups * adjusted for age , sex , ethnicity , race , bmi , and systolic blood pressure .

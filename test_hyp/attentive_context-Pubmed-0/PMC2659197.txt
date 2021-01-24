@@ -1,0 +1,27 @@
+we clarified that g9a 
+  specifically methylates h1.4k26 using peptides and full - length recombinant 
+  proteins with or without the presence of core histones .
+importantly , we 
+  demonstrated methylation of h1.4k26 by g9a in vivo using cell 
+  biological , genetic , and pharmacological approaches .
+g9a is highly homologous to another 
+  hkmt termed glp / euhmtase1 ( 51 ) 
+  both of which were shown to exhibit specificity for h3k9 . for the purpose of 
+  this study we focused on g9a but
+our data show that h1.4k26 is subject to dynamic methylation and that g9a 
+  is partially responsible for this process .
+indeed , we identified glp in our purification of h1.4k26 hkmt activity 
+  ( supplemental table s1 ) and g9a and glp were shown previously to function in a 
+  heteromeric complex with both enzymes contributing to global h3k9me1 and -me2 
+  ( 40 ) . a recent report utilized 
+  spot array technology ( described in refs . 
+  52 and 
+  53 ) to identify g9a substrates 
+  on the basis of a g9a - target consensus sequence .
+h1.4k26 was identified among 
+  potential g9a substrates in the context of synthetic peptides 
+  ( 54 ) .
+results from the chip experiments on the luciferase transgene suggest that 
+  g9a alters the chromatin structure by promoting the recruitment of h1 . to test 
+  this hypothesis on an endogenous gene we focused on mage - a genes , 
+  previously shown as being occupied by g9a and with its presence

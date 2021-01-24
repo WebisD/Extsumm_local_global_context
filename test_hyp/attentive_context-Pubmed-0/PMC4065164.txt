@@ -1,0 +1,24 @@
+sea captured the physics of solvation by 
+ presimulating toy spheres in explicit water , collecting a database 
+ of structural and energetic properties of those waters and then assembling 
+ at run time the solvation physics as sums over appropriate toy spheres 
+ to properly represent a given solute . in field - sea , this procedure 
+ differs in using a solvation free - energy field , rather than explicit 
+ waters .
+we have 
+ described field - sea , a method for computing solvation free energies 
+ of solutes in water .
+one of the 
+ key observations that arises from our md simulations of charged solutes 
+ in tip3p water , which is captured by field - sea , is that atoms that 
+ are adjacent to charged atoms in solutes acquire partial characteristics 
+ of those charged atoms .
+relative to sea , field - sea captures the solvation 
+ free energies of ions and charged solutes accurately , is faster to 
+ compute , and has no degradation of performance on nonpolar and polar 
+ solutes .
+furthermore , field - sea uses an adaptive boundary , allowing 
+ solvating waters to approach a solute atom to different degrees depending 
+ on neighboring atoms .
+both sea and field - sea offer advantages over implicit - solvent 
+ modeling in that they entail no adjustable solute atom radii parameters . 

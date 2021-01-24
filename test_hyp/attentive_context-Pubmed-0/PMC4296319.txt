@@ -1,0 +1,31 @@
+a major effort of 
+ our group has been to develop polyphosphoesters 
+ ( ppes ) tailored by manipulation of pendant functional groups on the 
+ pentavalent phosphorus atoms and to integrate the ppe system into 
+ new classes of degradable , biocompatible polymeric nanomaterials .
+particularly , introduction of reactive vinyl ether moieties to degradable , 
+ biocompatible ppes and their utilization 
+ to conjugate a library of hydroxyl- or thiol - containing biologically 
+ active molecules via multiple types of conjugation chemistries are 
+ envisioned to expand the breadth of this chemical approach in the 
+ development of functional biomaterials . herein , we report the 
+ organocatalyzed rop of ethylene glycol vinyl 
+ ether - containing cyclic phosphotriester monomer , as an initial fundamental 
+ study toward unique degradable , functional polymer materials .
+the degradation 
+ products , as identified by mass spectrometry , were found to be nontoxic 
+ toward two standard cell lines : raw 264.7 mouse macrophages and ovcar-3 
+ human ovarian adenocarcinoma cells .
+after 
+ demonstrating the well - controlled homopolymerization of the monomer 
+ with predetermined molecular weights and narrow molecular weight distributions , 
+ the resulting vinyl ether - functionalized ppe scaffold was conjugated 
+ with hydroxyl- or thiol - containing model small molecules via three 
+ different types of conjugation chemistries  thiol  ene 
+  click  reaction , acetalization , or thio  acetalization 
+ reaction  revealing efficient routes for postpolymerization 
+ modifications of functional polymers . furthermore , amphiphilic diblock 
+ copolymers containing the ethylene glycol vinyl ether - functionalized 
+ ppe as a hydrophobic block segment , also prepared by rop , afforded 
+ well - defined micelles that showed a ph - dependent hydrolytic core degradability 
+ of both backbone and side chains in aqueous solutions .

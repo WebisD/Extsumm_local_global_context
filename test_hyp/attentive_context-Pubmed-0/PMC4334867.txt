@@ -1,0 +1,5 @@
+the jta reporting system of thyroid cytology further recommends risk stratification of follicular neoplasms ( fn ) into favor benign ( low risk : lr ) , borderline ( moderate risk : mr ) , and favor malignant ( high risk : hr ) , which was adopted from the practice of high - volume thyroid centers in japan .
+therefore , surgical resection rate of indeterminate category is low in japan usually less than 50% , particularly in cases with fn .
+composite  statistical analysis clearly demonstrated good concordance for the hr diagnosis in malignant cases (  = 0.7714 ) ( table 3 ) , while this was not found for the other subcategories in both benign and malignant lesions (  < 0.4 ) .
+conventional smear samples of indeterminate diagnosis ( n = 389 ) were selected from files ( n = 3843 ) from the year 2005 at ito hospital , tokyo , japan , by one ( k. kameyama ) of the authors .
+the incidence of hr diagnosis in the 12 benign lesions was 10.4% ( 5/48 ) and that of hr in the 6 cases of ftc was 47.1% ( 10/24 ) ( p = 0.002 ) .

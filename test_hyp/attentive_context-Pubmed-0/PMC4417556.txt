@@ -1,0 +1,7 @@
+this paper proposes a design and implementation of a parallel architecture on fpga for blast , namely , systolic array - based parallel architecture for the blast algorithm .
+scientists have been investigating parallel architecture design for the blast algorithm on fpgas to achieve higher computational efficiency .  
+the design is implemented with very high speed integrated circuit hardware description language ( vhdl ) , making it compatible across a number of fpga architectures ( e.g. , xilinx , altera ) .
+we first present the overview of the blast algorithm as well as the related work .
+in the bioinformatics and computational biology ( bcb ) domain , biological sequence alignment is a quite common task .
+but with the exponential growth of the biosequence databases ( see figure 1 ) , meeting the computational requirements using current platforms is becoming a difficult task .  
+scientists are used to adopting sequence alignment to infer biological information of a newly discovered sequence from a set of previously known sequences . for instance , if a recently discovered sequence is similar to a known disease gene , then the biological information about the functionality of the new sequence can be inferred .

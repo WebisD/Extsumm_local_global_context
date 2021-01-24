@@ -1,0 +1,6 @@
+we therefore examined the relationship between sleep duration and diabetes prevalence and glycaemic control ( assessed by glycosylated haemoglobin ) in jamaican adults .  
+both shorter and longer hours of sleep were associated with an increased likelihood of diabetes , and this relationship remained significant after adjustment for potential confounders .
+conversely in women , shorter hours of sleep were associated with a reduced likelihood of diabetes , even after adjustment for the same confounders .
+when adjusted for age , bmi and family history of diabetes the odds of diabetes increased for each of the sleep categories and also became significant in those who reported sleeping less than 6 hours with an or [ 95% ci ] = 2.65   ( see table 4 ) .
+we also evaluated whether any relationship between sleep and diabetes prevalence was independent of traditional risk factors for the disease such as age , obesity and family history of diabetes .
+after adjusting for age , bmi , and family history of diabetes the odds of diabetes were significantly lower in those who reported sleeping less than 6 hours ( or [ 95% ci ] = 0.43   ) ( see table 4 ) .

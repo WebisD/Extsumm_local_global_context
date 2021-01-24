@@ -1,0 +1,6 @@
+the aim of this study was to investigate 1 ) whether high emotional demands or low job control were associated with suicidal ideation , and 2 ) the interactive effects of high emotional demands and low job control on suicidal ideation .
+we used data from the 4th korea national health and nutrition examination survey ( knhanes ) , which consists of comprehensive questionnaires including individual covariates related to suicidal ideation and lifestyle factors ( 2021 ) .
+furthermore , we found the interaction effects of combining high emotional demands and low job control on suicidal ideation for both genders .
+in the current study , we found that high emotional demands in both gender and low job control in men are related to suicidal ideation in sales and service workers after adjustment for age , household income and employment status .
+these interesting associations remained significant even after controlling for individual risk factors such as age , household income , employment characteristics , smoking , alcohol drinking and physical activity habit .
+the ors for suicidal ideation were associated with high emotional demands in both genders ( or , 2.07 ; 95% ci , 1.24 - 3.45 in men , or , 1.97 ; 95% ci , 1.42 - 2.75 in women ) adjusted for age , household income , and employment characteristics ( paid vs. self - employed ) .

@@ -1,0 +1,8 @@
+pbd and rsm were found to be very effective in selecting and optimizing the medium components in manageable number of experimental trials with overall 26.8% increase in antibiotic activity .
+moreover , the optimum culture medium obtained in this experiment will be useful for further study with large scale fermentation in a fermenter for the efficient production of antibiotic from this streptomyces sp .
+optimization of selected , highly influencing factors can be done using response surface methodology with either central composite design ( ccd )   or box - behnken design experiments . in present work , efforts taken to expel the seawater from the production medium of jaj06 , with incorporation of chemically defined salt formulations .
+further , in order to enhance the antibiotic production by jaj06 , production medium was optimized using a successive optimization strategy , selection of media components that significantly influence the antibiotic production using plackett - burman design and optimization of these media components using rsm with box - behnken design .
+jaj06 as a function of various salt compositions and levels of ingredients in production medium .
+the response of antibiotic activity ( y ) can be expressed in terms of the following regression equation : 
+ ( 3)y  ( antibiotic  activity )  = 165.34 + 13.54a+7.29b  5.83c0.43ab+2.50ac+0.85bc  14.13a221.63b218.71c2 , 
+ where y represented the response of antibiotic activity , and a , b , and c were the coded values of starch , kbr , and caco3 , respectively .

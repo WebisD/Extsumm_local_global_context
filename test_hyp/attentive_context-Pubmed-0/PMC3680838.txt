@@ -1,0 +1,6 @@
+this systematic review intends to study the available evidence regarding the effect of palliative sedation on survival time among adult terminally ill cancer patients and answers to the question : does palliative sedation shorten survival time ?
+however , the finding that in all studies regardless of setting , patient group , and different types of palliative sedation , the mst that did not differ from the comparison group is an important finding .
+a systematic literature search was done in the following databases : medline , embase , psycinfo , the cochrane central register of controlled trials ( central ) , cinahl , and scopus to identify papers that investigated the effect of survival time in terminally ill cancer patients receiving palliative sedation .
+mst was not statistically different between sedated and non - sedated groups in any of the included studies in this review .
+so conducting pragmatic trials methods might be a better solution for answering the question of survival times in palliative sedation and larger multicentric pragmatic trials may be the way forward .
+therefore , it was decided to include two types of studies : prospective trials with adequate control / comparative group which studied mean survival time ( mst ) as an outcome of palliative sedation.retrospective studies with comparative group and mst as an outcome .

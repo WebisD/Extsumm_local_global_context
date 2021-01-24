@@ -1,0 +1,21 @@
+in this paper , we have performed excited 
+ state accelerated ab initio molecular dynamics ( a - aimd ) 
+ to explore the excited 
+ state energy landscape and photophysical properties of a variety of 
+ systems . in an initial case study on formaldamine , we have found that 
+ a - aimd can be readily employed to enhance configurational space sampling 
+ for the study of molecular systems in the excited state , crossing 
+ energy barriers on the excited state energy landscape of up to 30 
+ kcal / mol and affording a quantitative description of the excited state 
+ free energy surface .
+we demonstrate 
+ how a - aimd can be used to describe the thermally averaged solvent 
+ effect on the fluorescence spectra of molecular systems , most notably 
+ making use of the enhanced configurational space sampling obtained 
+ by a - aimd to accurately describe both the prominent features and line - shapes 
+ of absorption and emission spectra .
+we then demonstrate how the excited state a - aimd method can be used 
+ to efficiently map out the photophysical topology of the system of 
+ interest ( i.e. , characterizing the variation in the vertical de - excitation 
+ energy gap as a function of the relevant internal degrees of freedom 
+ of the system ) .

@@ -1,0 +1,7 @@
+the conjugation of buffer stabilized mns with antibody was done using a conventional carboxyl - amine crosslinking method .
+hela is a human cervical cancer cell line ; nih/3t3s is a mouse embryonic fibroblast line ; hepg3 is from hepatocellular carcinoma ; raw264.7 is a mouse leukemic monocyte macrophage cell line .
+resulting nanoparticles are separated from the solution by addition of ethanol and ethyl acetate followed by centrifugation . to make the organic phase synthesized mns suitable for biological application we stabilized the mns using carboxylate terminated ligand with ndopa as an anchor .
+* -weighted imaging provides more of the localization of the nu4mns as the iron causes local changes in magnetic susceptibility which t2 * weighted images can be sensitive to .
+* -weighted imaging provides more of the localization of the nu4mns as the iron causes local changes in magnetic susceptibility which t2 * weighted images can be sensitive to .
+synthesis of carboxylate terminated ndopa ligand and functionalization of the mns was carried out according to the following protocol .
+5xfad tg mouse model ( b6sjl - tg(appswfllon , psen1*m146l*l286v)6799vas ) ( jackson laboratories ) is bred on a non - transgenic background ( b6sjlf1 ) .

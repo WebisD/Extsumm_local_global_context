@@ -1,0 +1,8 @@
+vivo imaging findings collectively suggest that tc - n4-amt is a potential radiotracer for breast cancer imaging . in compliance with the chelating capability of n4
+we report the synthesis of precursor o-[3-(1,4,8,11-tetraazacyclotetradecan)-propyl]--methyl tyrosine ( n4-amt ) and its radiolabeling with tc . in   vitro cellular uptake kinetics and planar scintigraphic imaging of tc - n4-amt
+in conclusion , efficient synthesis of n4-amt was achieved .   in   vitro cellular uptake and in  
+
+				 f - fluoro - deoxy - glucose ( fdg ) , an f - labeled glucose analog , is the most common radiotracer for positron emission tomography ( pet ) in cancer diagnosis .
+, n4-amt could be labeled with positron emitting radionuclides such as gallium-68 or with short - ranged beta emitters for internal radiotherapeutic purposes hereafter .
+due to their similar chemistry , the diagnostic radioisotope tc and the therapeutic radioisotope rhenium-188 ( re ) could be labeled to the same ligand , which leads to the diagnostic / therapeutic matched pair . unlike most of the cyclotron - produced radionuclides that utilize the covalent chemistry for labeling , tc requires a 
+the result of the in   vivo biodistribution studies in the normal fischer rats at 0.5 , 2 , and 4 hours after intravenous administration of tc - n4-amt is shown in table 1 .

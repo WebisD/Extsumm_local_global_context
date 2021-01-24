@@ -1,0 +1,7 @@
+the multivariable or ( 95% ci ) of ckd was 1.31 ( 0.70 to 2.44 ) in quartile 2 , 1.22 ( 0.57 to 2.62 ) in quartile 3 , and 2.72 ( 1.14 to 6.48 ) in quartile 4 ; p - trend = 0.0475 .
+, we examined the independent relation between plasma leptin levels and ckd in a multiethnic sample of us adults , after adjusting for main confounding factors .
+the positive association between leptin and ckd was attenuated , but still present . compared to quartile 1 of plasma leptin ( referent ) ,
+  in a multi - ethnic , population - based sample of us adults , we found that higher plasma leptin levels were positively associated with ckd .
+our results suggest that leptin may explain part of the reported association between obesity and kidney disease
+furthermore , the observed association between plasma leptin levels and ckd was present even after adjusting for c - reactive protein and fasting insulin levels , suggesting an association between this adipokine and ckd that is independent of these factors .  
+when we employed nonparametric models to graphically examine the dose - response relationship between plasma leptin levels and ckd without linearity assumptions involved in traditional regression models , we observed an overall positive association between plasma leptin and ckd , consistent with the results in tables 1 , 2 , and 3 .

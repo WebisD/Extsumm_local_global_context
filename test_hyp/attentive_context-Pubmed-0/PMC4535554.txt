@@ -1,0 +1,7 @@
+the aim of the present study was to validate the mapping accuracy of a novel non - invasive epi- and endocardial electrophysiology system ( neees ) .
+no significant difference in accuracy was found for the left vs. right ventricular sites ( p = 0.815 ) , while the difference in accuracy was significant comparing ventricular and atrial sites ( p < 0.001 ) . 
+
+analysed the accuracy of a non - invasive electrocardiographic imaging system in the ventricle reporting an accuracy of 210 mm .
+the mean distance from the non - invasively predicted pacing site to the anatomic reference site was 10.8  5.4 mm for the right atrium , 7.7  5.8 mm for the right ventricle , and 7.9  5.7 mm for the left ventricle activated via the coronary sinus lead ( table 1 ) .
+, non - invasive mapping of both epi- and endocardial surfaces applying novel numerical algorithms was reported .
+this study was in part funded by a grant from the russian science foundation , project # 14 - 15 - 01097 ,  noninvasive electrocardiographic imaging for diagnostics and catheter ablation guidance of atrial fibrillation and atrial flutter : a feasibility study  . funding to pay

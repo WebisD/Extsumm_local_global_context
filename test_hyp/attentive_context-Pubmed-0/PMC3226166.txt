@@ -1,0 +1,7 @@
+although there is in vitro evidence from cell - culture studies to show that apc blocks leukocytic adhesion to the endothelium , the in vivo mechanisms of apc - related anti - inflammatory and microcirculatory action have not been completely elucidated thus far . before discussing the role of apc on the microcirculation in sepsis
+, we will provide some information on the role of the microcirculation in the development of organ dysfunction and coagulatory failure .
+alongside antithrombin and c1-esterase inhibitor , activated protein c ( apc ) represents an important coagulatory inhibitor in humans .
+thus , an experimental apc application is capable of blocking the lethal effects of escherichia coli - induced septic disseminated intravascular coagulation , but also improves outcome in meningococcal - induced septic shock .
+because organ dysfunction and animal survival are not improved by the administration of other substances with comparable anticoagulant effects , it has been suggested that the action of apc is not solely dependent upon its anticoagulatory properties .
+the protein c and antithrombin anticoagulant pathways represent major mechanisms in controlling microvascular dysfunction during ischemia  reperfusion injury and sepsis . local and systemic antithrombin and apc
+apc has been used in several sepsis models to modulate the sepsis - induced proinflammatory response .

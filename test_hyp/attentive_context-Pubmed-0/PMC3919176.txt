@@ -1,0 +1,24 @@
+it is further demonstrated that the observed 
+ behavior results from an interplay of the molecular adsorption and 
+ lattice match .
+when deposited on various 
+ substrate surfaces , rod - like , -conjugated , 
+ small organic molecules are well - known for their tendency to form 
+ highly anisotropic crystal shapes , which are frequently called fibers 
+ or needles . whereas the epitaxial growth has been studied on various substrates , 
+ in particular anisotropic surfaces seem favorable to conserve the 
+ highly anistropic morphology and optical properties , for example , 
+ polarized emission or adsorption provided by a parallel molecular 
+ orientation obtained by self - assembly . consequently , 
+ cu(110 ) , tio2(110 ) and muscovite mica(001 ) are frequently chosen as a proper fundament to study the epitaxial 
+ growth of rod - like small molecules . in this paper , the epitaxial 
+ growth of 2,2:6,2-ternaphthalene 
+ ( nnn ) on muscovite mica(001 ) is reported . as indicated in figure 1a ,
+the molecule is built from three naphthalene 
+ units , which are linked together by c 
+( c ) a side view along the long molecular axis visualizing 
+ the edge - on / flat - on herringbone stacking of nnn .
+structural analysis reveals 
+ two different crystal orientations . whereas island - like structures 
+ are built up by upright standing molecules orientated with a ( 001 ) 
+ contact plane relative to the muscovite mica substrate ( see figure 1b ) ,

@@ -1,0 +1,6 @@
+more recently , the technique of automatic tube compensation ( atc ) has become available to specifically address this issue . in this issue of critical care , maeda and
+atc = automatic tube compensation ; copd = chronic obstructive pulmonary disease ; et = endotracheal ; peep = positive end - expiratory pressure ; psv = pressure support ventilation .
+colleagues   compare the technique of atc , as provided by the drager evita 4 ( dragerwerks , lubeck , germany ) and the puritan bennett 840 ( carlsbad , ca , usa ) , versus psv in reducing imposed work of breathing in a lung model . before i comment on the merits of the study ,
+clinically , the et tube is seen as an impediment to spontaneous breathing , a transit route for bacteria to the lower airway , and  with the advent of noninvasive ventilation  a device to be avoided when possible .
+of particular interest has been the effect of the et tube on work of breathing and methods to eliminate this work .
+commonly , pressure support ventilation ( psv ) has been suggested as the technique of choice for eliminating imposed work due to the et tube .

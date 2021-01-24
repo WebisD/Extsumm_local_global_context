@@ -1,0 +1,7 @@
+review articles in the scientific literature can be classified as a general review article , a systematic review ( sr ) , or meta - analysis ( ma ) .
+the purpose of a review article is to provide readers with a summary of published research in a particular field
+such review articles provide a concise analysis of a large body of literature and hence are important for readers from a variety of fields .
+a general review article attempts to summarize all the relevant , published literature and provide some analysis of the controversial areas of the field or topic .
+for example , in medical science , srs are used in hopes of ascertaining whether treatment a is superior to treatment b. why is such an analysis necessary ?
+we have argued that even if the methodology for animal models could be standardized and subject to srs , animal models would still fail to be predictive modalities for human response to drugs and disease because of considerations from complexity theory and evolutionary biology .
+an example of this concept comes from oncological surgeon david gorski who criticized the national center for complementary and alternative medicine ( nccam ) for spending resources to study :  treatment modalities that are inherently unscientific , being as they are based on prescientific or demonstrably incorrect understandings of human physiology and disease  10 .

@@ -1,0 +1,8 @@
+we sought to compare the effect of -blockers and acei on aortic growth velocity ( agv ) in mfs .
+angiotensin converting enzyme inhibitors ( acei ) have been shown to decrease agv in marfan syndrome ( mfs ) .
+generalized least squares were used to evaluate agv over time as a function of age , medication group , and the interaction between the two .
+a mixed model was used to compare agv between medication groups as a function of age , medication group ( none , -blocker , acei ) , and the interaction between the two .
+the systolic and diastolic blood pressures were higher in the acei group compared with the -blocker group ( p=0.015 and p=0.019 , respectively ) , and there was no difference in heart rate ( p=0.696 ) .
+. early introduction of -blocker therapy in patients with mfs should be considered particularly even prior to the demonstration of aortic dilation .
+the mean heart rate in the acei group ( 83  17 bpm ) was significantly lower compared with the untreated group ( 90  24 bpm , p=0.003 ) .
+for the patients in the untreated group , the mean age was 9.8 years ( q1 : 3.9 years ; q3 : 17.2 years ) , which was lower than either the -blocker or acei groups ( p<0.001 ) .

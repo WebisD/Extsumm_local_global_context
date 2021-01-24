@@ -1,0 +1,8 @@
+the aim of this study is to establish and validate a simple , sensitive , and accurate hplc method to determine matrine combined in liquid crystalline nanoparticles .
+a simple , rapid , selective , and sensitive hplc method has been developed and validated for the determination of matrine when formulated in cubosome particles .
+hplc , lc / ms / ms , and esi - qtof - ms / ms methods have been used to determine matrine in samples at present   .
+the method was validated according to ich guidelines with the parameters of specificity , linearity , sensitivity , accuracy , precision , and reproducibility .
+the chromatographic method was eventually carried out using an isocratic system with a mobile phase of methanol - pbs ( ph 6.8)-triethylamine ( 50  :  50  :  0.1% ) applied at a flow rate of 1  ml / min with detection wavelength at 220  nm . under these optimum mobile phase conditions ,
+the retention times of matrine at a flow rate of 1.0  ml / min was 16.3  min .
+the present study is the first report on the matrine determination combined with particle dispersion system .
+the calibration curves for matrine were found to be linear within the range of 1.6 to 200.0  g / ml . the regression equation was y = 10706x  2959 ( r = 1.0 ) , where y is peak area and x is the concentration ( g / ml ) of matrine standard solution .

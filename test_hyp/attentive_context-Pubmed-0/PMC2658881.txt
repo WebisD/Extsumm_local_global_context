@@ -1,0 +1,5 @@
+confident peptide identification through tandem mass spectrometry ( ms ) is one of the most important components in ms - based proteomics .
+there also exist other issues concerning misleading inference using fdr , but this is not the focus of the current paper and we refer the readers to a few relevant literatures . in this paper , in addition to providing a universal protocol to combine search results , we also carry out the performance assessment for all possible combinations , among seven database search methods , of two and three search methods using the receiver operating characteristic ( roc ) curves .
+since the centroid mode seems to be the dominant mode in ms database searches today , we present in the main text only results from centroid mode data and results from profile mode data are shown in the . throughout the paper ,
+for this reason , a great amount of effort has been invested to develop automated data analysis tools to identify peptides through tandem ms ( ms ) spectra . among available
+to establish common statistical standard is through equating the false discovery rate ( fdr ) ( 5 ) of various methods considered .

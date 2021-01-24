@@ -1,0 +1,6 @@
+conclusively , the study reports that lps - rs prevents tlr4 induced neuroinflammation and microglia activation via negative regulation of nf-b and mapks signaling pathways conferring decreased neuronal apoptosis and subsequent phagocytosis by the microglia .
+the study gains insight into the mechanisms of lps - rs mediated regulation of signaling pathways , prevention of neuroinflammation , and subsequent decrease of neuronal loss following aberrant apoptosis and phagocytosis .
+we investigated the effect of lps - rs mediated regulation of lps induced microglia activation , expression of tlr4 , and inflammatory cytokines .
+lps - rs through tlr4 antagonism not only regulates microglial function but also may serve to induce treg cells that support the tolerogenic microenvironment and further strategies may be designed and implemented not only for cns diseases but also for other disease regimens .
+bv2 microglia is used as an in vitro model to dissect molecular mechanism of lps - rs mediated tlr4 antagonism .
+the governing factors deciding the fate of t cell differentiation are expression of costimulatory molecules and chemokine receptors accompanied with release of cytokines : the releases of chemoattractants , chemokines , and guide t cells infiltration to the site of injury / infection .

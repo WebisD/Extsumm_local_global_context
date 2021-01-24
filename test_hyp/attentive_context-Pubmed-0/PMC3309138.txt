@@ -1,0 +1,8 @@
+as small non - coding rnas regulate gene expression and tumorigenesis , they may represent a novel cancer therapy .
+although the current treatment of radiation therapy , chemotherapy and hormone therapy slow mammary gland tumor growth , prolong survival and improve the quality of patients life , metastatic breast cancer still remains incurable due to our limited understanding of the molecular mechanisms through which tumorigenesis and metastasis occur .
+mirnas regulate gene expression and play important roles in the onset and progression of tumorigenesis .
+mirnas regulate a broad range of biological processes including timing of development , cell cycle progression , stem cell self - renewal , differentiation , cancer initiation , cancer cell proliferation , metastasis and apoptosis   .
+emerging evidence demonstrates the involvement of mirna in mammary gland tumorigenesis , functioning either as tumor suppressors or oncogenes .
+cancer is caused by multiple processes including uncontrolled cellular proliferation and inappropriate survival of apoptotic cells .
+herein we summarize the recent literature and research progress on the mechanism by which mirnas regulate the breast cancer cell cycle and cellular proliferation ( fig . 
+a specific subset of dysregulated mirnas in breast cancer cells may serve as targets for gene therapy either alone or as an adjuvant treatment to current clinical protocols for breast cancer patients .

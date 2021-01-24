@@ -1,0 +1,8 @@
+the best prediction model included hscrp , sicam , and svcam and showed an explained variance of 26 % .
+to our knowledge , this is the first study to associate markers of inflammation and endothelial dysfunction with clustered cvd risk in adolescents .
+results not only confirm a role for inflammation and endothelial dysfunction but also prompt further research on the mechanistic level . at this point , conclusions to redirect the prevention of cvd are preliminary and thus efforts should remain concentrated on classical risk prediction and preventive strategies .
+the main finding of this study was that these markers were strong predictors for cvd risk in adolescents , unlike lifestyle factors which were not predictive .
+the markers sicam and hscrp were positively related to cvd risk , whereas an inverse relation for svcam was found .
+the prevalence of overweight and obesity in the complete cohort was 16.2% and 14.7% , respectively . in the present study sample , all obese adolescents ( n = 95 )
+clustering of biological risk factors seems to exist , that is , all pearson correlations between the biological risk factors were positive and significant .
+finally , the rather large percentage of obese and overweight subjects compared with a normal population did not influence the results , that is , the final regression model remained more or less the same even when analyses were performed separately for the body mass index groups ( data not shown ) .

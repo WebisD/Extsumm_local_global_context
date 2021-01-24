@@ -1,0 +1,6 @@
+we developed a reusable ultrasonic vibrating trocar that could be bloodlessly and smoothly inserted more than 900 times through the abdominal wall .
+therefore , we examined the degree of histological damage along the insertion tract and the recovery of abdominal wall tension by comparing port - site skin tensile strength with each trocar , in a porcine model .
+the respective break forces at 1 and 2 weeks were 2.4  0.7 kg ( n = 4 ) and 4.8  0.3 kg ( n = 4 ) for the us trocar , 1.3  0.2 kg ( n = 4 ) and 5.7  0.6 kg ( n = 3 ) , for the dt trocar ; and 2.9  0.9 kg ( n = 4 ) and 3.9  0.4 kg ( n = 4 ) for the ve trocar ( figure 3 ) .
+the break forces for the us and ve trocars were higher than that of the dt trocar at 1 week , while that of the dt trocar was highest at 2 weeks .
+we compared the force necessary to insert the trocar through swine muscle ( table 1 ) .
+usn = new us trocar ; uso = conventional us trocar ; dt = dilating tip trocar ; ve = versaport trocar .

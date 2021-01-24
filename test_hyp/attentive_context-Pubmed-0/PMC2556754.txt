@@ -1,0 +1,6 @@
+dr li and dr quinn and their colleagues published a research article   exploring the molecular mechanisms of ventilator - induced lung injury ( vili ) .
+as a professor in a clinical department , i am privileged to work with many clinician - investigator trainees . recently ,
+in fact , this challenge is not only to new fellows , but also to experienced researchers . in this issue of critical care ,
+i would like to use this interesting article as an example , to lead readers who are not experts in this field through a translational process .
+ards = acute respiratory distress syndrome ; copd = chronic obstructive pulmonary disease ; enos = endothelial nitric oxide synthase ; il-8 = interleukin-8 ; mip-2 = macrophage inflammatory protein-2 ; no = nitric oxide ; nos = nitric oxide synthase ; vili = ventilator - induced lung injury .
+mechanical force - induced signal transduction ( mechano - transduction ) is responsible for many physiological processes in lung development , in maintaining lung functions , and in pathological conditions related to lung diseases , such as asthma , chronic obstructive pulmonary disease ( copd ) , and acute respiratory distress syndrome ( ards ) , especially related to vili .

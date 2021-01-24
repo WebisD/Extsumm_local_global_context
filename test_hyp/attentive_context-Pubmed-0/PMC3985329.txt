@@ -1,0 +1,6 @@
+, we describe the distribution of cancers in australian children and estimate the risks of cancer in their relatives .
+the gender - specific association was reflected in higher than expected incidence rates of breast cancer in mothers ( sir 1.92 ; 95% ci 0.726.83 ) , aunts ( sir 1.64 ; 95% ci 0.982.94 ) and to a lesser extent grandmothers ( sir 1.04 ; 95% ci 0.781.40 ) .
+we are currently undertaking whole genome sequencing of these children with cancer and their affected first - degree relatives ' germline dna in order to identify the role of previously described and novel genetic mutations to account for our findings .
+of the 26 families with a history of cancer within a first - degree relative , only one met the criteria for a clinically recognizable familial cancer syndrome ( li fraumeni syndrome ) .
+although numbers were small , an increased cancer incidence in relatives appeared to be most apparent in the children with sarcomas ( sir 2.58 ; 95% ci 0.998.52 ) , embryonal tumors ( sir 2.12 ; 95% ci 0.719.34 ) , and brain tumors ( sir 1.52 ; 95% ci 0.703.92 ) .
+a number of recent studies have described an association between childhood cancer and cancer in first - degree relatives   , particularly siblings   and mothers . in this study

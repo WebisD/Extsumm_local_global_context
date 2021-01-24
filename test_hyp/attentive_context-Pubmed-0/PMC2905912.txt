@@ -1,0 +1,7 @@
+the combination of oct and prs technologies can decrease the risk of false - positive reading and increase the potential for the detection of wsls with high sensitivity and specificity .
+the objective of this study was to determine whether calculus , hypocalcification , and stain are confounding factors affecting wsl detection with optical coherence tomography and polarized raman spectroscopy .
+figure 2 is a diagrammatic summary of data collection and analyses with oct and prs .
+, point measurements were taken with parallel- ( p1 ) and cross- ( p2 ) polarizations at a minimum of three different points .
+raman data were analyzed using matlab software to calculate the depolarization ratios ( i/i ) , where i is the area under the raman band from 9251000  cm for cross - polarization ( p2 ) , and i is the similar area for parallel - polarization ( p1 ) .
+this initial study has pointed out limitations that should be taken into consideration when using these methods and highlighted further analyses that need to be undertaken to better understand the effects of calculus , hypocalcification , and stain on oct and prs technologies .
+average raman depolarization ratios (  ) from the various groups are depicted in a box - and - whisker plot ( figure 5 ) . in order to determine whether the mean depolarization ratio values of the various groups were statistically significant from one another ,

@@ -1,0 +1,7 @@
+the conformation of csd1 is stabilized by two protein - protein interactions with the rnb ( k240 with d739 and d91 with t613 ) , and an rna mediated interaction with the rnb through u6-u7 and 11 .
+mouse dis3l2 was expressed in sf9 cells as an n - terminal strep - sumo - tev fusion protein from the pfl vector of the multibac baculovirus expression system .
+f , electrostatic surface potential of the single - strand specific rnase ii , in the same configuration as panel c. a narrow rna binding channel can only accommodate single - stranded rna .
+as proposed for rnase ii , dis3l2 may utilize a two mg ion mechanism during catalysis .
+a much wider positively charged funnel on the  top  of the rnb supports the ability of dis3l2 to degrade structured rna substrates .
+the path of rna in rnase ii more closely resembles that in dis3l2 , compared to yrrp44 , though narrow along its length , underscoring its ability to accommodate only single - stranded rna substrates .
+a wide - open funnel created by the csd lobe and s1 allows rna to access the  top  of the rnb .

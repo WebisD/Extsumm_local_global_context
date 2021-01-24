@@ -1,0 +1,14 @@
+the international union of pure and applied chemistry ( iupac ) project of collection , compilation , and critical evaluation of solubility data of bromides and iodides of the scandium group and all lanthanides in water and aqueous systems containing either halide acids , halide salts , or organic compounds is under preparation . as a result of their similarity to the chlorides , which were recently evaluated , the bromides and iodides in the lanthanide series
+as sufficient experimental data at various temperatures were available , the water - rich fragment of the labr3h2o equilibrium phase diagram has been formed and depicted .
+several regularities , with respect to stoichiometry and solubility of compounds formed , were observed during investigations of the aqueous ternary systems .
+the systems of organic compounds with the iodides   were more intensively investigated than with the bromides .
+a quite smooth dependence of solubility ordered according to the atomic number of the lanthanide was displayed by the complexes with antipyrine ( c11h12n2o ) of general formula lni36c11h12n2o ; the corresponding solubility results are presented in table  4.table  4solubility of antipyrine complexes lni36c11h12n2o in h2o at 273  k starting saltsolubility ( mol  kg)lai3 
+ 0.217cei3 
+ 0.090ndi3 
+ 0.070smi3 
+ 0.056gdi3 
+ 0.046dyi3 
+ 0.047eri3 
+ 0.031ybi3 
+ 0.027lui3 
+ 0.024 solubility of antipyrine complexes lni36c11h12n2o in h2o at 273  k   quite unexpectedly , for these complex compounds we observe much more regular changes of the solubilities than were observed for the simple bromides and iodides .

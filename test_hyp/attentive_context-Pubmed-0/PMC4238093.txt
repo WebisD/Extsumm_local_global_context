@@ -1,0 +1,5 @@
+carbapenem resistant gram - negative bacteria ( gnb ) such as enterobacteriaceae ( cre ) ( including escherichia coli [ crec ] and klebsiella pneumoniae [ crkp ] ) , pseudomonas aeruginosa ( crpa ) and acinetobacter baumanni ( crab ) are important emerging causes of nosocomial blood stream infections and carry significant mortality .
+combinations of other antibiotics with colistin may result in a lower mortality compared with monothrapy , however this needs needs to be explored through a randomized controlled study
+the overall survival at 30 days was 40% in our study with lowest survival rates for clabsi ( 33.3% ) , with survival rates for vap , iai and urosepsis patients of 35.7% , 40% and 44.4% respectively .
+our patients had a high apache ii score ( 19.64  3.8 sd ) and had a mean icu stay of 11.76 days , with a mean time of onset of bacteremia after admission of 6.4 days .
+we have shown that carbapenem - resistant gram - negative bacteremia is a serious healthcare - associated infection in critically ill - patients in indian icus with co - morbidities and prior antibiotic exposure ; k. pneumoniae is the most common organism at our center .

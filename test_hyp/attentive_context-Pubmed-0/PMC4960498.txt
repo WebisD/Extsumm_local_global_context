@@ -1,0 +1,20 @@
+the aim of the present study was to compare the optic properties of protective filters manufactured by taking advantage of the interference technology and those coated with a single metallic layer reflecting ir radiation .
+luminous transmittance (  
+ v ) , ir transmittance within the 7801400  nm range (  
+ a ) , ir transmittance within the 7802000  nm range (  
+ n ) , ir reflectance within the 7802000  nm range ( r 
+ n ) , ir absorptance within the 7802000  nm range ( a 
+ n ) , the level of protection ( shade number ) is determined on the basis of luminous transmittance ( the higher protection level correlates with the higher level of ir radiation blocked and appropriately lower vis light transmittance ) .
+for all the investigated filters , the values of r 
+ n exceed 60% , which classifies them in the group of filters with increased ir reflectance .
+the values of  
+ a and  
+ n for interference filters are lower even by an order of magnitude than those obtained for the metallic reflective filters .
+the following coefficients were analysed : 
+ luminous transmittance (  
+ v),ir transmittance within the 7801400  nm range (  
+ a),ir transmittance within the 7802000  nm range (  
+ n),ir reflectance within the 7802000  nm range ( r 
+ n),ir absorptance within the 7802000  nm range ( a 
+ n),shade number ( n ) . 
+ 

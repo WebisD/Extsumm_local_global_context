@@ -1,0 +1,5 @@
+a class of small rnas , piwi - interacting rnas ( pirnas ) , is associated with the piwi clade of argonautes and acts to repress mobile genetic elements in the germline of both drosophila and mammals ( fig .  1 , left side ) .
+importantly , characterization of endogenous line-1 mobilization events in stem and somatic cells using the latest advances in high - throughput sequencing and single cell genomic is still required to unambiguously determine the real impact of the microprocessor and other factors in retrotransposon control . in sum
+we have recently described that the microprocessor , a nuclear protein complex involved in microrna ( mirna ) biogenesis , may act as a new post - transcriptional mechanism to control the mobilization of mammalian retrotransposons in the nucleus ( fig .  1 , right side ) .
+these results further reveal the complex regulation of tes within a host , and suggest that multiple mechanisms at different levels act to control the impact of tes in genomes .
+thus , further studies are required to fully understand the contribution of rna - derived mechanisms in the control of te mobilization in cancer and the human brain .

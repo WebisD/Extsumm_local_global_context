@@ -1,0 +1,6 @@
+more importantly , the isolates with multiple -lactamase phenotypes produced strong biofilms in comparison to the strains with one type of -lactamase that formed weak biofilms or -lactamase - negative isolates that did not form biofilm at all .
+we also evaluated the potential to form biofilm in relation to antibiotic resistance and the production of ampc , mbl and esbl -lactamases among the isolates .
+due to the suggested role of psla in the initial steps of biofilm formation by p. aeruginosa , we studied the association between biofilm formation and the psla gene carriage in burn isolates of p. aeruginosa .
+as observed , mbl and ampc productions were significantly higher in biofilm - positive strains ( p = 0.003 and p = 0.02 , respectively ) .
+however , another study showed that esbl ( but not mbl or ampc ) inhibited biofilm formation by impairing the twitching motility which plays an important role in micro - colony formation in p. aeruginosa ( 28 ) . in conclusion , biofilm formation correlated with psla gene carriage as well as mbl and ampc -lactamase production in burn isolates of p. aeruginosa .
+we found no significant difference between the antibiotic susceptibility profiles in biofilm - positive and biofilm - negative burn isolates of p. aeruginosa . in this research , 43.5% of our p. aeruginosa

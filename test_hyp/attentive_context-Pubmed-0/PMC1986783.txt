@@ -1,0 +1,24 @@
+the ct reconstruction algorithm is 
+ overviewed , and then each of our acceleration techniques is 
+ described . in section 3 , numerical experiments on 
+ various datasets and different pcs are presented to 
+ evaluate the speedups with our scheme and the conventional 
+ implementation . in section 4 , relevant issues and 
+ research directions are discussed .
+bolus - chasing computed tomography ( ct ) angiography is 
+ a primary example which demands real - time ct feedback . to address this problem ,
+a multi - core pc - based acceleration scheme is 
+ proposed for filtered - backprojection-(fbp- ) based image 
+ reconstruction .
+third , the single - instruction multiple - data 
+ ( simd ) technique is employed for data - level parallel processing . 
+
+fourth , the multithreading programing is done to take advantage of 
+ multi - core processors , realizing the true parallel computation 
+ capability . finally , an intel c++ complier is used to optimize the 
+ code for intel processors .
+another bottle - neck is that the graphic 
+ cards require data exchange between cpu and gpu . in this paper ,
+however , due to the high computational cost required for 
+ reconstruction , its real - time imaging applications   remain 
+ challenging .

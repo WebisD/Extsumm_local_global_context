@@ -1,0 +1,6 @@
+replication on another cohort of cervical dystonia cases would be essential to confirm the association .
+given the recent findings from encode , intergenic region may still play a significant function in transcription . in summary , we found a plausible association , though not statistically confirmed , of cervical dystonia with snps in the nalcn region .
+the majority of the associated snps were found in the first intron between the first and second exon .
+1b , table 1 ) . with imputation , the best signals found clustered around nalcn with best p value of 9.8  10 in rs61973742 and 5 more snps in the same gene just short of the best p value .
+a total of 233 cases were genotyped and 212 cases ( 66 m , 146 f , mean age 60.6 years , sd 10.9 years ) remained after quality control and 494 k snps had maf > 0.01 ( exclusion breakdown in supporting tables 1 and 2 ) .
+if the odds ratio was as high as with the complement factor h in macular degeneration , the cohort of 212 cases with same assumptions would have a power of almost 100% to detect the snp .

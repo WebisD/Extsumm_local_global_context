@@ -1,0 +1,7 @@
+this study provides solid data to warrant further development of nubiotics as a novel class of antimicrobial agents for treating pseudomonas aeruginosa infection .
+antibiotic drug development has failed to keep pace with the numbers of emerging antibiotic resistant strains and variants .
+second , although the antibacterial activities of nu-3 have been demonstrated both in vitro and in vivo , its mechanism of action is still not clear .
+nu-3 is a novel small molecule and has been examined in several studies for its antibacterial and therapeutic action , showing that it was as effective as intravenously administered ciprofloxacin , a potent and broadspectrum fluoroquinolone .
+one of the possible mechanisms for nu-3 action has recently been proposed , which was supported by the preliminary data showing that nu-3 caused significant changes of the membrane polarity .
+consequently , the past decade has seen the emergence of the widely publicized health crisis where the means to combat drug - resistant , plague bacteria and viral pandemics are failing .
+the therapeutic efficacy of nu-3 against pulmonary pseudomonas aeruginosa infection was evaluated in vivo animal model ,   in which liposome - encapsulated nu-3 presented efficacious antibacterial activity .           to further assess nu-3 as a potential new antibiotic for topical uses , we performed studies for its acute , multiple - dose dermal toxicity and the irritation to skin and eyes and genetic toxicity .

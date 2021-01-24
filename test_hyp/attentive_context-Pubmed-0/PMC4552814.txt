@@ -1,0 +1,7 @@
+by combining the complementary strengths of eeg and fmri , we showed consistent results concerning the originating and propagation of gswds .
+the novelty of the current work lies in using multimodal neuroimaging approaches to identify the critical roles of thalamocortical networks in generalized spike and wave discharges , including electrophysiological recordings ( eeg ) , hemodynamic recordings ( bold fmri ) , eeg - informed fmri and functional connectivity mapping .
+the overall aim of this work is to use noninvasive , multimodal imaging techniques to map the brain networks associated with gswds and investigate the functional connectivity between cortex and thalamus during gswds .
+eeg - informed fmri revealed multiple brain regions that may be involved in gswds . by means of seed - based fmri
+, we tested the specific network level activity and found temporal correlation between cortical and bithalamic bold activities . according to the granger causality analysis the mediodorsal nuclei of the thalamus appears to serve as the main driver from the initiation and throughout the propagation of the gswds .
+once validated , this work may provide insight in understanding the enigmatic etiology of generalized epilepsy and offer guidance in treatments .
+group average of seed - based analysis in acc for both patients with ige and healthy controls are shown in fig .

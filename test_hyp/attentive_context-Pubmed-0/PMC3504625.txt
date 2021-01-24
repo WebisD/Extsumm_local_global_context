@@ -1,0 +1,8 @@
+the crna for zebrafish fech or yeast fech was injected in pnt embryos , and their efficiency to rescue the anemia in pnt was measured using o - dianisidine staining and verified by using sscp analysis .
+we examined ppix levels and the catalytic efficiency of fech in mel cells using spectrophotometric analysis .
+the mel cells were treated with fccp and 2,4-dnp , followed by analysis for hemoglobinized cells .
+genetic mapping and positional cloning were utilized to identify zgc : 162207 ( atpif1a ) as the candidate gene for the pnt locus on zebrafish chr .
+morpholinos ( gene tools , philomath , or ) against splice - site of atpif1a and atpif1b were designed and injected in wt embryos to verify loss - of - function phenotype .
+the loss of atpif1 protein and the state of mitochondrial structural proteins in mel cells were verified using western and electron microscopic analyses .
+we analyzed fluorescent intensities of tmre as a function of mitochondrial membrane potential , mg green as a function of atp levels , and ratio of carboxy snarf-1 to mitotracker green as a function of the mitochondrial matrix ph .
+human and yeast fech were treated with dtn , and subsequently their catalytic efficiency were measured .

@@ -1,0 +1,8 @@
+the present review covers the recent literature on plant gene expression in bacteria , yeast , insect cells and xenopus   oocytes and presents the comparative advantages and disadvantages of each system .
+it also provides a survey of recent examples of application of heterologous expression technology to plant proteins .
+examples are provided by the synthesis of a medicinal peptide from ginseng as potential drug against diabetes   or production of plant lectins   in both cases in yeast .  
+foreign hosts may also provide a simpler system for studies on functions of proteins and for elucidation of their roles in complex mechanisms such as metabolic reactions and membrane transport .
+this methodology allows large - scale production of plant proteins in microorganisms to study their biochemical and biophysical features .
+factors influencing the choice of hosts , including the stability and folding characteristics of the protein , requirement for posttranslational modifications , efficiency of the expression system , as well as simplicity and cost are discussed in the following sections .
+expression systems are selected depending on whether the purpose of study is production of large quantities of protein or investigation of functional features of the cloned protein .  
+heterologous expression of plant genes in other host organisms has two main applications : ( 1 ) overexpression of the encoded protein , for biochemical and biophysical characterization and ( 2 ) expression of foreign genes for determination of the function of the encoded protein by complementing in a mutant host .

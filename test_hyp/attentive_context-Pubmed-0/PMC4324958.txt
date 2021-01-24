@@ -1,0 +1,6 @@
+we wanted to explore this potential and therefore designed and developed a software application ( app ) , which was tested in a pilot study prior to the intervention .
+the aim is to explore how nurses experience using an app in nursing practice and how it impacts their ability to offer support and information to postnatal mothers who are discharged early and their families , in a way that will enhance the families ' sense of security and self - efficacy .
+the app gives the nurses the possibility to offer support and information to the parents being early discharged , as the app is experienced as a lifeline that connects the homes of the new parents with the hospital .
+this provides access to the healthcare professionals , which is essential in order to ensure parents ' postnatal sense of security .
+the pd approach involves defining problems and indicating solutions in designing sustainable it solutions for practice together with the users .
+the written asynchronous communication provides an easy way for the nurses to offer the new parents support , when they are being early discharged , because the parents find it easier to contact the nurses through the app than the phone .

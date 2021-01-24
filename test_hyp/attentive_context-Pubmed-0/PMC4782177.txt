@@ -1,0 +1,27 @@
+we derived 
+ the two networks and identified protein - specific hub genes and gene 
+ modules , showing the unique contribution of proteomic data to breast 
+ cancer research .
+after testing 
+ the performance of our algorithm on several in silico experiments 
+ and comparing jrf with different methods including genie3 the joint graphical lasso ( jgl ) , we applied jrf for the simultaneous construction 
+ of gene coexpression networks and protein coexpression networks . for 
+ our analysis , we considered gene expression from tcga and protein 
+ expression from cptac data for 62 breast cancer patients .
+we propose jrf ( joint 
+ random forest ) , a new algorithm for the simultaneous 
+ estimation of protein coexpression and gene coexpression networks . 
+
+because in this 
+ study we were mainly interested in assessing the unique contribution 
+ of proteomic data to breast cancer research , we focused our attention 
+ on protein - specific hub genes and modules .
+this 
+ motivates us to perform joint learning of both rna - seq and proteomic 
+ networks , so we are able to borrow information across different data 
+ sets and better capture the common correlation structure , which shall 
+ then improve the overall accuracy of network estimation .
+, we will refer to the 
+ coexpression networks constructed by jrf from global proteomics data 
+ and rnaseq data as protein - network and rna - network . at fdr cutoff 
+ of 0.001

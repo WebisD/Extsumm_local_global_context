@@ -1,0 +1,6 @@
+we also demonstrated that most of the titled compounds showed moderate in vivo antiulcer activity but all the derivatives exhibited a good mucomembranous protector .
+in conclusion , a series of some novel 5-[(2e)-1-(1h - benzimidazol-2-yl)-3-substituted phenylprop-2-en-1-ylidene ] pyrimidine-2 , 4 , 6 ( 1h , 3h , 5h)-triones were synthesized .
+the study has also shown an increase probability of compounds to be biologically active if they are selected on the basis of pass prediction .
+scanning of stomach specimens using electron microscope revealed that in the rats treated with omeprazole , 5b and 5d [ figures 35 ] , there was no injury observed in stomach mucosa , which is identical to that of the control animal [ figure 6 ] .
+the more is the pa value , the less is the probability of false positives in the set of compounds selected for study.  all the titled derivatives predicted a biological activity of mucomembranous protector nature with a pa values more than 0.70 .
+scanning of stomach specimens using electron microscope revealed that in the rats treated with omeprazole , 5b and 5d [ figures 35 ] , there was no injury observed in stomach mucosa , which is identical to that of the control animal [ figure 6 ] .

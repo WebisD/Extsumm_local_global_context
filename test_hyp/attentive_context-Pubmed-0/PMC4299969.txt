@@ -1,0 +1,7 @@
+the main objective of this study was to perform comprehensive multi - modal mri in mtbi and orthopedic injured ( oi ) controls .
+ms was used for the lc model analysis . while naa , cr , cho , and ins are expected to be less sensitive to the te of the basis set , glx with its relatively short te and j - coupling coupling is more sensitive to the choice of the basis set .
+this results in poor fitting and relatively large sd . in most cases , both mtbi and oi subjects
+acquiring data at multiple points that span longer post - injury periods could have provided a better trajectory of pathologic changes , particularly chronic effects . in this study
+however , this requires the acquisition of unsuppressed water data that was not part of our protocol . while the te used for acquiring mrsi was 53  ms , the default basis set of 35 
+it is difficult to compare our results on atrophy with the published results because of differences in the mtbi and control cohorts , methodology , and post - injury scan periods .
+in addition , the differences in the patient cohort , use of healthy controls , and different post - injury scan times could have contributed to the discrepant results that were reported in the literature . a problem with most of the published mri studies in mtbi is the lack of standardization in patient selection criteria , post - injury scan times , methodology , and control subjects .

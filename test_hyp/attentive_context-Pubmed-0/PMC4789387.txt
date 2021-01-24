@@ -1,0 +1,8 @@
+the possibility of a deletion involving part or all of the btd genes must be considered in those children having enzymatic deficiency that is inconsistent with the results of their mutation analysis .
+we have previously reported a child with a contiguous gene deletion that involved three genes , including the btd gene .
+microarray analysis was performed by whole genome chromosome prenatal reveal snp microarray ( integrated genetics , labcorp specialty testing group ) .
+we now report the first microdeletion of btd that involves three of the four exons of the gene .
+it is important to consider microarray analysis for a possible deletion in children identified as having enzymatic activity on newborn screening consistent with profound biotinidase deficiency , but only are found to have a single mutation by btd sequencing .
+biotinidase ( ec 3.5.1.12 ) is the enzyme responsible for cleaving biocytin and recycling biotin from dietary protein - bound sources , .
+this heterozygous deletion is involves a major portion of the btd gene , including exons 24 ( fig .
+this deletion further exemplifies the importance of performing microarray analysis or other methodologies for a deletion of btd when the enzymatic activity indicates lower activity than can be attributed to the mutations identified by dna sequencing .

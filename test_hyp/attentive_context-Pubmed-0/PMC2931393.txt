@@ -1,0 +1,6 @@
+this paper describes why details of the vascular microenvironment might determine the degree of end - organ damage that occurs in ssc , with a focus on vascular cell senescence , endothelial progenitor cells ( epc ) including mesenchymal stem cells ( msc ) , pericytes , and angiogenic monocytes .   
+an explanation of the role of epc , pericytes , and angiogenic monocytes is important to understanding ssc pathogenesis .  
+systemic sclerosis ( ssc , scleroderma ) is an autoimmune disease characterized early in the process by vasculopathy and subsequently by varying degrees of fibrosis in skin , lungs , and other tissues .  
+a predisposition to vascular senescence is probable in ssc and the pathogenesis may arise from a subsequent defect in vasculogenesis ( possibly due to abnormal bone marrow function ) and/or angiogenesis ( perhaps due to pericyte and angiogenic monocytes ) followed by overactivity of activated fibroblasts and myofibroblasts .
+as such , systemic sclerosis is an autoimmune disease ; however the inherited effects of vasculopathy and fibrosis remain to be determined .  
+it is exciting to think that through understanding of the microvascular environment in ssc , that subsequent restoration of proper angiogenesis in ssc could limit fibrotic damage .

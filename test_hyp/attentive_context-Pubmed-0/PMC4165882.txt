@@ -1,0 +1,7 @@
+increased inflammatory response of dcs from aged subjects to cpn induces an enhanced th1 response in t cells which aggravates inflammation .
+altogether , our data suggest that dcs from aged are more activated and secrete higher level of inflammatory mediators in response to cpn but are still unable to produce a crucial cytokine such as ifn- involved in protection against respiratory infections .
+higher uncontrolled production of ifn- by both cd4 and cd8 t cells in aged subjects in response to cpn may therefore lead to aggravation of the inflammatory response in the airway of the aged population .
+age - associated alterations in the response of dcs to cpn may therefore play a major role in the increase in cpn infections in the elderly .
+our results with monocyte - derived dcs are in keeping with previous studies which have reported that cpn infected dcs induce proinflammatory th1/th17 response via the production of il-12 , il-6 , and il-1   .
+next , we determined the nature of cytokines secreted by t cells primed with cpn - stimulated dcs from aged and young subjects .
+stimulation of dcs with cpn induced the production of increased levels of proinflammatory cytokines ( il-6 , tnf- , il-1 , il-12 , ifn- , and ifn- ) , chemokines ( cxcl-8 , cxcl-10 ) , and anti - inflammatory cytokine ( il-10 ) over unstimulated dcs in both age groups ( figure 2 ) . however , the level of the secreted cytokines and chemokines was substantially different between the two populations .

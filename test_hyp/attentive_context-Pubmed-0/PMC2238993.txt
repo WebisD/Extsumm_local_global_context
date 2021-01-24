@@ -1,0 +1,6 @@
+a number of new features and applications are currently under construction , such as a gene regulation and dynamic ppi network that function under different conditions with increased gene expression and proteomics data .
+atpid serves as a major reference site for ppis using arabidopsis as a model plant system .
+currently , the subcellular localization predictions of a. thaliana are available for both the chloroplast and mitochondrion and the predictive organellar proteins have been added into atpid . in addition , we plan to conduct further assessments of proteins to other cellular and/or subcellular locations , including nuclear , cytoplasmic and extracellular proteins
+this database provides invaluable resources for researchers to study ppis and protein functions in arabidopsis , data can also be used to address questions regarding gene functions and biological processes in other taxa .
+atpid is a non - commercial public access database ( http://atpid.biosino.org/ ) that provides data download services for standalone analyses or data mining , including protein interaction properties and other areas of interest in plant biology .
+bioinformatics and computational approaches have been used to assess the reliability of high - throughput results and to gain confidence in published data ( 28 ) .

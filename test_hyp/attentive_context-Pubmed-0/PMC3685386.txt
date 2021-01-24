@@ -1,0 +1,6 @@
+the sextic centrifugal distortion constants were accurately determined for the first time for the ground state , and result shows that hjk > |hkj| and hkj < 0 . for this molecule
+the statistical weight depends on the ratio between the spin function of symmetry a and the spin function of symmetry e. consequently : for symmetric top molecules like cf3cch , the ground vibrational state rotational energies are given up to sextic terms by equation ( 1 ) and by application of selection rules j = + 1 and k = 0 , the frequencies are given by equation ( 2 ) .
+the 
+ qt+ is rather large and a  b  a is small and it is possible to observe direct -type resonance transitions in the microwave range .
+the energy level of its lowest lying degenerate vibration is only e = 171 cm , consequently according to the boltzman distribution law it has a population of 58% ( 29%2 for vibrational degeneracy ) of the ground state at dry ice temperature ( 200 k ) .
+as the analysis will show , the level can be considered as being isolated and an effective hamiltonian for a vt = 2 level is suitable for the analysis of the data .

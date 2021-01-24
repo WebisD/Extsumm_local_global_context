@@ -1,0 +1,6 @@
+these compounds , together with 6otd dimer acetate 1 , were found to induce a change of the telomeric dna sequence of telo24 into an antiparallel structure through the formation of 1  :  1 complexes with the dna .   the guanidine functionalized 6otd dimer 3 was determined to have the greatest ability to stabilize the telomere dna sequence .  
+in summary , the efforts described above have led to the design and syntheses of 2 and 3 , two novel macrocyclic hexaoxazole dimeric derivatives of 6otd that have amine and guanidine groups in their respective side chains .  
+below , we describe synthesis of new 6otd dimers 2 and 3 that derivatize 1 but possess cationic amine and guanidine functional groups on their side chains .   in addition , the ability of these substances to stabilize telomeric g4 along with their interaction mode was investigated .
+the results of molecular dynamics calculations guided the selection of 6otd dimer 1 that contains an appropriate length of a linker between the monomeric units of 6otd .  
+also , both dimers selectively bind to the telomeric dna sequence and not double - stranded dna .  
+in addition , by considering the proposed binding mode of tms with telomeric g4 , we have carried out further structural development of dimeric 6otd derivatives ( figure 1 ) .  

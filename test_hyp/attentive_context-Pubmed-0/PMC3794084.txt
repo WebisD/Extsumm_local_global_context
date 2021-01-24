@@ -1,0 +1,7 @@
+this review describes recent advances in viral metagenomics and provides summaries of studies that have been conducted to characterize korean viral metagenomes .
+in addition , the advantages and disadvantages of the most widely used viral dna amplification methods are discussed , based on empirical knowledge .
+the first viral metagenome of uncultured marine viral communities was published in 2002 , and there have been many subsequent advances in the methodologies ( e.g. , methods for amplifying the initial viral genomes ) and tools used for bioinformatics analysis in viral metagenomics .
+the emergence of viral metagenomics has facilitated advances in virology and allowed us to understand novel aspects of viral ecology . at present ,
+recently , viral metagenomics has enabled researchers to explore the community structure and diversity of viruses in various natural ecosystems .
+the lack of a ubiquitous marker gene , such as the 16s rrna gene shared by all bacteria and archaea , also hampered our understanding of the genetic diversity of viruses , prior to the introduction of metagenomics into the field of viral ecology   .
+viral metagenomics is a powerful and sensitive technique for detecting viruses that can not be identified by traditional culture- and sequence - based approaches .

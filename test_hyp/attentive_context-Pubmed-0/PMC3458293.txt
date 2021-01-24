@@ -1,0 +1,5 @@
+we report that a mutation of the gene encoding ubr5 ( ubiquitin protein ligase e3 component n - recognin 5 ) is associated with fame in a japanese family .
+familial adult myoclonic epilepsy ( fame ) , or benign adult familial myoclonic epilepsy ( bafme ) , is a neurological disease of an autosomal - dominant inheritance , which is characterized clinically by adult onset of finger tremulous movement mixed with myoclonic jerks .
+linkage studies have mapped fame - associated loci to chromosome 8q23.3-q24.11 in japanese families   , to chromosome 2p11.1-q12.2 in italian   and spanish   families , and chromosome 5p15.31-p15 in a french family .
+although the identification of the causal gene(s ) for fame is of great importance to the understanding of the molecular basis of the disease , gene(s ) responsible for fame has not been identified . here ,
+in the present study , an exome analysis of the proband and the subsequent goldengate assay for the family members identified the c.5720g > a mutation ( p.arg1907his ) in the ubr5 gene only in the affected members in the fame family , but not in the non - affected family members ( figure 2 ) .

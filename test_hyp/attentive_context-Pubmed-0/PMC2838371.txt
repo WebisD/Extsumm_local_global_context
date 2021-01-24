@@ -1,0 +1,8 @@
+in addition to fundamental aspects of metastasis , there are promising developments in the area of therapeutic application of metastasis suppressors .
+ultimately such studies can lay the foundation for the development of adjuvant therapies that can be used in conjunction with local therapy to delay the onset of disease recurrence , extend survival , and improve quality of life for patients with ovarian cancer .
+dan theodorescu ( university of virginia ) demonstrates the feasibility of taking metastasis suppressors into the clinic ( reviewed in ) .
+it is our goal to encourage others to examine metastasis suppressors in clinical and experimental ovarian cancer metastases .
+the following sections describe our approach to using the jnkk1/mkk4 metastasis suppressor to dissect molecular events governing omental metastatic colonization in the skov3ip.1 model .
+given the rich literature on the bidirectional communication between cancer cells and their microenvironments , it is important that we consider microenvironmental functions and adaptations as we examine the population - dependent behaviors of cancer cells .  
+not surprisingly , research in the molecular underpinnings of ovarian cancer metastasis continues to lag behind other cancer types .
+remarkably , in 2000 when our laboratory began working on metastasis suppressors in ovarian cancer , there were only a handful of papers that specifically addressed aspects of ovarian cancer metastasis .  

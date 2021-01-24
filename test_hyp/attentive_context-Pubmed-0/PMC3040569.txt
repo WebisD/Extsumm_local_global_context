@@ -1,0 +1,7 @@
+circadian rhythms in a eukaryote can be sustained solely by non - transcriptional mechanisms , which are conserved across taxa .
+bioluminescent recordings were performed on a topcount ( packard ) under constant darkness or constant red+blue led light ( 5 - 12 e / m ) . for wash - off of reversible inhibitors , cell aggregates formed in the bottom of the wells were quickly and gently washed twice with km+ , using multi - channel pipettes , and returned to recording conditions .
+analysis of period was performed with fft - nlls ( brass 330 ) using time windows 3 days ; mfourfit ( brass 3 ) was used to assess phase and confirmed manually .
+statistical analysis was performed using graphpad prism . for de novo rna synthesis analysis by [ p]utp uptake ,
+km+ was supplemented with 200 mm sorbitol and 0.4% glycerol in order to increase cell viability .
+transgenic ostreococcus tauri lines4 were cultured in keller media - supplemented artificial sea water ( km ) under 12:12 h blue ( ocean blue , lee lighting filter 724 ) light : dark cycles ( 17.5 e / m ) . for imaging ,
+cultures were transferred to 96-well microplates ( lumitrac , greiner bio - one ) at a density of ~1510 cells / ml and entrained for 7 - 10 days .

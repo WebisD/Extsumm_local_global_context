@@ -1,0 +1,7 @@
+we report on an extensive performance study evaluating hmec with other available techniques in section 5 .
+in this paper , we present a heuristic algorithm ( hmec ) based on minimum error correction that computes highly accurate haplotypes significantly faster than the known algorithms for haplotyping .
+we report on an extensive performance study evaluating our approach with other available techniques using both real and simulated datasets .
+comprehensive performance study shows that our algorithm outperforms ( in most cases ) or matches the accuracy of other well - known methods , but runs in a fraction of the time needed for other techniques . high accuracy and very fast running time make our technique suitable for genome - wide scale data .
+we performed the simulation using the data from angiotensin - converting enzyme ( ace )   and public daly set   to compare with gmec , and used the huref data   to compare with hapcut .
+the sequence of all snps in a given chromosome is called haplotype . haplotyping an individual deals with determining a pair of haplotypes , one for each copy of a given chromosome .
+the single nucleotide polymorphism ( snp ) is believed to be the most widespread form of genetic variation .

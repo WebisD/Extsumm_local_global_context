@@ -1,0 +1,7 @@
+the basic helix - loop - helix ( bhlh ) family of transcriptional regulators are key players in a wide array of developmental processes in metazoans , including neurogenesis , myogenesis , hematopoiesis , sex determination and gut development ( reviewed in ) .
+, we took advantage of the complete sequencing of the nematode   and fly   genomes to extract a large , and possibly complete , set of bhlh genes from these two organisms .
+the completion of the human genome sequencing project   now allows us to derive the complete set of bhlh present in a vertebrate genome .
+to isolate human bhlh genes , we made tblastn searches   on the human genome draft sequence , as described in materials and methods .
+in addition , our results allow us to reconstruct the minimum complement of bhlh genes that were present in the bilaterian common ancestor .
+this comparison gives us the opportunity to analyze evolution of the diversity of the bhlhs on a metazoan - wide scale , thus giving useful insights into the evolution of multigenic families .
+our work now enables comparison of the putative complete repertoires of bhlhs in metazoans belonging to the two main subdivisions of bilaterian animals ( the bilateria ; see   for a recent overview of the classification of metazoans ) - the deuterostomes ( human ) and the protostomes ( fly and worm ) .

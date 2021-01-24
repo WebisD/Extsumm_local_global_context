@@ -1,0 +1,7 @@
+although the function of the highly contiguous mitochondria during lipid - induced cell death remains poorly understood , this study brings to the forefront a modulatory role for mitochondrial remodeling in determining the susceptibility of drosophila cells to death .
+thus , mitochondrial remodeling plays an important role in modifying the propensity of cells to undergo pcd in drosophila .
+during metamorphosis , the first ecdysone pulse triggers mitochondrial fragmentation in prepupal tissues , although it is after the second ecdysone pulse that salivary gland histolysis occurs .
+the data presented here show involvement of mitochondrial fragmentation for ark - mediated dronc activation during cell death .
+, we show that multiple apoptotic stimuli result in mitochondrial fragmentation upstream of caspase activation , phosphatidylserine exposure , and nuclear condensation in drosophila cells . while etoposide induced mitochondrial fragmentation , c6-ceramide resulted in an increase in mitochondrial contiguity prior to its fragmentation .
+it is likely that diap-1 inhibits caspases in these cells that have fragmented mitochondria until it is downregulated at the transcriptional level or degraded after the second ecdysone pulse ( yin and thummel , 2005 ) .
+these results provide the first , to our knowledge , evidence that drp-1-mediated mitochondrial fragmentation upstream of effector caspase activation modifies apoptotic sensitivity ( figure  4j ) .

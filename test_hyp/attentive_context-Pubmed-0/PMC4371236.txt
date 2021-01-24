@@ -1,0 +1,6 @@
+based on recent breakthroughs , this article will discuss how new types of data are reshaping our understanding of post - transcriptional regulation in embryogenesis , with a focus on poly(a ) tails and the 3 untranslated region ( utr ) .
+a burst in genome - wide and big - data approaches is now challenging previous assumptions and is uncovering levels of complexity in post - transcriptional control of protein expression .
+classic biochemical and genetic approaches are essential to fully understanding mechanisms of mrna post - transcriptional regulation .
+genomic techniques are uncovering exciting levels of control previously unknown and are important to the progression of the field . alongside this work ,
+questions about post - transcriptional regulation are being asked more rapidly than answered . however , as demonstrated by a global comparison of mrna and protein abundance in different nematode species , separated by 30 million years of evolution , these mechanisms are important and widespread .
+the priority of resolving these and other queries is bolstered by increasing data linking human disease progression and severity to transcript regulation   . in the future , unraveling the nuances and intricacies of post - transcriptional regulation will once again require mechanistic analyses of individual transcripts .

@@ -1,0 +1,9 @@
+cervical cancer dataset that comprise of the national data may be obtained to give a more general prognosis and a better description of the survival pattern of all cervical cancer patients in malaysia .
+the ratio of the risk of death for patients who were diagnosed in stage iii & iv compared to the risk of death for patients in group stage i & ii was 1.44 .
+the risks of death for cervical cancer patients were estimated by finding the regression coefficient ( j ) 
+ j=j , 
+ and the hazard ratio ( j ) 
+ j = exp(j ) where j = 1,2 denotes the stratum .
+after applying the stratified model , this study found that the prognosis of cervical cancer patients was dependent upon the stage at diagnosis .
+for the first stratum , patients who were diagnosed at stage iii & iv are at 2.30 times the risk of death as those in stage i & ii . meanwhile , for the second stratum , patients in stage iii & iv group were more likely to die ( 3.53 times ) than patients in stage i & ii .
+the objective of this study was to determine the effects of explanatory variables on the survival of cervical cancer patients using parametric regression model . in some cases ,

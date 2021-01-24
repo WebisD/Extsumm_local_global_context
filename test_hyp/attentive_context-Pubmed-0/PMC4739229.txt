@@ -1,0 +1,5 @@
+simple linear regression analysis revealed that visfatin serum concentration was significantly associated with autoimmunity (  = 0.1014 ; p = 0.003 ) , ft4 (  = 0.05412 ; p = 0.048 ) , ft3 (  = 0.05242 ; p = 0.038 ) , and tpoab (  = 0.0002 ; p = 0.0025 ) ( figure 2 ) .
+the highest visfatin serum concentration was in ait group , and healthy controls had visfatin level higher than tt ( p = 0.0001 ) ( figure 1 ) .
+in the stepwise multiple regression analysis we confirmed the association between serum visfatin level and autoimmunity ( coefficient = 3.8461 ; p = 0.0001 ) , and ft3 ( coefficient = 0.4198 ; p = 0.0441 ) , whereas age , bmi , and homa - ir did not contribute significantly .
+, we analyzed its serum concentration among hypothyroid patients with chronic autoimmune thyroiditis and in patients after thyroidectomy , who were negative for thyroid antibodies .
+in separate stepwise multiple regression analysis we confirmed the association of serum visfatin concentration with autoimmunity ( coefficient = 4.1105 ; p = 0.0001 ) and ft4 ( coefficient = 0.1397 ; p = 0.038 ) , whereas age , bmi , and homa - ir did not enter the model .

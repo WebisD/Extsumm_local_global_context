@@ -1,0 +1,21 @@
+show activity against plasmodium falciparum , we also screened this set of compounds against 
+ cultures of drug - sensitive and drug - resistant strains of malaria . 
+ in doing so , we noted differential structure  activity relationships 
+ for these compounds growth inhibitory properties against each 
+ of the parasites , thus launching a multiparasite optimization campaign 
+ from the same lead series . in this paper
+, we describe these 
+ cross - pathogen assay results and 
+ outline our evaluation of replacements for the quinazoline scaffold 
+ of 1 for each of the parasites .
+we have described the discovery of neu-617 ( 1 ) , a 
+ derivative of the approved human cancer drug lapatinib ( 2 ) , which acts as a potent , orally bioavailable growth inhibitor of t. brucei that showed a modest effect in a mouse model of 
+ bloodstream infection .
+we posit that such a 
+ cross - screening approach can be a highly fruitful method for identification 
+ of new protozoan parasite growth inhibitors .
+we were gratified to observe that all 
+ of the compounds tested are similarly active against drug resistant 
+ strains of p. falciparum ( table s9 , supporting information ) , suggesting that despite the shared 
+ scaffold , these analogs likely display a mechanism of action or mechanism 
+ of resistance that differs from those of chloroquine .

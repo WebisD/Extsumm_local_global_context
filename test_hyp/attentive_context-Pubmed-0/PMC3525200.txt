@@ -1,0 +1,6 @@
+aldehyde oxidases ( ec 1.2.3.1 ) are proteins belonging to the family of molybdo- and tungsten - enzymes , which is represented in both eukaryotes and prokaryotes . in mammals ,
+mammalian catalytically active molybdo - enzymes require a specific form of organic molybdenum , known as the molybdenum cofactor ( moco ) .
+although a substantial amount of information on the structure and evolution of mammalian aldehyde oxidases is available , little is known about the physiological function of these enzymes in mammals , with particular reference to humans and relevant animal models .
+this is likely to require an integrated approach based on the definition of the substrate(s ) using purified enzyme preparations , and validation of the results in vivo .
+functional inactivation of the aox4 and aox3l1 genes occurred before the appearance of the human species , as chimpanzees ( pan troglodytes ) are endowed with the same complement of aldehyde oxidase genes and pseudogenes as humans .
+this allowed us to identify and isolate two other mouse cdnas   encoding catalytically active proteins highly related to bovine , mouse and rat aox1 , the primary structure of which had been elucidated in the meantime [ 16 - 18 ] . in a subsequent study ,

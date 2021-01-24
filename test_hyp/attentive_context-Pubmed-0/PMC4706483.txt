@@ -1,0 +1,6 @@
+general methods describing the synthesis and analytical characterization of the photocaged glutamic acid and all peptides , as well as detailed procedures for all of the experiments employed in this study ( including the number of animals used and replicates ) can be found in the supplementary information in the online version of the paper .
+the supplementary information also contains afm , additional rheological studies , histological analysis , and videos showing the gel - aided anastomosis and three - dimensional reconstruction of hind - limb vasculature .
+as will be shown , a sol - gel phase transition can be initiated by triggering the folding of the peptide into an amphiphilic -hairpin .
+designing soft materials from self - assembling peptides allows their bulk properties to be engineered at the molecular level for specific applications .
+the multiple phase transitions of apc1 , which enable its use in facilitating the anastomosis of ultra - small vessels , are due to the exact placement of natural and non - natural amino acids within its sequence that render the peptide , and its corresponding gel , responsive to environmental change .
+earlier studies in our lab support this proposed mechanism where the formation of the hydrophobic interface that defines the fibril bilayer provides most of the thermodynamic driving force for self - assembly .

@@ -1,0 +1,8 @@
+srs in conjunction with glut receptor imaging helps locate change in tumor receptor expression and thus helps in prognostication of the disease .
+the ability of the modality to delineate the somatostatin receptor expression gives explicit information of the biology of the net , both at primary and metastatic site and helps in treatment planning .
+neuroendocrine tumors ( nets ) originate from neural crest cells which belong to the amine precursor uptake and decarboxylation ( apud ) lineage and have both neural and endocrine cell features .
+ris will be an effective method to monitor response to radioimmunotherapy , which will identify a non - responder early and help alter treatment in such patients .
+is noted in these tumors and this patho - physiology is exploited in radioimmunoscintigraphy ( ris ) .
+this can stratify patients who would benefit from somatostatin analogue or peptide therapy , which is the emerging treatment option for net .
+sstr imaging in net is indicated for detection of the primary , staging , monitoring response to therapeutic somatostatin and treatment planning for sstr directed radionuclide therapy .
+combination receptor imaging will help in staging the disease as per the who classification which is based on the histology 

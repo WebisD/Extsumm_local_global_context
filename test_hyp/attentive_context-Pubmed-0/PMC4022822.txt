@@ -1,0 +1,5 @@
+the os of the patients with stages i - iii was 69.9 months ( 95% ci , 54.0 to 85.8 months ) , while that of patients with stage iv was 8.6 months , which showed a statistical significant difference ( p=0.01 ) ( fig .
+the aim of this study is to conduct an investigation of the clinicopathologic findings of cdc and to determine their correlation with the disease status and prognosis .
+the pfs of patients with stages i - iii was 6.9 months ( 95% ci , 1.3 to 12.4 months ) .
+we retrospectively reviewed 35 patients diagnosed with cdc at eight korean medical centers from 1996 to 2009 .
+recurrence occurred in 14 patients , 82% of the 17 patients who underwent a curative surgery , and their average recurrence period was 5.9 months , with a short pfs and a high relapse rate . using the log - rank method , no relationship was demonstrated between survival end points ( pfs and os ) and explanatory covariates , including patients ' age , gender , and initial calcium level , except for hemoglobin ( p=0.005 and p=0.193 , respectively ) and initial tnm stage ( p=0.022 and p=0.002 , respectively ) .

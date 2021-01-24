@@ -1,0 +1,5 @@
+importantly , all isoforms contain a ras association ( ra ) domain either in their c - terminal ( rassf1 - 6 ) or n - terminal ( rassf7 - 10 ) regions . to date , no known catalytic activity has been described for this family , and the general consensus supposes that rassf proteins function as scaffolds to localize signaling in the cell .
+we also defined a paracrine mechanism functioning downstream of rassf1a in response to cardiac stress .
+rassf1a signaling is diverse and our knowledge regarding rassf1a function is rapidly expanding . given that a bridge from cancer to cardiovascular biology is in place , it is likely that as additional rassf1a mechanisms of action are discovered , its impact on cardiac biology will continue to grow .
+, we speculate that the difference in proliferative capacity between cardiac myocytes and fibroblasts may explain the distinct effects of rassf1a signaling in the heart . there may also be differences in the expression or localization of signaling components , thereby modulating their ability to effectively signal in certain cell types .
+the ras association domain family ( rassf ) consists of 10 members : rassf1 - 10 .

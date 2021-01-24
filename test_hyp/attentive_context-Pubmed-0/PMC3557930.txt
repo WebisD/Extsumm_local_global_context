@@ -1,0 +1,23 @@
+, we assume that 
+ the rearrangements of 6 and 13a , c follow a retentive and invertive course , respectively , in analogy 
+ to chiral , nonracemic organolithiums with the same heteroatom , but 
+ an alkyl group instead of the deuterium atom .
+four chiral thio[d1]methyllithiums 
+ with different substituents 
+ at sulfur were prepared by tin  lithium exchange and their microscopic 
+ configurational stability was determined relative to the thiophosphate--mercaptophosphonate 
+ and thia -- wittig rearrangements , respectively ( figure 3 ) .
+lithium 
+ exchange ( salt free ? ) proved to be chemically very labile but microscopically 
+ configurationally stable on the time scale of the addition to benzaldehyde 
+ and acetophenone at 78 c . in summary
+while 13a is configurationally stable at 95 c , 13b underwent the thia -- rearrangement only down to 50 c 
+ and racemized completely . in case of 13b , the microscopic 
+ configurational stability was also evaluated on the time scale of 
+ its addition to benzaldehyde .
+analogously , thiomethyllithium 13b and bromomethyllithium 26 add to benzaldehyde 
+ with retention of configuration .
+. microscopic 
+ configurational stability of various thio[d1]methyllithiums 
+ on the time scale of rearrangements for 6 and 13a  c and on the time scale 
+ of addition of 13b and bromo[d1]methyllithiums 26 to benzaldehyde .

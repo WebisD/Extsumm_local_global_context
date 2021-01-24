@@ -1,0 +1,25 @@
+the use of model compounds with diastereomeric rotamers 
+ provides evidence that rotation about this bond in phenanthriplatin 
+ is rapid , eliminating any need to isolate and administer an enantiomerically 
+ pure compound .
+the solid state structure of phenanthriplatin 
+ highlights the fact 
+ that asymmetry of the phenanthridine ligand about the 
+ platinum coordination plane results in chirality .
+rapid rotation about the this bond also prevents the 
+ kinetic resolution of diastereomers in complexes of the type cis-[pt(nh3)2(phenanthridine)(9-alkylguanine ) ] , which mimic the interaction of phenanthriplatin 
+ with dna .
+the chirality of phenanthriplatin combined 
+ with coordination to r - gua creates diastereomers , the nature of which 
+ was investigated by x - ray crystallography and nmr spectroscopy . here
+the ( mp , pg ) and ( pp , mg ) diastereomers observed in both solution and the solid state are 
+ those in which the h8 g and h6p are located on 
+ the same side of the platinum coordination plane .
+we report the results of an investigation of these diastereomeric 
+ analogs of phenanthriplatin ( chart 2 ) , which 
+ were prepared to investigate whether the two phenanthriplatin enantiomers 
+ can be resolved on the physiological time scale .
+the experimental 
+ data described above indicate that interaction between the guanine 
+ carbonyl and cis - coordinated ammine determines the 
+ preferential diastereomer formation .

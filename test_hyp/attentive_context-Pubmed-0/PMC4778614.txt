@@ -1,0 +1,7 @@
+tissue culture methods and irradiation procedure have been described in . the three dimensional tissue culture model
+the 3d epioral tissue is a co - culture organotypic model and consisted of human fibroblasts on the bottom and human oral keratinocytes grown on top of the fibroblasts . in order to induce differentiation and stratification of the keratinocytes of the 3d cultures ,
+the threshold for significance was a benjamini - adjusted p - value  <  0.05 . based on our hypothesis , irradiated samples ( compared to non - irradiated control samples ) would display patterns of gene expression consistent with the physiological effects of irradiation .
+our article , , emphasizes the differentially expressed genes of tissues that received different amounts of radiation ( i.e. 0 , 2 , or 12  gy ) , while herein we show the profiling of all the transcriptomic data resulting from these treatments .
+that is , up - regulated genes in irradiated samples were strongly enriched for functional categories involved in cell death , cell proliferation , oncogenesis , and ubiquitin conjugation .
+tissue culture methods and irradiation procedure have been described in . the three dimensional tissue culture model
+that is , up - regulated genes in irradiated samples were strongly enriched for functional categories involved in cell death , cell proliferation , oncogenesis , and ubiquitin conjugation .

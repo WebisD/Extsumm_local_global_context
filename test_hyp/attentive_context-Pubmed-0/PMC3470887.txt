@@ -1,0 +1,7 @@
+the results in this study may give a clear picture that would then help in engineering new sequence of peptides to retain the antiviral activity against dengue while increasing its stability and eliminating the toxic characteristics of pg-1 .
+although pg-1 showed significant inhibition profile towards dengue virus in this study and to human immunodeficiency virus 1 ( hiv1 ) in another study , the peptide instability should be considered as a major concern .
+our objective was to examine the efficacy of pg-1 as cationic cyclic peptide to inhibit dengue serine protease and subsequently reduce viral replication in host cells .
+this may be accounted by its short half - life in vivo as its level in mice plasma that was injected with 4  mg / ml i.v
+most recent study showed that the inhibition potential of some chemical compounds towards ns2b - ns3pro measured by ic50 was 15.4 , 20.4 , and 27.0  m .
+the recombinant ns2b - ns3pro was produced as a soluble protein in e. coli and purified by nickel column ( figure 1(a ) ) .
+cytotoxicity and compound stability can be considered as major limitations of the practical application of protease inhibitors . in this study , to test pg-1 toxicity , mk2 cell lines were incubated with increasing concentrations of pg-1 for 24 , 48 , and 72 hrs .

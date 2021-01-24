@@ -1,0 +1,6 @@
+, linear regression analysis was performed to model association between a large number of explanatory variables as the predictors ( i.e. , retinal vascular parameters and clinical information ) and dm as the response variable .
+this study has also introduced a set of new retinal vascular parameters , tba and aba , and employed them together with other features and patients demographic information to create an explanatory model for prediction of diabetes in the absence of evident features of diabetic retinopathy . in this work
+this research has studied retinal vasculature parameters to detect dm in the indian population with no dr .
+also some predictors ( i.e. , crae , mean tortuosity , vb , and age ) change their sign from the full model to the reduced model , resulting in some degree of uncertainty for the interpretation of the full model with highly colinear predictors .
+a potential impact of this study is to allow for development of a predictive mode in the future to identify diabetic patients with no dr during a routine visit to an ophthalmologist or an optometrist .
+the significance of this work is that it reports automatic analysis of the eye - fundus images and provides an explanatory model for early changes in some retinal vascular parameters as a result of dm .

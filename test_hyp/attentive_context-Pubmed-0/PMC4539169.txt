@@ -1,0 +1,8 @@
+, we will discuss the role of both slap proteins in different cell types and overview our current understanding regarding their relevance in pathological conditions .
+slap molecules may participate in several pathological conditions of the immune system as well . in the present review
+both slap-1 and slap-2 have a prominent role in the negative regulation of several membrane bound receptors and receptor tyrosine kinases , thereafter slaps play a central role in the regulation of intracellular signal transduction and cell reactivity .
+signal transducing adaptor proteins are a group of intracellular and transmembrane molecules which are crucial supplementary factors of signaling pathways . they mediate interactions between different molecules and contribute to the formation of signaling complexes .
+slap proteins are expressed in a variety of cell types which indicates a conserved function of these proteins .
+slaps are involved in a broad range of cellular processes , for example , lymphocyte development , neuronal excitotoxicity and platelet activation .
+src protein tyrosine kinases ( ptks ) are protooncogenes that play a role in cell proliferation , survival , and morphology . unlike src ptks ,
+the proper function of slaps is necessary for immunoreceptor repertoire configuration and helps to avoid uncontrolled cell activation , proliferation , and migration .

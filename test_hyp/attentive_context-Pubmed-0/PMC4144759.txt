@@ -1,0 +1,29 @@
+we highlight the importance 
+ of developing a solid foundation for mapping with md , particularly 
+ as it relates to the validation of parameters through detailed evaluation 
+ of metrics for probe  probe dispersion .
+we also 
+ identify additional probe solvents that expand the ability of mixmd 
+ to locate important interaction profiles in protein 
+here , we 
+ show what happens when poor parameters are used in mapping a protein . 
+
+we then use md simulations of water - probe boxes to examine which remain 
+ evenly mixed .
+we were interested in extending the probe set for mixmd to 
+ fully 
+ enable identification of hydrogen - bonding sites , hydrophobic contacts , 
+ protein  protein interactions , and aromatic pockets .
+ultimately , investigators could  mix and 
+ match  the probes used in mixmd to identify hotspots with a 
+ greater degree of specificity .
+the multiple solvent crystal structure ( mscs ) technique uses x - ray crystallography to determine receptor structures 
+ in the presence of competing water and organic solvent .
+, a full pharmacophore 
+ model could be created from the simulation of a single protein+probes+water 
+ system , which would greatly reduce the computational costs of mixmd 
+ studies .
+simultaneous 
+ protein flexibility and solvent mapping was first 
+ implemented in 2009 when molecular dynamics ( md ) simulations were 
+ used as a tool to map hot spots .

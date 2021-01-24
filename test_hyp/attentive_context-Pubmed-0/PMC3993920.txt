@@ -1,0 +1,21 @@
+d2 was utilized as a deuterium source to enable the 
+ isolation and characterization of the low - coordinate iron deuteride 
+ complexes [ lfe(-d)]2 and [ lfe(-d)]2 .
+unfortunately , the aforementioned inability to observe resonances 
+ for h and d bound to a metal has so far prevented the monitoring of 
+ h / d exchange in paramagnetic hydride complexes . in this article , 
+ we describe synthetic and characterization advances 
+ for two high - spin iron(ii)-hydride complexes , supported by the -diketiminate 
+ ligands l and l ( chart 1 ) . in an interesting twist , these studies benefit 
+ from unusually large ( up to 5.7 ppm ) isotope effects on the h nmr chemical shifts of the distant protons upon hydride deuteration , 
+ a phenomenon that occurs only in the dimeric hydride 
+ complexes in our system .
+in addition , this is the only way to distinguish 
+ hydride from deuteride isotopologues , and this discovery enables us 
+ to monitor h / d exchange in this system for the first time .
+piecs also enabled the correct h nmr assignments of 
+ the hydride complexes , as well as the study of intermolecular hydride 
+ exchange .
+more generally , these studies show that h nmr spectroscopy 
+ can be a powerful tool for the study of paramagnetic iron hydride 
+ complexes : not despite the paramagnetism , but because of the paramagnetism through the piecs effect .

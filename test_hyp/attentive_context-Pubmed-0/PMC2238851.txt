@@ -1,0 +1,6 @@
+we have added a post - processing step in our scanning procedure , which allows the display of weak matches or the masking of strong ones according to the occurrence of other specific features in the protein .
+as prorule uses prosite profiles that are mainly directed against protein domains , it is well adapted to annotate modular proteins . the swiss - prot group has also developed a complementary database of rules ( hamap ) , which uses the same format of rules but which is specific for well - conserved bacterial protein families ( 7 ) . 
+
+it is thus possible to convert an hmm profile into a  generalized profile format and several prosite profiles are in fact hmm profiles that were converted with the pftools program htop ( 5 ) .
+this information was mainly stored in free text and used by biologists who read the various documents and made their own decisions on the function of their protein according to the prosite matches .
+but with the rapid growth of sequence databases during the last 10 years , there was an increasing need for a reliable tool that could generate automatically precise and accurate functional annotation in standard format .

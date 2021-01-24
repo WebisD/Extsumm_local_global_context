@@ -1,0 +1,26 @@
+we speculate that this could represent an important 
+  physiological role of g6b - b and other platelet itim proteins in helping to 
+  prevent platelet activation in vivo .
+these results are 
+  consistent with a model in which cross - linking of gpvi by collagen leads to 
+  tyrosine phosphorylation of the fcr -chain and activation of the 
+  tyrosine kinase syk .
+in summary , the present study reports that both fcr -chain and 
+  clec-2 generate weak , sustained constitutive signals that are inhibited by 
+  co - expression with g6b - b .
+pecam-1 does not inhibit constitutive signaling in dt40 
+  cells  a similar set of studies were undertaken to investigate 
+  whether the major platelet itim receptor , pecam-1 , also inhibits constitutive 
+  and agonist - induced activation of nfat downstream of gpvi - fcr -chain 
+  and clec-2 .
+constitutive signaling of gpvi - fcr -chain in dt40 
+  cells  we set out to extend our previous characterization of the 
+  gpvi - fcr -chain signaling pathway in the dt40 b cell line 
+  ( 24 ) by testing whether 
+  activation of gpvi by collagen is dependent on its associated fcr 
+  -chain .
+the ability of g6b - b to inhibit constitutive and agonist - induced responses 
+  mediated through gpvi - fcr -chain and clec-2 was further investigated in 
+  the combined absence of the two sh2 domain - containing tyrosine phosphatases , 
+  shp1 and shp2 , or in the absence of the 5-inositol phosphatase , ship . 
+ 

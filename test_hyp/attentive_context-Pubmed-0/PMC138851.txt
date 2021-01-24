@@ -1,0 +1,8 @@
+, the prediction is that the germline dna of a given organism should contain unrearranged receptor genes ; rearranged versions of the genes should exist only in lymphocytes .
+many of the immunoglobulin genes are actually found pre - rearranged in the germline ( reviewed in ) .
+this unique reaction assembles the receptor genes from separate v , d and j gene segments , a process ostensibly restricted to lymphocytes at a certain stage of their development . in this view
+the vertebrate immune system employs a wide variety of antigen - specific receptors - the immunoglobulins and t - cell receptors - to recognize and neutralize foreign invaders .
+the fly in the ointment , however , appeared with an analysis of receptor genes in the germline of evolutionarily distant organisms - the cartilaginous fishes . in these primitive vertebrates ,
+the evolutionary consequences of these site - specific germline gene rearrangements may reach far beyond the immune system .
+this suggests that the v(d)j recombinase may actually be an evolutionary force , a notion that is strongly supported by recent studies in the nurse shark .
+the receptor diversity necessary to recognize an almost limitless universe of potential pathogens is created by a site - specific dna rearrangement process termed v(d)j recombination .

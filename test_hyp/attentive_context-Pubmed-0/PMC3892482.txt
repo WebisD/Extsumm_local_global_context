@@ -1,0 +1,7 @@
+golink differs from existing tools by using the go api to mine the full complement of the go database , using methods that take into account the namespace of a query term when assessing cooccurrence .
+golink is a perl based tool that finds terms cooccurring with a given query term in annotation across the full complement of the gene ontology database .
+the key advantages of using this particular method and source data are described along with other practical uses for the tool .
+these include predicting the most likely biological process for genes by using just their assigned molecular function terms , where golink achieves levels of specificity , sensitivity , and accuracy above 80% .
+it has advantages over other existing tools and can be used in a variety of applications .
+with the number of sequenced genomes at various stages of completion being in the tens of thousands   and the number of genomic features ( genes , rnas , etc . ) identified across these genomes in the millions , the need for accurate and consistent genomic annotation is paramount .
+this paper presents golink , an alternative tool for finding go terms from across the three go namespaces that cooccur with a given query term .

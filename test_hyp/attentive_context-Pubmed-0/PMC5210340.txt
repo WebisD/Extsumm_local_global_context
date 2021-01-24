@@ -1,0 +1,5 @@
+the early varc2 safety end point occurred in 14.3% of patients treated with the lotus and 14.6% of patients treated with the edwards sapien 3 prosthesis with no difference in crude ( hr , 0.97 ; 95% ci , 0.611.56 [ p=0.915 ] ) and adjusted ( hr , 1.03 ; 95% ci , 0.641.67 [ p=0.909 ] ) analyses ( figure  1 ) .
+in a nationwide registry , no statistical difference was found between the repositionable lotus valve system and the balloonexpandable edwards sapien 3 prosthesis with respect to the varc2 early safety outcome for the treatment .
+we therefore performed an adjusted comparison of the lotus valve system with the balloonexpandable edwards sapien 3 prosthesis in patients with aortic stenosis undergoing tavi within the nationwide swiss transcatheter aortic valve implantation registry ( nct01368250 ) .
+the need for new permanent pacemaker implantation was more frequent among patients treated with the lotus valve .
+median ) , sex ( female versus male ) , left ventricular ejection fraction ( 40% versus > 40% ) , peripheral vascular disease ( yes versus no ) , sts risk score ( > 4 versus 4 ) , and p value for the interaction between subgroups and valve type .

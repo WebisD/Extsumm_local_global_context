@@ -1,0 +1,7 @@
+we have developed and integrated submissions of high - throughput sequencing data with the european genome - phenome archive ( ega ) ( lappalainen , i .
+the arrayexpress archive of functional genomics data is one of the major international repositories for functional genomics high - throughput data . since 2003
+other important developments are the inclusion of all gene expression omnibus ( geo ) array - based data and a new data exchange agreement with the geo ( 3 ) for high - throughput sequencing data , a new advanced query capability supporting ontology - based queries over the entire archive contents .
+the technology used to generate functional genomics data has changed from microarray - based experiments to high - throughput sequencing . to address this ,
+adjusting arrayexpress to accept and display high - throughput sequencing experiments alongside existing array data is one of the major recent developments .
+the provision of raw sequence data is insufficient to describe comparative experiments such as rna - seq ; metadata describing the experimental conditions and processed data are necessary to interpret the experiment .
+we have worked closely with other resources at european bioinformatics institute , specifically the ena and ega , who archive short - read data for multi - species and potential human identifiable data , respectively . as outlined in minseqe guidelines ( minimum information about a high throughput sequencing experiment , http://www.mged.org/minseqe ) ,

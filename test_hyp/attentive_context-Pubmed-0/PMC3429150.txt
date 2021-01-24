@@ -1,0 +1,7 @@
+a total of 26,350 ( 99.5% ) breast cancer patients were women , and 138 ( 0.5% ) were men .
+the proportion of patients with localized breast cancer at the time of diagnosis increased from 43.2% in 2004 to 49.8% in 2009 .
+similar to the primary analyses of tnm completeness , the proportion of tumors of unknown stage was highest among older patients and those with high cci scores .
+in addition , we aimed to determine whether the completeness varied by gender , patient age , calendar period , cancer stage , or level of comorbidity .
+stage - specific analyses are especially crucial , and stage - recording practices may affect the evaluation of screening program and trends in stage - specific incidence and prognosis . however , most patients with screening mammography - detected breast cancer undergo surgery , and consequently have high tnm completeness . in conclusion , our study showed that completeness of tnm registration for breast cancer varied differentially with age and level of comorbidity .
+therefore , we conducted this study to evaluate completeness of tnm classification for breast cancer .
+we calculated the completeness and corresponding 95% confidence intervals , of the tnm registration overall , by each component individually ( ie , t , n , and m ) , and according to the stage categories ( see appendix ) . to reduce the prevalence of patients with breast cancer of unknown stage

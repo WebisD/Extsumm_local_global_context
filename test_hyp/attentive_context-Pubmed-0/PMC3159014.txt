@@ -1,0 +1,6 @@
+the purpose of the current study was to evaluate associations for vaginal infections with prevalent hpv , incident hpv , and clearance of hpv in a large , prospective cohort of hiv - infected and high - risk , hiv - uninfected women .
+furthermore , in this large , prospective study , bacterial vaginosis was associated with increased odds for incident hpv and delayed clearance of hpv .  
+bacterial vaginosis was associated with a lower rate of hpv clearance ( ahr = 0.65 , 95% ci : 0.51 , 0.83 ) , and vice versa , among women with bacterial vaginosis , vaginal candida colonization was associated with delayed hpv clearance ( ahr = 0.73 , 95% ci : 0.58 , 0.93 ) .   when vaginal candida colonization was removed from the model , bacterial vaginosis remained significantly associated with delayed clearance of hpv among all hers women ( ahr = 0.84 , 95% ci : 0.72 , 0.97 ) .  
+bacterial vaginosis is associated with increased odds for prevalent and incident hpv as well as delayed clearance among women in the hiv epidemiology research study .
+
+				 human papillomavirus ( hpv ) is the most common sexually transmitted infection ( sti ) among young adult women , and it plays a critical role in the development of cervical cancer   .

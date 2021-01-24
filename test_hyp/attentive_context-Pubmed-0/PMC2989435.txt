@@ -1,0 +1,7 @@
+tiam1 is involved in a number of cellular processes including migration and the regulation of cell - cell adhesions and survival .
+to our knowledge , this is the first signaling module that retards centrosome separation during prophase in mammalian cells and the first demonstration of an increased rate of centrosome separation in prophase leading to chromosome congression defects .
+this considerable overlap is not surprising given the importance of the bipolar mitotic spindle to the survival of eukaryotic cells , providing a number of fail - safes that decrease the risk of chromosome segregation errors during cell division .
+importantly , we show that correcting the balance of forces , by attenuating eg5 activity in tiam1-depleted cells , completely rescues the defects in chromosome congression , allowing cells to satisfy the sac and progress through mitosis normally ( for a model see figure  4h ) .
+, we have shown that tiam1 , acting through rac , is a critical mediator of forces during bipolar spindle assembly .
+tiam1-rac signaling counteracts eg5 during bipolar spindle formation in  vitro and in  vivo .
+epithelial cells within intestinal crypts are highly proliferative and arrest rapidly after administration of various drugs ; this arrest is visualized via an accumulation of mitotic figures within the intestinal crypt .

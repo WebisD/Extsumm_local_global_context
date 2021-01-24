@@ -1,0 +1,7 @@
+here we use a bicistronic feline lentiviral vector to generate genetically modified feline neural progenitor cells that exhibit sustained overexpression of gdnf before and after   differentiation .
+this body of work , combined with the availability of naturally occurring retinal dystrophic mutants , would serve to recommend the cat as a powerful model for retinal regeneration research .
+of particular interest is the application of these cells to existing animals with photoreceptor dystrophy , such as the swedish abyssinian breed with the cep290 mutation , with the goal of ameliorating visual loss through the sustained intraocular delivery of a neurotrophic factor . in vivo experiments in this nonrodent species
+here we demonstrate the feasibility of using feline lentiviral vectors to genetically modify cnpcs for sustained delivery of gdnf .
+among mammals , the highly developed visual system of the domestic cat has been studied in particular detail , owing in part to greater similarities with the human visual system as compared to laboratory rodents .
+looking forward , the gdnf - gfp overexpressing cnpcs developed here are suitable for allogeneic transplantation to the vitreous cavity or subretinal space of cats with retinal disease .
+to more fully exploit the potential of this model , it is useful to develop feline npcs capable of sustained growth factor delivery to the host retina .

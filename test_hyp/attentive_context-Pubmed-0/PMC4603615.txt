@@ -1,0 +1,19 @@
+methylammonium 
+ iodide ( ch3nh3i ) was prepared by dissolving 
+ methylamine ( sigma - aldrich 534102 ) in absolute ethanol and reacting 
+ with hydroiodic acid ( sigma - aldrich 210021 ) in an ice bath .
+the spectral dependence of the absorptance ( a ) of the ch3nh3pbi3 films was determined 
+ by making use of the formula a = 1  r  t. ple measurements were 
+ performed in a commercial fluorometer ( fluorolog 3 from horiba ) .
+total transmittance ( t ) and total reflectance ( r ) spectra of the ch3nh3pbi3 films were measured using an 
+ integrating sphere attached to a uv  vis spectrophotometer ( shimadzu 
+ uv-2101 pc ) .
+ch3nh3i and pbcl2 ( sigma - aldrich 
+ 268690 ) were dissolved at a final concentration of 40 wt % in anhydrous n , n - dimethylformamide ( dmf ) ( the molar 
+ ratio between ch3nh3i and pbcl2 was 
+ 3:1 ) .
+after 6 s , while the spinning process 
+ took place , 200 l of anhydrous chlorobenzene was dropped onto 
+ the center of the substrate , as previously reported .
+the resulting 
+ films were then annealed at 100 c for 3 h , until a pure ch3nh3pbi3 layer was obtained . optical characterization .

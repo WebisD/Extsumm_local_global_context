@@ -1,0 +1,6 @@
+the analysis of sdg pharmacokinetic parameters in rd and td groups indicated more than twice lower value of sdg in td group .
+on the basis of rd and td , cv  % was calculated for ma , sda , mg , sdg , m and sdm , which is presented in the table  2 . in relation to the value of ma , mg and m between the rd and td data
+t data at points , in which the sd is particularly high . reducing the value of sd for
+in the presented study , the lowest value of relative standard deviation ( rsd  % ) of concentrations observed in the elimination phase and the value of precision of the used analytical method were used to optimize the arithmetic and geometric mean and the value of sd obtained after single oral administration of itraconazole , which is characterized by high variability of pharmacokinetic parameters .
+normalization and scaling of pharmacokinetic data are also used in the allometric analysis , in scaling either concentrations , time or pharmacokinetic parameters ( mahmood 2005 ) .
+taking the above into account , the aim of this study was to propose a method of transformation of c  t , which would allow significantly reducing the sd value of observed concentrations , without the statistically significant influence on the value of the mean and median for each sampling point .

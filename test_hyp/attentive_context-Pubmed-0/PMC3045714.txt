@@ -1,0 +1,6 @@
+preoperative crp elevation and thrombocytosis were associated with a poorer prognosis and a higher recurrence rate in patients with non - metastatic rcc . moreover ,
+kaplan - meier recurrence - free survival curves according to crp level showed that the survival rate of patients with crp elevation ( crp0.8 mg / dl ) was significantly lower than that of patients with normal crp levels ( p<0.001 ) ( fig .
+however , preoperative thrombocytosis was not an independent prognostic factor for tumor recurrence and prognosis .
+the medical records of 177 patients with non - metastatic rcc who underwent a radical nephrectomy between march 2000 and may 2008 and for whom preoperative crp and platelet levels were available for analysis were retrospectively reviewed .
+preoperative thrombocytosis was significantly correlated with anemia ( p=0.003 ) , t stage ( p=0.002 ) , and metastasis ( p=0.001 ) , but not with age , gender , tumor histology subtype , tumor size , or grade ( table 3 ) .
+the univariate analysis identified anemia , crp elevation , thrombocytosis , tumor histology subtype , tumor size , t stage , and grade as significant prognostic factors for recurrence - free survival , whereas the multivariate analysis showed that crp elevation ( p=0.033 ) and tumor size ( p=0.007 ) were independent prognostic factors ( table 4 ) .

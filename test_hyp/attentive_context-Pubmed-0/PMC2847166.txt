@@ -1,0 +1,7 @@
+2007a ) routine for standardizing chemical shift referencing to produce a pipeline for analysis of chemical shift data .
+we benchmark the program against talos as a standard for current methods and hhpred , a sequence search method based on hidden markov models ( sding et al .
+the original simshift was designed to test for structural similarities between proteins in a pair wise manner using chemical shifts to supplement sequence data .
+we have adopted an alternative approach to extracting structural data from chemical shifts based on our simshiftdb algorithm .
+we have presented simshiftdb and shown that the program is able to sensitively extract structural information from chemical shift data .
+the matching sequence can be of any length , and structurally similar regions can be found ranging from small , locally similar fragments up to full domains . in principle , any structural alignment method can also be used to make predictions of local conformation by extracting torsion angles from matching regions of the target proteins , and it is this implementation of the simshiftdb algorithm we present here .
+given a target protein , simshiftdb analyzes each possible pairing of the target protein with one of the template protein structures in the database .

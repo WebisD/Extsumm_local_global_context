@@ -1,0 +1,5 @@
+the aim of the present study is to investigate roles of thrombin , tryptase , trypsin , elastase , and agonist peptides of pars in the secretion of tnf from purified human t cells and subtypes of t cells .
+in conclusion , it is discovered in the present study that serine proteinases thrombin and trypsin are potent stimuli of tnf secretion from highly purified t cells .
+these findings indicate that tnf is one of key mediators of inflammation ; therefore , our current study is of importance in understanding tnf - related inflammation and the mechanism of proteinase - induced cytokine production in t cells .
+our previous report which found thrombin - induced il-6 secretion from human peripheral blood t cells may support our current findings . while little information is available on induction of tnf release from t cells by trypsin , the ability of trypsin to stimulate il-6 secretion from t cells   may support the anticipation that trypsin is capable of inducing cytokine release from t cells .
+similarly , we clearly found that il-4 + t cells express enhanced tnf , though little information on co - expression of il-4 and tnf in t cells is available .

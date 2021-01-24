@@ -1,0 +1,7 @@
+the vision system is a virtual 3d environment that allows radiation oncologists to perform volume measurement , seed placement , and dose distribution planning and analysis based on a set of 2d contours on patient ct images .
+this paper presents a report on this new system called vision that was designed , developed , and refined for breast cancer brachytherapy treatment planning .
+vision is able to embed placed seeds on original patient ct images and displayed in an institutive 3d environment that can be easily manipulated by the oncologist . using our 3d neighborhood probability function to estimate the treatment volume
+the patient treatment volume reconstructed by a method developed in this project significantly improved the accuracy from existing methods and guarantees the high - volume accuracy requirement of radioactive seed implantation procedure for this treatment .
+this paper described vision , a 3d computer - assisted treatment planning system we developed for breast cancer brachytherapy treatment .
+the system was developed using mathematical theories for accurate volume estimation and dose analysis , as well as advanced 3d visualization technologies .
+this , in turn , will assist an oncologist by minimizing the number of seeds required and potentially increasing the effectiveness of the treatment .

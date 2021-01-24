@@ -1,0 +1,6 @@
+herein , we conducted a molecular analysis of the rabbit colony to determine the cdna coding sequence of twist1 and the full - length sequence of fgfr3 ( as the rabbit sequences of these genes were previously unknown ) .
+we used snp analysis to determine whether fgfr1 , fgfr2 , or twist1 were associated with the craniosynostosis phenotype of the rabbit colony .
+we have now determined the sequence of fgfr3 cdna in the rabbit and determined that no structural mutations are present to explain the craniosynostotic phenotype , such as the p250r mutation commonly observed in muenke syndrome .
+the genetic defect within this rabbit model is unknown , and a lack of molecular tools in rabbits has thus far made mapping genetic defects problematic .
+thus , neither the  g  nor the  a  allele cosegregated with the disease phenotype , and a plurality of affected animals actually shared the g / g genotype found in wild type rabbit sequence as reported in ensembl .   for fgfr2 ,
+in addition , using snp analysis , msx2 does not appear to be the causative agent of craniosynostosis in these rabbits ; this was expected as gain - of - function mutations in msx2 were identified primarily in one family and result in boston type craniosynostosis in humans .

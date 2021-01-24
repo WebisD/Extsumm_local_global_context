@@ -1,0 +1,6 @@
+in this paper , we presented a high - accuracy method for the detection of mcs in mammograms .
+experimental results demonstrated that the proposed method is capable of detecting the mcs in mammograms with high accuracy .   in further work
+the proposed method combined a multi - ses top - hat transform and a wavelet - based denoising approach to enhance the individual microcalcifications in mammograms .
+then , based on the feature of malignant mcs , threshold processing is used to segment the mcs from mammograms .   
+, we present a new method based on a hybrid method which combines a morphological technique   and wavelet decomposition processing for detecting the mcs in mammograms .
+as described in , mc detection can be classified into four categories : ( 1 ) image enhancement methods   ; ( 2 ) multiscale decomposition methods   ; ( 3 ) stochastic modeling methods   ; and ( 4 ) machine learning methods   . in , a performance evaluation was summarized using free - response receiver operating characteristic ( froc ) in which a support vector machine ( svm ) approach   is found to be superior to conventional methods and is capable of achieving a true positive rate of approximately 90% when the false - positive ( fp ) rate is on average of 1.1 fp clusters per image .

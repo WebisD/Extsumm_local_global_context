@@ -1,0 +1,6 @@
+we analyzed more than 700,000 deaths of individuals who resided in utah , identifying 4,031 individuals with pd diagnosis in the dc , and showed strong support for a genetic contribution to pd mortality .
+finally , we have identified a rich resource of pedigrees with not only a large number of pd deaths but also a significant excess of pd deaths that are uniquely informative for current studies to identify predisposition genes .
+a study of pd in a similar resource in iceland presented evidence for familial aggregation of the subset of late - onset pd ( defined as onset at age > 50 years ) and provided rrs for spouses and for specific first- , second- , and third - degree relationships .
+the updb resource has been analyzed for more than 30 years to define the observed familial clustering of disease , to detect evidence for a genetic contribution to disease , and to identify high - risk pedigrees informative for predisposition gene identification .
+this analysis of pd deaths in the homogeneous utah population shows strong support for a genetic contribution to pd , based on multiple tests for familial clustering .
+genealogical index of familiality ( gif ) analysis for excess relatedness for parkinson disease ( pd ) cases the gif analysis for the 4,031 individuals dying from pd demonstrated excess relatedness than was expected ( p < 0.001 ) .

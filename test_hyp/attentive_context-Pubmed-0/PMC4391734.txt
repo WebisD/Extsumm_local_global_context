@@ -1,0 +1,7 @@
+the online version of this article ( doi:10.1007/s00894 - 015 - 2643-z ) contains supplementary material , which is available to authorized users .
+the results of theoretical studies have also shown that the interactions of teriflunomide with tyrosine and arginine involve principally the amide fragment of teriflunomide .
+taking into consideration the accuracy of calculations as well as time and cost required to complete them , the use of giao method in the nmr analysis of rotamers of leflunomide seems to be the appropriate choice .
+our calculations confirm that the presence of the internal hydrogen bond between ( z)-teriflunomide carbonyl oxygen and enolic hydroxyl decreases the interaction strength between teriflunomide and tyrosine or arginine .
+our investigations have shown that the use of more complex basis sets or diffuse functions during optimization does not increase the correlation between the calculated and experimental values of chemical shifts .
+the nmr estimation proved that the amide bond of leflunomide might be involved in the hydrogen bond forming .
+moreover , even the e isomer of teriflunomide , if ever formed under physiological conditions , would usually provide a stronger interaction teriflunomideamino acid than the z isomer with the internal hydrogen bond .

@@ -1,0 +1,6 @@
+the data reported highlight the implication of yta7 not only in gene expression , as expected , but also in genome organization , as a possible histone chaperone acting at boundary sites and regulating transcription .
+this review considers all the molecular data available on yta7 in the light of our knowledge on atad2 .
+however , in addition to these studies , there is a relatively rich literature on yta7 ( yeast tat - binding analog 7 ) , the unique atad2 homologue expressed in the budding yeast saccharomyces cerevisiae .
+this high conservation of the domain organization of the protein in the vast majority of eukaryotes , including unicellular organisms such as yeasts , is also indicative of its conserved functional features .
+indeed , a conserved feature of atad2 and of its homologues across species is the presence of a two partite aaa+ atpase ( atpases associated with diverse cellular activities ) domain that mediates protein multimerization and of a bromodomain that is responsible for its binding to his - tones ( boussouar et al . , 2013 ) .
+the studies done on the yeast s. cerevisiae yta7 protein are complementary to the studies conducted on atad2 in mammals , which are mostly connected to cancer . in this

@@ -1,0 +1,21 @@
+, 
+  we used the whole - cell voltage clamp technique to examine the effects of turgor pressure on junctional coupling of isolated pairs or small groups of cochlear supporting cells . both input capacitance (
+we report that data obtained with 
+  both techniques indicate that positive intracellular 
+  pressure , which is known to induce membrane tension , 
+  uncouples gap junctions of supporting cells in corti 's 
+  organ .
+2 a , bath application of hypo - osmotic solution 
+  ( 150 mosm ) caused a hensen cell pair to swell ( insets ) 
+  and decreased cin of the pair to single cell levels .
+we provide evidence , based on input capacitance and 
+  double voltage clamp measures , that junctional coupling is sensitive to positive turgor pressure - induced 
+  membrane tension .
+our data indicate that membrane stress acts 
+  on inner ear gap junctions in a manner independent of 
+  ca , ph , and protein kinases .
+the 
+  correlation of cin with degree of cell coupling is illustrated by real measures of cin in a coupled two - cell electrical model ( fig .
+was abolished by 5 mm 
+  egta in nominally ca - free internal solutions , and 
+  was linked to the activity of pkc . in the present report

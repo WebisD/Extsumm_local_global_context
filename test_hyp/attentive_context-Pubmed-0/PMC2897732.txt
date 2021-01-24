@@ -1,0 +1,6 @@
+after their biosynthesis at the endoplasmic reticulum , secreted proteins are transported to the golgi complex , where they are post - translationally modified and sorted for secretion , plasma membrane delivery , or delivery to prelysosomes .
+a limitation of those studies is that one of the compartment markers that was monitored is a peripheral membrane protein that is likely to reversibly bind to and release from the golgi surface .
+vesicles are likely to be involved in golgi transport : we know that cop - i - coated vesicles collect kdel receptors for delivery back to the endoplasmic reticulum ; in this case , we can postulate that such vesicles bud from a rab gtpase - organized , functional membrane microdomain .
+as is well established for the endocytic pathway , rab gtpases would define specific subdomains and retain specific golgi enzyme subsets there .
+validation and clarification of this model will require defining which rabs build which specific golgi enzyme microdomains and determining the specific molecular interactions that permit fission , fusion , and enzyme organization .
+the situation may be more complex in mammalian cells , where golgi cisternae are stacked tightly together , unlike yeast ; it is hard to imagine a single cisterna moving from one side of the well - stacked structure to the other .

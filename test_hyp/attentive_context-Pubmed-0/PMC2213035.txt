@@ -1,0 +1,6 @@
+in this issue of the jem , two articles describe a potential role for two bacterial toxins in the modulation of the immune system by interfering with t cell signaling . using an in vitro jurkat t cell system , gerke et al .
+more recent studies have shown that yoph can also inhibit t cell signaling in - vitro and that this activity could be correlated with the presence of yoph and the dephosphorylation of the tyrosine kinase lck ( 13 ) .
+( 8) make a strong case for slp-76 and lat as high affinity substrates for this tyrosine phosphatase and hence of potential relevance during infection when presumably the pathogen would deliver small quantities of this toxin .
+the broader issue raised by these two and other studies with other bacterial toxins that disrupt immune cell function in vitro , however , is the in vivo relevance of the findings .
+( 8) have now extended those studies and added the t cell  signaling adaptor proteins lat and slp-76 to the list of potential yoph substrates .
+in addition , many viral , bacterial , and protozoan pathogens undergo rapid antigenic variation to evade the onslaught of the acquired immune response ( 2830 ) . whether inhibition of t cell signaling by anthrax or yoph toxins should be added to the list of pathogenic mechanisms specifically evolved to counter the acquired immune response

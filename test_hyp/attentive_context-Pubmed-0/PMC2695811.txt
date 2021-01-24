@@ -1,0 +1,7 @@
+the pyrophosphate standards were prepared in a solution identical to that employed in cross - replication , but lacking the rna enzymes and substrates .
+the external guide sequence rna for cleavage of etheo and efmn had the sequence 5-cguaaguugcggucucacca-3  , and for etheo and efmn had the sequence 5-auauucaugcggucucacca-3  ( nucleotides complementary to the target rna underlined ) .
+the pyrophosphate standards were prepared in a solution identical to that employed in cross - replication , but lacking the rna enzymes and substrates .
+the a and a  substrates could not be obtained reliably by in vitro transcription due to heterogeneity at the 3  end of the transcripts . instead
+the reaction was initiated by mixing equal volumes of two solutions , one containing the enzymes and substrates , and the other containing the mgcl2 and epps buffer .
+for the second pair of etheo and etheo molecules used in the multiplex experiments , the external guide sequence rnas had the sequence 5-cguaguaugcggucuacca-3  and 5-gaauaucauugcggucucacca-3  , respectively .
+oligonucleotides were synthesized on an expedite automated dna / rna synthesizer ( applied biosystems , foster city , ca ) using nucleoside phosphoramidites purchased from glen research ( sterling , va ) .

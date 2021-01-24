@@ -1,0 +1,7 @@
+there is an awareness for researchers of the need to share experimental data using the internet .
+thus , php could facilitate 2-de presentations on web sites because information can be stored in a database and assembled using php commands into web pages on the fly when requested .
+proteomics , which is the study of the entire protein complement expressed by a genome in a cell , holds a key position in the present biology ( 1 ) . for the separation of such complex protein mixtures , 2-dimensional electrophoresis ( 2-de )
+php , a recursive acronym that stands for php : hypertext preprocessor , is a widely used general - purpose html - embedded scripting language that especially suits for web development .
+the code is executed on the server side and allows to dynamically generate pages , in particular , using information accessed from databases .
+thus , researchers desirous of sharing their experimental 2-de data need to display : 2-de experimental conditions , gel pictures with stained and numbered spots and , for a given spot , the protein(s ) content with appropriate links to the identification pages in databanks .
+now , most of the web hosting companies offer the opportunity to use mysql databases and dynamic languages such as php .

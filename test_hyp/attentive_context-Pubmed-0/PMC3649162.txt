@@ -1,0 +1,6 @@
+the purpose of this observational cohort study was to evaluate whether pelvic measurements , especially pelvic outlet , displayed any association with operative vaginal deliveries and the duration of the second stage of the delivery .
+the size of the maternal pelvic size was 4%-5% larger in the mothers with infant weight 3700  g. the duration of the second stage of the delivery was 54 minutes longer ( p < 0.01 ) in the operative vaginal delivery group amounting to a 45-minute longer duration ( p = 0.01 ) in infant weight < 3700  g and 62 minutes longer ( p < 0.01 ) in infant weight 3700  g group .
+the area under the curve ( auc ) for the pelvic inlet was 0.566 with the p value of 0.18 and 95% confidence interval ( ci ) of 0.4650.667 . for pelvic outlet ,
+in the two delivery subgroups , the duration of the second stage of the delivery was significantly longer in operative vaginal delivery group than in spontaneous vaginal delivery group .
+in addition , the three - dimensional shape of the bony pelvis and the soft tissues are worth considering in future studies .
+the receiver operating characteristic curve analysis for pelvic inlet and outlet as a diagnostic test for the mode of vaginal delivery is shown in figures 2(a ) and 2(b ) .

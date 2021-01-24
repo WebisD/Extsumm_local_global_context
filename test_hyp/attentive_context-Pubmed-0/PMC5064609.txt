@@ -1,0 +1,5 @@
+however , in order to image deeper areas , ex vivo explants of tissues and organs have been used as a tool to monitor cell migration and distribution ( bajnoff et al . , 2008 , mort et al . , 2014 ) . here , we describe a simple method to detect individual t. cruzi forms millimetres inside infected tissues and organs : slicing a specimen to gain access to the interior , then imaging  ex vivo slices .
+this method can provide , with good resolution , new information about parasite behaviour inside host tissues and the nature of neighbouring cells and elucidate infection mechanisms .
+some strategies can be adopted such as extracting more superficial tissues in the area of interest : for example , thinning skull without removing it and image intravascular and extravascular t. brucei through the remaining bone ( myburgh et al . ,
+the balb / c or c57bl/6 mice infected with transfected t. cruzi trypomastigotes were sacrificed at the acute phase of infection ( 8  days ) . after organ removal and sectioning ,
+, this is the first description of t. cruzi imaging from inside infected tissues at the singlecell level .

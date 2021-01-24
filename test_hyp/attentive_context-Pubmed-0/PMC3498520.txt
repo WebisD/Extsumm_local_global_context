@@ -1,0 +1,21 @@
+in summary , we have demonstrated how a 
+ systematic approach based 
+ on first - sphere active site mutagenesis , high - throughput p450 fingerprinting , 
+ and fingerprint - based p450 reactivity predictions can provide an efficient 
+ solution to the problem of developing p450 catalysts with fine - tuned 
+ site - selectivity for the oxidative activation of multiple , isolated 
+ sp c  h bonds in a complex molecule . by guiding 
+ and
+focusing our search for the desired catalysts across a large engineered 
+ p450 library , this method allowed us to accomplish our goal of refining 
+ the site - selectivity of a p450 enzyme in a time- and cost - effective 
+ manner . to our knowledge , the complete inversion in stereoselectivity 
+ achieved with ii - h10 ( 100% ee ( r ) from 78% ee ( s ) in fl#62 ) , the absolute regioselectivity and stereocomplementarity 
+ obtained with the iv - h4/ii - h10 pair , and the regioselectivity shift 
+ achieved with x - e12 to afford the selective hydroxylation of a primary , 
+ nonallylic / nonbenzylic c  h site ( 7%  94% ) remain unprecedented 
+ in previous p450 engineering efforts .
+have emerged with respect to the active site positions 
+ and mutations responsible for steering the selectivity of these enzymes 
+ toward each one of the three , spatially close sp c  h 
+ bonds in c7 and c6a of artemisinin ( figure 1b ) .

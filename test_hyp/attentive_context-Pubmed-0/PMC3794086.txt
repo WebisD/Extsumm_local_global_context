@@ -1,0 +1,6 @@
+our results may demonstrate a useful strategy of discovering pleiotropy , which refers to a phenomenon of common pathways involved in distinct phenotypes .
+we mimicked the analysis conditions of the original published gwa works as much as possible , based on the de facto standard program plink . for the gene set analysis , we used gsa - snp software , an efficient java - based application that accepts a list of single nucleotide polymorphisms ( snps ) and their association p - values and outputs the gene set p - values after multiple testing correction .
+we surveyed the literature for putative involvement of neuronal or nerve systems in the regulation of those 8 traits ( table 3 ) .
+for this , we used so - called semantic similarity , as implemented in the r package gosemsim . for each pair of traits , we calculated the semantic similarity of the gene sets and plotted it against the correlation coefficient between the trait values ( fig .
+we pursued re - analyses of these studies in terms of gene sets in a systematic way to warrant cross - comparisons of the traits .
+we selected 46 trait pairs that showed a semantic similarity in gene sets greater than an arbitrary cutoff of 0.75 and depicted the interaction network using cytoscape ( fig .

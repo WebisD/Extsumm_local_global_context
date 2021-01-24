@@ -1,0 +1,6 @@
+in summary , the transport properties and quantum interference effects in a double - ab interferometer in series consisting of five quantum dots in the case of symmetric dot - electrode tunneling couplings are studied by using green s function equation of motion method .
+the ab oscillation for the magnetic flux in the double - ab interferometer is also studied in this work .
+the results show that the ab oscillating behavior depends strongly on the difference between the magnetic fluxes threading the left and right quantum rings .
+an ab oscillation with -period for the magnetic flux threading the left quantum ring is developed when the difference between the two magnetic fluxes is ( 2n + 1)(n = 0 , 1 , 2 ,  ) .
+the linear conductance can be effectively modified by the intermediate quantum dot 3 . as the energy level in the quantum dot 3 changes , a three - peak structure in the linear conductance spectrum evolves into a two - peak structure . when the quantum - dot levels in arms are not aligned with one another
+the energy levels of all quantum dots can be tuned by the voltages applied on the quantum dots in experiments .

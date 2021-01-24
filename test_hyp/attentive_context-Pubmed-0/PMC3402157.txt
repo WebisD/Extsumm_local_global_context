@@ -1,0 +1,7 @@
+the present study is the first study to assess a replication of ptsd 's newest five - factor dysphoric arousal model using asd data .
+a competing models approach was implemented in which the asd dysphoric arousal model was compared to three alternative asd models , in a combined heterogeneous clinical trauma sample .
+fit indices for the four alternative asd models  , chi - square ; rmsea , root mean square error of approximation ; ci , confidence interval ; cfi , comparative fit index ; tli , tucker 
+2012 ) results suggest that the latent structure of asd , measured by the asds , is best described as a five - factor structure separating the arousal factor into two separate factors of dysphoric arousal and anxious arousal .
+, the present study is the first study to examine a replication of the five - factor dysphoric arousal model of ptsd which separates the arousal factor into dysphoric arousal and anxious arousal factors .
+future research on asd 's latent structure should further test the dysphoric arousal model across varying forms of traumatic experience .
+none of the models reached the recommended values of the cfi and tli for adequate ( between .90 and .95 ) or excellent ( > .95 ) fit .

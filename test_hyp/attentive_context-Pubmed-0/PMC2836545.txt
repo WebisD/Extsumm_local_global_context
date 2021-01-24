@@ -1,0 +1,7 @@
+in this article , we describe a new computational tool to determine nearly optimal folding pathways between two given secondary structures of an rna sequence .
+we see how the creation of a base pair in a region with no base pairs leads to the stabilization of other secondary structures along the folding pathway .
+if large type - h pseudoknots appear in the structure obtained by adjoining two metastable structures , then rnatabupath is likely to be the best algorithm , since indirect pathways will have lower barrier energy in this case . to assist those interested in computing near - optimal folding pathways , we have created the web server rnapathfinder , located at http://bioinformatics.bc.edu/clotelab/rnapathfinder .
+tabu search has been a very effective technique in combinatorial optimization for a wide variety of problems and is an integral part of the repertoire of optimization techniques . to fix ideas , figure 1
+molecular folding pathways are low energy routes taken along an energy surface . as previously noticed by morgan and higgs ( 6 ) ,
+one of its key components , which we use in this article , is a short memory , often called the 
+since barriers is an exact algorithm , it should be used whenever possible ; i.e. one should first apply findpath or rnatabupath to obtain an energy upper bound for subsequent application of barriers . in other cases , findpath and rnatabupath

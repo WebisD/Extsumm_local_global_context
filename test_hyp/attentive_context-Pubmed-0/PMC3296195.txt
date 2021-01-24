@@ -1,0 +1,5 @@
+analysis of variance ( anova ) with study arm and time as the factors and total pades as the outcome variable showed no significant interaction between arm and time . for the outcome of moderate or severe pades ,
+objectivethe primary objective of this study was to evaluate the impact of the prospective team resource management methodology ( trm ) , based on the semi - p instrument , ( with and without the use of a practice enhancement associate ( pea ) ) onthe number of preventable ades in a vulnerable population aged 65 and above;the severity of these preventable ades . 
+ 
+the interaction term was significant ( p = 0.023 ) supporting the notion that the  intervention with pea  practices had a greater reduction in moderate / severe pades over time than the comparison group .
+as shown in table 2 , in the  intervention with pea  group there was a statistically significant decrease in the overall rate of pades after the intervention compared to before ( 7.4 per 100 patient - years versus 12.6 , p = 0.018 ) and in the rate of moderate or severe ( combined ) pades(1.6 versus 6.4 , p = 0.035 ) . in the comparison arm and the unaided intervention arms ,

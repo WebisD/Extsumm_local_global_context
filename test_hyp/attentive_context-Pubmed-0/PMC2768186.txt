@@ -1,0 +1,7 @@
+our data suggest that foxo1 signaling through nf-b plays a significant role in coupling insulin resistance to proinflammatory cytokine il-1 production in obesity and type 2 diabetes .
+our goal is to understand the molecular basis that links insulin resistance to abnormal production of proinflammatory cytokine il-1 in macrophages .
+this effect was inhibited by insulin , which is correlated with the ability of foxo1 to undergo insulin - dependent phosphorylation and nuclear exclusion .
+this effect along with active nf-b contributed to macrophage overproduction of il-1. although insulin resistance is associated with low - grade inflammation in obesity and type 2 diabetes , the underlying mechanism remains obscure .
+aberrant proinflammatory cytokine production is intertwined with insulin resistance in obesity and type 2 diabetes . to decipher the molecular basis that links proinflammatory cytokine production to insulin resistance , we determined the effect of foxo1 on cytokine production in macrophages , a cell type that plays a pivotal role in mediating whole - body insulin resistance in the face of low - grade inflammation .
+these data characterize foxo1 at the interface between abnormal production of proinflammatory cytokine il-1 and the pathogenesis of insulin resistance in macrophages .
+lps or palmitate treatment also impaired the ability of insulin to promote irs2 and foxo1 phosphorylation in cultured macrophages .

@@ -1,0 +1,6 @@
+, it is critical for researchers to have a simple and efficient standardized method for dissection of the mouse long bones for rapid processing of large in vivo experiments .
+similarly , a standardized bone marrow isolation method with high bone marrow cell recovery and low inter - user variability is important for experimental analysis such as fluorescence - activated cell sorting ( facs ) or quantitative pcr ( qpcr ) as well as downstream applications such as primary cell culture of bone marrow cells .
+the dissection protocol outlined here is suitable for all long bone analyses including ex vivo imaging , histology , histomorphometry , and strength testing , among others .
+all of these disorders represent active areas of research with the goal of identifying new preventative measures and treatment regimens to reduce morbidity and mortality . to research the plethora of roles of the bone and the bone marrow , both under physiologic and pathologic conditions
+in addition , this straightforward approach to long bone dissection will enable researchers in related fields to directly interrogate bone contributions in order to expand our knowledge of bone marrow dysfunction in otherwise understudied pathologies .
+we present a simple and efficient method for removal of mouse hind long bones and subsequent bone marrow isolation .

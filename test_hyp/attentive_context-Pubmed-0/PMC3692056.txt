@@ -1,0 +1,6 @@
+the method has been improved by the addition of a novel conservation scoring function with an improvement of 3% in positive predictive value and 13% in sensitivity both in the apo and holo test set .
+the interface of webpdbinder is designed to facilitate the input process and to obtain a clear and user - friendly graphical output that makes the method accessible to a broad audience .
+the identification of ligand - binding sites is a difficult task when there is scarce sequence similarity between the protein of interest and available annotated proteins or when the similar structures are only crystallized in their apo form .
+this web server provides a user - friendly version of the pdbinder method , enriched with a new parameter , the conservation value and improved performance .
+we have developed the pdbinder algorithm ( 37 ) , a knowledge - based method based on the observation that unrelated binding sites often share small structural motifs that bind the same chemical fragments , irrespective of the type of ligand they are able to bind .
+these results are extremely important for all the real world cases where the query protein has been crystallized without a ligand and is also difficult to obtain clear similarities with bound pockets from holo pocket libraries . in this web server version ,

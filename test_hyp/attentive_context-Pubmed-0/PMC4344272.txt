@@ -1,0 +1,6 @@
+comparative analyses of full - length sequences revealed that the isolates from these pigs in germany show very high nucleotide similarity with strain oh851 found in the united states in 2014 .
+therefore , our report provides useful information about recent pedv strains in europe , but a comprehensive evaluation is still difficult because of a lack of data about additional strains .
+in may 2014 , a pig fattening farm in southern germany ( federal state of baden - wuerttemberg ) that continuously houses 1,400 fattening pigs reported watery diarrhea in pigs in all age groups ( feeders to slaughter animals ) .
+however , differences exist that distinguish the strains from germany from the highly virulent pedv strains that caused the major losses in the united states .
+pairwise similarity matrix based on full - length genomes and schematic representation of the nucleotide sequence alignment of the complete spike protein coding sequences .
+given the fact that pedv surveillance has been lacking in germany , we can not exclude the possibility that the strains described here have already been circulating in europe for a longer time or were indeed recently introduced from the united states or asia to europe .

@@ -1,0 +1,9 @@
+the results of this study suggest that the use of acei , arbs , and nonselective beta - adrenergic receptor antagonists ( propranolol or carteolol ) is not associated with breast cancer .
+in addition , evidence for any association between the use of aceis / arbs and breast cancer is also inconsistent , with some studies suggesting that aceis / arbs are not associated with cancer risk   , and others reporting an increased or reduced risk . to address the conflicting evidence from previous studies , the aim of the study reported here was to evaluate the risk of breast cancer associated with long - term use of ahs in hypertensive women .
+our findings indicate that the long - term use of ccbs or beta-1 selective blockers are likely to be associated with breast cancer risk .
+arb : q1 ( 25% )  =  405 ddd , q2 ( 50% )  =  800.5 ddd , q3 ( 75% )  =  1,464 ddd 
+ adjusted for peripheral vascular disease , diabetes mellitus and medicine use ( including hrt , statin , beta - blocker and ccb ) 
+ adjusted for peripheral vascular disease , diabetes mellitus and medicine use ( including hrt , statin , beta - blocker and arb ) odds risk and 95% confidence intervals for risk of breast cancer associated with exposure to different types of antihypertensives , duration of exposure and dosage * * p  <  0.01 , * * * p  <  0.001 
+ cddd cumulative defined daily dose 
+ adjusted for peripheral vascular disease , diabetes mellitus and medicine use ( included hrt , statin , arb and ccb ) 
+ beta - blocker : q1 ( 25% )  =  195.25 ddd , q2 ( 50% )  =  448 ddd , q3 ( 75% )  =  1,012 ddd .

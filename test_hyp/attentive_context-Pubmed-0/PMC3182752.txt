@@ -1,0 +1,6 @@
+we assess the performance of basin - hopping and genetic algorithms on the bln model proteins .
+we plan to examine this scaling in terms of metric disconnectivity graphs and measures of landscape complexity.(19 ) another area of interest is to investigate the energy landscapes and ease of global optimization for potentials that are intermediate in character between the bln and go limits , in order to identify the transition from a poor to a good folder .
+we have shown that the bln-69 protein has a frustrated potential energy landscape , with multiple low - energy minima lying at the bottom of funnels separated by high barriers .
+this analysis would also allow us to understand the effect of non - native interactions with different strengths on the thermodynamics and kinetics of protein folding .
+nevertheless , both the ga and bh algorithms locate the global minimum quite efficiently for both bln-46 and bln-69 , with significant improvements over previous work .
+, it has a much larger conformational space , but how frustrated is it ? to answer this question , we analyze the energy landscape of bln-69 and the corresponding go model using disconnectivity graphs , where minima are connected by nodes representing the highest transition state on the lowest pathway between them . finding the global minima of frustrated systems , such as the bln proteins ,

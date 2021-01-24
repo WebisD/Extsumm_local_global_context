@@ -1,0 +1,16 @@
+, we provide the first evidence that ssc - mir-181d is able to target porcine gr 3utr and suppress 
+ the luciferase reporter activity in hela cells . in conclusion , we demonstrate , for the first time , that maternal betaine supplementation during gestation 
+ enhances the expression of total gr mrna , as well as its exon 1 - 4 and 1 - 9,10 mrna variants , in the hippocampus 
+ of neonatal piglets , without affecting the total cellular gr protein content .
+alterations of cpg methylation in 
+ the proximal region of gr promoter and modified expression of mirnas targeting 3utr of porcine gr mrna appear 
+ to be involved in the regulation of hippocampal gr expression .
+it is well - documented that gr expression can be modulated by maternal nutritional interventions , such as 
+ protein restriction in rats   
+ and undernutrition in sheep , as well as dietary supplementation of 
+ methyl donors in rats   and in humans .
+moreover , infusion of l - methionine diminished hippocampal gr expression in the adult rat 
+ offspring of high licking / grooming and arched - back nursing ( lg - abn ) mothers . similarly , maternal dietary supplementation with methyl donor mixture inhibited hippocampal gr 
+ expression in three - month - old tame rats . in the present study , 
+ however , maternal betaine supplementation increased total gr mrna expression in the hippocampus of newborn 
+ piglets .

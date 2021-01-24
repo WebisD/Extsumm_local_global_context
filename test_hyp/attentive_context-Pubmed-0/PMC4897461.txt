@@ -1,0 +1,6 @@
+proposed method was validated for linearity , accuracy , precision , and robustness and method was applied to various formulations and results were statistically compared with reference method which showed that there were no significant changes in the result .
+ceftriaxone sodium sterile formulations were analysed by proposed method and by reported method , which involved the analysis of analyte with 0.1  m sodium hydroxide and absorbance measured at 258.8  nm .
+the nominal content of the drug in injection for each brand was determined using the corresponding regression equation and results of % rsd of drug content were statistically compared with reported method .
+assays were carried out for six times within a day ( intraday precision ) and in six consecutive days ( interday precision ) by adding three different levels of analyte to the formulation .
+thus , this method can be utilized to compare the results for the content analysis of stability samples , since the purpose of stability studies is to monitor possible changes to a product or a material over a time at different storage conditions .
+% rsd values were 0.5 ( intraday ) and 1.18 ( interday ) indicating high precision of developed method .

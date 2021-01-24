@@ -1,0 +1,7 @@
+this mini - review is a modest attempt to summarize the current state of research on the epigenetic regulation of endothelial disorder in atherosclerosis and to provide an outlook .
+since single - gene based epigenetic analysis tends to give very limited and often biased knowledge to the understanding of atherogenesis , long considered a multifactorial disease , basic scientists and clinicians like will benefit from an undertaking that unveils a comprehensive picture of epigenetic regulation of endothelial injury in atherosclerosis .
+recent advances in the transcriptional regulation of atherosclerosis suggest a growing involvement of the epigenetic machinery , .
+relying on high - fidelity chromatin immunoprecipitation ( chip ) coupled with high - throughput sequencing techniques , these projects aim to decode the epigenetic information bringing insights for the prevention and intervention of human diseases .
+so far , there has been a lack of effort in deciphering the epigenetic code on a genomewide scale in any of the major cardiovascular diseases including atherosclerosis .
+atherosclerosis represents a major factor of coronary heart disease characterized by the formation of fat - laden plaque in large and medium - sized vessels . during atherogenesis
+therefore , elucidation of the mechanisms underlying these characteristic transcriptional events will potentially further our understanding of atherogenesis and yield druggable targets for the intervention and prevention of atherosclerosis .

@@ -1,0 +1,6 @@
+therapeutic approaches that neutralize cxcl4 , the newly identified target of fibrosis , may represent a novel strategy for preventing and treating clad after liver transplantation .
+we showed that the severity of clad was significantly ameliorated after cxcl4 neutralization by monoclonal antibody ( cxcl4mab ) treatment in a rat model of clad .
+we first identified cxcl4 , cxcr3 , egfr , jak2 , stat3 , and collagen iv as associated with clad pathogenesis and validated the relationship between cxcl4 and liver fibrogenesis in isolated hscs . indeed , liver graft fibrosis , a hallmark of clad , is a major cause of morbidity and mortality after liver transplantation .
+cxcl4 , cxcr3 , egfr , jak2 , stat3 , and collagen iv were first identified as participating in the pathogenesis of clad in this study .
+, we applied isobaric tags for relative and absolute quantification ( itraq ) proteomics analysis to identify that cxcl4 is an informative gene in clad .
+taken together , these results indicated that the cxcl4-cxcr3 axis participates in the pathogenesis of clad and that cxcl4mab treatment is potentially beneficial in preventing and treatment of clad after liver transplantation . in conclusion ,

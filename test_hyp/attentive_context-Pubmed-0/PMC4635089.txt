@@ -1,0 +1,11 @@
+in addition , fvc ( in l ) and fev1 ( in l / min ) were found to be important predictors of lvm in grams or indexed to body surface area .
+p < 0.05 ; p = 0.05 ; p < 0.01 . 
+ figure 1.correlation of fef25 - 75/fvc , % , adjusted for the variables weight , gender , and systemic arterial hypertension , with left ventricular posterior wall thickness , in a ; with relative left ventricular posterior wall thickness , in b ; and with left ventricular mass adjusted for body size in obese individuals , in c. 
+  stepwise multiple linear regression analysis ( table 4 ) showed that the variation in lvm among morbidly obese individuals is better predicted by fvc ( in l ) , which explained 36.9% ( p
+similarly , we aimed to determine the degree of association between lung function and ventricular mass in the study population , with the goal of guiding future studies related to common mechanisms of cardiac and pulmonary impairment in morbid obesity .
+in contrast , there is evidence of purely mechanical cardiopulmonary effects , with no effect of inflammatory mediators , 
+ 9 
+ 10 
+  or an interaction of mechanical and inflammatory factors in cases of lung function and asthma associated with obesity . 
+ 11 
+  therefore , the primary objective of this exploratory study was to look for correlations between lung function and cardiac dimension variables , in order to test the hypothesis that regardless of being a purely mechanical or gender - related factor , the relative size of the small airways ( dysanapsis ) , as measured indirectly by the ratio of fef25 - 75% to fvc ( fef25 - 75/fvc , % ) , is correlated with left ventricular hypertrophy ( remodeling ) , since the small airways are especially susceptible to mechanical - inflammatory interactions and bronchial hyperreactivity .

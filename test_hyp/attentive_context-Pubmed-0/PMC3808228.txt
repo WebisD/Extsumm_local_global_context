@@ -1,0 +1,7 @@
+this study aims to improve early diagnosis of dementia by investigating correlates of cognitive complaints and cognitive test performance in sci and mci . considering the question
+in contrast , csf biomarkers ( a42 , t - tau , and p - tau ) were significant predictors of cognitive test performance . in the sci group ( table 3 ) ,
+the second hypothesis is that cognitive complaints are associated with depressive symptoms and csf biomarkers are associated with objective cognitive impairment .
+further , the findings shed light on the nature of cognitive complaints and cognitive impairment by demonstrating that depressive symptoms are associated with cognitive complaints , while degenerative changes ( relating to pathological levels of csf biomarkers ) are associated with an objective cognitive decline in high - risk predementia states .
+this study has investigated correlates of cognitive complaints and cognitive test performance in patients with sci and mci .
+we also explored the associations of depression with cognitive complaints and test performance , using gds-15 as the depression measure .
+no significant associations were found between test performance and memory complaints in mci . in order to assess the impact of depressive symptoms and csf biomarkers ( explanatory variables ) on the reported cognitive complaints and cognitive performance ( the dependent variables ) , linear regression analyses were performed ( tables 3 , 4 ) . scl-90-r

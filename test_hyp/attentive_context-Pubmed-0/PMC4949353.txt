@@ -1,0 +1,7 @@
+the purpose of this study was to evaluate the association between the quality of communication and surgical outcomes , specifically operative time , blood loss , and perioperative complications .
+analysis of the cqoc score showed an association between the quality of communication in the or and both cut - to - close time and ebl , when controlling for body mass index , prior abdominal surgery , type of procedure , and uterine weight in separate multivariate linear regression models .
+our study demonstrated that the diminished quality of communication reported by or team members is associated with more adverse metrics of patient outcomes .
+ambient noise , audio clarity , and team members ' inexperience , all contributed to lower communication scores . overcoming the communication and teamwork obstacles introduced by robotic surgery may increase patient safety .
+our study demonstrated that poor quality of communication is associated with a longer operative time and a higher ebl .
+we conducted a prospective questionnaire - based pilot study from march 1 through may 31 , 2013 , at a university - affiliated tertiary care medical center .
+the average response rate was 60% ( 105/174 ) , with a lower rate in fellows ( 9/22 ; 41% ) and a higher rate in circulating nurses ( 34/43 , 79% ; p = .025 ) .

@@ -1,0 +1,7 @@
+moreover , since autophagy is activated and is involved in ebv and kshv replication   , its manipulation could also affect the viral particle release that plays a role in -herpesvirus - associated cancers .
+a better understanding of how autophagy manipulation could influence antiviral immune response and control virus - induced tumorigenesis might help to discover strategies improving the outcome of the treatments of virus - associated malignancies .
+according to the paradigm of antigen processing by the antigen presenting cells ( apc ) , peptides arising from intracellular proteins are presented via class i mhc molecule .
+autophagosomes are formed during the induction of autophagy , a self - eating mechanism through which cells recycle their own constituents and survive in stressful conditions .
+therefore , stat3 activation could be one of the molecular mechanisms underlying kshv - mediated immunosuppression in dcs .
+besides that , autophagy also plays an essential role in preventing apoptosis of these cells .
+given the importance of autophagy in the immune response , it is not surprising that viruses have evolved strategies to interfere with it , in order to avoid their elimination into the lysosomes , impair the production of antiviral cytokines , reduce the presentation of their antigens , and , as described for hcv , alter dc differentiation .

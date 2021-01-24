@@ -1,0 +1,6 @@
+this review focuses on advances in analytical technologies for high - throughput ( htp ) glycomics ( i.e. the large - scale study of glycoconjugate glycosylation patterns )
+it highlights current challenges in analytical glycomics methods and presents some approaches of how the bottlenecks in protein glycosylation analysis may be overcome .
+given the above , it is clear that development of reliable , affordable , high - resolution htp glycomics technologies would be essential in the biopharma industry for efficient optimization of the glycosylation patterns of glycoprotein therapeutics as well as advancement of practical clinical diagnostics based on glycosylation biomarkers of disease .
+the rest of this review will cover a number of recent advances in glycomics technologies for these two applications .
+. our emphasis will be on glycomics to support ( 1 ) realization of glycoprotein biopharmaceuticals and ( 2 ) development of glycan biomarkers of disease for clinical diagnostics .
+however , most of the glycan biomarkers discovered so far have been studied using glycoanalytical technologies that would not be suitable for use in routine clinical diagnostic labs  the shortfall being due mainly to limitations in sample throughput , resolution and affordability of the methods .

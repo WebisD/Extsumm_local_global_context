@@ -1,0 +1,23 @@
+examples of neurological diseases where aberrant protein 
+ aggregates are found , and the suggested conformations in the 
+ aberrant aggregates are indicated .
+many neurodegenerative disorders are characterized by 
+ their presence in neural tissue of aberrant protein aggregates 
+ ( see table 1 ) . in general , these aggregates arise after the modification of a 
+ native protein . that modification could result in a conformational 
+ change of the native protein that promotes the aberrant 
+ aggregation .
+we will mainly focus on those aggregates assembled from tau 
+ protein , aggregates that could be present in the neurological 
+ disorders known as tauopathies ( for a review see ) ( table 1 ) .
+recently , some good reviews have been published on protein 
+ aggregation and neurodegenerative disorders   . in this 
+ review
+the most studied model of this mechanism has been the prion 
+ protein where a change from an alpha helix to beta sheet structure 
+ facilitates the polymerization of a protein with a different 
+ conformation that appears to have a cytotoxic effect . in a similar way
+, conformational changes between a native protein 
+ and its aberrant protein counterpart with capacity for 
+ self - assembly have been studied in many neurodegenerative 
+ diseases . among the most common techniques used for these analyses 

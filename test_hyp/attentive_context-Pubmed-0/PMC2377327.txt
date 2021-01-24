@@ -1,0 +1,23 @@
+we performed a standard dti 
+ experiment on 6 subjects and used the coordinates of the network nodes as seed 
+ regions for a fiber tracking analysis . in this analysis ,
+in this study , we have for the 
+ first time used dti - based fiber tractography to investigate the anatomical 
+ basis of effective connectivity models .  
+we have established 
+ whether dti - based fiber tractography provides evidence about the direct nature 
+ of every possible connection , whether or not it was proposed in the original 
+ studies .
+in functional neuroimaging ,   and particularly in pet and fmri ,   study design and analysis have been dominated by the concept of   functional segregation , which emphasizes the specialization of a brain structure for a 
+ specific part of a cognitive function .
+first , we wanted to establish that dti - based tractography is able to resolve the 
+ connectivity between rois of the size typically used in effective connectivity 
+ studies .
+we therefore conclude that dti - based 
+ tractography is a valuable tool for exploring the anatomical basis of 
+ functional networks .
+we have 
+ chosen networks spanning a number of different cognitive domains , including 
+ learning   , 
+ cognitive control   , working memory , visual and auditory perception , major depression , and the thalamocortical network 
+ involved in general - anaesthetic - induced unconsciousness .

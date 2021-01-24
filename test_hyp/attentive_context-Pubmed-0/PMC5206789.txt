@@ -1,0 +1,7 @@
+, we capitalize on the availability of data from the tcga project to further and deeper investigate the status of the human surfaceome in 15 tumor types , including gbm and colorectal and breast tumors , all analyzed in our previous publications   .
+furthermore , we present evidence that a three - gene set  wnt5a , cnga2 and igsf9b  was associated with shorter survival in breast cancer patients .
+the availability of the s - score system provides a quantitative way to identify and prioritize cancer genes in a particular set of samples . here
+furthermore , the use of the s - score system allowed us to identify gene signatures associated with overall survival in breast cancer patients .
+this generated a pan - cancer landscape of the human surfaceome with the identification of shared and tumor - specific markers .
+using tcga data for 15 tumor types and a new method of cancer genes classification that integrates information from different  omics  technologies and allows a ranking based on clinical parameters ( s - score ) , we identified several potential therapeutic targets within the surfaceome set .
+we have used the s - score metric to identify cancer genes in a set of human homologs of yeast genes characterized as suppressors of genome instability in yeast .

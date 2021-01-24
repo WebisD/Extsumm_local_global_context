@@ -1,0 +1,7 @@
+the gene panels have been used to introduce a prediction model to determine if a new patient sample belongs to the core subgroups associated with classical , mesenchymal , and proneural subtypes of gbm .
+we have introduced a novel algorithm for genomic subtyping of cancer samples . unlike prior clustering techniques , we predetermine a compact set of genes to be used in the analysis through the nondimensionalized standard deviation and persistent homology .
+our approach not only provides a robust partitioning of patient samples , but can also be used to identify a panel of genes to be used as a biomarker .
+next , we use the differential expression of genes in c1 and c2 to bisect the patient samples .
+cancers in many tissues are heterogeneous , and the efficacy of therapeutic interventions depends on the specific subtype of the malignancy . hence , early and accurate identification of the cancer subtype is critical in designing an effective personalized therapy .
+we used the panel of 59 genes in c1 , c2 , c1 , and c2 to introduce a prediction model for the subtypes of gbm .
+mutations that underlie a malignancy modify the levels of many genes within a cell ; the goal of gene expression profiling is to define a signature for each cancer subtype through statistically significant up-/downregulation of a panel of genes .

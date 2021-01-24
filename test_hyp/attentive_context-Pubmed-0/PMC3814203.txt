@@ -1,0 +1,6 @@
+the same permutation approach was used to assess demasculinization and feminization of the x chromosome by testing whether the chromosomal distribution of testis- , accessory gland- , abdomen- , and ovary - specific genes was nonrandom . to test for differences in global expression between the x chromosome and autosomal genes ,
+the same permutation approach was used to assess demasculinization and feminization of the x chromosome by testing whether the chromosomal distribution of testis- , accessory gland- , abdomen- , and ovary - specific genes was nonrandom . to test for differences in global expression between the x chromosome and autosomal genes ,
+, we identified genes that are likely expressed exclusively in a single sex by using a sex - specific metric of tissue specificity : 
+ ( 1 ) 
+ where ei is mean expression of tissue i and emax is the maximum of the tissue - specific mean expression across all tissues ( yanai et al . 2005 ) .
+expression measurements were normalized via a log2 transformation and summarized by taking the median of a probe set ( draghici 2012 ) where probe - level observations were the mean of the two replicates of that probe on the array .

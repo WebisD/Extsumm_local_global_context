@@ -1,0 +1,7 @@
+therefore , a better understanding of the mechanism of how nmdars can be modulated by regulatory proteins should help in the development of new therapeutic agents to counteract overactive nmda receptor function , and may represent an alternative to treating nmdar - mediated excitotoxic injury .
+this short review focuses on the specific negative modulation of nmdars by a neuronal calcium sensor ( ncs ) protein , dream / calsenilin / kchip3 .
+glutamate functions as the major excitatory neurotransmitter by binding to n - methyl - d - aspartate receptors ( nmdars ) that are widespread in the central nervous system .
+the ncs protein dream / calsenilin / kchip3 acts as an auxiliary subunit and suppresses nmda receptor channel function .
+therefore , targeting regulatory proteins of nmdars may represent an alternative approach to treating nmdar - mediated excitotoxic damage and providing neuroprotection .
+the nmdars have long been considered the main target for the treatment of excitotoxicity - related neuronal injury , and a variety of antagonists or blockers of nmdars have been developed .
+unfortunately , the results of clinical trials have been disappointing because of the obvious side effects associated with blocking the physiological roles of nmdars ( chen and lipton , 2006 ) .

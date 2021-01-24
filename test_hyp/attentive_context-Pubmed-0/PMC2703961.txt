@@ -1,0 +1,8 @@
+the result is a subnetwork of the target network most similar to the query , and is presented both graphically and as a downloadable text file .
+in a network querying problem , one is given a small network , corresponding to a known pathway or a complex of interest . the goal is to identify similar instances in a large network , where similarity is measured in terms of sequence or interaction patterns .
+a query set of proteins in species a ; their protein sequences ; a ppi network for species b ; the sequences of the network proteins .
+the input for torque consists of : 
+ a query set of proteins in species a;their protein sequences;a ppi network for species b;the sequences of the network proteins . 
+ 
+pathblast  a server for querying linear pathways within a protein  protein interaction ( ppi ) network ( 1)was subsequently extended to allow searching for more general structures ( 2 ) .
+two other methods are netmatch , a cytoscape ( 4 ) plugin implementing the work of ferro et al . ( 5 ) that utilizes fast heuristics for subgraph isomorphism to identify approximate matches of queries within a collection of networks , and netgrep ( 6 ) , a system for searching networks for patterns corresponding to small sets of proteins with specified attributes and topology .

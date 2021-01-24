@@ -1,0 +1,7 @@
+to our knowledge , this is the first study investigating the link between personality traits and both somatization and social inhibition at the same time . above all ,
+our study identified personality traits and sociodemographic variables that have an effect on somatization and social inhibition .
+emotional stability , dominance , and vigilance , as well as age and level of education were found to have an effect on these symptoms .
+more importantly , modification indices did not suggest a link between social inhibition and somatization , as had been speculated beforehand.18,25 the r for somatization was 0.35 , whereas for social inhibition it was 0.10 .
+vigilance was found to correlate with both social inhibition and somatization ( r=0.229 , p<0.001 and r=0.192 , p<0.05 , respectively ) .
+age and education were found to have an effect on both symptoms , with education found to have the strongest influence when compared to personality traits .
+the model showed a very good fit to the data , with =3.55 , df=6 , p=0.738 , cfi = 1.00 , tli = 1.097 , nfi = 0.968 , gfi = 0.992 , rmsea = 0.00 , and srmr = 0.031 , and all paths were significant ( p<0.05 ) .

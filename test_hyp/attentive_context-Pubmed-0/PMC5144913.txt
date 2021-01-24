@@ -1,0 +1,6 @@
+with movement , the mean pain score was 2.0  2.6 in the lidocaine group and 2.6  2.7 in the control group ( p=0.487 ) .
+this randomized controlled trial tested the primary hypothesis that iv lidocaine decreases postoperative pain intensity ( at rest and during movement ) after laparoscopic fundoplication . in order to verify the safety of iv lidocaine infusion for analgesia ,
+this effect size is similar to that reported in the meta - analysis,4 which showed intravenous lidocaine to reduce pain scores by 1.05 ( 95% ci : 1.68 , 0.42 ) during activity at 6 hours after surgery and by 0.4 ( 95% ci : 0.8 , 0.009 ) at 24 hours after surgery .
+there was no statistically significant difference in the mean length of hospital stay between groups ; lidocaine group 2.5 days ( 95% confidence interval [ ci ] 2.072.93 ) and control group 2.25 days ( 95% ci 1.962.54 ) .
+a mean reduction of 0.54 ( 95% ci : 1.56 , 0.48 ) in pain score during mobilization was found in this study .
+the maximum serum lidocaine concentrations in these patients were 4.3 , 2.7 , and 3.5 mg / l . the serum concentration 

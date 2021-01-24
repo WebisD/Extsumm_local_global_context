@@ -1,0 +1,7 @@
+single nucleotide polymorphism ( snp ) study could be useful to solve these problems by comparing sequence of each variety with each other . in this current study
+, we conducted reference based transcriptome assembly of suvarna , a well - known turmeric cultivar which could latter on used to get potential snps by comparing with other varieties towards proper identification .
+turmeric ( curcuma longa l. ) of family zingiberaceae is industrially as well as pharmaceutically important crop extensively cultivated in india .
+as per our understanding transcriptome analysis of cultivar suvarna has been done for the first time and this result could be efficiently used for development of markers such as ssrs and snps for identification of suvarna from its closely similar turmeric cultivars .
+as per our understanding transcriptome analysis of cultivar suvarna has been done for the first time and this result could be efficiently used for development of markers such as ssrs and snps for identification of suvarna from its closely similar turmeric cultivars .
+75  bp paired - end sequencing has been done using illumina nextseq500 sequencing platform which developed5 gb of raw data .
+but their asexual mode of reproduction and poor genetic makeup has creates confusion towards authentic identification .

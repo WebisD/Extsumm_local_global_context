@@ -1,0 +1,6 @@
+methods are described in detail in the supplementary material online , below is a brief summary .
+we used publicly available chip - seq data produced from the livers of human , macaque , mouse , rat , and dog for four liver - enriched tfs : cebpa , foxa1 , hnf4a , onecut1 ( schmidt et al .
+the set of 1,373 liver expressed genes that are one - to - one orthologs across the 5 mammals was constructed based on a cut - off of  5 read fragments per kilobase of exon per million reads within the livers of mouse , rat , and dog . the binding level for orthologs across species
+numbers of mapped reads and quality metrics are shown in supplementary table s2 , supplementary material online , for the liver - enriched tfs .
+lrts were performed with the  phylop  program of phast to test for accelerated evolution within the human 
+( 2010 ) and were screened by eye for whether they have liver expression in mouse , rat , and dog ( based upon previously published rna - seq data , see supplementary material online ) , as well as whether they have clear 1:1 orthologs based on ensembl annotations and/or based on sequence similarity .

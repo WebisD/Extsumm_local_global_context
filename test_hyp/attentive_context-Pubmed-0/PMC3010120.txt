@@ -1,0 +1,7 @@
+recent progress in high - throughput sequencing has opened new avenues in studying genome structure and its implications on gene regulation .
+we show that the presence of ctcf sites is highly correlated with the ability of fragments to make strong interactions , both within the same chromosome and between different chromosomes .
+we set out to determine whether fragments found to interact in the hi - c experiments are associated with a ctcf site .
+our results show that the hi - c data can be used together with chip data to characterize the role of ctcf as the master weaver of the human genome and to identify chromosomal hubs of interactions and factors participating in the formation of those hubs .
+, we address this question in detail and question whether these specific interactions can be explained by the action of the ccctc - binding factor ( ctcf ) .
+these results point toward ctcf being a key interactor in mediating chromosome  chromosome interactions and in organizing chromosome territories in the cell nucleus .
+nodes with a high degree correspond to fragments , which are found to interact a lot in the experiment , and we can expect that such high - degree nodes will have many links in common . to statistically quantify the significance of the number of interactions between two fragments ( i.e. the number of links between two nodes ) , we created samples of randomized networks ( n=100 ) , which preserve the linkage characteristics of the original network , that is , the number of nodes , links , and node degrees .

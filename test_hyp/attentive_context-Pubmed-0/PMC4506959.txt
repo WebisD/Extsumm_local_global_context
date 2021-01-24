@@ -1,0 +1,6 @@
+the aim of this study was to build a comprehensive model for the bpf and t2lv including subject - specific ( random ) effects and mri acquisition parameter ( individually or combined ) ( fixed ) effects .
+therefore , future work investigating the impact of steroids / relapses at the time of an mri scan in modeling the longitudinal change of bpf and t2lv is warranted .
+separate parameters for the cross - sectional effect of age and the within subject change with age were found to lead to an improved fit relative to a single parameter for the effect of age . in both models ,
+third , the presence of steroid treatment for a relapse at the time of the mri scan could have impacted the modeling of longitudinal change .
+such assessment is warranted to appropriately identify the mean response trajectory for mri data such as bpf and t2lv .
+first , our results are based on a specific mri processing pipeline . in particular , the reported results regarding brain atrophy are based on analysis of bpf measured two channel ( pd / t2 weighted mri ) pipeline in which two variables ( lesion volume and brain atrophy ) are measured simultaneously , while other pipelines measure normalized brain volume using alternative approaches . to assess whether these results apply to other brain atrophy measures and processing pipelines ,

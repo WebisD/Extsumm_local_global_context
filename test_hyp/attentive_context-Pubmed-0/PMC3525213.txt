@@ -1,0 +1,7 @@
+the cyp - allele website is widely used and well acknowledged within the scientific community .
+it serves the purpose of a unified and easily accessible nomenclature system for cyp enzymes , as well as for the cyp electron donor por .
+the purpose of the cyp - allele website is to facilitate rapid online publication as well as providing a summary of the characteristics of specific alleles .
+variable metabolism , in turn , can be caused by variation in the cyp genes , as is the focus of the current review .
+these data emphasise an important problem that can be mostly explained by variable pharmacokinetics due , to a large extent , to differences in the activity of cytochrome p450 ( cyp ) enzymes involved in the metabolism of the drugs .
+thus , the human cytochrome p450 allele nomenclature ( cyp - allele ) website ( http://www.cypalleles.ki.se/ ) was launched with the purpose of managing allele designations , facilitating rapid online publication and providing a summary of alleles and their associated effects .
+important work in the cyp area focused on the identification and characterisation of polymorphic human cyp genes , which , in turn , created the need for a unified nomenclature system .

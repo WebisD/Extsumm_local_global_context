@@ -1,0 +1,6 @@
+, it would be useful to investigate prospectively the power of the pds in predicting ptsd diagnosis rather than symptoms , as well as other trauma - related disorders .
+the low pds factor intercorrelation coupled with correlations of 0.17 to 0.42 ( p<0.001 ) with the outcome measures ( ies - r and mcs ) suggest that various forms of peritraumatic distress , as captured by the pds , can lead to the development of ptsd symptoms .
+dissociation at the time of the incident was measured with the peritraumatic dissociative experience questionnaire ( pdeq).the impact of event scale - revised ( ies - r ) was used to measure ptsd symptoms in the last 7 days .
+two series of hierarchical multiple regression analyses were conducted using sociodemographics ( gender , ethnicity , years of service ) , exposure , the pdeq and pds as predictors of either the mcs or the ies - r
+the scale was internally consistent ( =0.80 ) and showed strong convergent validity with the pdeq , r(599)=0.55 , p<0.001 .
+the pdeq , entered in the second step , explained 20% and 16% of unique variance on the mcs and ies - r , respectively . entering the pds in step 3 explained 11% and 8% unique variance on the mcs and ies - r , respectively .

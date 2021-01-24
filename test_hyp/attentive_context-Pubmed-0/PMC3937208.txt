@@ -1,0 +1,6 @@
+twin studies have proved that neurodevelopmental disorders , such as attention deficit hyperactivity disorder ( adhd ) , autism spectrum disorders ( asd ) , as well as psychiatric conditions like schizophrenia ( scz ) and bipolar disorder ( bd ) have an important genetic background .
+recent developments in dna analysis and sequencing , such as next - generation sequencing , snp arrays , exome sequencing or analysis of copy number variations ( cnvs ) , allow to study the whole genome of large cohorts of affected individuals , enabling the analysis of cns disorders with highly heterogeneous genetic etiology .
+interestingly , many of the genes identified are involved in synaptic physiology , pointing towards synaptic dysfunction as an important contributing factor in many of these disorders .
+although the etiopathology of pndds is complex and multigenic , a growing set of genetic and functional evidences indicate the contribution of glutamate receptors in these damaging disorders .
+several of these studies have focused on pndds , uncovering new genes with potential roles in these disorders .
+classical genetic studies have failed to identify genes with high penetrance in pndd , thus indicating that the genetic background of these disorders is highly heterogeneous .

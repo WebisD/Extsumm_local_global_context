@@ -1,0 +1,8 @@
+all of the individuals with a cdr  =  1 had a primary clinical diagnosis of dementia of the alzheimer 's type at baseline .
+we examine the relationships between a deposition , white matter damage , and dementia in a population of cognitively normal , very mildly demented , and mildly demented individuals .
+white matter damage in the brain can be assessed using visual ratings of wmh , quantification of wmh volumes , and using diffusion tensor imaging ( dti ) .
+1distributions of unadjusted mean cortical binding potentials in cognitively normal ( left ) and demented ( right ) participants .
+the work presented here demonstrated the detrimental influences of advancing age , amyloid deposition in the brain , and white matter damage .
+these factors independently discriminated healthy controls from very mildly and mildly demented individuals . from a clinical standpoint , this suggests that easily available radiological measures of white matter health could be an asset in disease diagnosis in addition to psychometric testing and ad biomarkers such as amyloid imaging .
+distributions of unadjusted mean cortical binding potentials in cognitively normal ( left ) and demented ( right ) participants .
+of the 51 individuals with a cdr rating of 0.5 , 21 had a dat diagnosis at baseline and 14 received a diagnosis at a later clinical point .

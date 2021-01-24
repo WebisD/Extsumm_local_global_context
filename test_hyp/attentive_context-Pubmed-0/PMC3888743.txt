@@ -1,0 +1,7 @@
+is frequently attributed to improvements in synthesis technology , which has enabled the design of very complicated compounds , and a change in discovery strategy from a so - called phenotypic approach to a target - based approach .
+other formulation strategies which are most popularly adopted to enhance the bioavailability of such drugs include the complexation with cyclodextrins , formulation of polymeric conjugates , nanoparticles , solid lipid nanoparticles ( sln ) , use of permeation enhancers , and surfactants . in recent years
+various strategies have been widely investigated to enhance the bioavailability of poorly absorbed drugs in order to increase their clinical efficacy when administered orally .
+thus , in vivo assessment of new drug candidates in animal model is performed to assess the absorption of drug .
+table 1 provides a brief indication of the main formulation strategies and the main advantages and disadvantages of each approach .
+it is estimated that between 40% and 70% of all new chemical entities identified in drug discovery programs are insufficiently soluble in aqueous media   . the increase in the proportion of poorly soluble candidates
+a lot of investigations have been done in the field , yet there is a need for the more predictive in vitro models for predicting the changes involving the drug in sedds in the gut , so that the fate of the drug in vivo can be more reliably monitored .

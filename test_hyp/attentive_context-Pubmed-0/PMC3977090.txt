@@ -1,0 +1,8 @@
+an increase in renal expression of 1d - ar mrna and protein was associated with glomerular and tubulointerstitial injury in diabetic nephropathy .
+however , the expression and distribution patterns of 1d - ar in normal and diabetic rat kidneys remain unknown . in the present study , we examined mrna levels of three 1-ar subtypes in the kidney cortex of normal zucker lean ( zl ) and zucker diabetic ( zd ) rats by microarray and real - time pcr analyses .
+chronic treatment with ppar agonists prevents the increase in 1d - ar mrna in the diabetic kidneys .
+confocal immunofluorescence microscopy was performed to evaluate the distribution of 1d - ar in the kidney of zucker rats .
+1d - ar protein was significantly increased in the glomeruli and proximal tubules of diabetic animals .
+in this study , the expression and distribution of 1d - ar mrna and protein were determined by the gene microarray , qpcr , and confocal immunofluorescence analyses .
+, we further observed a gradual increase in cortical and glomerular 1d - ar mrna expression during disease progression in the diabetic animals .
+furthermore , we investigated whether activation of peroxisome proliferator - activated receptor- ( ppar ) or ppar , known renoprotective intervention in animal models of type 2 diabetes , would affect renal expression of 1-ar subtypes .

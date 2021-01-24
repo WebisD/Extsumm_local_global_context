@@ -1,0 +1,25 @@
+this method enables the investigation of protecting 
+ groups on the anomeric equilibrium and is compatible with acid and 
+ base sensitive functionality .
+a new method of equilibration of sialyl anomeric 
+ c  o bonds 
+ has been developed on the basis of the fischer  ingold persistent 
+ radical effect .
+the trans - fused oxazolidinone 
+ moiety is found by this method to stabilize equatorial glycosides 
+ over their axial counterparts , i.e. , to reduce the magnitude of the 
+ anomeric effect .
+this effect , which adds to a series of recent observations 
+ on the influence of cyclic protecting groups on the anomeric effect , is a manifestation of the strongly electron - withdrawing nature of 
+ the trans - fused oxazolidinone , ( and by extrapolation trans - fused cyclic carbonates ) , which is a direct consequence 
+ of the highly dipolar nature of such heterocycles .
+the strongly electron - withdrawing 
+ nature of these groups manifest by the present study more than likely 
+ also plays an important role in the high kinetic selectivity observed 
+ in the trans - fused oxazolidinone ( and cyclic carbonate)-directed 
+ -sialoside synthesis methods .
+the unusually poor kinetic diastereoselectivity 
+ of anomeric radicals in the sialic acid series is a function of the 
+ -type planar nature of these radicals coupled with the existence 
+ of competing 1,3-diaxial interactions in the diastereomeric transition 
+ states for the formation of both anomers .

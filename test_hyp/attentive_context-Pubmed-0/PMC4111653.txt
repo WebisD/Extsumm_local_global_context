@@ -1,0 +1,7 @@
+in conclusion , this meta - analysis suggests that an increased risk of lung cancer was associated with the null polymorphism of gstm1 in asians .
+therefore , we conducted a meta - analysis to explore the effect of gstm1 null genotype on lung cancer risk in asians .
+subgroup analysis based on the smoking status showed that increased risks were found in non - smokers ( or=1.49 ; 95% ci , 1.251.79 ) and smokers ( or=1.78 ; 95% ci , 1.432.23 ) . as shown in figure 3 ,
+the present meta - analysis , including 5347 lung cancer cases and 6072 controls from 31 case - control studies , explored the association of gstm1 null genotype with lung cancer risk .
+the null genotype of gstm1 was associated with a significantly increased risk of lung cancer when compared with present genotype ( or=1.43 ; 95% ci , 1.301.58 ; figure 2 ) .
+we searched the pubmed and embase to identify published case - control studies investigating the associations of gstm1 null genotype with risk of lung cancer in asians .
+the combination of adjusted ors for lung cancer was 1.38 ( 95% ci , 1.231.54 ) . when stratified by sex , significantly elevated risks were observed in men ( or=1.38 ; 95% ci , 1.061.78 ) and women ( or=1.30 ; 95% ci , 1.031.64 ) . in the subgroup analysis according to histology , significantly increased risks were observed in adenocarcinoma ( or=1.27 ; 95% ci , 1.051.55 ) and squamous cell carcinoma ( or=1.40 ; 95% ci , 1.101.78 ) , but not in small - cell lung cancer ( or=1.22 ; 95% ci , 0.811.83 ) .

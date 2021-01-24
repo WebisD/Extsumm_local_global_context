@@ -1,0 +1,24 @@
+to point out the shortcomings associated 
+ with the interpretation 
+ of membrane protein structure and function in experimental environments , 
+ we provide here , to our knowledge for the first time , a detailed molecular 
+ view of the leut protein embedded in ddm detergent micelles formed 
+ at different detergent / water / protein ratios .
+moreover , the md simulations of the system at various 
+ p / d ratios suggest a mechanism for the dependence of leut substrate 
+ binding stoichiometry on detergent concentration .
+this view is offered 
+ from extensive atomistic molecular dynamics ( md ) simulations carried 
+ out in order to ( 1 ) establish the aggregation number of ddm micelles 
+ surrounding leut , ( 2 ) explore the overall organization of the detergent 
+ micelle containing the transporter , and ( 3 ) obtain molecular - level 
+ insight into the nature and consequences of interactions between leut 
+ and ddm . analyzing various protein - to - detergent ( p / d ) number ratios 
+ ( i.e. , from 1:160 to 1:300 ) , we show that the aggregation number of 
+ ddm in the micelle that surrounds the transporter is strongly dependent 
+ on the p / d ratio .
+furthermore , the results presented here illustrate , on the molecular 
+ level , how even small variations in protein preparation with detergent 
+ can lead to the differential behavior of the proteomicelle and to 
+ differences in processes such as the penetration of detergent into 
+ the transporter .

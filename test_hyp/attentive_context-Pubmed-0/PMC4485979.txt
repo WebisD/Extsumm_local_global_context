@@ -1,0 +1,7 @@
+the present study combined a visual search task with a working memory ( wm ) task and a motor task .
+the key result of the present study is an interrelation of action planning and maintenance in working memory ( wm ) .
+thus we expected the capture effect to be most pronounced when the color singleton both matches the wm content and is congruent to the action - relevant dimension , because , for such stimuli , task - relevance and action - relevance coincided .
+this distraction was more pronounced when the colored item was related to a color held in wm , indicating attention guidance by wm content . preparing a grasping movement enhanced wm guided attention deployment .
+we conclude that target templates , action plans , and wm maintenance have common underlying mechanisms and compete for processing capacity .
+memory - relevance and action - relevance coincided when the additional singleton in the search task was of a color related to wm and when a grasping movement was being prepared .
+to sum up , the present results showed that action planning not only determines the way we perceive our visual environment but also determines how working memory ( wm ) drives attention deployment .

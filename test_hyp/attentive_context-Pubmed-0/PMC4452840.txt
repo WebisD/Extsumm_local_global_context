@@ -1,0 +1,6 @@
+the neuroprotective and regenerative effects of nt-4 were correlated with the reduction in the activation of caspase-9 and -3 , expression of perk and chop , and c - jun and jnk expression .
+in addition , we also examined whether the expressions of nf-b and sp1 were correlated with the neuroprotective and regenerative effects of different neurotrophic factors in ages exposed rat retinas .
+our previous study showed that even a low concentration of ages , for example , 10  g / ml , induced neuronal apoptosis in the gcl and decreased the number of regenerated neurites in culture . higher doses ( 100  g / ml ) of ages had similar effects as low concentrations and decreased the number of tunel - positive cells and significantly blocked neurite regeneration .
+the purpose of this study was to examine the effect of high doses of ages on neuronal cell death and neurite regeneration in isolated rat retinas .
+we also determined the neuroprotective and regenerative effects of four neurotrophic factors , namely , nt-4 , hgf , gdnf , and tudac in age exposed retinas .
+their results showed that the ep3 , g - protein - coupled receptors , mediated by prostaglandin e2 transcription of nt-4 was dependent on the activity of sp1 .

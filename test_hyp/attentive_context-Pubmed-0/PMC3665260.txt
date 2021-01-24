@@ -1,0 +1,6 @@
+this study aims to compare fp , fa , and sdoct imaging regarding their sensitivity and specificity for detecting amd , cnv , and cnv activity and to analyze whether sdoct may have the potential to replace the other imaging techniques .
+further studies are needed to evaluate which sdoct parameters ( e.g. , cystoid spaces , diffuse intraretinal fluid , subretinal or sub - rpe fluid , inherent boundary definition of subretinal hyperreflective material , or a change in the amount of fluid ) best indicate cnv activity .
+therefore , sdoct imaging is now widely used for the followup of patients with cnv undergoing anti - vegf therapy .  
+, it provides high - resolution cross - sectional images of retinal pathology , allowing to qualitatively and quantitatively analyze various parameters relevant for ( re- ) treatment decisions .
+the european genetic database ( eugenda ) , a database collecting amd patients as well as healthy controls , was retrospectively reviewed , and fp , fa , and sdoct images of 120 eyes of 66 consecutive patients were randomly collected .
+thus , oct is increasingly used to determine the presence and activity of cnv and the need for ( re- ) treatment   .

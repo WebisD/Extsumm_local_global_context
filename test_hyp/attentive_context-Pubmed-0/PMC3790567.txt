@@ -1,0 +1,8 @@
+intracellular signaling pathways transmit signals of various extracellular stimuli to their cytosolic and nuclear targets in order to induce biological responses , such as proliferation , differentiation , cell death and migration .
+in addition , since dysregulation of the signaling proteins described above is involved in diseases , such as cancer and autoimmunity , it would be interesting to study the potential therapeutic implications of inhibiting their nuclear translocation .
+however , despite the importance of stimulated nuclear signaling , the mechanisms by which these components reach the nucleus upon stimulation have been elucidated only for a few signaling pathways .
+however , in order to develop strong inhibitors for a specific cargo/-like importin complex , we need to extract precise information on the structural interaction , as well as the regulation of import
+we propose that this group of importins might be responsible for the swift nuclear shuttling of many proteins following various stimuli .
+the sub - cellular localization of erk1/2 plays an important role in its regulation and physiological functioning .
+, several -like importins have been implicated in the stimulated nuclear translocation of signaling proteins . here ,
+therefore , it is worthwhile to entertain the possibility that at least some of these alleged mechanisms are , in fact , part of the wider -like importin - dependent networks .

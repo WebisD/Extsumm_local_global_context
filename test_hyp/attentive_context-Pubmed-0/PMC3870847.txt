@@ -1,0 +1,6 @@
+recent research efforts on cancer stem cells and personalized cancer genome sequencing are expected to help in this regard .
+ubiquitination is a process in which one or multiple ubiquitin moieties are covalently attached to a substrate through an enzymatic cascade involving ubiquitin - activating enzyme ( e1 ) , ubiquitin - carrier protein ( e2 ) , and ubiquitin - protein ligase ( e3 ) .
+future studies should also further explore how the ubiquitination of the critical proteins is involved in tumorigenesis and cancer therapy .
+the ubiquitin ligase itch promotes the polyubiquitination and degradation of large tumor suppressor 1 ( ltsa1 ) , which is closely related to enhanced cell growth and epithelial - to - mesenchymal transition .
+because the cytoprotection of autophagy and the evasion of apoptosis contribute to resistance to cancer therapy , it is important to unravel how these two pathways are mutually regulated .
+notably , bortezomib has been used successfully as an anticancer drug for multiple myeloma and mantle cell lymphoma in the clinic,. because ubiquitination is generally substrate - specific , the components of the ubiquitination pathway might be more specific drug targets for cancer therapy than the proteasome .

@@ -1,0 +1,29 @@
+we group the 
+ known spirotetronates based on common structural elements and biosynthetic 
+ considerations .
+, they represent highly promising leads in drug discovery . 
+ to appreciate their untapped potential , in this review
+the discovery of penicillin 
+ revolutionized pharmaceutical research 
+ by demonstrating , for the first time , that microorganisms can produce 
+ secondary metabolites of value to medicine .
+the 
+ search for new antitumor antibiotics led to the discovery of 
+ chlorothricin ( 1 ) , a complex polyketide produced by various streptomyces strains .
+spirotetronate 
+ polyketides exhibit potent antibacterial and antitumor activities 
+ and a documented value as tools in the elucidation of new biological 
+ pathways . as such
+one of the most notable examples of an antitumor 
+ antibiotic is mitomycin c , a microbial metabolite that is used currently 
+ for the treatment of breast and bladder cancer . among other antitumor antibiotics , daunorubicin and its 
+ semisynthetic derivative doxorubicin represent chemotherapeutic leukemia 
+ agents in clinical settings .
+impressive synthetic and chemical biology efforts 
+ were combined to decipher the mode - of - action of abyssomicins at the 
+ molecular level .
+this 
+ family is identified by the presence of a cyclohexene ring spiro - linked 
+ to a tetronic acid moiety ( figure 1 , fragment 
+ a ) that is embedded in a macrocycle ( figure 1 , fragment b ) . in several cases , the structure also contains a trans - decalin ring ( figure 1 , fragment 
+ c ) and is decorated by various deoxy oligosaccharides ( figure 1 , fragment d ) . in terms of biological profile ,

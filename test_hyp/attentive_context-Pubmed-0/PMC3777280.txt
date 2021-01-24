@@ -1,0 +1,18 @@
+, we set out to investigate the cyanide - mediated dimerization of 
+ glyoxylate (  glyoxoin reaction  ) with the expectation 
+ of chemistry similar to the benzoin reaction .
+this facile production of tartrate combined with 
+ the known dehydration of tartrate to give oxaloacetate , and its decarboxylation to give pyruvate , potentially , provides an alternate entry into 
+ the citric acid cycle based on the  glyoxylate scenario  .
+the 
+ results of the dhf  glyoxylate reaction presented here 
+ are in sharp contrast to the work of sagi et al . ; there , dhf was reacted with glyoxylate in lithium hydroxide 
+ at ph 78 to produce dihydroxyacetone and pentulosonic acid 
+ by way of six- and seven - carbon tricarboxylate intermediates ( 6 and 15 ) via several decarboxylations
+herein we report the results of this investigation : the unanticipated 
+ formation of meso- and dl - tartrates 
+ ( the formal reduction products of dhf ) rapidly and in high yield ( scheme 1 ) .
+( 6 ) this contrasting 
+ result demonstrates how even in consistently basic environments , ph 
+ may be used to alter the product suite of this reaction , from selective 
+ production of pentulosonic acid to selective production of tartrate . 

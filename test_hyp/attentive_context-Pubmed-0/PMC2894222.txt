@@ -1,0 +1,7 @@
+iron phosphide nanowires have been synthesized through a nonaqueous approach that utilizes fe(acac)3 as an iron source , top as a phosphorus source and oleylamine as solvent .
+, we developed a approach that uses a metal precursor of iron ( iii ) acetylacetonate ( fe(acac)3),which is low toxicity , inexpensive and rather stable at ambient condition . the structure and magnetic properties of as - synthesized nanowires are also presented in this work .
+the as - prepared nanowires have a hexagonal fe2p structure and grow along c axis .
+we present a primary result on the synthesis of iron phosphide nanowires using a solution - phase chemical approach . instead of using toxic and unstable iron carbonyl compounds that were usually employed in most of previous work on the synthesis of iron phosphide nanowires
+the dimension of nanowires can be tuned via reaction parameters such as injection rate , reaction temperature , and top / topo ratio . both injection method and
+the magnetic tests reveal ferromagnetic characteristics below the blocking temperature , and a large coercive force of ~5,000 oe has been observed .
+the reported synthetic approach does not use commonly used toxic iron carbonyl compounds as iron precursor , which provides a convenient access to further studies of their special physical and chemical properties .

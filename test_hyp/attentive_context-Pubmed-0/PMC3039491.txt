@@ -1,0 +1,6 @@
+, we characterized the effect of lius on dye diffusion and temperature in tissue culture plates and then on proliferation , metabolic activities , and gene expression of cell and tissue models grown in these same plates .   for cells , we used c2c12 muscle cells in 2d culture because this is a well - known cell type that responses to lius stimulation inducing differentiation of the cells   . for tissue ,
+our data suggests that indirect lius stimulation may enhance c2c12 cell proliferation , metabolic activity , and differentiation of cells and tissues
+these , together with evidence for decreased expression of a marker for cell injury ( tumor necrosis factor - alpha , tnf- ) after lius , suggest that lius may have a role in promoting adipose autograft survival .
+glucose levels in the culture media of wells 1 and 2 were reduced following lius , indicating enhanced glucose uptake and thus increased metabolic activity compared to the control ( figure 5(b ) , p < .05 ) .
+. it may be possible to implement lius stimulation to increase survival of implanted soft tissue .
+expression of the tnf- gene in the lius stimulated group was lower than control for wells 1 and 2 ( figure 7 , p < .05 ) .

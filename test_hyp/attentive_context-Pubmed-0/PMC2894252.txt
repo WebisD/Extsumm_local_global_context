@@ -1,0 +1,6 @@
+the good soft magnetic properties origin from the exchange coupling between magnetic granules and the weak localized electrons existing in films may be the medium of this exchange coupling .
+zno granule films reported . in order to test whether zno can mediate the exchange coupling , the structure , magnetic properties and electronic transport properties of feco  zno msgfs were systematically studied in this work .
+( fe65co35)x(zno)1x granular films were fabricated by magnetron sputtering , and good soft magnetic properties have been obtained in x range from 0.63 to 0.72 with small hc and appropriate large hk . for the typical sample of x = 0.67 ,
+the coercivity of 1.43 oe in the hard axis and 7.08 oe in the easy axis are obtained , and the resistivity reaches 2.06 m cm . at a frequency lower than 1.83 ghz , the real part of the complex permeability of this sample is more than 100 , and the fmr frequency reaches 2.31 ghz , which implies that the film is promising for high frequency applications .
+so far , there is no work studying systematically the soft magnetic properties of the feco 
+as one kind of wide used semiconductor oxides due to the excellent electrical and optical properties , the current carriers of zno may mediate the exchange coupling between magnetic granules and hence favor good soft magnetic properties .

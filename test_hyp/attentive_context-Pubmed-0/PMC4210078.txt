@@ -1,0 +1,27 @@
+in summary , we have developed the nickel - catalyzed , 
+ stereospecific 
+ ring - opening cross - coupling reactions of aryl - substituted tetrahydrofurans , 
+ tetrahydropyrans , and lactones . through judicious choice of starting 
+ materials , cyclic ether intermediates have been utilized to set the 
+ desired relative stereochemical relationships and allow for the selective 
+ synthesis of syn- and anti- deoxypropionate 
+ subunits .
+we report 
+ the two - step , enantiospecific synthesis of an anti - dyslipidemia agent 
+ with easy access to either enantiomer .
+the negishi - type cross - coupling of benzylic lactones has allowed for 
+ the enantiospecific synthesis of enantioenriched carboxylic acids , 
+ which can be further derivatized . using this methodology ,
+in addition , strategic use of extended alkyl 
+ or aryl grignard reagents would allow for the generation of a wide 
+ range of unnatural polyketide analogs for biological testing . in this 
+ manuscript ,
+we have demonstrated the high stereospecificity of the reaction , 
+ where the dr of the product matches the dr of the starting o - heterocycles . 
+
+the discovery and asymmetric 
+ synthesis of novel polyketides and 
+ their unnatural analogs fuel the development of new therapeutic agents . 
+
+the structural complexity of this class of molecules has inspired 
+ and tested synthetic organic chemistry .

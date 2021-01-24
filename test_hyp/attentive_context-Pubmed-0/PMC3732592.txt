@@ -1,0 +1,7 @@
+the open - source software package known as sivic ( spectroscopic imaging , visualization , and computing )   was developed at ucsf to address the limitations of existing strategies for analyzing mrsi data . in the following ,
+this results in a low degree of interoperability between imaging devices , picture archiving and communication systems ( pacs ) , and software packages for analyzing the data .
+mr spectroscopic imaging ( mrsi ) is a powerful imaging technique that provides spatially resolved metabolic information .
+a major limitation in integrating mrsi into these studies has been the lack of commercially available methods for visualization and interpretation of the data . for conventional 3d imaging
+, the use of the dicom   standard has resulted in a great deal of interoperability between software packages , imaging archives , and data . however , despite the existence of a dicom standard for encoding mrsi data , current datasets are still created with vendor - specific proprietary formats .
+two workflows that have been implemented at ucsf in order to streamline the routine use of mrsi in research and clinical studies are presented as examples of the applications of sivic .
+information about variations in metabolic parameters is typically delivered to pacs in the form of static dicom secondary capture images , which hinders its integration with other types of multimodal imaging data .

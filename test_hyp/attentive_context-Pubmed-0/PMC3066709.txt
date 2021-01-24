@@ -1,0 +1,7 @@
+this study was conducted to identify the risk factors , in - hospital mortality , and discharge medications for patients with ischemic stroke admitted to al - watani government hospital , nablus , palestine .
+this one - year , retrospective , hospital - based study was conducted between september 01 , 2006 and august 31 , 2007 .
+medications prescribed at discharge for stroke survivors are consistent with the type of risk factors , especially htn , present in patient 's medical files .
+patients with fes were younger than those with recurrent stroke ( 67.94  11.66 versus 70.80  10.19 years , respectively ) ; the difference in age between the two groups was not significant ( p = 0.11 ) .
+multiple logistic regression analysis indicated that the number of post - stroke complications ( p= 0.001 ) and previous stroke ( p = 0.03 ) were significant independent predictors of in - hospital mortality .
+the number of post - stroke complications and previous stroke were significant independent predictors of in - hospital mortality .
+four variables were significantly associated with in - hospital mortality : history of previous stroke ( p= 0.004 ) , crcl at admission ( p = 0.004 ) , number of post - stroke complications ( p = 0.001 ) , and age ( p = 0.043 ) .

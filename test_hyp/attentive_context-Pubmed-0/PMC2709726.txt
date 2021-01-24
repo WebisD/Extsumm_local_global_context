@@ -1,0 +1,8 @@
+the gene expression pathway initiates at nuclear transcription generating a pre - mrna , which very often undergoes splicing , post - transcriptional regulation , and then translation into a protein . during the pre - mrna splicing process
+in addition to protein coding genes , noncoding genes are transcribed . micrornas ( mirna ) , the most comprehensive noncoding group , are a class of   ~22 nt noncoding rnas that inhibit gene expression through binding to the 3 untranslated region ( utr ) of target mrna transcripts   .
+relationships between intronic mirnas and the processing events of their host mrna , namely , transcription and splicing have been addressed . here
+a recent comprehensive sequencing study observed that more than 90% of the genes undergo alternative splicing .
+in fact , computational predictions indicate that mirnas may regulate 60% of all human protein coding genes .
+there are hundreds of unique mirnas in a given species , each predicted to regulate a plethora of target genes   .
+consequently , an evolutionary driving force may direct mirna positioning within the intron to prevent disruption of relevant splice signals ( also see ) . in summary
+recent studies , from transcription , mirna - processing , and splicing oriented perspectives , have investigated these fascinating interactions and yielded interesting , yet somewhat controversial findings .

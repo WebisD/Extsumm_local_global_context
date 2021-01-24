@@ -1,0 +1,7 @@
+in the present study , we show that relm- , a resistin - like molecule , can directly increase jejunal absorption of glucose in the rat .
+moreover , the increased jejunal glucose transport induced by relm- was inhibited by cytochalasin b in agreement with a functional role of glut2 .
+further studies may reveal if this process in conjunction with an adverse nutritional and inflammatory status , can participate in the onset of diabetes .
+the underlying molecular mechanism involves the activation of pkc ii and ampk kinases as described for such reciprocal regulation of glucose transporters ( 20 ) .
+transgenic mice over - expressing circulating relm- exhibited significant hyperglycemia , hyperlipedemia when fed on high - fat diet . in conclusion
+several lines of evidence suggest that transepithelial transport of glucose in the small intestine can be mediated by an active absorption through na / glucose cotransporter ( sglt-1 ) as well as by a diffusive component glut2 at the apical membrane ( 27 ) .
+similarly , a rapid insertion of glut2 to apical membrane in response to another gut - peptide , glp-2 , has been reported ( 29,30 ) . taken together , these findings suggest the involvement of glut2 in relm- stimulated glucose uptake . the mechanisms responsible for relm- effect may involve the activation of pkc ( 6 ) and ampk ( 25 ) that have been shown to regulate jejunal glucose transporters ( 20 ) .

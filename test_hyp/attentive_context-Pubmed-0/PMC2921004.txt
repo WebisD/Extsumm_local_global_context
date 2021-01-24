@@ -1,0 +1,5 @@
+we found three snps in rfc1 genes to be significantly associated with grade ii - iv acute gvhd and one snp in the parp1 gene to be significantly associated with chronic gvhd . in our prior report
+we analyzed 179 snps in 27 genes in the ber pathway in 470 recipients of allogeneic hct using alkylating agents and ionizing radiation based conditioning regimes for hematologic malignancies at university of minnesota , for association with acute and chronic gvhd .
+( association between genetic variants in the ber pathway and outcomes after hct , bbmt ) , we have identified three snps in tdg , lig3 and mutyh genes ( rs167715 , rs3135974 , rs3219463 ) to be associated with transplant related mortality ( trm ) in multiple regression analysis .
+this study represents the first analysis of snps in ber dna repair pathway towards acute and chronic gvhd .
+the cumulative incidence of chronic gvhd was 50% ( 95% ci 20.8 - 79.2% ) in 12 patients with homozygous minor genotype versus 42.9% ( 95% ci 31.5 - 54.3% ) in 84 patients with heterozygous genotype versus 30.9 ( 95% ci 24.9- 36.9% ) in 259 patients with homozygous major genotype ( p=0.026 ) ( figure 3 ) .

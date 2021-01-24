@@ -1,0 +1,7 @@
+therefore , in the present study , we have investigated the intrathecal interaction of gabapentin and a1 adenosine receptor agonist , r - pia ( n-[2-phenylisopropyl]-adenosine r-[-]isomer ) on mechanical allodynia in nerve - ligated neuropathic pain rats .
+the effect of a1 adenosine receptor antagonist ( dpcpx ; 1,3-dipropyl-8-cyclopentylxanthine ) against the antiallodynic effect produced by combination of each drug was also examined .
+thus , these results suggest that activation of adenosine a1 receptors are required for the synergistic interaction between gabapentin and r - pia in reducing mechanical allodynia .
+we found that intrathecal gabapentin , r - pia and their combination produced a dose - dependent increase of withdrawal threshold for a spinally - mediated mechanical allodynia .
+however , with the present experiments we can not rule out that other mechanisms could participate in this interaction . in conclusion , gabapentin and r - pia produced a dose - dependent antiallodynia without severe side effects and intrathecal gabapentin produced a synergistic interaction with r - pia in a rat model of nerve ligation injury .
+in addition , we observed that gabapentin enhanced the effect of r - pia synergistically when coadministered intrathecally .
+the ed50 values and slopes ( 95% confidence intervals ) were as follows : 10.4 ( 5.3 - 20.4 ) g and 39.5 ( 26.4 - 52.6 ) for gabapentin , 0.2 ( 0.1 - 0.3 ) g and 35.2 ( 25.6 - 44.7 ) for r - pia , and 1.8 g ( 1.4 - 2.2 ) and 70.7 ( 50.2 - 91.3 ) for their combination , respectively .

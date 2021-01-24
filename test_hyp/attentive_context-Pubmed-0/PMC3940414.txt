@@ -1,0 +1,25 @@
+a preliminary in vivo characterization of 
+ the identified irreversible faah inhibitors confirmed their ability 
+ to raise endogenous brain levels of the enzyme substrates , including 
+ anandamide , in mice to a greater extent ( > 2-fold ) and for a longer 
+ duration ( > 6 h ) than the reversible -ketoheterocycles on 
+ which 
+ they are based .
+the design , synthesis , and characterization 
+ of -ketoheterocycles 
+ that additionally target the remote cys269 nucleophile found in the 
+ cytosolic port of faah provided inhibitors 
+ that slowly react with the enzyme nucleophile , effectively providing 
+ time - dependent , irreversible inhibitors of the enzyme that maintain 
+ or enhance their selectivity for faah over other serine hydrolases . 
+
+the electrophiles capable of targeting cys269 were incorporated as 
+ a c5 substituent on the pyridyl group of the 5-(pyrid-2-yl ) oxazole 
+ of 2 and ranged from the reactive benzylic bromide 11 to the otherwise benign nitrile 14 .
+two of these ( 11 and 14 ) 
+ were characterized in greater detail , as reported elsewhere , along 
+ with their long acting in vivo efficacy in a mouse model of neuropathic 
+ pain .
+, this could be expected to enhance their 
+ potency , potentially enhance their selectivity , and extend their in 
+ vivo duration of action ( figure 2 ) .

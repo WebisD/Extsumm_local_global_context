@@ -1,0 +1,22 @@
+our minimal physical model of a self - replicating 
+ granular material 
+ shows how secondary nuclei from such growth can lead to runaway charging
+. 
+ these effects may be present in ice on earth , in terrestrial thunderstorms , and in astrophysical ices , in the solar nebula , and in thunderstorms on other planets , some of which , 
+ for example , on venus , may involve self - replicating granular materials 
+ other than water ice . it is conceivable that this dynamics is involved 
+ in the formation of the martian geological structures called razorbacks . while ice is clearly 
+ the most quotidian example of a friable self - replicating granular 
+ material , one that breaks easily and continues to grow , other such 
+ materials can be both sought in different astrophysical environments , 
+ and also produced in technological contexts .
+anatomy of our minimal model of charging of friable self - replicating 
+ granular matter through secondary nucleation , incorporating the processes 
+ of particle growth ( ri  ri + 1 ) , advection 
+ ( with speed ui ) , collision , 
+ charge transfer , and fission ( with probability s ) .
+here we build a minimal model 
+ ( figure 1 ) incorporating solely the collisional 
+ dynamics of charge transfer plus nucleation , growth , and fission processes , 
+ which we aim to have general relevance to self - replicating granular 
+ media .

@@ -1,0 +1,6 @@
+a recent evaluation of the tb strain typing service in the united kingdom found that strain typing did not significantly affect time to diagnosis or the median number of secondarily infected persons found per index case ( 13 ) .
+in february 2012 , the birmingham and solihull tb service noted 2 distinct 24-loci miru - vntr strain types of mycobacterium tuberculosis ( clusters a and b ) isolated from 4 eritrea - born patients with pulmonary tb .
+however , strain typing can highlight gaps in current contact investigation procedures in specific patient populations and can help focus resources on scenarios in which recent transmission is more likely . whole - genome sequencing may offer the ability to identify more recent strain evolution and transmission ( 14 ) .
+conventional epidemiologic methods should be improved to complement molecular epidemiologic methods and increase their effect on tb control .
+the infectious period for patient b1 preceded the arrival of patient b2 in birmingham , and local transmission was thought to be unlikely ; both patients originated from the same town in eritrea .
+genetically homogenous strain lineages prevalent in the countries of origin may falsely cluster persons from the migrant population ( 10 ) ; in our study , no patients within cluster d could be linked despite extensive epidemiologic investigation .

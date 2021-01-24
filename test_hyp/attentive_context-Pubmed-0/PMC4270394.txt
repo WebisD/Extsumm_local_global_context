@@ -1,0 +1,23 @@
+we examine how well 
+ short - term measures ( 1 , 2 , and 7 day mean measurements ) of stove use 
+ predict study means , with the goal of optimizing sampling times and 
+ strategies for monitoring household energy interventions .
+to 
+ fully understand and accurately characterize adoption of an intervention 
+ and changes in traditional habits ; and ( 3 ) that a combination of more 
+ transformative , aspirational interventions  that can fully displace 
+ the traditional stove  and education and training , to sway participants 
+ away from the old stove , will be required to fully realize benefits .
+we believe 
+ the data set described in this paper is the longest and deepest data 
+ set of measured stove usage generated to date , spanning over 15 months 
+ of monitoring at 10 min intervals on both intervention and primary 
+ traditional stoves in 200 homes ( 21 million data points ) . 
+ measuring multiple stoves required creation of new metrics to characterize 
+ shifts in usage patterns over time .
+the data set consists 
+ of one of the largest and longest objective measurement campaigns 
+ of stove usage to date . by deploying stove use sensors for over a 
+ year , we were able to track and report for the first time the changes 
+ in usage of an advanced cookstove intervention and the primary traditional 
+ stove over time .

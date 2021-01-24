@@ -1,0 +1,18 @@
+the cort - mda method for determining the genomic sequences of na - type prrsv isolates had 
+ several advantages in comparison with other sequencing methods .
+the mutated locations and nucleotides , including position 13,850 , were 
+ identical between those obtained by the cort - mda method and rt - pcr ( data not shown ) , 
+ demonstrating the accuracy of the sequence by the cort - mda method and its potential 
+ application to detecting ongoing mutations in the viral genome .
+the cort - mda method requires 
+ far fewer oligonucleotide primers for amplification and sequencing of the prrsv genomes . 
+
+development of the cort - mda - based sequencing 
+ method for eu - type strains will be beneficial for dissecting prrs outbreaks , because na- and 
+ eu - type strains cause analogous clinical signs   and 
+ can be epidemic simultaneously in the same location .
+regardless of the type or cluster to 
+ which the strain belongs , cort - mda  based methodology will facilitate rapid identification of 
+ the prevailing prrsv isolate on an affected farm .
+most importantly , the cort - mda method is robust and versatile regardless of the genetic 
+ background of the na - type prrsv to be sequenced .

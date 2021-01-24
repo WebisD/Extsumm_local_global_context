@@ -1,0 +1,28 @@
+rna - seq uses short 
+ read sequencing technologies to sequence the rna content ( transcriptome 
+ profile ) of a sample . on the basis of 
+ the central dogma of molecular biology , it is a reasonable assumption 
+ that proteins corresponding to high - abundance transcripts are more 
+ likely to be found in a sample .
+in this study , 
+ we evaluate the utility of incorporating both of the above types of 
+ information into proteomics analysis pipelines .
+the global proteome machine database 
+ ( gpmdb ) is a repository storing the results 
+ of proteomics experiments . with the large volume of data aggregated 
+ in gpmdb , the frequency of identification of a protein in gpmdb
+can 
+ be used as a surrogate measure of a protein s propensity to 
+ be observed in a ms / ms experiment . in other words
+, we can reasonably 
+ assume that proteins with a high gpmdb identification frequency ( gpmfreq ) 
+ are more likely to be identified in an ms / ms experiment .
+another category of methods have 
+ investigated utilizing external 
+ information ( information from outside the ms / ms experiment ) such as 
+ microarray data , protein 
+the first step in a 
+ typical computational pipeline for protein 
+ identification through database searching is comparing ms / ms spectra 
+ to peptide sequences to identify the best matching peptide for each 
+ spectrum , referred to as peptide - to - spectrum matches ( psms ) .

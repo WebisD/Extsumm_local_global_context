@@ -1,0 +1,5 @@
+in addition , we show here that the ahr ligand ficz influences the expression of mir-326 in a time - dependent manner , which might lead to an altered il-17a production in human cd4 t cells .
+the proportion of il-8 producing cd4 t cells was higher than that of other t cell subtypes suggesting a major physiological role of these cells especially under th17 polarizing conditions .
+furthermore , the expression of ahr target genes ( cyp1a1 , cyp1b1 , and tiparp ) was induced after stimulation with the ahr ligands ficz , tcdd , and b[a]p ( figure 5(d ) ) . to investigate the impact of the ahr ligands on the cytokine expression of human cd4 t cells , intracellular as well as
+the discovery of th17 cells has been followed by the realization that t helper cells can produce various other cytokines alone or in combination in patterns not fitting the preconceived definition of th1/th2 or th17 subsets .
+thus , in the present study we aimed to investigate changes at cellular , protein , as well as mrna and microrna level in cd4 t cells challenged with ahr ligands ( tcdd , ficz , and b[a]p ) under th17 polarizing conditions ( tgf- , il-1 , and il-23 ) .

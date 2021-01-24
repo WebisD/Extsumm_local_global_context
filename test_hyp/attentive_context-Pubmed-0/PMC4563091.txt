@@ -1,0 +1,7 @@
+studies on the newly identified ilcs in recent years have enriched our knowledge on the innate lymphoid lineage development and have provided us with more evidence supporting the close relationship between the innate and adaptive immune systems during evolution .
+t cells and b cells derived from the lymphoid lineage belong to the adaptive immune system .
+after the clp stage , innate lymphoid lineages and t cells lineages start to develop separately but the regulatory mechanisms may still be shared .
+but in this review , we limit ilcs to helper - like ilcs to distinguish these special innate lymphocytes from cnk cells .
+in actuality , scientists noticed certain subsets of ilcs such as lymphoid tissue inducers ( ltis ) as early as the 1990s   , but it was not until three independent reports on type 2 cytokine producing innate lymphoid cells ( ilc2s ) in 2010   that people began to recognize the possible existence of an innate population with a  helper  feature mirroring adaptive th cells .
+subsequent studies have revealed that the development of ilcs is also regulated by a similar set of key transcription factors required for t cell development .
+the ilc cell fate is precisely regulated during development by a network of multiple serially expressed regulators , which may form a regulatory network during development and render the developed ilcs with both  innate  and  helper  features .

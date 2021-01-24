@@ -1,0 +1,17 @@
+the study subjects were 230 patients who underwent mammography and biochemical marker tests 
+ between march 1 and october 1 , 2014 , at soonchunhyang university hospital .
+a limitation of this study was that , because there were a 
+ small number of subjects , it was difficult to identify correlations between breast density 
+ and biochemical markers objectively . thus , an effort is needed to make more precise risk 
+ evaluations of breast density by conducting a large - scale prospective study of korean 
+ women .
+items exhibiting significant correlations with breast density were : age , 
+ 0.55 ; height , 0.26 ; weight , 0.30 ; bmi , 0.48 ; hematocrit , 0.15 ; mch , 0.19 ; rdw , 0.15 ; 
+ glucose , 0.15 ; ast(got ) , 0.22 ; alt(gpt ) , 0.27 ; alp , 0.28 ; uric acid , 0.16 ; gt(ggt ) , 
+ 0.18 ; triglyceride , 0.30 ; total cholesterol , 0.16 ; hdl - cholesterol , 0.23 ; and 
+ ldl - cholesterol , 0.29 ( p < 0.05 ) . the results of multiple regression analysis using 
+ breast density - related variables are shown in table 
+ 2table 2.multiple regression analysis of each variable related to breast densityvariablebseage0.040.00height0.040.01weight0.030.01bmi0.130.02hematocrit0.010.00mch0.060.02rdw0.080.04ast0.010.00alt0.020.00alp0.000.00uric acid0.030.01gt0.010.00triglyceride0.000.00cholesterol , total0.000.00hdl - cholesterol0.020.00ldl - cholesterol0.010.00bmi : body mass index , mch : mean corpuscular hemoglobin , rdw : red cell distribution 
+ width , ast : aspartate aminotransferase , alt : alanine aminotransferase , alp : alkaline 
+ phosphatase , gt : gamma - glutamyl transferase , hdl - cholesterol : high - density 
+ lipoprotein , ldl - cholesterol : low - density lipoprotein .

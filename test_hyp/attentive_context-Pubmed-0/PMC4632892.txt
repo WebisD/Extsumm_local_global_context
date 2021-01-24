@@ -1,0 +1,6 @@
+the present study was designed to investigate the potential use of p53 rnai to block p53 expression , as well as the subsequent effect on cell invasion and gene expression on the human cervical cancer cell .
+taqman qrt - pcr assay was used to examine the effect of p53sirna on a panel of 8 genes related to apoptosis and angiogenesis .
+may also have an important significance outside the context of cervical cancer , by using specific inhibitors for p53 for increasing therapeutic response in a wide range of tumoral pathology .
+taqman qrt - pcr assay was used to examine the effect of p53sirna on a panel of 8 genes related to apoptosis and angiogenesis . relative gene expression quantification using ct method leads to the downregulation of the selected gene , presented in the figure 2 .
+the angiogenic phenotype related to p53 targeted by sirna in human cancers is frequently associated with resistance to conventional genotoxic anticancer agents .
+was observed that , by using sirna targeting p53/p73 , tumoral cells were sensitized to chemotherapy . in a recent study , pinx1 was displayed as a novel target gene of p53 , proposing the suppression of p53/pinx1 pathway as a novel mechanism to enhance the telomerase activity in cervical cancer cells , and leading to reduction of cell proliferation .

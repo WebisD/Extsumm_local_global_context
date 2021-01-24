@@ -1,0 +1,5 @@
+as expected , the protein was significantly higher in patients with cancer compared to normal subjects ( 13.19 versus 6.36  g / ml , p < 0.001 ) ( table 3 ) , but values did not correlate with the levels of autoantibodies ( data not shown ) .
+nsclc , gastrointestinal cancer , urogenital tract cancer , and net reached the highest levels of autoantibodies , while there was no significant increase in breast cancer and melanoma ( table 2 ) .   setting the normal upper cut - off limit of elisa at od 0.99 ( the mean + 2sd of the absorbance in sera from healthy individuals ) ,
+our study demonstrated the presence of autoantibodies against lgals3bp in the serum of patients with different types of cancers .
+patients affected by different types of cancers showed significant increased levels of lgals3bp autoantibodies ( p < 0.001 ) compared to healthy subjects ( figure 1(a ) ) .
+this finding discloses the capability of lgals3bp to trigger a humoral immune response in cancer patients and provides the basis for further investigation on a possible use of anti - lgals3bp antibodies as biomarkers for early diagnosis of cancer .

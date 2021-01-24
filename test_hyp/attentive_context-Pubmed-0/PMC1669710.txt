@@ -1,0 +1,8 @@
+, we plan to include bos taurus , xenopus tropicalis , takifugu rubripes and anopheles gambiae as more ests and annotated genes become available .
+as most of the human genes with multiple exons express more than one transcript , alternative splicing is considered to be a major mechanism for producing a complex proteome from a limited number of genes ( 1 ) .
+a user interface allows to search for genes of interest and to get all relevant information about the respective tandem splice sites .
+finally , tassdb annotates nagnags that are affected by a snp and also contains 51 tandem acceptors whose nagnag pattern can only be observed in another snp - allele and not in the human genome reference sequence .
+as tandem splice sites seem to occur in all species allowing alternative splicing , it would be desirable to include information for other species . in the future
+it is also possible to search for genes harboring gyngyns / nagnags with specific features .
+furthermore , information about conservation of these splice events in other species as well as more data about the protein impact may be included .
+since these subtle splice events can easily be overlooked in experimental systems ( a 3 nt difference between two bands is barely visible on an agarose gel ) and additional alternative splice events are likely to be missed in current est data , tassdb also stores unconfirmed tandem splice sites .

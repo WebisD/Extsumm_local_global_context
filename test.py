@@ -91,6 +91,7 @@ if 'vocabulary_%s.json'%(args.dataset) in [path.name for path in Path('./').glob
     print('Load vocabulary from vocabulary_%s.json'%(args.dataset))
 else: 
     all_tokens=get_all_text(train_input_dir)
+    VOCABULARY_SIZE = 50000
     w2v = build_word2ind(all_tokens, VOCABULARY_SIZE)
     with open('vocabulary_%s.json'%(args.dataset),'w') as f:
         json.dump(w2v,f)

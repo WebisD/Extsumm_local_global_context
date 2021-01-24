@@ -1,0 +1,6 @@
+the asymmetric formal [ 3 + 2 ] cycloaddition of ammonium enolates with both ( )-oxaziridines and ( r , r)-oxaziridines has been developed using a range of 2-aryl and 2-alkenylacetic anhydrides with the commercially available isothiourea catalyst hyperbtm 3 .
+herein we report our results on the isothiourea - catalysed asymmetric formal [ 3 + 2 ] cycloaddition of homoanhydrides and oxaziridines to form stereodefined oxazolidin-4-ones ( scheme 1c ) and their subsequent derivatisations .
+further studies using enantioenriched oxaziridines led to the observation of a matched / mis - matched effect with isothiourea hyperbtm 3 , which has been utilised to obtain oxazolidin-4-ones in high d.r . with excellent ee .
+ongoing studies within this laboratory are focused upon the continued development of lewis base catalysis .
+oxaziridines have previously been reported as electrophiles for the synthesis of oxazolidin-4-ones by ye and co - workers using ketenes in the presence of either n - heterocyclic carbene ( nhc ) precatalyst 1 or cinchona alkaloids .
+more recently , feng described chiral bisguanidinium salt 2 for the asymmetric oxyamination of azlactones with concurrent kinetic resolution of the oxaziridine ( scheme 1 b ) . building upon these precedents ,

@@ -1,0 +1,5 @@
+rh followed by tailored adjuvant therapy resulted in a significantly better rfs and os , and significantly lower treatment - related morbidity rates than were afforded by primary crt in patients with bulky early - stage cervical cancer . a randomized controlled trial to compare these two treatment modalities
+, multivariate analysis showed that rh was associated with a significantly lower risk of recurrence ( or , 2.26 ; 95% ci , 1.24 to 4.14 ; p=0.008 ) and death ( or , 3.02 ; 95% ci , 1.53 to 5.98 ; p=0.001 ) compared to crt .
+multivariate analysis revealed that , after adjusting for histologic type , crt was associated with a significantly higher risk of recurrence ( odds ratio [ or ] , 2.26 ; 95% confidence interval [ ci ] , 1.24 to 4.14 ; p=0.008 ) ( table 3 ) .
+moreover , after adjusting for histologic type and lymph node metastasis as shown on mri , multivariate analysis showed that crt was associated with a significantly higher risk of death ( or , 3.02 ; 95% ci , 1.53 to 5.98 ; p=0.001 ) ( table 3 ) .
+, a significant proportion of patients with bulky early - stage cervical cancer were cured by rh alone .

@@ -1,0 +1,7 @@
+variation exists in the quantity and quality of information on indications about drugs available in various sources .
+we planned the present study to assess this variation in a sample of randomly selected drugs with respect to their indications given in various sources of drug information .
+cdsco website is the regulatory benchmark and requires updating so as to provide a sound and reliable reference regarding drug information for all the stakeholders .
+are observed : 
+ of the 40 drugs mentioned in cdsco , only broad single indication is mentioned in respect of some drugs ( e.g. amphotericin b - febrile neutropenia in cancer patients ; sodium valproate : all forms of epilepsy ; torsemide : diuretic ; fluoxetine : for treatment of depression ) .
+further studies involving large sample of drugs and more variables ( such as side effect profile , dosage information , information on drug interactions , and special precautions and contraindications ) are required to further elucidate the issue of variation in drug information .
+indication information available in cdso , mims , and pi to include nfi as well , a subset analysis was done in respect of those 24 drugs information about which were available in all the four sources including nfi .

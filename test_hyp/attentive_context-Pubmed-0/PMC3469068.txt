@@ -1,0 +1,23 @@
+rapid advances in the crystallographic 
+ determination of transmembrane 
+ ( tm ) protein structures , and especially of g - protein coupled receptors 
+ ( gpcrs ) , have established the lipidic cubic phase ( lcp ) as a suitable 
+ medium for growing high quality crystals of these proteins ( see ref ( 1,2 ) and citations therein ) .
+thus , our findings provide novel energy - based 
+ insights into driving elements of in meso crystallization 
+ mechanisms and lay the foundation for future quantitative exploration 
+ of rational approaches for the generation of structure - quality crystals 
+ of membrane proteins .
+we present the 
+ results of a molecular dynamics - based study 
+ of a gpcr reconstituted into an lcp environment that reveal differences 
+ in the hydrophobic / hydrophilic exposure of the gpcr to lipid 
+the main findings from this study offer 
+ unprecedented insight into 
+ molecular level processes related to in meso crystallization , 
+ which are likely leading to protein nucleation and eventually to crystal 
+ growth .
+, we evaluated the protein - dependent membrane 
+ deformations and their attendant energy cost , and identified specific 
+ tm regions and residues of rhodopsin that exhibit differential hydrophobic 
+ exposure in the lcp and lamellar bilayers .

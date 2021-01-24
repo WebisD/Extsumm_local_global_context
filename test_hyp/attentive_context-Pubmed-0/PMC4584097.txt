@@ -1,0 +1,6 @@
+the optimal chromatographic separation and sensitivity were successfully applied to the analysis of paclobutrazol residue in potato and soil . according to risk assessment with nedi and adi ,
+liquid - liquid extraction with low temperature partitioning was developed and validated for analysis of paclobutrazol in potato and soil using uhplc - ms / ms .
+the lod value was 0.5  g / kg , and the loq values were always 2  g / kg in the potato and 5  g / kg in soil .
+the accuracy of the whole method was evaluated by the development of a recovery study carried out at three concentration levels ( 5 , 50 , and 100  g / kg ) .
+the instrument detection limit ( lod ) and limit of quantification ( loq ) were estimated through ten repetitive injections of standard solution , which can detect at a signal - to - noise ratio ( s / n ) of three multiples and ten multiples , respectively .
+recovery values were satisfactory , ranging between 83 and 106% with rsd lower than 10% . as it can be seen from the rsd values , the method was reproducible and applicable to the analysis of paclobutrazol in potato and soil .

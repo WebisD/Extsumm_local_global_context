@@ -1,0 +1,6 @@
+, we report a mutation screen of the human trpc3 gene in a cohort of 108 patients with suspected but , as yet , undetermined genetic forms of ataxia .
+genetic mouse models of loss of trpc3 or dysfunctional trpc3 result in an ataxic phenotype   .
+to identify possible mutations in trpc3 , we screened all 11 coding exons and flanking exon / intron boundaries of this gene in 98 patients with undiagnosed late - onset cerebellar ataxia .
+this shorter form of trpc3 could act as a dominant negative and impair proper calcium handling in purkinje cells of the cerebellum . despite the absence of trpc3 mutations in our group of patients , trpc3 mutations may still contribute to human disease , as it is well - known that genetic mutations do not always produce equivalent phenotypes in mice and humans .
+therefore , future genetic studies in larger patient cohorts and/or different ethnic / geographic populations , as well as in patients with different subtypes of cerebellar ataxia , are necessary to fully elucidate the role trpc3 may play in human cerebellar ataxia .
+we did identify a novel variant in one patient with episodic ataxia that is predicted to alter splicing of the trpc3 gene .

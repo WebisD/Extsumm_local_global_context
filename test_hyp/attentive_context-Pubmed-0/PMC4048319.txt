@@ -1,0 +1,21 @@
+this work details lelp - guided development of 
+ this series , optimizing enzyme affinity while retaining selectivity 
+ over hsnmt to yield 34c , a high affinity druglike plasmodial 
+ nmt inhibitor .
+previously 
+ reported work described the discovery of 1 by a lead - hopping 
+ approach , as a ligand efficient inhibitor of plasmodial nmt .
+taken together , this biological 
+ characterization shows that nmt is a highly promising target for the 
+ development of a new generation of antimalarial drugs .
+using an integrated chemical biology approach , 
+ we identified the nmt substrate proteins in the blood stage of the 
+ parasite and demonstrated with small molecule tools that on - target 
+ inhibition of myristoylation disrupts the function of multiple specific 
+ downstream pathways , resulting in rapid cell death .
+furthermore , myristoylation of proteins is known to modulate 
+ a variety of properties ( such as protein localization and stability ) and is implicated 
+ in a variety of critical biological pathways . in the specific context of malaria , several important parasitic 
+ proteins have been shown to require myristoylation in order to localize 
+ correctly and to carry out their biological functions , and the genetic essentiality of nmt in p. berghei ( pb ) , the infectious species in the murine model of malaria , has 
+ been confirmed by conditional knockdown experiments .

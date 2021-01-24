@@ -1,0 +1,22 @@
+we employed pse as an efficient and mild approach to obtain the 
+ first mof that contains a multinuclear , organometallic , nonprecious - metal - based 
+ proton reduction catalyst .
+the resulting uio-66-[fefe](dcbdt)(co)6 is a hybrid material that combines the advantages of molecular 
+ catalysts with a highly ordered and stable inorganic support .
+incorporation of the fe2 complex in uio-66-[fefe](dcbdt)(co)6 results in a higher stability under the photocatalysis conditions , 
+ protects reduced species from nonproductive charge recombination , 
+ and may promote disproportionation reactions to produce catalytically 
+ active dianion 1 .
+uio-66-[fefe](dcbdt)(co)6 exhibits 
+ high efficiency for photochemical hydrogen evolution , exceeding that 
+ of the homogeneous reference system in terms of rate and total hydrogen 
+ production yield .
+x - ray absorption 
+ spectroscopy ( xas ) was used to confirm the coordination environment 
+ of the fe2 site in the mof .
+[ fefe](dcbdt)(co)6 ( 1 ) is among the most complex structure that 
+ has ever been introduced into a mof , and its presence and molecular 
+ integrity within the uio-66 framework could be confirmed by exafs , 
+ ftir , and other methods .
+decoration of complex 2 at the bdt ligand with two carboxylates results in complex 1 which can be introduced into mofs by pse of 1,4-benzenedicarboxylate 
+ ( bdc ) ligands , which is a common ligand linker in many mofs ( figure 1 ) .

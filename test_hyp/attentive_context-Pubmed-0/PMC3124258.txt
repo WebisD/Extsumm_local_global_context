@@ -1,0 +1,7 @@
+what follows is , at least to the authors ' knowledge , an overview of the first system capable of successfully generating high - resolution 3d mri images .
+the use of distributed systems and technologies provides unparalleled computational capabilities . with these technological improvements and an increased understanding of human anatomy and medical physics , three - dimensional high - resolution realistic synthetic medical data sets
+modern distributed systems provide unparalleled computational capabilities allowing full resolution data sets to be generated in reasonable amounts of time .  
+creating software models of the human anatomy and imaging systems and modeling the medical physics of the imaging acquisition process can provide a means to generate realistic synthetic data sets .   in many cases ,
+the growing availability of these systems , and the public funding for them , has resulted in them being readily available to a large number of academic researchers .
+simri has proved to be a robust modeling package that can easily be modified to target a variety of distributed computing environments .  
+mr images are generally the most computationally complex images to generate , with simulations usually being performed in 2d or low - resolution 3d .  

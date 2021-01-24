@@ -1,0 +1,23 @@
+the onset of the vbm is effectively shifted upward , while minimal 
+ changes are observed on the cbm , as seen in the xanes results . combining 
+ xps , ups , and low - energy ion scattering spectroscopy ( leis ) , a clear 
+ signature of dissociative adsorption of water
+ups and leis experiments confirm that the nio activates 
+ the surface toward dissociative adsorption of h2o , possibly 
+ involving sites at the interface between nio patches and the substrate .
+an in - gap 
+ state , formed by the deposition of metallic ni onto this surface , 
+ is transformed into a valence band shoulder upon oxidation of the 
+ ni into nio .
+this effectively increases the vbm with the cbm being 
+ unchanged , as seen in xanes , and therefore decreases the band gap 
+ of the system .
+we have 
+ performed x - ray absorption near - edge structure ( xanes ) , x - ray and 
+ ultraviolet photoelectron spectroscopy ( xps / ups ) , and scanning tunneling 
+ microscopy ( stm ) to determine the effects of adsorption of nio onto 
+ the sto(110)-(4  1 ) surface .
+nio was prepared by either ( i ) 
+ postoxidation of submonolayer amounts of ni deposited by molecular 
+ beam epitaxy ( mbe ) in ultrahigh vacuum or ( ii ) reactive mbe growth 
+ of metallic ni in a molecular oxygen background .

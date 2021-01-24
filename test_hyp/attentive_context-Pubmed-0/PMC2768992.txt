@@ -1,0 +1,6 @@
+it is well established that the transition of vascular smooth muscle cells ( vsmcs ) from a differentiated phenotype to a dedifferentiated state plays a critical role in the pathogenesis of atherosclerosis .
+this minireview summarizes the current research progress regarding the roles of mir-145 in the vsmc phenotype and the potential therapeutic opportunities of mirnas in atherosclerotic vascular disease .
+recently , the role of mirnas in cardiac cell differentiation has been described . in this study , kwon et al . demonstrated that mir-1 plays important roles in modulating cardiogenesis and in maintenance of muscle - gene expression by targeting transcripts encoding the notch ligand delta .
+fourth , although methods are available to downregulate a mirna in vivo , technology for upregulating a mirna in the vascular walls in vivo requires development . finally , the potential side - effects of mirna - based therapy should be studied before application in the clinic .
+it is well known that phenotypic modulation of vsmcs is an initial cellular event in the development of atherosclerotic vascular disease . to determine the therapeutic potential of mir-145 in vascular disease ,
+they identified that mir-145 plays a role not only in the differentiation of multipotent neural crest stem cells into vsmcs , but also in the differentiation of adult vsmcs .

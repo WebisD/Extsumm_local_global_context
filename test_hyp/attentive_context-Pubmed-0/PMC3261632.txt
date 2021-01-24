@@ -1,0 +1,7 @@
+we are in the early stages of understanding how the network of epistatic and main effects synthesizes with biological networks and pathways .
+knowledge of hubs , centralities and other properties of disease risk epistasis networks provide a new path toward identifying critical nodes in the network that may act as therapeutic targets or disease risk predictors . and a data - driven interaction network paradigm of gwas and deeper sequencing may lead to new insights into the mechanisms of evolution and complexity .
+epistasis networks may also be used to test the hypothesis of a network paradigm of evolution and disease susceptibility .
+it has long been appreciated that the regulation of biological processes involves a complex orchestration of genes in networks .
+we anticipate systems level network approaches to gwas will reveal new mechanisms and improve our understanding of the complex relationship between genotypes and phenotypes .
+in this opinion and review , we propose that there is room for additional mining of datasets generated in the gwas era using a paradigm of networks that aggregate gene  gene interactions and main effects .
+we refer to these as genetic association interaction networks ( gain ) or epistasis networks ; however , the networks we describe model main effects as well as epistasis . in a recent gain analysis of a study of the immune response to smallpox vaccine

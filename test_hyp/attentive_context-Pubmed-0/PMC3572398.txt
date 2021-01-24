@@ -1,0 +1,7 @@
+two phase iii clinical trial datasets were used to evaluate traditional methods of renal impairment and an adaptive bayesian approach .
+these two datasets were appropriate for this analysis because they present a weak increase in mean urea and creatinine values after drug administration as well as a known drug induced renal impairment .
+interestingly , the knowledge of renal impairment makes it possible to estimate the specificity ( control group ) and sensitivity ( treated group ) of the applied methods for the first visits post - administration when the signal is most probably weak .
+the adaptive bayesian approach using all known factors provided superior sensitivity and specificity in these two large clinical trials for drug dependent renal impairment signal generation .
+two phase iii clinical trial datasets , with known drug induced renal impairment , are analyzed for a renal impairment signal by traditional methods and an adaptive bayesian approach in this report .
+the % change from baseline is better than the fixed limit methods however there is not a single % change from baseline to define a significant signal for all biomarkers and for the same biomarker across subjects .
+the adaptive bayesian methodology generated a prominent drug induced signal for renal impairment on both analytes at the first visit after drug administration .

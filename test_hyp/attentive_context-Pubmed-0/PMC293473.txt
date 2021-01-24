@@ -1,0 +1,6 @@
+this article describes the experience of the informatics fellow and the new jersey geographic information system(gis ) coordinator during the first two weeks of the investigation in assessing information system needs and organizing on - site computer support for the new jersey arm of the investigation .
+the team was headquartered in the new jersey department of health and senior services ( njdhss ) and had access to the local area network and computing environment of the department .
+ the availability of analytic output and epidemiologic statistics in the same program used for data management  interaction with high end gis programs and transition of database management to a commercial program through epi
+we extended the mapping capabilities to illustrate the area of coverage of the active and passive surveillance systems implemented in surrounding communities for the detection of new cases ( figure 2 ) .
+the lists were used by eis officers for individual follow - up and were linked to the map of floor plans of the postal facility and environmental sampling results to help identify persons with the greatest likelihood of exposure .
+experience in developing such " emergency information systems " and with the software being used plays an important role in determining the time needed to complete the task . in this event ,

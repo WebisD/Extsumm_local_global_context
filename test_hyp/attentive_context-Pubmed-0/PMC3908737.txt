@@ -1,0 +1,23 @@
+this project was developed 
+ for the second semester of a two - semester , two - credit introductory 
+ organic chemistry laboratory course sequence for chemistry and related 
+ majors ; the project was first implemented in spring 2012 and successfully 
+ improved for spring 2013 .
+a research module has 
+ been developed and successfully implemented 
+ in a second - semester introductory organic teaching laboratory for 
+ chemistry majors .
+the module exposed 
+ students to modern chemistry through the use of microwaves and fluorous 
+ techniques , and engaged them in the process of organic chemistry as 
+ practiced in many laboratories across the world .
+key features of the approach were an outlined route 
+ to a target that necessarily forced students to think critically about 
+ the procedures they planned to use to reach the targeted molecule 
+ and to propose modifications to known procedures .
+the 
+ project described is , to the best of our knowledge , the first reported 
+ implementation of fluorous synthesis and solid - phase extraction chemistry 
+ in the undergraduate organic teaching laboratory . in preliminary development , ways were sought to attach 
+ a fluorous tag to fluorescein derivatives ; 
+ a recent fluorescein experiment from this journal has already been successfully adopted in this course . after encountering difficulty

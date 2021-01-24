@@ -1,0 +1,6 @@
+describe gpu - based image manipulation and enhancement techniques for dynamic volumetric medical image visualization , but enhancement in this case refers to enhancement of the visualization , and not of the 4d data .
+to our knowledge , there has not been any work done about true 4d image denoising on the gpu . in this work we therefore present a novel algorithm , based on local adaptive filtering , for 4d denoising and
+the elapsed time between the development of practically feasible 2d   and 3d   image denoising techniques was about 10 years , from 3d to 4d the elapsed time was about 20 years . due to the rapid development of gpus ,
+describe how to implement it on the gpu , in order to decrease the processing time and thereby significantly increase the clinical value .
+a number of medical imaging modalities ( e.g. , computed tomography ( ct ) , ultrasound ( us ) and magnetic resonance imaging ( mri ) ) now provide the possibility to collect 4d data , that is , time - resolved volume data .
+this makes it possible to , for example , examine what parts of the brain that are active during a certain task ( functional magnetic resonance imaging ( fmri ) ) . while 4d ct data makes it possible to see the heart beat in 3d

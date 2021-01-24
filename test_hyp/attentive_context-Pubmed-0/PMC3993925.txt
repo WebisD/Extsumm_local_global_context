@@ -1,0 +1,21 @@
+optical methods 
+ ( uv  vis absorption and circular dichroism ( cd ) spectrometry ) 
+ and nmr were used in tandem with the two - layer oniom method to investigate 
+ the effect of ph on the structures of two different pb 
+the differences in the coordination chemistry of the metal 
+ centers and the protein structures at various ph were deciphered . 
+
+we also investigated the chemical stabilities and structural flexibility 
+ of these two complexes in proteolytic processing to gain insight into 
+ the lead detoxification process involving mts .
+specifically , mt2 reduces the pb - inflicted toxicity by seizing free pb in the 
+ cellular milieu or by sequestering pb from pb - inflicted proteins .
+the structural conversion 
+ from pb7mt2(i ) to pb7mt2(ii ) 
+ is likely to occur in the acidic environment of lysosome , facilitating 
+ the effective detoxification and metabolism of pb .
+the similar structural , chemical , and biological properties 
+ between rabbit liver pb7mt2(ii ) and human pb7mt2(ii ) suggest a commonality in the pb coordination chemistry among mammalian mt2s .
+in this work , the ph - dependent coordination chemistry between pb and mt2 was systematically studied .
+the higher acid tolerance , 
+ greater coordination stability , and faster degradation rate of pb7mt2(ii ) have significant implications for the pb detoxification process .

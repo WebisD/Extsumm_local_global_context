@@ -1,0 +1,7 @@
+both enzymes were produced as fusion proteins containing an n - terminal extension , which comprised a solubility enhancement tag , a streptavidin tag , and a tobacco etch virus protease cleavage site .
+purified preparations of wild - type hugdh and e161q mutant were obtained using reported procedures .
+the n - terminal extension was then removed , and the enzymes were further purified by gel filtration and anion - exchange chromatography .
+after addition of all components , the reactions were incubated at 25  c for 16  h. for determination of the solvent isotope effect , enzymatic conversions in h2o or d2o were performed in a beckman coulter du800 spectrophotometer using a 50  mm potassium phosphate buffer with ph / pd 7.5 .
+the topspin 3.0 software from bruker was used for processing the nmr spectra after data acquisition . for quantitative analysis of the nmr data ,
+udp - glcua ( ammonium salt ; > 98% purity ) , and nad ( sodium salt ; 98% purity ) were obtained from sigma  aldrich .
+the reactions were directly made in a 5  mm high precision nmr sample tube ( promochem , wesel , germany ) to measure in situ h nmr spectra .

@@ -1,0 +1,25 @@
+the whole set of experiments presented here supports the proposed 
+  ph - dependent mechanism of ros generation in mitochondrial respiratory chain 
+  and its link with mitochondrial permeability transition .
+it allows us to 
+  understand the mechanism by which ucps down - regulate the level of ros in 
+  cells .
+4 
+  demonstrates , the loss of membrane potential can be delayed by the presence in 
+  the medium of the agents known to inhibit permeability transition pore 
+  opening ; cyclosporine a together with adp and oligomycin .
+the permeability transition was not observed under conditions 2 and 3 ; 
+  however , the alkalization - induced increase of respiration rate when 
+   remained constant ( figs . 
+ 
+the authors have shown that the rate of 
+  superoxide generation increased in conjunction with an increase of medium ph 
+  from 7 to 9.2 in the presence of nadh or succinate as substrates and 
+  inhibitors rotenone or antimycin a , respectively .
+to study the ph - dependent component in the mechanism of reactive oxygen 
+  species generation in mitochondria , we used three types of incubation media 
+  with different impacts on the ph and electrical components of proton motive 
+  force through the inner membrane : condition 1 , the medium without permeant 
+  anions , such as pi ; condition 2 , the medium of condition 1 
+  supplemented with pi ; condition 3 , the medium of condition 2 
+  supplemented with nigericin .

@@ -1,0 +1,21 @@
+the positive correlation between axl expression levels and tumor 
+ invasiveness in multiple cancer types makes cu - dota - h173 
+ potentially clinically useful for staging axl - positive cancers and 
+ managing patients with axl - targeted therapy .
+, we radiolabeled h173 
+ with cu to create an antibody based pet probe to noninvasively 
+ quantify axl expression in vivo .
+this study shows that cu - dota - h173 , 
+ based on a humanized axl - specific monoclonal antibody , displays high 
+ target specificity both in vitro and in vivo .
+we have developed a receptor - targeted pet probe for detection of 
+ axl - positive tumors .
+the data obtaining by pet imaging could be used to confirm 
+ the presence of axl , which would be important clinical information 
+ in determining the utility of axl - targeted chemo- and radiotherapy 
+ in receptor positive patients . in this study
+cu - dota - h173 
+ uptake in a549 tumors increased with time , and a better tumor - to - background 
+ contrast was displayed at late time points ( 28 h , 45 h p.i . ) . both 
+ active uptake ( contributed by h173-axl interaction ) and passive uptake 
+ ( contributed by the enhanced permeability and retention effect )

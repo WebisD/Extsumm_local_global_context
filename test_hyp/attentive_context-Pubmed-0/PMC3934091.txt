@@ -1,0 +1,5 @@
+the purpose of this study was to evaluate the incidence of vte closely associated with the insertion and use of cvp catheters and to identify high - risk patients amenable to benefit from a short course of thromboprophylaxis after cvp implantation .
+this large cohort study , designed to evaluate the incidence of vte closely related to central venous port catheter implantation , shows that 7.6% of the patients will develop dvt or pe during the first 3 months after catheter implantation .
+khorana score  3 ( or 2.67 , ci95 1.49 to 4.78 , and p = 0.001 ) and lung cancer ( or 1.93 , ci95 1.15 to 3.25 , p = 0.01 ) were significantly associated with vte ( from any origin ) during the 12-month study period .
+the multivariate logistic regression analysis identified 2 significant predictors of catheter - related vte at 3 months : a khorana score  3 ( odd ratio ( or ) 3.50 , ci95 1.00 to 12.3 , and p = 0.05 ) and lung cancer ( or 5.45 , ci95 1.87 to 15.87 , and p = 0.002 ) .
+it confirms khorana score and lung cancer as strong predictors of catheter related vte and vte of any origin at 3 and 12 months .

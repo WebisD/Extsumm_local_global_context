@@ -1,0 +1,5 @@
+recently , [ 18f]-fdg - pet - ct scan has been applied to tumor volume delineation for many cancer sites in addition to diagnostic purpose . in this study , we compared quantitatively gtv delineated on [ 18f]-fdg - pet - ct scan to those delineated on contrast - enhanced ct scan ( cect scan ) in primary and nodal areas of head and neck cancers .
+pet / ct significantly alters the staging of tumor ( t staging ) and lymph node metastases ( n staging ) in head and neck cancers .
+, analyzed the use of [ 18f]-pet / ct images for staging and target volume delineation of patients with head and neck carcinoma .
+heron , et al . , prospectively studied the impact of hybrid pet - ct simulation in tumor and normal tissue delineation for rt planning in patients with head and neck cancers . for primary disease , pet - based target volumes ( mean = 42.7 cm ) were significantly ( p = 0.002 ) smaller compared with ct - based target volumes ( mean = 65 cm ) for all patients .
+the median value of percentage of mismatch of nodal gtv pet to ct was 61.88% ( range : 0.00 - 168.42% ) and the mean was 63.90  47.53% .

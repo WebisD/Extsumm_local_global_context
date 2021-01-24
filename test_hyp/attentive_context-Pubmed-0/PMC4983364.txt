@@ -1,0 +1,7 @@
+thus , we analyzed our study database to explore the relationship of low - dose steroid treatment with hla - dr expression and cytokine responses in patients with severe sepsis by repeated detections .
+we demonstrated that a course of low - dose steroid therapy influenced il-12 production from in vitro lps - stimulated pbmcs of severe septic patients .
+il-12 response observed in pbmcs increased from day 7 to day 1 in severe septic patients .
+serial increase in monocyte human leukocyte antigen - dr ( hla - dr ) expression and il-12 response in stimulated peripheral blood mononuclear cells ( pbmcs ) are associated with higher survival rate in patients with severe sepsis .
+there was no correlation between low - dose steroid therapy and monocyte hla - dr expression .
+low - dose steroid therapy was also independently and negatively linked to the increase in il-12 after regression analysis ( b = 750.743 ; table 6 ) .
+in addition , there was no change in monocyte percentage , positive hla - dr percentage in monocytes , and mfi of hla - dr in patients treated with or without low - dose steroids from day 7 to day 1 .

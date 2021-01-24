@@ -1,0 +1,7 @@
+we have developed a short and efficient method for the synthesis of 2-aryl benzimidazoles from 1,2-phenylenediamines and aryl aldehydes using h5io6-sio2 as catalyst .
+the mild reaction condition , low cost , easy workup procedure and good to excellent yields as well as the scope for using wide substrates make our methodology a valuable contribution to the existing processes for synthesis of benzimidazole derivatives . among 18 derivatives , newly synthesized 5-substituted derivatives exhibited excellent activity against mcf7 and hl60 cell lines .
+the current study provides better insight into the designing of more potent anticancer agents in the future .
+, we report an efficient and facile synthesis of 2-aryl benzimidazoles by using silica supported periodic acid ( h5io6-sio2 ) as a catalyst ( scheme 1 ) .
+all the synthesized benzimidazoles were tested for their anticancer activity against two cell lines mcf7 ( human breast adenocarcinoma ) and hl60 ( human promyelocytic leukemia ) by mtt colorimetric assay using cisplatin as a standard anticancer drug .
+we choose 1,2-phenylenediamine ( 1  mmol ) and m - nitrobenzaldehyde ( 1  mmol ) as a model reaction for optimization of catalyst and reaction conditions .
+all the tested compounds are found to be more effective against both cell lines as compared to cisplatin .

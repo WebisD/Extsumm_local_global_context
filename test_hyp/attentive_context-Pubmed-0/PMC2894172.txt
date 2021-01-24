@@ -1,0 +1,8 @@
+the -in2s3nanowires were first fabricated by sulfurizing the pure indium ( in ) nanowires at 500 c for 10 h , which is embedded in an aao membrane .
+an effective and economical technique - anodic alumina oxide ( aao ) membrane - assisted method was utilized in this study .
+-in2s3nanowires have high wire packing densities with uniform wire diameters and lengths of about 60 nm and 68 m , respectively . the analysis of the hr - tem / saed revealed that the -in2s3nanowire is polycrystalline .
+in summary , we have presented a simple , inexpensive , and reasonable method to fabricate -in2s3nanowires .
+-in2s3 thin films were prepared using the csp technique , and the spray solutions were mixtures of indium chloride ( incl3 ) and thiourea ( cs(nh2)2 ) .
+powder of -in2s3 was synthesized using indium chloride ( incl3 ) and thioacetamide ( ch3csnh2 ) as precursors via the sonochemical route .
+powder of -in2s3 was synthesized using incl3 and ch3csnh2 as precursors followed by annealing in ar atmosphere in the temperature range 5731,123 k. the grain size of powder varied in the range 0.401.48 m for different annealing temperatures .
+the morphologies of the as - prepared aao membrane and the -in2s3nanowires were analyzed by field emission scanning electron microscopy / energy dispersive spectrometer ( fe - sem / eds , hitachi s-4800 ) .

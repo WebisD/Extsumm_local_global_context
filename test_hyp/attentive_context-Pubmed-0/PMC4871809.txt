@@ -1,0 +1,6 @@
+the model of cargo - induced autophagosome formation could help to explain how isolation membranes are generated in non - starved cells and how they can be efficiently tethered to cargos .
+macroautophagy ( hereafter autophagy ) is a conserved pathway for the degradation of cytoplasmic material and the recycling of nutrients . during autophagy , a double - membrane organelle called autophagosome is formed in a de novo manner .
+first , the hypothesis of high - avidity interactions between cargo receptors and clustered target molecules should be tested for other cargo receptor proteins .
+, ) . emerging evidence has also shown that selective autophagy plays an important role in the homeostasis of intracellular free iron , by controlling the levels of the iron - chelating protein ferritin ( referred to as ferritinophagy ) , , , .
+second , a more detailed molecular understanding of the interaction networks between cargo receptors , ubiquitin , the autophagic machinery and membranes will be required .
+, , ) . the crucial role of selective autophagy for cellular homeostasis is emphasized by the fact that tissue - specific knockout of autophagy genes in mice results in neurodegeneration or liver cancer , , , .

@@ -1,0 +1,7 @@
+95% ci : 1.013 - 24.360 , p = 0.048 ) was significantly higher in the aci group [ table 2 ] .
+univariate analyses of clinical and laboratory data showed that negative fluid volume balance and modified fisher grade were more prevalent in the aci group than in the no aci group [ table 1 ] . other clinical and laboratory data , including age , sex , hypertension , diabetes mellitus , hunt - hess grade , and ventricular hemorrhage showed no differences between groups .
+case files from patients that had undergone coil embolization of cerebral anterior communication artery aneurysms from october 2008 to april 2012 at tangshan gongren hospital were retrospectively reviewed .
+our results showed high prevalence of aci after embolization , and a modified fisher grade was identified as the most important risk factor therefore .
+in particular , we wished to elucidate the risk factors relevant to aci after embolization using univariate and logistic regression analysis .
+results of multiple logistic regression analysis applied to the anterior circulation cerebral infarction and no anterior circulation cerebral infarction groups
+the prevalence of aci after embolization ( 13.0% ) was found to be high in patients with the endovascular treatment of acoa aneurysms and modified fisher grade was found to be the major determinant for anterior circulation infarction after embolization .

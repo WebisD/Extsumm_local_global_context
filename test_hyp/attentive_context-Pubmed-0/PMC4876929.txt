@@ -1,0 +1,7 @@
+expression , purification , and reconstitution of fluc channels were as described in detail27,28 . in the final purification step ,
+phases were calculated using molecular replacement as implemented in phaser39 using the experimentally determined bpe model and a homology model of the l2 monobody using a previously determined structure of a loop - library monobody ( pdb : 3rzw ) .
+the four hg sites were located using the single wavelength anomalous dispersion ( sad ) method as implemented in shelx36 with the positions further refined and initial phases calculated using sharp37 with solvent flattening in solomon38 . to improve the phases a second and third dataset
+no prior phase information was used during the refinement , however refinement was improved following anisotropic truncation of the structure factors . to avoid biasing the model , ncs
+ec2 constructs bore a single functionally neutral , expression - enhancing mutation , r25k , and , for selenomethionine incorporation , an additional methionine was introduced ( a51 m ) to enhance phasing power .
+the bpe - l2 model was built into the electron density maps calculated from phaser following iterative rounds of structure refinement in phenix45 and refmac5 .
+for the bpe - l2 crystals , data were similarly processed and scaled in spacegroup p1 .

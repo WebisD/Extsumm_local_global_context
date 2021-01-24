@@ -1,0 +1,7 @@
+prepared floating microballoons showed significant floating ability , good buoyancy , and sustained drug release . in vitro drug release of microballoons
+floating microballoons of pentoxifylline were prepared by the solvent evaporation technique using different concentrations of polymers like hpmc k4 m and ethyl cellulose ( ec ) dispersed in ethyl alcohol and dichloromethane as a solvent system .
+the formulation undergoes anomalous ( non - fickian ) diffusion , which indicates that the drug release rate was controlled by swelling , erosion , and diffusion from microballoons .
+was influenced by polymers concentration . from the percentage loading efficiency and in vitro drug release studies , it was observed that f3 formulation exhibits greater drug loading efficiency and sustained release behavior .
+on fixing the in vitro drug release data of optimized formulation to various kinetic models , it was found that it exhibits the higuchi order of kinetics followed by zero order and first order .
+thus , pentoxifylline loaded floating microballoons can prove to be potential pharmaceutical dosage form for prolonging the gastric retention time of dosage form .
+n  values from the power law equation ( korsmeyer - peppas equation ) for drug release profiles were between 0.776 and 0.842 , suggesting that drug release mechanism from formulations followed the non - fickian ( anomalous ) transport mechanism , which may indicate that diffusion was predominant mechanism of drug release .

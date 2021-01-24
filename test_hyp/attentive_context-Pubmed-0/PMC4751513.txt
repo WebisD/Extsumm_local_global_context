@@ -1,0 +1,19 @@
+, we demonstrate how n - induced 
+ changes to the fe catalyst phase evolution and composition directly 
+ impact the h - bn incubation time and the uptake of b and n species 
+ during dosing .
+the catalyst bulk 
+ prefilling method presented here therefore provides an elegant alternative 
+ to using different catalysts or using catalyst alloying to control 
+ the permeability of the growth species .
+we adopt a simple cvd process , the salient stages of which are 
+ outlined in figure 1 : ( 1 ) the preannealing stage , during which the samples are gradually 
+ heated in h2 or nh3 , ( 2 ) the vacuum stage preceding 
+ borazine exposure , ( 3 ) the borazine exposure period , and ( 4 ) the vacuum 
+ cooling stage . figure 2 compares the morphology of the h - bn grown on as - received fe foils 
+ ( 100 m ) at 900 c and 6  10 mbar borazine partial pressure following preannealing in 4 mbar 
+ of either h2 or nh3 ( stage 1 ) as a function 
+ of borazine exposure time ( stage 3 ) .
+importantly , given the interdependency 
+ of the b and n solubilities , it allows us to lower the permeability 
+ of b , which leads to uniform h - bn monolayer growth .

@@ -1,0 +1,5 @@
+for the 2 case , the time between the last cy5-trna arrival and the ribosome reverse - rotation is 27.2 s , much longer than the 7.7 s during normal decoding and translocation , suggesting a slow peptidyltransfer reaction .
+our results provide a possible explanation for why heterogeneous frameshifting products are observed in many frameshifting systems .
+unfortunately , our single - molecule assay is blind to the actual movement of the ribosome on the mrna , so the details of this mechanism will require further exploration .
+case 1 ( as described in part ( a ) ) leads to correlation of trna arrival and ribosome rotation after the long rotated state pause whereas case 2 leads to overlap of a trna pulse with the reverse - rotation of the long pause .
+frameshifting have been proposed to occur at each of the steps : ( 1 ) during accommodation of the a - site trna , ( 2 ) subsequent to accommodation , but prior to peptide bond formation , ( 3 ) during trna hybrid - state intermediates , ( 4 ) during translocation , and ( 5 ) at the start of the next found of elongation .

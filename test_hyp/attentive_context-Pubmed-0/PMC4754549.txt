@@ -1,0 +1,7 @@
+our approach enhances the efficacy of sirna - mediated gene silencing by ~10-fold when compared to nontargeted delivery .
+therefore , this targeted strategy should prove effective for regulating multiple immune - mediated diseases .
+overall , our study demonstrates the functionality of lnps modified for receptor targeting for sirna delivery to dcs .
+while care needs to be taken in designing and evaluating targeted approaches using lnps , we found that 2ome modification of the sirna was sufficient to negate immune activation .
+we achieve significant reduction in expression of cd40 , cd80 , and cd86 on splenic dcs using our dec - lnps following systemic delivery , and ongoing studies are addressing the durability of gene knockdown and the potential use of these dec - lnps for treating autoimmune diseases . in summary
+importantly , we demonstrated that targeted delivery resulted in effective rnai - mediated gene silencing of one , or several genes , to essentially basal expression levels ( figures 4 and 5a  c ) .
+coated lnps formulated with the cationic lipid ddab with full - length dec205 antibody for sirna delivery and demonstrated the ability to reduce expression of the costimulatory molecule cd40 in dec205 dcs . while some gene knockdown was achieved , this lipid is known for its adjuvant qualities , and is being developed for applications that require immune response stimulation .

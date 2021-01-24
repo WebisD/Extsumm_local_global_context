@@ -1,0 +1,7 @@
+csk is present in all major plant and algal lineages and evolved from a cyanobacterial sensor histidine kinase .
+cyanobacterial lineages also contain a recognizable csk homolog , confirming the evolutionary origin of this chloroplast protein from cyanobacteria .
+the symbiotic origin of paulinella chromatophores has an independent evolutionary history from the symbiotic event that gave rise to chloroplasts ( nowack et al .
+the evolutionary loss of a bacterial - type response regulator from chloroplasts may therefore correlate with a modified kinase activity of csk ( puthiyaveetil and allen 2009 ) .
+in order to investigate protein  protein interactions between csk and its putative functional partners , we undertook a yeast two - hybrid analysis .
+1 ) , consistent with the secondary symbiotic origin of diatom and phaeophycean plastids from red algae . interestingly , a csk ortholog is also found in  chromatophoresin this context , cyanobacterial endosymbionts  of the amoeboid eukaryote paulinella chromatophora .
+the results described here are in agreement with corr and further resolve the mechanism by which a modified bacterial two - component system continues to operate in chloroplasts in order to secure a functionally intelligible adjustment of the stoichiometry of the chloroplast photosystems in response to changing light regimes .

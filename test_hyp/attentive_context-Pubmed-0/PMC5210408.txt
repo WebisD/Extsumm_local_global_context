@@ -1,0 +1,6 @@
+. based on the aforementioned background , we aimed to determine the prognostic value of antioxidant capacity of hdl in patients with chf .
+relative risk of mortality ( a ) and the combined cardiovascular endpoint ( b ) according to combined strata of the highdensity lipoprotein oxidative index ( hoi ) and nterminal probtype ( ntprobnp ) natriuretic peptide .
+the association of hoi 1 with cardiovascular events remained significant after multivariable adjustment for age , sex , nyha class , ntprobnp , lvef , estimated glomerular filtration rate , body mass index , hdlcholesterol , crp , il6 , pon1 activity , diabetes mellitus , and atrial fibrillation with an adjusted hr of 1.83 ( 95% ci 1.142.92 , p=0.012 ; table  2 ) .
+. patients with an hoi 1 and ntprobnp > 2065  pg / ml had a hr of 6.8 ( 95% ci : 2.916.1 , p<0.001 ) for the combined cardiovascular endpoint compared to patients with an hoi < 1 and ntprobnp < 2065  pg / ml .
+patients with an hoi 1 had significantly higher levels of creactive protein ( crp ; 0.47 
+survival free of the combined cardiovascular endpoint of cardiovascular mortality and htx was significantly lower in patients with prooxidative hdl serum measurements reflected by a hoi 1 and remained significant after adjustment for potential confounders .

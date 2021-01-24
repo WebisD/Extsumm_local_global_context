@@ -1,0 +1,6 @@
+this association was not materially different with additional adjustment for vat ( or 1.37   ; p < 0.0004 ) and persisted after additional adjustment for vat and cvd risk factors ( 1.34   ; p = 0.004 ) , including smoking , alcohol , total and hdl cholesterol , systolic blood pressure , diabetes , hypertension treatment , and lipid treatment .
+the ors of metabolic syndrome ( 1.89 ) , hypertension ( 1.48 ) , and diabetes ( 1.40 ) per 1-sd increase in pat were significant ( all p < 0.05 ) .
+in contrast , commensurate with its proposed primary role as a locally acting fat depot , pat was predominantly associated with cac but not with aac even after vat and other relevant cvd risk factors were accounted for .
+conversely , there was no association between pat and aac in the multivariable - adjusted model ( 1.03   ; p = 0.80 ) .
+the relationship between pat and the presence of cac was found to be significant in the minimally adjusted model ( or 1.37 [ 95% ci 1.201.56 ] ; p < 0.0001 ) .
+generally , men had a slightly higher percentage for the presence of cac than women ( 49 vs. 41% ) with a similar value for aac ( 65 vs. 61% ) .

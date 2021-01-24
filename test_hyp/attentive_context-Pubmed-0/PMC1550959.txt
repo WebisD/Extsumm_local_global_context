@@ -1,0 +1,7 @@
+assessment of circulatory dna is a useful tool for predicting morbidity and mortality in patients admitted to the icu .
+in the previous issue of critical care , rhodes and colleagues   report on significantly increased levels of circulating dna in patients admitted to the intensive care unit ( icu ) in comparison with healthy controls .
+they show plasma dna levels to be an independent predictor of mortality and the development of sepsis in these patients . in sepsis and trauma , circulating nucleosomal dna is positively correlated with disease severity and adverse outcome . in cancer ,
+interestingly , in systemic lupus erythematosus , an autoimmune disease in which nucleosomal dna functions as autoantigenic target , no correlation of circulating nucleosomal dna with disease severity can be found ; instead there is a correlation with anti - nucleosomal dna antibodies .
+elisa = enzyme - linked immunosorbent assay ; icu = intensive care unit ; lod = logistic organ dysfunction ; rq - pcr = real - time quantitative polymerase chain reaction .
+hence , assessment of circulating dna offers a useful tool for predicting mortality and morbidity of patients admitted to the icu .
+dna in plasma most probably circulates bound to proteins in the form of mononucleosomes and/or oligonucleosomes and is released after the cleavage of easily accessible linkage sites of cellular dna by endonucleases after cell death .

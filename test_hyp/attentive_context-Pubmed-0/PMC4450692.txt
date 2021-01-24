@@ -1,0 +1,6 @@
+the frequency of patients with medullary thyroid carcinoma as the g691s and s904s variants were in complete linkage disequilibrium , so the results were grouped together and referred to as g691s / s904s haplotype ( fig.1 ) .
+we analyzed germline dna mutations of ret gene in 181 iranian mtc patients and 112 relatives , with a total of 293 members .
+in this study , we found two variants of ret gene , g691s ( ggt > agt , exon 11 , rs1799939 ) and s904s ( tcc > tcg , exon 15 , rs1800863 ) that are cosegregated together as a haplotype , suggesting that these polymorphisms are in linkage disequilibrium with each other .
+the frequency of g691s and s904s variants in the population the frequency distribution of g691s and s904s variants among mtc patients and their relatives
+the analysis of g691s / s904s ret gene haplotype showed that 104 of 181 ( 57.45% ) mtc patients and 55 of 112 ( 49.1% ) relatives had this haplotype .
+specifically , we found 2 germline polymorphisms of ret gene at codon691 ( ggt > agt , exon 11 , rs1799939 ) that causes glycine to serine amino acid substitution , and codon 904 ( tcc > tcg , exon 15 , rs1800863 ) that does not lead to an ami - no acid alteration .

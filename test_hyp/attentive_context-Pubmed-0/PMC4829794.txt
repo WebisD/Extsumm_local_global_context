@@ -1,0 +1,8 @@
+in this paper , we mainly studied the laplacian - energy - like invariants of the modified hexagonal lattice , modified jack lattice , and honeycomb lattice .
+the proposed results imply that the asymptotic laplacian - energy - like invariants of those lattices are independent of the three boundary conditions .
+the energy of the graph is an important invariant of the adjacency spectrum and is the sum of the absolute values of all the eigenvalues of a graph g , which is studied in chemistry and used to approximate the total electron energy of a molecule . during researching the character of the conjugated carbon oxides
+topological indices play a very important role in mathematical chemistry , especially in the quantitative structure - property relationship ( qspr ) and quantitative structure activity relationship ( qsar ) .
+e 
+  is closely related to the energy releasing from the formation progress of the conjugated carbon oxides and could be approximately calculated by hckel molecular orbital theory . and in the method of hmo , the calculation of e 
+  can be attributed to the sum of the absolute values of all the eigenvalues of its molecular graph   .
+what follows , we will explore the laplacian - energy - like invariants formulas of the modified hexagonal lattice , modified union jack lattice , and honeycomb lattice .

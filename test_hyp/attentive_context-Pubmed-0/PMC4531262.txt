@@ -1,0 +1,8 @@
+the evolutionary rate of nucleotides in ste12 binding sites was compared to rates in the rest of the upstream regulatory regions of the a - specific genes , shown as violin plots .
+expression of the asg ste2 and the general pheromone - activated gene fus3 in the presence of k. lactis ste12 , in the absence of ste12 , and in the presence of s. cerevsiae ste12 .
+b , a construct with increased mcm1 binding site strength was tested for its ability to compensate for the deletion of a2 .
+promoters between closely related species were aligned and the evolutionary rate of each basepair in the alignment was determined after model selection .
+expression under uninduced and pheromone - induced conditions are shown as mean fluorescence of three independent genetic isolates + / s.d .
+individual a - specific genes and general pheromone - activated genes were scored for the presence of ste12 cis - regulatory motifs in their upstream regulatory regions .
+the s. cerevisiae ste2 promoter was fused to gfp and the role of ste12 cis - regulatory sites in expression .
+the yeast phylogeny along with the number of ste12 binding sites in extant species was used to estimate the gain and loss rate of the sites over evolutionary time .

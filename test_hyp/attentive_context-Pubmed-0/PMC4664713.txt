@@ -1,0 +1,9 @@
+bovine conceptuses were collected at day 18 post - insemination ( or dpi ; day of insemination as day 0 ) . for each conceptus ,
+the embryonic disc was dissected out and the extra - embryonic tissues stored in dmem supplemented with 10% fetal calf serum ( fcs ) , on ice , until tissue digestion .
+each derivation included the three cell types which were grown for up to 1  week .
+these datasets are available in the gene expression omnibus database ( http://www.ncbi.nlm.nih.gov/geo , gse52967 ) .
+frtb910 in the national registry ) and the protocols for these studies were approved by the local ethics committee ( comit d'ethique en exprimentation animale du centre inra de jouy - en - josas et agroparistech ( or comethea ) , registered as 12/084 and 12/086 in the national ethics committee registry . for the microarray analyses ,
+the hybridization signals were quantified with imagene 5.5 software ( biodiscovery ) on the pict / ice platform .
+btcs , bxecs , and bxmcs were isolated as previously described for human trophoblast cells .
+these datasets are available in the gene expression omnibus database ( http://www.ncbi.nlm.nih.gov/geo , gse52967 ) .
+3 independent isolation and culture procedures were performed , each starting from 10 to 12 d18 embryos .

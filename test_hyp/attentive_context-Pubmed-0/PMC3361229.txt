@@ -1,0 +1,7 @@
+the aim of this paper is to develop a rapid , accurate , and robust method for genotype analysis of cotton plants ( parent , transgenic , and parent - transgenic hybrid ) by near infrared ( nir ) spectroscopy and robust partial least squares discriminant analysis ( plsda )   methods . to tackle the problem of outliers , robust principal component analysis ( rpca )  
+  rapid and accurate discrimination of three different genotypes of cotton plants were developed by nir analysis of leaves and seeds .
+the best models obtained total classification accuracy of 100% and 97.6% for seeds and leaves , respectively . in order to tackle the problem of spectral outliers , robust pca models were applied to each subclass and were proved to be very effective .
+snv and second - order derivative can significantly improve the classification accuracy by removing background and baseline and enhancing resolution .
+the influence of different data - preprocessing methods on model prediction performance was also investigated .
+spectral smoothing can not improve prediction performance due to the possible loss of high - frequency information .
+the results also demonstrate the removal of background and baseline plays a more important role than enhancing signal snr for classification .

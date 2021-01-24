@@ -1,0 +1,6 @@
+  in recent years , there has been significant progress in studies of mitophagy in both yeast and mammals . in particular , the molecular processes and regulatory mechanisms of mitophagy in yeast
+similarly , the yeast cvt complex ( a protein complex comprising aminopeptidase i ( ape1 ) and alpha - mannosidase ( ams1 ) ) is delivered to vacuoles via an autophagy - like process ; ape1 and ams1 are processed and activated in the vacuoles , and this autophagic process is called the cvt pathway .
+the interplay of yeast and mammalian mitophagy studies will consolidate our understanding of this cellular process .
+have been well described , such as the specific atg32atg11 interaction and the requirement for signaling by the two mapks slt2 and hog1 . meanwhile ,
+the physiological role of mitophagy in mammalian cells has been well understood . because mitophagy is evolutionarily conserved , it is reasonable to speculate that there will be similar molecular processes , regulatory mechanisms , and physiological roles in both yeast and mammals .
+the identification of the yeast mitophagy - specific protein atg32 , which plays a key role in the recognition of mitochondria by the autophagic machineries , confirmed the existence of selective degradation of mitochondria by autophagy   .

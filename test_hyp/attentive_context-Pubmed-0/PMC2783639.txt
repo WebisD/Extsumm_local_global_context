@@ -1,0 +1,6 @@
+testing of contextual memory was performed 24 hours after training in the trained context and 48 hours after training in a novel chamber .
+1-train ltp was induced by a single 100 hz , 1-second duration train of stimuli .
+c57bl/6j male mice ( 25 months of age ) were housed individually on a 12 hr/12 hr light / dark schedule with lights on at 7 a.m. ( zt0 ) and handled for 6 days .
+4-train ltp consisted of 4 trains applied with a 5-minute inter - train interval ; for massed 4-train ltp a 5-second inter - train interval was used .
+mice were sleep - deprived ( sd ) in their home cages for 5 hours by gentle handling beginning at zt5 or left undisturbed ( non - sleep - deprived mice , nsd ) . for contextual fear conditioning experiments , animals were placed in a novel chamber for 3 minutes , and received a 2-second , 1.5 ma footshock after 2.5 minutes .
+camp assays on ca1 regions of hippocampal slices 10 minutes after treatment for 15 minutes with forskolin ( 50 m ) , forskolin + ibmx ( 30 m ) , or vehicle ( 0.1% etoh ) were performed by radioimmunoassay according to kit instructions .

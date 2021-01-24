@@ -1,0 +1,6 @@
+ms is a chronic progressive cns inflammatory disease , in which the autoimmune response against the cns myelin proteins leads to a chronic inflammatory response   .   during the inflammatory response ,
+ifn and statins inhibit th17-cell differentiation directly and indirectly via their effects on antigen - presenting cells ( apcs ) .   in this paper , we will discuss their therapeutic effects in rr ms patients , which are indirectly mediated through the induction of socs1 and socs3 in monocytes , dcs , and b - cells as well as directly affecting the th17-cells .
+ifn suppresses the differentiation of pathogenic th17-cells , through its effect on the cells of the innate system ( macrophages , monocytes , dcs , and b - cells ) , by the inhibition of the th17-cell - promoting cytokines il-1 and il-23 via induction of socs3 .  
+the designer socs - mimetic drugs have already been tested in an animal model of the cns inflammatory disease .  
+ifn and statins have been shown to be an effective treatment of rr ms .   despite different mechanisms of action , both therapies target similar signaling pathways .  
+have been reported to exert their immunomodulatory effects through the induction of socs1 and socs3 in various inflammatory cell subsets .  

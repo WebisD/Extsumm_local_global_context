@@ -1,0 +1,18 @@
+, we report a synthesis and the in vitro pharmacological 
+ characterization 
+ of 1 and several novel , highly 1-selective 
+ -adrenoceptor ligands , most of which display significant agonist 
+ activity .
+the first analogue of 1 made was 19 , a decyanated 
+ version of the molecule , and the pharmacological effect of this maneuver 
+ was to reduce affinity at both human 1- and 2-adrenoceptors .
+infusion of the hydrochloride salt of 19 resulted in a substantial increase in the basal ( 1-mediated ) heart rate , in keeping with its 1-partial agonist effects , followed by inhibition of the 1-heart rate response to the isoprenaline ( compare figure 2a in cho 1 cells and figure 3a in conscious rats ) .
+molecules of higher selectivity , but devoid of 
+ partial agonist effects , should prove to be a very powerful treatment 
+ for people with concomitant cardiovascular and respiratory disease 
+ and is the focus of ongoing work within our laboratories .
+for this reason , -blockers remain absolutely contraindicated 
+ in patients with asthma and relatively contraindicated in people with 
+ copd . our desire to address this significant unmet clinical need initially 
+ led us to assess reported ligands that displayed very high 1-adrenoceptor versus 2-adrenoceptor selectivity . 
+ from the literature ,

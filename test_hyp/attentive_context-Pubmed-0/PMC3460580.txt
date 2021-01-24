@@ -1,0 +1,7 @@
+we use the presented method to study activation of gefs in epithelial cell lines . with some optimization
+the method presented here is the only available non - radioactive activation assay for gefs that can follow the active pool of gefs in cells .
+finally , the same stimulus could result in a variable degree of activation due to a change in cell responsiveness caused by passage number , cell confluency , etc .
+the amount precipitated however increases in cells treated with the inflammatory cytokine tumor necrosis factor - ( tnf-  ) , consistent with the notion that tnf- activates gef - h1 .
+a successful gef assay detecting activation of the exchange factor gef - h1 is shown on fig 3 .
+when adapting to a specific cell type , find the optimal cell number , lysis buffer volume , and detection method for the gef to be tested ( a good antibody for western blotting is important ) . for initial setup of the assay it is advisable to use a stimulus that is known to activate the gef of interest .
+the presented gef assay was recently modified for application for nuclear fractions . with further modifications , testing of gef activation in other subcellular compartments

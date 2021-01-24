@@ -1,0 +1,9 @@
+the spectra red shifts during the formation of cdse shells were calculated , and they exhibited a good fit to the experimental data .
+hollingsworth s group recently developed a method of ion exchange to form pbse / cdse core / shell structures in which cd atoms replaced pb atoms in the outlayers of large pbse qds .
+however , it may not be easy to control the thickness of the cdse layers . in this work , we employed the  successive ion layer adsorption and reaction ( silar )  technology   to form air - stable pbse / cdse qds with strong photoluminescence
+the cdse shells prevent pbse core from the destructive oxidation . compared with the unstable pbse core ,
+that is also because the tensile change at the interface is nonlinear with the shell thickness .
+several approaches have been developed to prepare pbse qds with uniform size and high quantum yields [ 3 - 5 ] .
+this process for each particle induces the effective particle size decrease and the blue shift of the spectrum .
+the surface polarization and the expansion of carriers wavefunctions contributed to the spectral red shift .
+pbse / pbs   and pbse / sio2 core / shell structures have been synthesized to stabilize pbse qds .

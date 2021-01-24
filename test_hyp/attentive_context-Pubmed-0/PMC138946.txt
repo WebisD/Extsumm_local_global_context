@@ -1,0 +1,7 @@
+little is known about the gross structure of the genes encoding these nuclear transport receptors , and our knowledge of the chromosomal localization or the organization of the individual genes encoding members of this family is very poor .
+this has led to the characterization of a large number of related proteins ( both importins and exportins ) in all eukaryotic species analyzed .
+the further characterization of new transport receptors and adaptors , and the identification of new import and export substrates , will lead to a more complete picture of nucleocytoplasmic transport .
+a major effort in the nucleocytoplasmic transport field has been directed towards the analysis of all members of the importin  family , in particular with the aim of identifying specific transport cargoes .
+there are 14 putative members of the importin  family in the completed saccharomyces cerevisiae genome , nine of which have been shown to function as importins and four as exportins .
+the genes encoding yeast transport receptors are dispersed throughout the genome and none of them contains introns .
+a big challenge for the future will be to understand how translocation through the npc occurs , and how nucleocytoplasmic transport is regulated .

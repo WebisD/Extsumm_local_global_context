@@ -1,0 +1,6 @@
+effect of etoposide - induced double - strand breaks ( dsbs ) during mitosis on genomic instability of mitotic chromosomes .
+analyzing how dna ligase iv activity in mitotic cells differs at the molecular level from during other cell - cycle phases is critical to understand the mechanisms of these controls .
+. the molecular mechanisms of mitosis - specific phosphorylation and the change in localization of the dna ligase iv component xrcc4 are still unknown .
+after cells reach the point of no return , however , dsbs on mitotic chromosomes do not trigger cell - cycle delay or arrest ; and the cells rather proceed through mitosis even if they contain unrepaired dsbs or fragmented chromosomes.(32 ) indeed , the sensitivity to ionizing radiation is higher in mitotic cells than in interphase cells.(33,34 ) moreover , dsb introduction into mitotic cells by etoposide treatment induces massive chromosome aberrations in the next cell cycle in a cancer cell line ( fig .
+human cells show a different ddr during mitosis than in other cell cycle phases . during most of the cell cycle ,
+representative images of chromosome spreads from etoposide - treated ( + etoposide ) and non - treated ( etoposide ) in hct116 human colon cancer cells arrested in mitosis .

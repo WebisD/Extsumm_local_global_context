@@ -1,0 +1,9 @@
+this study reports a sensitive and relatively selective spectrophotometric method for the determination of dexamethasone using a new reaction system .
+the developed method possesses distinct advantages over other existing methods in cost , simplicity , ease of operation , and applicability to real samples analysis .
+the developed method has been successfully applied for the determination of dexamethasone in pharmaceutical and biological samples . to the best of our knowledge
+the capability of the reaction system ( orange g , sulfuric acid , and bromate ) for the determination of dexamethasone was evaluated by following the change in absorbance in absence ( figure 1 ) and presence ( inset of figure 1 ) of it .
+also , the procedure was used for the determination of dexamethasone in urine and serum samples .
+, we do not have any report for the determination of dexamethasone using kinetic spectrophotometric method .
+the method is based on the catalytic effect of dexamethasone on the orange g - bromate reaction system .
+the effect of sulfuric acid concentration on the catalyzed and uncatalyzed reactions was studied over the range of 0.6 to 0.8  mmol  l ( figure 3 ) .
+evaluating the reliability and analytical applicability of the developed method makes it potentially useful for the quantitative determination of dexamethasone in real samples with different matrices .

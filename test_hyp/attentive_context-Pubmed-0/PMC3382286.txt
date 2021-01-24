@@ -1,0 +1,6 @@
+the aim of the present study is to verify the applicability of the dft formalism also for the interaction - induced electric properties of the longer hydrogen - bonded chains .
+additionally , this set was appended by the b3lyp long - range corrected modification ( cam - b3lyp )   for which we expect to improve the accuracy of the results toward reference data .
+therefore , m06 - 2x appears to be the best for the description of the influence of the mutual interaction on the electric properties in the hydrogen - bonded chains .
+the ordering of the functionals may vary , however the main conclusion of this work remain unchanged : dft functionals can be applied succesfully for the investigation of the interaction - induced electric properties .
+the earlier studies suggest the possibility of estimating the electric properties for the large molecular aggregates based on the accurate description of molecular properties and approximate descripton of the interaction - induced contributions   .
+, the same exchange - correlation functionals have been applied here : b3lyp   and pbe0   as conventional hybrids , lc - blyp   as a long - range corrected functional and m06 - 2x hybrid meta functional .

@@ -1,0 +1,6 @@
+, we will examine the current understanding of the circuit and molecular plasticity that underlie this complex relationship and how such understanding can lead to successful therapies .
+basic and translational studies utilizing imaging as well as animal models have begun to unravel the mechanistic basis for the relationship between pain and depression . in this review
+circuit and molecular mechanisms that underlie this plasticity have begun to emerge . some of the successful current therapeutic approaches have validated these mechanisms , and future therapies based on such mechanistic understanding can be developed to better serve clinical needs .
+pain and depression are important comorbidities . both clinical and preclinical studies clearly indicate that pain can cause depression , and that depression can worsen pain behaviors .
+the affective component of pain includes feelings of annoyance , sadness , anxiety , and depression in response to a noxious stimulus . in particular , depression and pain share a high degree of comorbidity , and a large number of studies have examined the close relationship between pain and depression .
+the advancement of modern systems - level neuroscience tools has enabled the identification of brain regions involved in pain and depression processing and the investigation into their structure and function .

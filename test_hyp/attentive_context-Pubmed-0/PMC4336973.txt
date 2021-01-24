@@ -1,0 +1,8 @@
+the maximum von mises stress was in the palatal side between the cervical region of the implant and supporting bone .
+the aim of this study was to evaluate the effect of type of luting agent on stress distribution of the bone surrounding implants in a three - unit fdp using fem analysis .
+within the limitations of this study , the following conclusions were drawn : 
+ the stress distribution depends on the loading conditions.the highest stress value was observed at oblique load condition.the maximum von mises stress was in the palatal side between the cervical region of the implant and supporting bone.the type of luting agents did not affect stress distribution and stress values at the bone surrounding implant.the maximum tensile stress and fracture risk occurs in the connector regions . 
+ 
+the type of luting agents did not affect stress distribution and stress values at the bone surrounding implant .
+the 3d fe model was designed of three - unit implant - supported fdp to determine the influence of different types of luting agents on stress distribution pattern of the unit .
+von mises stress values ( mpa ) and distribution patterns on the cortical bone when the different loads were applied comparison of applying different types of luting agent materials to cortical bone stress distribution ( horizontal load ) comparison of applying different types of luting agent materials to cortical bone stress distribution ( oblique load ) comparison of applying different types of luting agent materials to cortical bone stress distribution ( vertical load ) figure 7 shows the stress distribution in connectors region under horizontal , vertical and oblique load conditions .

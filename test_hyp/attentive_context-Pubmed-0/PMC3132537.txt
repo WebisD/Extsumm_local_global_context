@@ -1,0 +1,6 @@
+titanium base alloys with low young 's modulus have been proved to be effective for inhibiting bone atrophy and enhancing bone remodeling by conducting animal tests in rabbits .
+therefore , low young 's modulus titanium alloys are expected to be useful in practical applications such as implant devices used for replacing failed hard tissue . however , considering the ease of the operation , other properties such as small spring back , which is effective in maintaining the bending shape of the implant in the body , and low yielding stress and high ultimate strength , which lead to ease in achieving permanent deformation of the implant in the narrow space in the body , are also important .
+metallic biomaterials , which satisfy the demands of both patients and surgeons , are highly required .
+researchers have been focusing on reducing young 's moduli of -type titanium alloys for use in biomedical applications because they are composed of toxicity- and allergy - free elements .
+
+				 it is well known that the stress transfer between an implant device and a bone is not homogeneous when young 's moduli of the implant device and the bone are different ; this is defined as stress shielding . in such conditions ,

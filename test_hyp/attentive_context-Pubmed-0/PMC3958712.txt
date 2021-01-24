@@ -1,0 +1,7 @@
+in this paper , we present a new active contour model for medical image segmentation .
+it can segment images with intensity inhomogeneity and has desirable performance for images with weak object boundaries .
+experimental results have demonstrated the advantages of our method over several well - known methods for image segmentation .
+medical images are popular in real world because they give intuitive expression . with the development of image processing , computer - aided diagnosis are more important with the ever increasing images .
+then the new active model with high - order diffusion method is proposed in section 3 .
+but medical images are often with intensity inhomogeneities ; so it is a hard work to segment in such images as angiogram and mr bladder images . the active contour model has been increasingly applied to image segmentation in the past decade , because it provides very good frameworks of variational image segmentations .
+to verify the effect of our proposed method , we test our method on a variety of real images with intensity inhomogeneity . we compare our method with cv model   and mean shift algorithm   because they are highly cited and compared in image segmentation .

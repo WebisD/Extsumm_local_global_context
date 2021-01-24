@@ -1,0 +1,6 @@
+single nucleotide polymorphisms ( snps ) are the simplest and most frequent type of dna sequence variation among individuals and , with the recent availability of high - throughput methodologies , are considered one of the most powerful tools in the search for e.g. disease susceptibility genes and drug response - determining genes ( 1,2 ) .
+the main purpose of pupasview is to provide the user with an optimal set of snps for genotyping experiments by filtering the annotated snps using a series of filters related to their impact in protein functionality and pathology , their population frequency and ld .
+( c ) snps with any functional characteristic . depending on the versions of ensembl and dbsnp , the appearance of
+snps in the promoter regions of 35% of the genes , and experimental evidence suggested that around a third of promoter variants may alter gene expression to a functionally relevant extent ( 18 ) .
+it is believed that improved genotyping methods in combination with the proper bioinformatics design strategies will offer better opportunities for the study of complex diseases ( 3 ) .
+the use of functional snps could be an important factor in increasing the sensitivity of association tests .

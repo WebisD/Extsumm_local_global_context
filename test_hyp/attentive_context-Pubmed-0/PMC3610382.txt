@@ -1,0 +1,7 @@
+our data showed alsterpaullone can inhibit the proliferation of hela cells in the dose- and time - dependent manner .
+importantly , it induced cell cycle arrest at g2/m phase and apoptosis via the regulation of anti - apoptotic proteins ( caspase-3 ) and cell cycle proteins .
+the significance behind this in vitro finding is that it suggests the possibility of using alsterpaullone as a new chemotherapeutic agent in the fight against cervical cancer .
+as such , we speculated p21 was involved in cell cycle arrest , apoptosis , and growth inhibition via activation of caspase-3 . in summary , alsterpaullone can inhibit tumour cell proliferation in a dose - dependent and time - dependent manner and exhibit significant cytotoxicity in hela cells .
+the results showed that p21 protein was up - regulated during 224  h. considering the essential role of p21 in g0/g1 cell cycle arrest and cleaved caspase-3 for apoptosis induction , we explored the parp and caspase 3 proteins expression .
+in addition , we elucidated the mechanism of cell cycle arrest and apoptosis of hela cells treated with alsterpaullone .
+, we explored the roles of those proteins in the pharmacologic function of alsterpaullone in hela cells .

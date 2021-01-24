@@ -1,0 +1,7 @@
+point - of - care testing ( poct ) is an increasingly popular means of delivering laboratory tests close to the patient .
+since the chemistry of the test reaction is in the unit - use test cartridge , facilities with dozens of the same device can select a subset of devices and rotate the analysis of liquid controls , since all devices share the same lot and supply of unit - use cartridges . for laboratory - developed tests ,
+poct allows for rapid diagnostics and turnaround of test results to provide for faster medical decision - making and improved patient outcomes ( 1 ) .
+risk management is defined as the systematic application of management policies , procedures , and practices to the tasks of analyzing , evaluating , controlling , and monitoring risk ( 4 ) .
+in fact , errors can occur in any phase of laboratory testing whether performed in a central laboratory or at the point - of - care . as laboratory directors
+the us centers for medicare and medicaid services ( cms ) recently implemented new clinical and laboratory improvement amendments interpretive guidelines in january 2014 ( 8) .
+risk management principles have been incorporated into the new interpretive guidelines in the form of individualized quality control plans ( iqcp ) .
